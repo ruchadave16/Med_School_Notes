@@ -1,0 +1,5 @@
+---
+aliases:
+  - zygote
+---
+*Fertilized [[egg]]*

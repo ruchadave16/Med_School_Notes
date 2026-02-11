@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "224330d016b8327a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a37ca1836b39b7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4db2dc5451ee69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hematology (Oncology)/Spleen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spleen"
+            }
+          },
+          {
+            "id": "61993652077713fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infectious Disease (Microbiology)/Peptidoglycan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peptidoglycan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96999aeb9c9987f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a9927328b2df5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2dd3bb9d7c4e77e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a75797d7c00f586b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/General/Screenshot 2025-07-13 at 10.25.55 PM.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-07-13 at 10.25.55 PM"
+            }
+          },
+          {
+            "id": "f09e76b678b91f18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "LPS",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "adac1f2dd78b1cc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "97fab7ab18e2cae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1ecda6f4fe2b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb14d4a6044899e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General/Lysosome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lysosome"
+            }
+          },
+          {
+            "id": "85ee46e08612089f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ad158208c5555012",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d604bc5e33165a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b2dd3bb9d7c4e77e",
+  "lastOpenFiles": [
+    "Git Repo",
+    "Attachments/Excalidraw/Drawing 2025-11-08 14.02.19.excalidraw.md",
+    "Attachments/Excalidraw/Drawing 2025-11-08 14.09.40.excalidraw.md",
+    "Attachments/Excalidraw/Drawing 2025-11-08 14.10.44.excalidraw.md",
+    "Attachments/Excalidraw/Drawing 2025-11-08 14.00.53.excalidraw.md",
+    "Attachments/Excalidraw/Drawing 2025-11-08 13.57.09.excalidraw.md",
+    "Attachments/Excalidraw/Drawing 2025-10-31 13.44.52.excalidraw.md",
+    "Infectious Disease (Microbiology)/Cell Wall.md",
+    "Clinical Skills/Abdominal CT.md",
+    "Infectious Disease (Microbiology)/Peptidoglycan.md",
+    "Immunology/Hypersensitivity.md",
+    "Attachments/General/Screenshot 2026-02-03 at 7.35.03 PM.png",
+    "Infectious Disease (Microbiology)/Bacteria.md",
+    "Infectious Disease (Microbiology)/Bacterial Ribosome.md",
+    "Infectious Disease (Microbiology)/LPS.md",
+    "Infectious Disease (Microbiology)/Plasmid.md",
+    "Infectious Disease (Microbiology)/Bacterial DNA Replication.md",
+    "Infectious Disease (Microbiology)/Bacterial Cell Membrane.md",
+    "Infectious Disease (Microbiology)/Untitled",
+    "Hematology (Oncology)/Innate Immunity.md",
+    "General/Macrophage.md",
+    "Attachments/General/Screenshot 2026-02-08 at 3.53.17 PM.png",
+    "Infectious Disease (Microbiology)/Endotoxins.md",
+    "Attachments/Excalidraw/Drawing 2026-02-08 15.20.19.excalidraw.md",
+    "Attachments/General/Screenshot 2026-02-08 at 2.43.16 PM.png",
+    "Infectious Disease (Microbiology)/Glycocalyx.md",
+    "Infectious Disease (Microbiology)/Bacterial Capsule.md",
+    "Infectious Disease (Microbiology)/Pili.md",
+    "General/Cytoskeleton.md",
+    "Reproductive/Spermiogenesis.md",
+    "Attachments/General/Screenshot 2026-02-04 at 2.22.07 PM.png",
+    "Attachments/General/Screenshot 2026-02-03 at 11.06.51 PM.png",
+    "Attachments/General/Screenshot 2026-02-03 at 11.05.43 PM.png",
+    "Attachments/General/Screenshot 2026-02-03 at 10.34.15 PM.png",
+    "Attachments/General/Screenshot 2025-07-13 at 10.25.55 PM.png",
+    "Attachments/General/Screenshot 2026-02-03 at 9.45.27 PM.png",
+    "Attachments/General/Screenshot 2026-02-03 at 6.21.19 PM.png",
+    "Immunology/Untitled",
+    "Hematology (Oncology)/Untitled",
+    "Attachments/Pathology",
+    "Attachments/Immunology",
+    "Immunology",
+    "C3",
+    "Pediatrics",
+    "Neurology (Neuroscience)/Untitled",
+    "Attachments/Psych",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
