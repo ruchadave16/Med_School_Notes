@@ -117,7 +117,7 @@ source: PoM I
 	- Sudden onset sensorineural hearing loss means ENT referral
 	- Distinguish conductive vs sensorineural loss
 	- Impact of noise (sensorineural have difficulty hearing in noisy but conductive find noisy helpful)
-	- Medications (aminoglycosides, chemotherapeutic agents for permanent, NSAIDs for temporary) and exposure to loud noise
+	- Medications ([[aminoglycosides]], chemotherapeutic agents for permanent, NSAIDs for temporary) and exposure to loud noise
 - Earache + Discharge
 	- Symptoms: fever, sore throat, cough, URI – ear infection?
 	- Location** external suggests otitis externa but deeper suggests otitis media

@@ -34,7 +34,7 @@ source: ID
 - Plasmapheresis for antibody-mediated rejection
 
 Complications
-- Polyoma virus
-- EBV virus
-- HPV
-- HHV-8
+- [[Polyoma]] virus
+- [[EBV]] virus
+- [[HPV]]
+- [[HHV-8]]

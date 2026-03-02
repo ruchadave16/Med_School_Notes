@@ -15,11 +15,11 @@ source: ID
 - [[Alcohol]] = cancers of oropharynx, larynx, esophagus, liver
 - Reproductive history = estrogen exposure increases risk of breast cancer and endometrium
 - Infectious agents
-	- EBV 
-	- HBV, HCV – hepatocellular carcinoma
-	- HHV-8 – kaposi sarcoma
-	- HPV (Type 16 and 18) – cervical carcinoma, head and neck cancer,
-	- H. pylori – gastric adenocarcinoma and MALT lymphoma
+	- [[EBV]] 
+	- [[Hepatitis B Virus|HBV]], HCV – hepatocellular carcinoma
+	- [[HHV8]] – kaposi sarcoma
+	- [[HPV]] (Type 16 and 18) – cervical carcinoma, head and neck cancer,
+	- [[H. Pylori]]– gastric adenocarcinoma and MALT lymphoma
 	- HTLV-1 – adult t-cell leukemia/lymphoma
 	- Liver fluke (Clonorchis sinensis) – Cholangiocarcinoma
 	- Schistosoma haematobium – Squamous cell bladder cancer

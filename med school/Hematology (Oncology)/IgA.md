@@ -16,6 +16,6 @@ Secr’A’tory *mucosal surfaces and secretions*
 - Elements that cleave off secretory portion of IgA to allow colonization on mucosal surfaces
 
 >[!Clinical]
->S. pneumonia
->H. influenza
->Neisseria – gonorrhea and meningitis
+>[[Streptococcus Pneumonia|S. pneumonia]]
+>[[Hemophilus Influenza|H. influenza]]
+>Neisseria – gonorrhea and meningitidis

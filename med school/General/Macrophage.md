@@ -31,7 +31,7 @@ Derived from blood-born [[monocytes]] in [[bone marrow]]
 **Classic Pathway**
  M1: inflammation and [[Neutrophils|neutrophil]] recruitment
 - Induced by 
-	- Microbial endotoxins
+	- Microbial [[endotoxins]]
 	- IFN-y from [[Th1]], NKC
 	- [[LPS]] from bacteria
 	- [[Peptidoglycan]]

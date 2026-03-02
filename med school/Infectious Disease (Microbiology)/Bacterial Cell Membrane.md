@@ -10,4 +10,5 @@ source: ID
 - NO sterols in cell membrane except for [[mycoplasma]]
 - Bacteria **breathe through cell membrane**
 - Enzymes for phospholipid synthesis and DNA synthesis
+- ETC and oxidative phosphorylation happen here
 - **Mesosomes** are convoluted invaginations in cell membrane that participate in DNA replication

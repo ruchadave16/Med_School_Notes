@@ -66,7 +66,7 @@ Normally eIF2 inactive – Heme kinase phosphorylation
 
 >[!Clinical] [[Antibiotics]]
 >- [[Streptomycin]] – Binds to 30S, stops initiation complex
->- [[Tetracycline]] – Binds to 30S, stops binding of aminoacyl-tRNA to A site
+>- [[Tetracyclins|Tetracyclin]] – Binds to 30S, stops binding of aminoacyl-tRNA to A site
 >- [[Chloramphenicol]] – Binds to 50S, stops peptidyltransferase
 >- [[Erythromycin]] – Binds to 50S, stops translocation
 >- [[Puramycin]] – Analog of aminoacyl-tRNA, stops BOTH eukaryotic and prokaryotic translation

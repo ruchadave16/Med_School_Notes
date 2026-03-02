@@ -15,7 +15,7 @@ tags:
 - Deficiency in C5-C9 so no formation of [[MAC]] 
 	- Still have [[C3a]] (anaphylatoxin) and [[C3b]] (opsonin)
 ### Clinical Features
-- Recurrent  [[Neisseria]] infections
+- Recurrent  [[Neisseria Gonorrhoea]] infections
 - Common [[meningitis]]
 
 ### Diagnosis

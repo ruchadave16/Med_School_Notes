@@ -9,7 +9,7 @@ source: Neuro
 Ligand gated receptor to open Cl-, influx causes hyperpolarization
 
 >[!Clinical]
->[[Tetanus]]
+>[[Clostridium Tetani|Tetanus]]
 >- Blocks glycine receptors from interneurons in spinal cord
 >- Unopposed excitatory response → muscle spasm and rigidity
 >

@@ -10,4 +10,4 @@ source: ID
 - Can cross placenta, longest lasting, most common in plasma
 
 >[!Note]
->Important for encapsulated bacteria
+>Important for [[Bacterial Capsule|bacterial capsule]]

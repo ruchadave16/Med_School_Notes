@@ -21,10 +21,10 @@ source: Neuro
 	- Diffusion away
 
 >[!Warning] Toxins
->- [[Botulinum]] (Botox)
+>- [[Clostridium Botulinum|Botulinum]] (Botox)
 >	- Inhibits neurotransmitter release by cleaving SNARE proteins
 >	- No fusion with membrane, no release of Ach
 >	- Flaccid
->- [[Tetanus]]
+>- [[Clostridium Tetani|Tetanus]]
 >	- Cleaves fusion so no GABA and glycine release
 >	- NO inhibition of motor neurons, spastic paralysis

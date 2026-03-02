@@ -33,13 +33,7 @@ Mainly made of integral membrane [[glycoproteins]] → 3 domains: extracellular,
 >**Autoimmune** → autoantibodies made that bind to and activate certain cell membrane receptors
 >
 >**Altered G-Proteins**
->	[[Cholera]] toxin: exotoxin by bacteria Vibrio cholera that alters Gs protein 
->		→ unable to hydrolyze GTP
->		→ cAMP level HIGH in intestinal cells 
->		→ excessive loss of electrolytes and water 
->		→ severe diarrhea
+>	[[Vibrio Cholera|Cholera]] toxin: [[exotoxins]] by bacteria Vibrio cholera 
 >		
->	[[Pertussis]] toxin: bacteria Bordetella pertussis (whooping cough) that puts ADP-ribose into $\alpha$ subunit of trimeric G proteins
->	→ accumulation of inactive G proteins
->	→ irritation of mucous of bronchial passages
+>	[[Bordetella Pertussis|Pertussis]] toxin: bacteria Bordetella pertussis (whooping cough) 
 

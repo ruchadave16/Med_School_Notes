@@ -6,9 +6,8 @@ source: FoM I
 ---
 *Encapsulated lymphoid tissue that is a [[blood]] filter*
 
-- Involved with [[erythrocyte]] destruction and [[lymphocyte]] activation
+- Involved with [[Erythrocytes|erythrocyte]] destruction and [[lymphocyte]] activation
 - Kidney shaped with hilum
-
 >[!Clinical] Most easily injured because of location
 
 #### Location
@@ -22,9 +21,6 @@ Intraperitoneal – LUQ
 
  >[!Info] Splenic artery → trabecullar arteries → central arteries (white pulp) → penicillar arteries (red pulp) → capillaries & sinusoids → venous drainage → trabecular veins → splenic vein
 
-![[Drawing 2026-01-19 01.37.14.excalidraw]]
-
-![[Drawing 2025-11-08 14.00.53.excalidraw]]
 #### Blood Flow
 - Splenic a. ← celiac trunk
 #### [[Spleen Embryology]]

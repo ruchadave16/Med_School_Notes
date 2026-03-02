@@ -13,6 +13,3 @@ source: FoM I
 #### Structure
 - Smallest of granulocytes
 - Chunky, basophilic granules
-
-
-![[Pasted image 20251108140511.png]]

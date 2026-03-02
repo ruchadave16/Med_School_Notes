@@ -13,7 +13,7 @@ source: FoM II
 	- [[Renal Tubular Transport]] – active tubular secretion
 	- Passive tubular reabsorption
 		- Alkaline urine → excretion of weak acids, lower excretion of weak base
-- [[Liver]] / [[Bile]]
+- [[Liver]] / [[Gastrointestinal/Bile]]
 	- Glucuronides excreted through bile → intestines where hydrolyzed by microflora
 	- Drug is reabsorbed (**enterohepatic recycling**)
 	- This prolongs presence and effects of drug

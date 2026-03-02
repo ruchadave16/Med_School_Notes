@@ -13,12 +13,12 @@ source: ID
 - Slight risk of infection
 - If given < 1 month, maternal antibodies may kill pathogens
 
->[!Example] 
+>[!List] 
 >MMR
 >Influenza
 >Polio (OPV)
 >Rotavirus
->Varicella zoster virus (chickenpox / shingles)
+>[[HHV3|Varicella-Zoster virus]] (chickenpox / shingles)
 >Yellow fever
 >Oral live typhoid vaccine
 >Bacille Calmette Guerin (BCG)
@@ -26,7 +26,8 @@ source: ID
 - Pathogen killed but antibodies intact
 - Strong humoral response but weaker immune response
 - No infection risk
->[!Example]
+
+>[!List]
 >Hepatitis A
 >Influenza
 >Japanese encephalitis virus

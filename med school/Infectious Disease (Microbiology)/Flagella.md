@@ -19,7 +19,7 @@ source: ID
 #### Functions
 - Motility in liquid environments
 	- Clockwise (tumbling)
-		- [[Listeria]] shows tumbling at 25 C
+		- [[Listeria Monocytogenes]] shows tumbling at 25 C
 		- Helps change of direction
 	- Counterclockwise (smooth movement)
 		- Drives + and - chemotaxis
@@ -37,7 +37,7 @@ source: ID
 >
 >[[Salmonella]] uses H antigen patterns
 >
->[[Vibrio cholerae]] has darting motility in rice-water stool
+>[[Vibrio cholera]] has darting motility in rice-water stool
 
 >[!Clinical] Pathogenesis
 >[[Listeria meningitis]]

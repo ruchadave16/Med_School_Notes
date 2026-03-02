@@ -11,14 +11,23 @@ source: ID
  - Poorly antigenic – K antigen
 #### Function
 - Protection against environmental stress
-- Virulence factor by inhibiting [[phagocytosis]]
+- [[Virulence factor]] by inhibiting [[phagocytosis]]
 - Adhesion to host tissue
 - Barrier to toxic hydrophobic substances
 - Helps bacteria avoid immune system
+#### Immunology
+- [[B Lymphocytes|B cells]] secrete [[IgG]] against capsules
+	- Binds to [[Complement System|complement]] -> MAC for cell death and C3b for opsonization
+- [[Phagocytosis]] through Fc receptors
 
 >[!Clinical] Encapsulated Bacteria
->- [[Pneumococcus]] – pneumonia, meningitis, 
+>- [[Streptococcus Pneumonia|Pneumococcus]] – pneumonia, meningitis, 
 >- [[Meningococcus]] – [[meningitis]]
->- [[Hemophilus influenzae type b]] – meningitis, epiglottitis
+>- [[Hemophilus Influenza]] Type B – meningitis, epiglottitis
 >- [[Klebsiella pneumoniae]] – pneumonia in alcoholics, elderly, diabetes
->- [[Bacillus anthracis]] – [[anthrax]]
+>- [[Bacillus anthracis]] – [[Bacillus Anthracis|anthrax]] is **exception** since it has protein in capsule that allows for unlimited growth
+
+>[!Clinical]
+>High risk in patients with asplenia (no spleen) since this is where macrophages phagocytose the bacteria
+
+>[!Clinical] [[Conjugated Vaccines]]

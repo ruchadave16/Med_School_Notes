@@ -3,10 +3,12 @@ aliases:
   - vitamin B9
   - folate
   - Folate
+  - folic acid
+  - Folic acid
 date: 1-22-26
 source: ID
 ---
-**Active Form**: Tetrahydrofolate (THF)
+**Active Form**: [[Tetrahydrofolate]] (THF)
 #### Source
 - Green leafy vegetables
 - Dried legumes

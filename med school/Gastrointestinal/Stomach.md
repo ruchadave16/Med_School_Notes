@@ -42,7 +42,6 @@ source: FoM I
 - [[Celiac trunk]] → R and L gastric arteries anastamose at lesser curvature
 - R and L gastroepiploic arteries anastamose at greater curvature
 - Short gastric a. supply fundus
-
 Venous
 - R and L gastric v. drain to hepatic portal v. 
 - L gastroepiploic v. drain to splenic v. 

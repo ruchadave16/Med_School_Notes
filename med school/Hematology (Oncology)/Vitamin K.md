@@ -14,8 +14,9 @@ K2: menaquinone
 #### Deficiency
 - Coagulopathy
 - VKDB
+
 **Signs**
-- Bruises, purpura
+- Bruises, [[purpura]]
 - No [[trypsin]] activity
 - Fatty stools
 - Weight loss even with calorie intake

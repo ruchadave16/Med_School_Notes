@@ -15,5 +15,5 @@ source: FoM II
 >[!Warning]
 >Direct correlation between amount of cholesterol and [[coronary heart disease]]
 #### Elimination
-- Secreted in [[bile]] for elimination
+- Secreted in [[Gastrointestinal/Bile]] for elimination
 - Converted to [[bile salts]] and bile acids

@@ -6,7 +6,7 @@ aliases:
 date: 9-5-25
 source: MGA
 ---
-Cystic duct – [[bile]] to and from [[gallbladder]]
+Cystic duct – [[Gastrointestinal/Bile]] to and from [[gallbladder]]
 Common hepatic duct – Junction of R and L hepatic ducts
 Common bile duct – junction of common hepatic duct + cystic duct
 - Brings bile to [[duodenum]]

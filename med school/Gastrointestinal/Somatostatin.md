@@ -12,4 +12,4 @@ Secreted in response to fat in distal small intestine ([[ileum]])
 - Decrease secretion of HCl by parietal cells (reduced histamine secretion) in stomach
 - Decreased secretion of [[gastrin]] by G cells
 - Decrease small intestine digestive hormone secretions
-- Decreases secretion of bicarbonate into [[bile]] in [[liver]]
+- Decreases secretion of bicarbonate into [[Gastrointestinal/Bile]] in [[liver]]

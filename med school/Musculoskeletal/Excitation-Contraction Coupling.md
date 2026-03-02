@@ -17,7 +17,7 @@ source: FoM I
 
 2) If calcium reaccumulated by [[Sarcoplasmic Reticulum|sarcoplasmic reticulum]] Ca/ATPase, intracellular calcium decreases and calcium released from troponin-C
 	- Tropomyosin blocks myosin from binding with actin
-	- If reaccumulation doesn’t happen and muscle is stimulated repeatedly, then intracellular Ca remains high → sustained contraction called [[tetanus]]
+	- If reaccumulation doesn’t happen and muscle is stimulated repeatedly, then intracellular Ca remains high → sustained contraction called [[Clostridium Tetani|tetanus]]
 
 >[!Clinical]
 >[[Myotonic Dystrophy]] → inability to relax muscle at will

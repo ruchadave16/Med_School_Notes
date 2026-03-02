@@ -10,7 +10,7 @@ source: ID
 
 - Released by [[Immune System]]
 
-**[[Acute Inflammation]]**
+#### **[[Acute Inflammation]]**
 
 | Cytokine   | Source                                              | Action                                                   |
 | ---------- | --------------------------------------------------- | -------------------------------------------------------- |
@@ -19,17 +19,17 @@ source: ID
 | [[IL-6]]   | Macrophages                                         | Systemic effects                                         |
 | Chemokines | Macrophages, endothelial cells, T cells, mast cells | Recruit lymphocytes to inflammation site                 |
 | [[IL-17]]  | [[Th17 cells]]                                      | Recruit [[Neutrophils\|neutrophils]] and monocytes       |
-**[[Chronic Inflammation]]**
+#### **[[Chronic Inflammation]]**
 
-| Cytokine   | Source                                              | Action                                             |
-| ---------- | --------------------------------------------------- | -------------------------------------------------- |
-| [[IL-12]]  | Dendritic cells, macrophages                        | ↑ [[Th1]] → [[IFN-y]]                              |
-| [[IFN-y]]  | Th1 cells, NK cells                                 | activate macrophages                               |
-| [[IL-17]]  | [[Th17 cells]]                                      | Recruit [[Neutrophils\|neutrophils]] and monocytes |
+| Cytokine  | Source                       | Action                                             |
+| --------- | ---------------------------- | -------------------------------------------------- |
+| [[IL-12]] | Dendritic cells, macrophages | ↑ [[Th1]] → [[IFN-y]]                              |
+| [[IFN-y]] | Th1 cells, NK cells          | activate macrophages                               |
+| [[IL-17]] | [[Th17 cells]]               | Recruit [[Neutrophils\|neutrophils]] and monocytes |
 
 #### Subsets
 - [[Chemokines]]: Attract immune cells
-- Interleukins: 
+- Interleukins
 - [[Tumor necrosis factor]] (TNF): cause tumor death
 - [[Transforming growth factor]] (TGF)
 - [[Interferons]]: interfere with viral replication

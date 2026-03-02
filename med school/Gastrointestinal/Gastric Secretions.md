@@ -55,13 +55,12 @@ Gastric Juice:
 	- A + B + C > individual sum
 
 
-
 >[!Clinical] 
 >[[Peptic ulcers]] – Erosion of mucous membranes of stomach or duodenum by action of HCl
 >
 >[[Zollinger-Ellison Syndrome]] – Ulcers of duodenum due to ↑ gastric acid secretions
 >
->[[Helicobacter Pylori]] – Bacteria in GI tract that can cause ulcers
+>[[H. Pylori|Helicobacter pylori]] – Bacteria in GI tract that can cause ulcers
 >
 >[[Acute Gastritis]] – Histamine released by inflammation and damage stimulates more acid secretion
 

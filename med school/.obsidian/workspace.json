@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hematology (Oncology)/Spleen.md",
+                "file": "Infectious Disease (Microbiology)/Hepatitis D Virus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spleen"
+              "title": "Hepatitis D Virus"
             }
           },
           {
-            "id": "61993652077713fe",
+            "id": "eab95661b0799af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infectious Disease (Microbiology)/Peptidoglycan.md",
+                "file": "Reproductive/Embryo Folding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peptidoglycan"
+              "title": "Embryo Folding"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,12 +66,10 @@
             "id": "a75797d7c00f586b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/General/Screenshot 2025-07-13 at 10.25.55 PM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-07-13 at 10.25.55 PM"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -79,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LPS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,43 +196,45 @@
   },
   "active": "b2dd3bb9d7c4e77e",
   "lastOpenFiles": [
+    "Musculoskeletal/Knee Joint.md",
+    "Neurology (Neuroscience)/Chemoreceptors.md",
+    "Renal (Genitourinary)/Osmosis.md",
+    "Infectious Disease (Microbiology)/Septic Shock.md",
+    "Cardiovascular/Blood Flow.md",
+    "Musculoskeletal/Leg.md",
+    "Pharmacology/Compartment Models.md",
+    "Endocrine/Anterior Pituitary.md",
+    "Infectious Disease (Microbiology)/Hepatitis B Virus.md",
+    "Infectious Disease (Microbiology)/Hepatitis D Virus.md",
+    "Hematology (Oncology)/Cancer.md",
+    "Infectious Disease (Microbiology)/DNA Virus.md",
+    "Infectious Disease (Microbiology)/Parvovirus B19.md",
+    "Infectious Disease (Microbiology)/Adenovirus.md",
+    "Infectious Disease (Microbiology)/JC Virus.md",
+    "Infectious Disease (Microbiology)/BK Virus.md",
+    "Reproductive/Uterine Cervix.md",
+    "Infectious Disease (Microbiology)/HPV.md",
+    "Immunology/Transplant Rejection.md",
+    "Clinical Skills/HEENT Physical Exam.md",
+    "Hematology (Oncology)/Cervical Cancer.md",
+    "Infectious Disease (Microbiology)/Molluscum Contagiosum Virus.md",
+    "Screenshot 2026-02-27 at 7.08.55 PM.png",
+    "Infectious Disease (Microbiology)/Variola Virus.md",
+    "Infectious Disease (Microbiology)/Baltimore Classification.md",
+    "Infectious Disease (Microbiology)/Virus.md",
+    "Infectious Disease (Microbiology)/HHV8.md",
+    "Screenshot 2026-02-27 at 7.01.37 PM.png",
+    "Screenshot 2026-02-27 at 6.45.38 PM.png",
+    "Screenshot 2026-02-27 at 6.33.15 PM.png",
+    "Screenshot 2026-02-26 at 10.57.28 PM.png",
+    "Screenshot 2026-02-26 at 9.19.43 PM.png",
+    "Screenshot 2026-02-25 at 5.22.39 PM.png",
+    "Attachments/General/Screenshot 2026-02-17 at 5.21.09 PM.png",
+    "Attachments/General/Screenshot 2026-02-17 at 10.44.48 PM.png",
+    "Attachments/General/Screenshot 2026-02-17 at 9.06.55 PM.png",
+    "Attachments/Microbio",
     "Git Repo",
-    "Attachments/Excalidraw/Drawing 2025-11-08 14.02.19.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2025-11-08 14.09.40.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2025-11-08 14.10.44.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2025-11-08 14.00.53.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2025-11-08 13.57.09.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2025-10-31 13.44.52.excalidraw.md",
-    "Infectious Disease (Microbiology)/Cell Wall.md",
-    "Clinical Skills/Abdominal CT.md",
-    "Infectious Disease (Microbiology)/Peptidoglycan.md",
-    "Immunology/Hypersensitivity.md",
-    "Attachments/General/Screenshot 2026-02-03 at 7.35.03 PM.png",
-    "Infectious Disease (Microbiology)/Bacteria.md",
-    "Infectious Disease (Microbiology)/Bacterial Ribosome.md",
-    "Infectious Disease (Microbiology)/LPS.md",
-    "Infectious Disease (Microbiology)/Plasmid.md",
-    "Infectious Disease (Microbiology)/Bacterial DNA Replication.md",
-    "Infectious Disease (Microbiology)/Bacterial Cell Membrane.md",
     "Infectious Disease (Microbiology)/Untitled",
-    "Hematology (Oncology)/Innate Immunity.md",
-    "General/Macrophage.md",
-    "Attachments/General/Screenshot 2026-02-08 at 3.53.17 PM.png",
-    "Infectious Disease (Microbiology)/Endotoxins.md",
-    "Attachments/Excalidraw/Drawing 2026-02-08 15.20.19.excalidraw.md",
-    "Attachments/General/Screenshot 2026-02-08 at 2.43.16 PM.png",
-    "Infectious Disease (Microbiology)/Glycocalyx.md",
-    "Infectious Disease (Microbiology)/Bacterial Capsule.md",
-    "Infectious Disease (Microbiology)/Pili.md",
-    "General/Cytoskeleton.md",
-    "Reproductive/Spermiogenesis.md",
-    "Attachments/General/Screenshot 2026-02-04 at 2.22.07 PM.png",
-    "Attachments/General/Screenshot 2026-02-03 at 11.06.51 PM.png",
-    "Attachments/General/Screenshot 2026-02-03 at 11.05.43 PM.png",
-    "Attachments/General/Screenshot 2026-02-03 at 10.34.15 PM.png",
-    "Attachments/General/Screenshot 2025-07-13 at 10.25.55 PM.png",
-    "Attachments/General/Screenshot 2026-02-03 at 9.45.27 PM.png",
-    "Attachments/General/Screenshot 2026-02-03 at 6.21.19 PM.png",
     "Immunology/Untitled",
     "Hematology (Oncology)/Untitled",
     "Attachments/Pathology",
@@ -241,8 +242,6 @@
     "Immunology",
     "C3",
     "Pediatrics",
-    "Neurology (Neuroscience)/Untitled",
-    "Attachments/Psych",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

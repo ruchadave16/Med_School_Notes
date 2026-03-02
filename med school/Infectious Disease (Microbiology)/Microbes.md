@@ -4,7 +4,7 @@ aliases:
 source: ID
 date: 2-7-26
 ---
-#### [[Viruses]]
+#### [[Virus|Viruses]]
 - No cell wall
 - No nucleus
 - No ribosomes or mitochondria

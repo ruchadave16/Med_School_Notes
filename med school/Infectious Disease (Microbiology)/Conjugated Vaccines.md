@@ -12,8 +12,9 @@ source: ID
 
 - Conjugation to peptide antigen
 	- B-cells present antigen to T-cells so stronger response and better memory
+### Vaccines
 
->[!Info] Examples
 >H. Influenza type B
 >Neisseria meningitidis
->Streptococcus pneumoniae
+>[[Streptococcus pneumonia]]
+

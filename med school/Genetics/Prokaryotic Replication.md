@@ -12,6 +12,6 @@ DNA Ligase – seals gaps (using [[ATP]])
 ![[Screenshot 2025-12-03 at 10.36.57 PM.png]]
 
 >[!Clinical]
->DNA Gyrase (Topoisomerase II) 
->- Quinolones and fluoroquinolones inhibit this 
+>DNA Gyrase ([[Topoisomerase II]]) 
+>- Quinolones and [[fluoroquinolones]] inhibit this 
 >- Treatment for [[gonorrhea]] and [[UTIs]]

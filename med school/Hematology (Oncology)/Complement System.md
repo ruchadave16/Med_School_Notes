@@ -15,7 +15,7 @@ date: 1-17-26
 
 >[!Note] All complement activation include C3 → C3b conversion
 
-![[Drawing 2026-01-19 15.35.15.excalidraw]]
+![[Drawing 2026-02-11 15.55.04.excalidraw]]
 #### Alternative Pathway
 - C3 spontaneously converted to C3b (low level)
 	- [[C3b]] destroyed unless it binds to amino and hydroxyl group on surface of pathogens
@@ -24,18 +24,16 @@ date: 1-17-26
 	- Complement protein D clips B bound to C3b to form C3bBb (C3 convertase)
 	- Can cleave more C3 → C3b
 - Rapid accumulation of C3b on surfaces
-
-![[Drawing 2026-01-19 15.05.50.excalidraw]]
 - [[Factor H]] ensures alternative pathway doesn’t happen on **host cells**
-
+- Eventually C3bBb binds with C3b to break down C5 and continue to make MAC
 #### Classical Pathway
 - Antibody-antigen complexes ([[Adaptive Immunity|adaptive immunity]])
 - Binds to [[C1 Protein]], which cleaves C2 → C2b and C4 → C4b
-	- C2b and C4b combine to form C2b4b (C3 convertase)
+	- C2b and C4b combine to form C4b2a (C3 convertase)
 	- Converts C3 → C3b
 	
 *“GM makes classic cars”*
-- [[IgM]] or IgG [[bind]] to C1
+- [[IgM]] or IgG bind to C1
 #### [[Lectin Pathway]]
 - Mannose binding lectin
 #### Inhibition

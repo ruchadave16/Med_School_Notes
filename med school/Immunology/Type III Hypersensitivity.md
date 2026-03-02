@@ -23,7 +23,7 @@ Antibody-antigen (IgG) complexes form and activate [[Complement System|complemen
 - Acute glomerulonephritis
 
 *Causes*
-- [[Rabies]] or [[tetanus]] anti-toxin
+- [[Rabies]] or [[Clostridium Tetani|tetanus]] anti-toxin
 - Rarely for penicillin
 - Monoclonal antibodies (rituximab, infliximab)
 - Post-strep glomerulonephritis

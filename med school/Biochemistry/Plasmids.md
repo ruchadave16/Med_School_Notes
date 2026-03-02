@@ -10,3 +10,4 @@ source: FoM II
 
 - Can carry genes of [[antibiotic resistance]]
 - Used for [[genetic engineering]]
+- Can replicate independently and be transferred from one bacteria to another

@@ -18,7 +18,7 @@ source: FoM II
 	- Influx of calcium
 	- Ca causes ACh vesicles to fuse with presynaptic membrane
 	- ACh released into synaptic cleft
-	- Inhibition: **[[botulinum]]**
+	- Inhibition: **[[Clostridium Botulinum|botulinum]]**
 5) ACh action on Receptors
 	- Binds to [[Nicotinic Receptors|nicotinic receptors]] on postganglionic neuron or [[muscarinic receptors]] on organs
 6) ACh degradation

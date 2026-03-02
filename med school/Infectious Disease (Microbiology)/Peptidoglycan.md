@@ -6,8 +6,8 @@ source: ID
 ---
 *Found in [[bacteria]] cell wall*
 
-- N-acetyl glucoamine (NAG) and N-acetyl muramic acid (NAM) linked in glycosidic bond
-	- Peptides (3-5 AA) are attached to NAM
+- N-acetyl glucoamine (NAG) and N-acetyl muramic acid (NAM) alternating linked in glycosidic bond
+	- Peptides (3-5 AA) are attached to NAM (D-Ala, D-Ala)
 - Sugar peptide backbone with peptide cross-linking bridges
 
 - Binds to NOD receptors (intracellular) → cytokine expression

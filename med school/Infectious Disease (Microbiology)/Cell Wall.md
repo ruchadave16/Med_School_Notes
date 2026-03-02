@@ -15,7 +15,7 @@ Gram Positive [[bacteria]] have thicker peptidoglycan layer while gram negative 
 1) Cytoplasmic Stage (NAG/NAM synthesis)
 	- Inhibition = [[cycloserine]] (Stops conversion of L-Ala to D-Ala) and [[fosfomycin]] (inhibits enol pyruvate transferase)
 
-![[Drawing 2026-02-08 15.20.19.excalidraw]]
+![[Screenshot 2026-02-11 at 1.22.19 PM.png]]
 
 2) Membranous Stage (transfer of precursors to membrane)
 	- [[Bactoprenol]] gets conjugated with NAM-pp
@@ -30,5 +30,9 @@ Gram Positive [[bacteria]] have thicker peptidoglycan layer while gram negative 
 	- [[Beta lactams]] all inhibit this step
 
 >[!Exceptions]
->[[Neisseria]] has lipo-oligosaccharide instead of LPS
+>[[Neisseria Gonorrhoea]] has lipo-oligosaccharide instead of LPS
 >[[Mycobacterium tuberculosis]] is gram positive but has thin peptidoglycan with thick **mycolic acid**
+>- Stain = Ziehl Neelsen
+>
+>[[Chlamydia]] has no muramic acid
+>[[Mycoplasma]] have no cell wall, no gram staining but sterols in cell membrane for stability

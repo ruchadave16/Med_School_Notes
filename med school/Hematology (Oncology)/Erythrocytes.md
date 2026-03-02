@@ -15,13 +15,10 @@ ATP through [[glycolysis]]
 - Large surface → area ratio
 - Flexible shape
 - Adhere in stacks
-
-![[Pasted image 20250824191905.png]]
 #### Function
 - $O_2$ to tissues, $CO_2$ to lungs
 - Has [[hemoglobin]]
 - Buffers blood for [[Acid-Base Balance|acid-base balance]]
-
 #### Formation
 - [[Bone marrow]]
 - [[Erythropoeitin]] (EPO) stimulates [[erythropoeisis]] in bone ← made by endothelial cells in peritubular capillaries of kidney and hepatocytes

@@ -12,5 +12,5 @@ Blocks alternative pathway on **host cells** ([[complement system]])
 
 >[!Note]
 >Some cancer cells and bacteria have figured out how to pull Factor H onto themselves to avoid being cleaved
->- H. Influenza
+>- [[Hemophilus Influenza|H. influenza]]
 >- N. Meningitidis

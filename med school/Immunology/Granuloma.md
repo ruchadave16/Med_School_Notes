@@ -20,11 +20,11 @@ source: ID
 #### Foreign Body Granuloma
 - Inert foreign body → no immune response – suture is most common cause
 
-| Disease                            | Cause                      | Notes                                                |
-| ---------------------------------- | -------------------------- | ---------------------------------------------------- |
-| [[Tuberculosis]]                   | Mycobacterium tuberculosis | Caseating granuloma w acid-fast bacteria             |
-| [[Leprosy]]                        | Mycobacterium leprae       | Non-caseating granuloma w acid-fast bacteria         |
-| [[Syphilis]]                       | Treponema pallidum         | Plasma cell infiltrates                              |
-| [[Cat scratch disease]]            | Bartonella henselae        | Granuloma in lymph nodes with neutrophilic component |
-| [[Sarcoidosis]]                    |                            | Non-caseating granuloma, hilar lymphadenopathy       |
-| [[Crohn's Disease\|Crohn disease]] |                            | Non-caseating granuloma in intestines                |
+| Disease                            | Cause                          | Notes                                                |
+| ---------------------------------- | ------------------------------ | ---------------------------------------------------- |
+| [[Tuberculosis]]                   | [[Mycobacterium tuberculosis]] | Caseating granuloma w acid-fast bacteria             |
+| [[Leprosy]]                        | [[Mycobacterium leprae]]       | Non-caseating granuloma w acid-fast bacteria         |
+| [[Syphilis]]                       | [[Treponema pallidum]]         | Plasma cell infiltrates                              |
+| [[Cat scratch disease]]            | [[Bartonella henselae]]        | Granuloma in lymph nodes with neutrophilic component |
+| [[Sarcoidosis]]                    |                                | Non-caseating granuloma, hilar lymphadenopathy       |
+| [[Crohn's Disease\|Crohn disease]] |                                | Non-caseating granuloma in intestines                |

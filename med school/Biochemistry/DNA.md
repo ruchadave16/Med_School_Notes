@@ -23,7 +23,7 @@ Nucleosides that form [[Hydrogen Bonds|hydrogen bond]] with complimentary single
 >- Interferes with DNA synthesis
 >  
 >  [[Daunorubicin]] and [[doxorubicin]] – intercalate between bases of DNA
->- Interfere with Topoisomerase II, stopping replication
+>- Interfere with [[Topoisomerase II]], stopping replication
 >  
 >  [[Cisplatin]] – binds to DNA tightly
 >- Structural malfunction

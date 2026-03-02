@@ -26,7 +26,7 @@ Loss of [[opsonization]]
 >![[Screenshot 2026-01-19 at 1.49.05 AM.png]]
 
 >[!Note]
->[[Strep pneumo]] = common pathogen for [[sepsis]]
+>[[Streptococcus Pneumonia|Strep pneumo]] = common pathogen for [[sepsis]]
 >- Death in >50% patients
 
 >[!Note] Common Reasons

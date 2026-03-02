@@ -25,7 +25,6 @@ Slow acting
 - Faster, longer antibody response
 - Higher titers
 - Class switching so main = [[IgG]]
-
 #### Humoral
 Depends on action of [[Antibodies]], mainly [[B Lymphocytes|B cells]]
 

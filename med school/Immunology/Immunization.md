@@ -17,8 +17,8 @@ Pooled human Ig against
 - Hep A / B
 - Measles
 - Rabies
-- Tetanus
-- Varicella zoster
+- [[Clostridium Tetani|Tetanus]]
+- [[HHV3|Varicella-Zoster virus]]
 
 Humanized monoclonal against
 - [[RSV]]

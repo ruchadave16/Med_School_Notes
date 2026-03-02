@@ -4,7 +4,7 @@ aliases:
 date: 9-5-25
 source: MGA
 ---
-*Stores [[bile]] made by [[liver]] and releases to [[duodenum]]*
+*Stores [[Gastrointestinal/Bile]] made by [[liver]] and releases to [[duodenum]]*
 
 - **Intraperitoneal**
 - In fossa on visceral surface of liver

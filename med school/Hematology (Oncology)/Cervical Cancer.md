@@ -8,8 +8,7 @@ tags:
   - disease
 ---
 ### Etiology
-- HPV infection
-
+- [[HPV]] infection
 ### Pathophysiology
 1) Normal epithelial tissue
 2) LSIL (CIN 1) – low grade squamous intraepithelial lesion

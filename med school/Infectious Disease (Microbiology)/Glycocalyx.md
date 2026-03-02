@@ -18,7 +18,7 @@ source: ID
 >Coagulase negative staphylococci
 >Candida
 >E. coli
->Pseudomonas aeruginosa
+>[[Pseudomonas aeruginosa]]
 
 >[!Note] These are big contributors to device-related infections
 

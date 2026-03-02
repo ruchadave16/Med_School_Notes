@@ -28,7 +28,7 @@ source: ID
 - [[Th1]] cellular immune response → stimulate [[Macrophage|macrophages]] and [[Cytotoxic T Cells|cytotoxic T cells]]
 	
 >[!Note] IFN-$\gamma$ Deficiency
->- Severe salmonella and other myobacterial disease in childhood
+>- Severe [[salmonella]] and other myobacterial disease in childhood
 >- IFN-$\gamma$ not affected, just don’t have receptors
 
 	
@@ -37,7 +37,7 @@ source: ID
 >	- Intracellular infection macrophages
 >	- No antibodies
 >	- Need [[Th1]]
->- [[Listeria]]
+>- [[Listeria Monocytogenes]]
 >	- Intracellular organism
 
 - [[Th2]] humoral immune response → stimulate [[B Lymphocytes|B cells]] → immunoglobin production
