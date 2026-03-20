@@ -11,7 +11,7 @@ tags:
 #### Uses
 - Against bacteria, fungi, protozoa broadly
 - Leprosy (Hansen's disease
-- Pneumocystis jirovecii pneumonia (PCP) prophylaxis for immunocompromised
+- Pneumocystis jirovecii pneumonia prophylaxis for immunocompromised
 - Dermatitis herpetiformis
 #### Administration
 

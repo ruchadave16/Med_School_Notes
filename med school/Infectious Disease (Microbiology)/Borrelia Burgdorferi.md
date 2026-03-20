@@ -8,7 +8,7 @@ tags:
   - bug
 ---
 *Spiral spirochete*
-- Transmission through deer tick -- can also transmit [[babesia microti]]
+- Transmission through deer tick -- can also transmit [[babesia]]
 #### Mechanism
 #### Symptoms
 [[Lyme Disease]]

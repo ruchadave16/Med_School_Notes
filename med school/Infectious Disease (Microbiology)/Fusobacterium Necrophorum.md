@@ -16,5 +16,5 @@ tags:
 #### Diagnosis
 #### Treatment
 - Augmentin
-- Metronidazole
+- [[Metronidazole]]
 #### Prevention

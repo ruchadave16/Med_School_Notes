@@ -27,7 +27,7 @@ tags:
 	- Aortic dissection
 - Systemic
 	- Hyperthermia
-- Teratogenic effect during pregnancy
+- [[Teratogenic]] effect during pregnancy
 
 >[!Warning] SIGNS
 >- Agitation, **HTN**, **tachycardia**, chest pain, mydriasis, septal damage

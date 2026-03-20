@@ -9,12 +9,11 @@ tags:
 #### Mechanism
 - Respiratory droplet transmission and transplacental
 - Infect [[erythroblasts]] -> aplastic anemia
-- 
 #### Symptoms
 - "slapped face" rash in children
 - Can cause [[aplastic anemia]]
 - Acute, self-limited arthritis
-- Pregnancy infection -> hydrops fetalis 
+- Pregnancy infection -> [[hydrops fetalis ]]
 #### Diagnosis
 - PCR detecting DNA
 #### Treatment

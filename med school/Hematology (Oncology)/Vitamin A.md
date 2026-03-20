@@ -17,6 +17,8 @@ source: ID
 - Antioxidant
 - Gene transcription
 - Cell differentiation and specialization
+
+>[!Note] Can help with [[Measles Virus]]
 #### Deficiency
 - **Night blindness**
 - Xerosis cutis
@@ -30,4 +32,4 @@ source: ID
 	- Arthalgias
 	- Hepatotoxicity
 	- **Pseudotumor cerebri**
-- Teratogenicity
+- [[Teratogen]]

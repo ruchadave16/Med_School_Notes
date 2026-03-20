@@ -3,6 +3,8 @@ aliases:
   - Variola
   - variola
   - Variola virus
+  - smallpox virus
+  - Smallpox virus
 date: 2-27-26
 source: ID
 tags:

@@ -10,7 +10,7 @@ source: ID
 - Used for blood smears + marrow
 #### ID Perspective
 - [[Protozoa]]
-	- Plasmodium
+	- [[Plasmodium]]
 	- Trypanosomes
 - Intracellular
 	- [[Chlamydia]]

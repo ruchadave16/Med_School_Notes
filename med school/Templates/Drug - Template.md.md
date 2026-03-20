@@ -5,7 +5,7 @@ tags:
 #### Action
 #### Uses
 
-#### Administration
+#### Resistance
 
 #### Dosing
 

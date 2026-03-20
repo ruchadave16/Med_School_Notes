@@ -7,6 +7,7 @@ aliases:
   - Varicella-Zoster virus
   - varicella-zoster virus
 ---
+- dsDNA, enveloped
 #### Mechanism
 - Transmission: respiratory droplets (varicella)
 - zoster is a reacquired disease that only happens if you had it when a child
@@ -28,7 +29,7 @@ aliases:
 	- Intranuclear inclusions
 #### Treatment
 - No antivirals for normal immune system patients
-- For immunocomprimized, [[Acyclovir]]
+- For immunocomprised, [[Acyclovir]]
 #### Prevention
 - Varicella vaccine -- live attenuated
 - Zoster -- one live (older), one recombinant (standard today)

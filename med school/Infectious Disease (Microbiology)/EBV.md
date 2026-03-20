@@ -8,16 +8,23 @@ source: ID
 tags:
   - bug
 ---
-#### Mechanism
 - Transmission through saliva
-
+#### Mechanism
 - Starts in pharyngeal epithelium, transmitted to cervical lymph nodes
 - Travels in blood to spleen
 - **Latency in [[B Lymphocytes|B-Lymphocyte]]**
+	- Converts to lymphoblastoid cells -> proliferate
+- In any situation with low [[Cytotoxic T Cells|CD8]], ↑ infected B cells *** Immunocompromised
+
 #### Symptoms
 - Infectious mononucleosis
 - PTLD (Post-transplantation lymphoproliferative disorder)
+
+**Cancers**
 - Burkitt's lymphoma -- East African children
+- Nasopharyngeal carcinoma -- Chinese adults
+- B cell lymphoma
+- Hodgkin's lymphoma
 #### Diagnosis
 - Positive PCR in CSF for HIV/AIDS patients
 - Lymphocytosis in peripheral blood smear

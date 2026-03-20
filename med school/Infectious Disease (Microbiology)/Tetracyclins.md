@@ -39,6 +39,7 @@ source: ID
 	- Omadacycline = 35% oral bioavailability
 - Absorption impaired by by divalent and trivalent cations
 	- Separate intake from dairy
+- [[Demeclocycline]] -- ADH antagonist
 
 **Distribution**
 - All body fluids and tissues except CSF

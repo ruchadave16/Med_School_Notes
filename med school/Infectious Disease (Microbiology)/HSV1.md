@@ -22,6 +22,8 @@ tags:
 - PCR
 	- CSF PCR for encephalitis
 - Tzanck smear shows multi-nucleated giant cells with intracellular lesions
+
+[[Cowdry Bodies]]
 #### Treatment
 - [[Acyclovir]] for encephalitis and disseminated disease
 - Topical versions for face sores

@@ -28,8 +28,12 @@ source: ID
 
 ### RNA Virus
 - Replicate and mRNA synthesis in cytoplasm
-- **Exception: orthomyxovirus and retrovirus**
-- Make their own RNA dependent RNA polymerase
+	- **Exception: [[Influenza Virus|orthomyxovirus]] and [[retrovirus]]**
+- Make their own RNA dependent RNA polymerase (RdRP)
+- Unique mechanisms to create peptides from polycistronic mRNA
+- [[Retrovirus]] has [[reverse transcriptase]] -- unique replication
+	- NO replication in cytoplasm
+- [[Delta virus]] = incomplete RNA that needs [[Hepatitis B Virus]] to complete replication
 
 >[!Clinical]
 > DNA polymerase = site of antiviral drugs

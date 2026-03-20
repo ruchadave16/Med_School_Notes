@@ -2,8 +2,6 @@
 date: 7-13-25
 source: FoM I
 aliases:
-  - microtubules
-  - microfilaments
 ---
 *”provide structural support and cell and organelle motility”*
 ##### Microtubules

@@ -9,22 +9,20 @@ source: MGA
 
 - Large veins empty into these sinuses 
 - Blood flows from here to internal jugular v. 
-
 #### Postero-superior Group
-- Superior sagittal sinus: at convex margin of dura, superior portion
-- Inferior sagittal sinus: at free margin of falx cerebri
+- Superior sagittal sinus: -> confluence of sinuses
+- Inferior sagittal sinus: at free margin of falx cerebri -> straight -> confluence
 - Straight sinus: junction of falx cerebri and tentorium cerebelli 
 	- Blood from great vein of Galen
 - Transverse sinus: margin of tentorium cerebelli
 - Sigmoid sinus: from transverse sinus, empties to [[IJV]]
-- Occipital sinus: margin of falx cerebelli
-- Confluence of sinuses
+- Occipital sinus: margin of falx cerebelli -> confluence
+- Confluence of sinuses -> transverse -> sigmoid -> [[IJV]]
 	- Junction of superior, transverse, straight, and occipital
 
-![[Screenshot 2025-10-26 at 3.56.59 PM.png]]
-
+![[Screenshot 2026-03-20 at 1.10.43 AM.png]]
 #### Antero-Inferior Group
-- Cavernous sinus: along sides of sella turcica
+- Cavernous sinus: along sides of sella turcica 
 
 >[!Clinical] Blood from superior and inferior ophthalmic veins goes here
 >- Face infection can spread here
@@ -33,3 +31,5 @@ source: MGA
 - Intercavernous sinus: anterior and posterior bands connecting cavernous
 - Superior petrosal sinus: cavernous → transverse 
 - Inferior petrosal sinus: cavernous → sigmoid
+
+![[Pasted image 20260320011226.png]]

@@ -64,7 +64,7 @@ source: MGA
 - Foramen spinosum
 	- Middle meningeal a.
 - Carotid canal
-	- [[Internal carotid a.]]
+	- [[Internal Carotid Artery|Internal carotid a.]]
 	- Internal carotid plexus
 - Jugular foramen
 	- Internal petrosal sinus  to internal jugular v.

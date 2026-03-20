@@ -4,7 +4,7 @@ aliases:
 date: 8-10-25
 source: MGA
 ---
-##### Ectoderm Differentiation
+#### Ectoderm Differentiation
 - Surface Ectoderm: forms tissues that contact outside world
 	- Mouth lining, [[anal canal]] lining, [[urethra]] lining
 	- Epidermis, nails, glands, skin

@@ -7,6 +7,16 @@ source: ID
 - Allow for B cell and T cell response without infection
 - Protection through immune memory
 - Allow for [[immunization]], can be passive or active
+
+>[!Warning] Contraindications
+>- Anaphylaxis to prior dose / component
+>- Live vaccines
+>	- Severe immunodeficiency
+>	- Active chemo
+>	- High dose steroids
+>	- HIV with severe immunosuppression
+
+![[Screenshot 2026-03-04 at 1.14.10 PM.png]]
 #### Live Attenuated
 - Pathogens modified to be less viral
 - Strong **cell-mediated response**
@@ -15,7 +25,9 @@ source: ID
 
 >[!List] 
 >MMR
->Influenza
+>- Can have mild measles like rash but this is NOT contageous
+>- 7-12 days after vaccine
+>[[Influenza Virus|Influenza]]
 >Polio (OPV)
 >Rotavirus
 >[[HHV3|Varicella-Zoster virus]] (chickenpox / shingles)
@@ -29,9 +41,9 @@ source: ID
 
 >[!List]
 >Hepatitis A
->Influenza
+>[[Influenza Virus|Influenza]]
 >Japanese encephalitis virus
->Poliovirus (IPV)
+>[[Poliovirus]] (IPV)
 >Rabies
 >Tick-borne encephalitis
 #### [[Conjugated Vaccines]]

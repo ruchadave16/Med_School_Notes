@@ -27,4 +27,4 @@ Initially named by relation to [[Spinal Cord|vertebral column]]
 - [[Myotome]] and [[Dermatome]] come from same [[Somites|somite]] (section)
 
 >[!Clinical]
->[[Stenosis]] can compress [[spinal nerve]]
+>Stenosis can compress [[spinal nerve]]

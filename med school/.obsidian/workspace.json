@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a37ca1836b39b7a",
+        "id": "d881aea9d084dfcc",
         "type": "tabs",
         "children": [
           {
-            "id": "e4db2dc5451ee69b",
+            "id": "95c6cf497f9daae5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Infectious Disease (Microbiology)/Hepatitis D Virus.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Neurology/Pasted image 20260320011226.png"
               },
-              "icon": "lucide-file",
-              "title": "Hepatitis D Virus"
-            }
-          },
-          {
-            "id": "eab95661b0799af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reproductive/Embryo Folding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Embryo Folding"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260320011226"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sinus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,42 +179,42 @@
   },
   "active": "b2dd3bb9d7c4e77e",
   "lastOpenFiles": [
-    "Musculoskeletal/Knee Joint.md",
-    "Neurology (Neuroscience)/Chemoreceptors.md",
-    "Renal (Genitourinary)/Osmosis.md",
-    "Infectious Disease (Microbiology)/Septic Shock.md",
-    "Cardiovascular/Blood Flow.md",
-    "Musculoskeletal/Leg.md",
-    "Pharmacology/Compartment Models.md",
-    "Endocrine/Anterior Pituitary.md",
-    "Infectious Disease (Microbiology)/Hepatitis B Virus.md",
-    "Infectious Disease (Microbiology)/Hepatitis D Virus.md",
-    "Hematology (Oncology)/Cancer.md",
-    "Infectious Disease (Microbiology)/DNA Virus.md",
-    "Infectious Disease (Microbiology)/Parvovirus B19.md",
-    "Infectious Disease (Microbiology)/Adenovirus.md",
-    "Infectious Disease (Microbiology)/JC Virus.md",
-    "Infectious Disease (Microbiology)/BK Virus.md",
-    "Reproductive/Uterine Cervix.md",
-    "Infectious Disease (Microbiology)/HPV.md",
-    "Immunology/Transplant Rejection.md",
-    "Clinical Skills/HEENT Physical Exam.md",
-    "Hematology (Oncology)/Cervical Cancer.md",
-    "Infectious Disease (Microbiology)/Molluscum Contagiosum Virus.md",
-    "Screenshot 2026-02-27 at 7.08.55 PM.png",
-    "Infectious Disease (Microbiology)/Variola Virus.md",
-    "Infectious Disease (Microbiology)/Baltimore Classification.md",
-    "Infectious Disease (Microbiology)/Virus.md",
-    "Infectious Disease (Microbiology)/HHV8.md",
-    "Screenshot 2026-02-27 at 7.01.37 PM.png",
-    "Screenshot 2026-02-27 at 6.45.38 PM.png",
-    "Screenshot 2026-02-27 at 6.33.15 PM.png",
-    "Screenshot 2026-02-26 at 10.57.28 PM.png",
-    "Screenshot 2026-02-26 at 9.19.43 PM.png",
-    "Screenshot 2026-02-25 at 5.22.39 PM.png",
-    "Attachments/General/Screenshot 2026-02-17 at 5.21.09 PM.png",
-    "Attachments/General/Screenshot 2026-02-17 at 10.44.48 PM.png",
-    "Attachments/General/Screenshot 2026-02-17 at 9.06.55 PM.png",
+    "Neurology (Neuroscience)/Brain.md",
+    "Neurology (Neuroscience)/Dural Venous Sinuses.md",
+    "Attachments/Neurology/Pasted image 20260320011226.png",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 1.10.43 AM.png",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 1.10.22 AM.png",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 1.06.48 AM.png",
+    "Neurology (Neuroscience)/Brain Aneurysm.md",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 1.04.01 AM.png",
+    "Neurology (Neuroscience)/Anterior Cerebral A..md",
+    "Neurology (Neuroscience)/Posterior Cerebral A..md",
+    "Neurology (Neuroscience)/Middle Cerebral A..md",
+    "Neurology (Neuroscience)/Spinal Cord.md",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 1.00.27 AM.png",
+    "Neurology (Neuroscience)/Brainstem.md",
+    "Neurology (Neuroscience)/Medulla.md",
+    "Neurology (Neuroscience)/Pons.md",
+    "Neurology (Neuroscience)/Basilar A..md",
+    "Neurology (Neuroscience)/Midbrain.md",
+    "Neurology (Neuroscience)/Cerebellum.md",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 12.55.51 AM.png",
+    "Cardiovascular/Vertebral Artery.md",
+    "Neurology (Neuroscience)/Vesicular System.md",
+    "Neurology (Neuroscience)/Dural Reflections.md",
+    "Neurology (Neuroscience)/Lacunar Symptoms.md",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 12.53.25 AM.png",
+    "Neurology (Neuroscience)/Diencephalon.md",
+    "Neurology (Neuroscience)/Thalamus.md",
+    "Neurology (Neuroscience)/Hypothalamus.md",
+    "Neurology (Neuroscience)/Cerebrum.md",
+    "Neurology (Neuroscience)/Internal Capsule.md",
+    "Neurology (Neuroscience)/Lateral Striate A..md",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 12.46.42 AM.png",
+    "Attachments/Neurology/Screenshot 2026-03-20 at 12.46.30 AM.png",
+    "Cardiovascular/Internal Carotid Artery.md",
+    "Neurology (Neuroscience)/Inner Ear.md",
+    "Pharmacology/Untitled",
     "Attachments/Microbio",
     "Git Repo",
     "Infectious Disease (Microbiology)/Untitled",
@@ -241,7 +224,6 @@
     "Attachments/Immunology",
     "Immunology",
     "C3",
-    "Pediatrics",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

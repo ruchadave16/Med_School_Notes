@@ -29,6 +29,6 @@ tags:
 - Ecthyma gangrenosum
 #### Diagnosis
 #### Treatment
-- [[Ciprofloxacin]] (oral or IV)
+- [[Ciprofloxacin]] (oral or IV) -- 3rd gen 
 • Other (all IV-formulation) [[Cefepime]], [[Ceftazidime]], [[Aztreonam]], [[Gentamicin]], [[Tobramycin]], [[Piperacillin]]/[[Tazobactam]]. [[Carbapenems]], except ertapenem and other newer antibiotics
 #### Prevention

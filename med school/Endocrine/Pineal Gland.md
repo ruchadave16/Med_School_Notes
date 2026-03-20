@@ -5,7 +5,7 @@ aliases:
 date: 10-19-25
 source: FoM I
 ---
-- Small organ in posterior part of 3rd ventricle of [[brain]]
+- Small organ in posterior part of 3rd ventricle of [[brain]] ([[Diencephalon|diencephalon]])
 - Ca containing concentrations ↑ with age
 - Radiopaque
 #### Cells

@@ -19,7 +19,9 @@ tags:
 	- [[Pseudomonas]]
 	- [[Serratia]]
 	- [[Nocardia]]
+- Fungi
 	- [[Aspergillus]]
+	- [[Candida Albicans]]
 
 ### Diagnosis
 - Labs

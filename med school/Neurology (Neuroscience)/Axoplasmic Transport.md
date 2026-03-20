@@ -5,4 +5,4 @@ Retrograde – Axon → Soma
 - Only fast mediated by [[dynein]]
 
 >[!Clinical]
->Route used by [[Clostridium Tetani|tetanus]], herpes virus, [[Rabies]] virus, [[poliovirus]]
+>Route used by [[Clostridium Tetani|tetanus]], herpes virus, [[Rabies Virus]] virus, [[poliovirus]]

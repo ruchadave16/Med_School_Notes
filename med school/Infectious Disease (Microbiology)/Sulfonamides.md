@@ -15,7 +15,7 @@ source: ID
 - Oral absorbable: Sulfisoxazole, Sulfamethoxazole
 	- GI absorption
 	- Use for systemic infection and UTIs
-	- Sulfamethoxazole combined with trimethoprim (TMP-SMX)
+	- Sulfamethoxazole combined with trimethoprim ([[TMP-SMX]])
 - Oral non-absorbable: Sulfasalazine
 	- Local action in intestine
 	- IBD usage (ulcerative colitis and Crohns disease)

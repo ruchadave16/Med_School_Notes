@@ -16,7 +16,8 @@ tags:
 
 ### Clinical Features
 
->[!Note] Coinfection with [[babesia microti]]
+>[!Note] Coinfection with [[babesia]]
+
 - Target rash
 ![[Screenshot 2026-02-17 at 10.44.48 PM.png]]
 - Later stages include CNS and arthritis

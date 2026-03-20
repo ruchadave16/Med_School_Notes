@@ -9,7 +9,7 @@ tags:
 #### Action
 - Selective antagonist to protozoal DHFR, stopping [[THF]] synthesis in [[protozoa]]
 #### Uses
-- Toxoplasmosis (along with sulfadiazine)
+- [[Toxoplasmosis]] (along with sulfadiazine)
 - [[Malaria]] treatment and prophylaxis (along with sulfadoxine)
 #### Administration
 

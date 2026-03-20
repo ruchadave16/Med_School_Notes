@@ -13,13 +13,43 @@ source: ID
 - Pandemic -- worldwide due to introduction of new strain (due to antigenic shift)
 #### Transmission
 - Depends of tissue of replication
-	- Influenza in respiratory epithelium so aerosol
-	- Enteric viruses in GI so through fecal oral route
+	- Respiratory air droplets
+		- [[Influenza Virus|Influenza]]
+		- [[Measles Virus]]
+		- [[Variola Virus|Smallpox virus]]
+		- [[HHV3|Varicella-Zoster virus]]
+		- [[Adenovirus]]
+		- [[Parainfluenza Virus]]
+		- [[Parvovirus B19]]
+	- Secretion contact
+		- [[RSV]]
+		- [[Rhinovirus]]
+		- [[EBV]]
+	- GI
+		- Enteric [[Adenovirus]]
+		- [[Hepatitis A Virus]]
+		- [[Poliovirus]]
+		- [[Rota Virus|Rotavirus]]
+	- Transcutaneous through blood
+		- [[Cytomegalovirus|CMV]]
+		- [[EBV]]
+		- [[Hepatitis B Virus]]
+		- [[Hepatitis C Virus]]
+		- [[HIV]]
+	- Insect Bites
+		- [[Chikungunya Virus]]
+		- [[Flavivirus]] most
+	- Lesion contact
+		- [[HSV1]]
+		- [[Variola Virus|Smallpox virus]]
+		- [[HHV3|Varicella-Zoster virus]]
 - Enveloped vs non enveloped
 	- Non-enveloped = sturdier
 	- Can be transmitted through contaminated objects
 	- Enveloped must remain wet so easily destroyed by detergent and acid
 - Zoonotic and insects
+
+
 #### How to Control
 - Reduce susceptible hosts 
 - **Herd immunity** by either natural or vaccination
@@ -28,11 +58,11 @@ source: ID
 >- Asymptomatic: virus replicates in host but silent carrier, no infection
 >- Subclinical: sometimes detected by markers but not typical symptoms
 >	- May have mild version
->- Latent: in body dorment but don't replicate until reactivation
->	- No clinical symptoms
+>- Latent: acute phase but then in body dormant but don't replicate until reactivation
+>	- No clinical symptoms while latent
 >- Acute: high viral replication
 >	- rapid onset, short duration, intense symptoms
->- Chronic: replication in host for long time
+>- Chronic: acute phase but replication in host for long time (doesn't kill host)
 >	- ongoing symptoms may be felt
 >	- not acutely sick
 >- Persistent: may or may not replicate because latent infection

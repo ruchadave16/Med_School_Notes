@@ -15,7 +15,7 @@ tags:
 - Relevant pathways (e.g. immune, hormonal)
 
 ### Clinical Features
-- Recurrent [[candida]] reactions
+- Recurrent [[Candida Albicans|candida albicans]] reactions
 - 
 
 ### Diagnosis

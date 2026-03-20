@@ -4,7 +4,7 @@ aliases:
 date: 2-12-26
 source: ID
 ---
-- [[Pneumocystis pneumonia]] ([[HIV]])
+- [[Pneumocystis Jirovecii]] ([[HIV]])
 	- Fungal infection
 	- Diffuse interstitial pneumonia
 - [[Legionella Pneumophilia]]
