@@ -5,7 +5,7 @@ aliases:
 date: 10-19-25
 source: FoM I
 ---
-*Comes from [[neural crest]], produces [[catecholamines]]*
+*Comes from [[Neural Crest Cells|neural crest]], produces [[catecholamines]]*
 
 - Made of anastomosing cords of [[chromaffin cells]] 
 - Make and secrete [[catecholamines]]:

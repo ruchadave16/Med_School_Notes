@@ -66,7 +66,7 @@ source: MGA
 - Carotid canal
 	- [[Internal Carotid Artery|Internal carotid a.]]
 	- Internal carotid plexus
-- Jugular foramen
+- [[Jugular foramen]]
 	- Internal petrosal sinus  to internal jugular v.
 	- Sigmoid sinus to internal jugular v.
 	- [[Glossopharyngeal Nerve|Glossopharyngeal n.]] (CN IX)

@@ -22,3 +22,6 @@ source: ID
 	- [[Fibrosis]]
 
 ![[Screenshot 2026-02-01 at 9.15.40 PM.png]]
+
+#### Drugs 
+- [[NSAIDs|NSAID]], generally [[naproxen]] or [[meloxicam]]

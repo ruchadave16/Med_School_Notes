@@ -2,6 +2,8 @@
 aliases:
   - neurofibromatosis type 1
   - Recklinghausen disease
+  - Neurofibromatosis I
+  - NF1
 date: 12-6-25
 source: FoM II
 tags:

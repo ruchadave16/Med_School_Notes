@@ -40,7 +40,7 @@ tags:
 - Lifestyle
 #### Common Confusions
 - [[Serotonin Syndrome]]:
-	- This has clonus and hyperreflexia, neuroleptic has rigidity and hyporeflexia
+	- This has [[clonus]] and hyperreflexia, neuroleptic has rigidity and hyporeflexia
 
 ### Complications
 - Short-term

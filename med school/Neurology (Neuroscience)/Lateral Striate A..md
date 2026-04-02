@@ -11,7 +11,7 @@ Group of small branches from [[Middle Cerebral A.]]
 
 ![[Screenshot 2026-03-20 at 12.31.50 AM.png]]
 **Supplies**
-- Internal capsule
+- [[Internal capsule]]
 - Thalamus parts
 - Basal ganglia parts
 

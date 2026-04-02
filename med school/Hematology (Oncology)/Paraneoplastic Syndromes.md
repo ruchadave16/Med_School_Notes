@@ -6,6 +6,9 @@ source: ID
 ---
 *Tumor associated signs and symptoms triggered by abnormal immune response *
 - Not characteristic of tissue type of tumor
+#### Mechanism
+- Tumor is able to secrete hormones
+- Tumor provokes autoantibody response
 
 **Common Signs**
 - [[Hypercalcemia]] 
@@ -24,6 +27,7 @@ source: ID
 	- Lung cancers
 - Venous thrombosis
 	- Pancreatic cancer
-- Acanthosis nigricans
+- [[Acanthosis nigricans]]
 	- Gastric cancer
-	
+#### Neuro Signs
+![[Screenshot 2026-03-29 at 8.13.48 PM.png]]

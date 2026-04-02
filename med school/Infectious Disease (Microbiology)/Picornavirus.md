@@ -12,9 +12,9 @@ source: ID
 	- Replication in cytoplasm
 
 **Types**
-- Enterovirus -- #1 cause of [[aseptic meningitis]] -> glucose in CSF normal, no bacteria, elevated protein
+- [[Enterovirus]] -- #1 cause of [[aseptic meningitis]] -> glucose in CSF normal, no bacteria, elevated protein
 	- [[Poliovirus]]
 	- Echovirus
-	- Coxsackievirus
+	- [[Coxsackievirus]]
 - [[Hepatitis A virus]]
 - [[Rhinovirus]]

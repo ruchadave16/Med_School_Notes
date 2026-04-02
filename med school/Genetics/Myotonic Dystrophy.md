@@ -25,6 +25,7 @@ date: 12-7-25
 	- Cardiac arrhythmia
 	- Cataracts
 	- Frontal baldness
+	- Insulin resistance
 - Signs
 - Variants
 

@@ -9,18 +9,13 @@ source: MGA
 	- Mouth lining, [[anal canal]] lining, [[urethra]] lining
 	- Epidermis, nails, glands, skin
 	- [[Mammary glands]]
-- Neural plate ectoderm (neuroectoderm)
-	- [[Neurulation]] → formation of neural tube from neural plate
-	- Thickening of ectoderm above [[notochord]]
+- Neural plate ectoderm (neuroectoderm) <- induced by [[notochord]] day 18
+	- [[Neurulation]]
 	- Neural groove deepens ventrally and neural folds fuse dorsally to make neural tube
 		- Cranial neural tube into brain
 		- Caudal neural tube into spinal cord
 	- Forms [[posterior pituitary]], [[Retina]], glial cells
-- [[Neural crest]] cells: along dorsal portion of neural folds
+- [[Neural crest cells]]: along dorsal portion of neural folds
 	- Detach from folds and lie dorsal to neural tube
-	- Forms
-		- Peripheral sensory neurons
-		- Postganglionic part of autonomic nervous system
-		- Face + neck bones
 		
-![[Screenshot 2025-08-06 at 2.20.08 PM.png]]
+	![[Screenshot 2025-08-06 at 2.20.08 PM.png]]

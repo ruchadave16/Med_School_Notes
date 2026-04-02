@@ -22,7 +22,7 @@ tags:
 - Edema
 - Thrombocytopenia
 - ↑ Acute phase proteins
-- DIC
+- [[DIC]]
 - Peripheral hypoperfusion
 - ↓ organ perfusion
 ### Diagnosis

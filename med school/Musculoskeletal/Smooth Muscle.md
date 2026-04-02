@@ -45,11 +45,11 @@ Slow and **involuntary** contraction
 	- Lateral plate [[mesoderm]] → visceral (splanchnic) mesoderm → smooth muscle
 - Blood vessels 
 	- Lateral plate [[Mesoderm|mesoderm]] → somatic mesoderm → blood vessels
-	- [[Neural crest]] cells
+	- [[Neural crest cells]]
 
 >[!Warning] Exceptions
 >[[Sphincter]] and [[dilator]] muscles of pupil from [[Ectoderm]]
->[[Mammary gland]] and [[sweat gland]] tissue from ectoderm
+>[[Mammary Glands|Mammary gland]] and [[sweat glands]] tissue from ectoderm
 
 
 . 

@@ -18,7 +18,7 @@ tags:
 ### Clinical Features
 - Symptoms
 	- ‘3 A’s’: 
-		- Neuromuscular hyperactivity (clonus, hyperreflexia)
+		- Neuromuscular hyperactivity ([[clonus]], hyperreflexia)
 		- Autonomic instability (hyperthermia, hypertension)
 		- Mental status alteration
 - Signs

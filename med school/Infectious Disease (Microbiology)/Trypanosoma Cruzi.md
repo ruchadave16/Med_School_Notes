@@ -13,7 +13,7 @@ tags:
 	- Scratching causes it to go in
 - Burrows into blood and then into endocardium
 #### Symptoms
-- 10-20 years later, might cause Chagas disease
+- 10-20 years later, might cause [[Chagas disease]]
 	- Megacolon
 	- Dilated cardiomyopathy
 	- Mega-esophagus

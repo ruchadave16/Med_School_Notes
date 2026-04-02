@@ -6,3 +6,5 @@ aliases:
 ---
 **Course**
 - Exits through cribriform plate
+
+Responsible for sense of [[smell]]

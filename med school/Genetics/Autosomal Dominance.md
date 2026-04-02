@@ -10,6 +10,8 @@ source: FoM II
 - [[Marfan Syndrome]]
 - [[Polydactyly]]
 - [[Huntingtons Disease]]
+- [[Tuberous Sclerosis]]
+- [[von Hippel Lindau]]
 
 **Autosomal Recessive**
 - [[Tay-Sachs]]

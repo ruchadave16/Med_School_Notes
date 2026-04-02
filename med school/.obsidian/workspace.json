@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d881aea9d084dfcc",
+        "id": "23d9d5d929b91d60",
         "type": "tabs",
         "children": [
           {
-            "id": "95c6cf497f9daae5",
+            "id": "19e5ddd63b79c5c8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Neurology/Pasted image 20260320011226.png"
+                "file": "Neurology (Neuroscience)/Stroke.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260320011226"
+              "icon": "lucide-file",
+              "title": "Stroke"
             }
           }
         ]
@@ -61,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sinus",
+                "query": "locked in syndrome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,43 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2dd3bb9d7c4e77e",
+  "active": "19e5ddd63b79c5c8",
   "lastOpenFiles": [
-    "Neurology (Neuroscience)/Brain.md",
-    "Neurology (Neuroscience)/Dural Venous Sinuses.md",
-    "Attachments/Neurology/Pasted image 20260320011226.png",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 1.10.43 AM.png",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 1.10.22 AM.png",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 1.06.48 AM.png",
-    "Neurology (Neuroscience)/Brain Aneurysm.md",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 1.04.01 AM.png",
-    "Neurology (Neuroscience)/Anterior Cerebral A..md",
-    "Neurology (Neuroscience)/Posterior Cerebral A..md",
-    "Neurology (Neuroscience)/Middle Cerebral A..md",
-    "Neurology (Neuroscience)/Spinal Cord.md",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 1.00.27 AM.png",
-    "Neurology (Neuroscience)/Brainstem.md",
-    "Neurology (Neuroscience)/Medulla.md",
     "Neurology (Neuroscience)/Pons.md",
-    "Neurology (Neuroscience)/Basilar A..md",
     "Neurology (Neuroscience)/Midbrain.md",
-    "Neurology (Neuroscience)/Cerebellum.md",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 12.55.51 AM.png",
-    "Cardiovascular/Vertebral Artery.md",
-    "Neurology (Neuroscience)/Vesicular System.md",
-    "Neurology (Neuroscience)/Dural Reflections.md",
-    "Neurology (Neuroscience)/Lacunar Symptoms.md",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 12.53.25 AM.png",
+    "Neurology (Neuroscience)/Brain.md",
+    "Neurology (Neuroscience)/ICP.md",
+    "Screenshot 2026-04-01 at 5.17.33 PM.png",
+    "Neurology (Neuroscience)/Hydrocephalus Ex Vacuo.md",
+    "Neurology (Neuroscience)/Hydrocephalus.md",
+    "Neurology (Neuroscience)/Horizontal Gaze.md",
+    "Neurology (Neuroscience)/STT.md",
+    "Neurology (Neuroscience)/Corticospinal Tract.md",
+    "Neurology (Neuroscience)/Chiara Malformation.md",
+    "Neurology (Neuroscience)/Dandy-Walker Malformation.md",
+    "Reproductive/Brain Formation.md",
+    "Reproductive/Brainstem Development.md",
+    "Reproductive/Hindgut.md",
+    "Gastrointestinal/Congenital Megacolon.md",
+    "Respiratory/Congenital Diaphragmatic Hernia.md",
+    "Neurology (Neuroscience)/Neural Crest Cells.md",
+    "Neurology (Neuroscience)/Brain Meninges.md",
     "Neurology (Neuroscience)/Diencephalon.md",
-    "Neurology (Neuroscience)/Thalamus.md",
-    "Neurology (Neuroscience)/Hypothalamus.md",
-    "Neurology (Neuroscience)/Cerebrum.md",
-    "Neurology (Neuroscience)/Internal Capsule.md",
-    "Neurology (Neuroscience)/Lateral Striate A..md",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 12.46.42 AM.png",
-    "Attachments/Neurology/Screenshot 2026-03-20 at 12.46.30 AM.png",
-    "Cardiovascular/Internal Carotid Artery.md",
-    "Neurology (Neuroscience)/Inner Ear.md",
+    "Reproductive/Ventricle Formation.md",
+    "Reproductive/Embryonic Period.md",
+    "Reproductive/Hydrocele.md",
+    "Templates/Anatomy - Template.md.md",
+    "Hematology (Oncology)/Sturge-Weber.md",
+    "Reproductive/Pharyngeal Arches.md",
+    "Neurology (Neuroscience)/Cranial Nerves.md",
+    "Pasted image 20260401090024.png",
+    "Pasted image 20260401090006.png",
+    "Pasted image 20260401083156.png",
+    "Pasted image 20260401082731.png",
+    "Pasted image 20260401082608.png",
+    "Screenshot 2026-03-31 at 7.34.30 PM.png",
+    "Screenshot 2026-03-31 at 7.32.56 PM.png",
+    "Screenshot 2026-03-31 at 7.30.38 PM.png",
+    "Screenshot 2026-03-31 at 7.21.19 PM.png",
+    "Attachments/Excalidraw/Untitled.base",
     "Pharmacology/Untitled",
     "Attachments/Microbio",
     "Git Repo",
@@ -223,7 +228,6 @@
     "Attachments/Pathology",
     "Attachments/Immunology",
     "Immunology",
-    "C3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -52,11 +52,11 @@ tags:
 	- Coma
 	- Renal toxicity
 
-WHAT can make it worse
+**WHAT can make it worse**
 - Dehydration
 - ACEIs
 - Thiazide diuretics
-- NSAIDs
+- [[NSAIDs]]
 #### Contraindication
 - Caution with cardiovascular disease patients
 - Associated with [[Epstein Anomaly]]

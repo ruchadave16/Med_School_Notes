@@ -15,7 +15,7 @@ Supplies: [[spinal cord]], brainstem, [[cerebellum]], thalamus, occipital and in
 	- Posterio-lateral medulla, posterior inferior cerebellum, inferior cerebellar peduncle, choroid plexus of 4th ventricle
 	- Posterior spinal a. (PSA)
 		- Posterior 1/3 of spinal cord
-- Anterior spinal a. on medulla (unpaired)
+- Anterior spinal a. on medulla (unpaired) (ASA)
 	- Anterior 2/3 of spinal cord
 	
 	![[Screenshot 2026-03-20 at 12.34.32 AM.png]]

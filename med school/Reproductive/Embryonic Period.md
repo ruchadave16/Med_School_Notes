@@ -23,7 +23,6 @@ source: MGA
 	- Separates yolk sac from forming [[placenta]]
 	- Spaces form here that become **[[chorionic cavity]]**
 
-![[Drawing 2025-08-06 17.18.46.excalidraw]]
 
 ![[Screenshot 2025-08-06 at 5.29.08 PM.png]]
 
@@ -37,7 +36,7 @@ source: MGA
 - Form chord of cells running down midline
 - Cells detach from [[endoderm]] and become [[notochord]] → in [[Mesoderm]]
 - In adults, this is found in center of IV disc
-- Drives development of neural
+- Drives [[neurulation]]
 
 ![[Screenshot 2025-08-06 at 5.52.08 PM.png]]
 
@@ -60,7 +59,9 @@ source: MGA
 - [[Division of Cavities]] – [[Intraembryonic Coelom|intraembryonic coelom]] is one continuous space so separates into pericardial, pleural, and peritoneal cavities through 2 partitions: diaphragm and pleuropericardial membrane
 - [[Diaphragm Formation]]
 - [[Mesentery Formation]]
+- [[Brain Formation]]
 - Week 5 onwards kidneys – [[Urogenital Development]]
+- 
 
 >[!Clinical]
 >[[Agenesis]] = absent organ because absent primordial tissue

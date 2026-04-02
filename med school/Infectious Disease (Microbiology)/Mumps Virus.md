@@ -13,10 +13,10 @@ tags:
 - NA
 #### Mechanism
 #### Symptoms
-- Parotitis
-- Orchitis
-- aseptic Meningitis
-- Pancreatitis
+- [[Parotitis]]
+- [[Orchitis]]
+- [[Aseptic Meningitis]]
+- [[Pancreatitis]]
 #### Diagnosis
 #### Treatment
 #### Prevention

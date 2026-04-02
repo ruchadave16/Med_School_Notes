@@ -20,7 +20,7 @@ source: ID
 >[!Warning]
 >- [[Treponema]] (syphilis) -- too thin to see
 >- [[Mycobacterium tuberculosis]] -- mycolic acids in cell wall
->- [[Mycoplasma]] -- no cell wall
+>- [[Mycoplasma Pneumoniae|Mycoplasma pneumoniae]] -- no cell wall
 >- Intracellular
 >	- [[Rickettsia]] 
 >	- [[Chlamydia]] 

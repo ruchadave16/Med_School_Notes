@@ -20,8 +20,8 @@ Measles (rubeola)
 **Pneumonia** = #1 cause of death related to measles
 
 Rare Consequences
-- SSPE
-- Encephalitis
+- [[SSPE]]
+- [[Encephalitis]]
 - Giant cell pneumonia
 #### Diagnosis
 - Lymphadenitis with Warthin-Finkeldey giant cells with paracortical hyperplasia

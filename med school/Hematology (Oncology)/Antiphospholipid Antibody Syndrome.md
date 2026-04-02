@@ -22,7 +22,7 @@ tags:
 ### Diagnosis
 - Labs
 	- Prolonged PTT
-	- False + reaction for syphilis
+	- False + reaction for [[syphilis]]
 - Imaging
 - Criteria
 

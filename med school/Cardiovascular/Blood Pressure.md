@@ -10,7 +10,7 @@ source: FoM I
 Pressure HIGHEST in [[aorta]] and lowest in vena cava
 - Highest drop in arterioles which brings P down to be enough for capillaries
 
->[!Tip] Mean arterial pressure = diastolic pressure + 1/3 pulse pressure
+>[!Tip] Mean arterial pressure (MAP)= diastolic pressure + 1/3 pulse pressure
 >where pulse pressure = systolic - diastolic
 
 Mean arterial pressure close to [[diastole]] since heart is in diastole for 2x as long as systole

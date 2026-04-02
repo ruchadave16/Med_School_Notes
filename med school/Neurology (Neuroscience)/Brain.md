@@ -5,7 +5,7 @@ aliases:
   - brain
 ---
 #### Subdivisions 
-- [[Cerebral Cortex]]
+- [[Cerebrum|Cerebral cortex]]
 	- Peripheral gray matter, central white matter
 	- 6 layers
 	- Function: Integration of afferent and efferent information
@@ -14,7 +14,7 @@ aliases:
 	- [[Thalamus]]  -- relay station for info going to brain
 	- [[Hypothalamus]] -- control of endocrine, ANS, water
 - [[Brainstem]] -- [[midbrain]], [[pons]], [[medulla]]
-- [[Cerebellar Cortex]] 
+- [[Cerebellum]] 
 	- 3 layers:
 		- [[Molecular Layer]]
 		- [[Purkinjie Layer]]

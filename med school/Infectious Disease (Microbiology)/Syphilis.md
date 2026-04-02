@@ -13,16 +13,22 @@ tags:
 - Relevant pathways (e.g. immune, hormonal)
 
 ### Clinical Features
-- Primary: Painless chancre
-- Secondary: Condylomata lata, diffuse maculopapular rash including palms and soles,
-highly infectious
-- Tertiary: Gummas, tabes dorsalis, and general paresis
+- Primary: Painless chancre (heals in 2-6 weeks)
+- Secondary: 
+	- Condylomata lata
+	- Diffuse maculopapular **rash** including palms and soles, highly infectious
+	- Lymphadenopathy
+- Tertiary: 
+	- Gummas
+	- [[tabes dorsalis]]
+	- General paresis
+	- CV symptoms
+	- Ocular symptosm
 
-- Neurosyphilis at any stage
+- [[Neurosyphilis]] at any stage
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- + [[CSF]] VDRL to rule in (specific but not sensitive)
+- + CSF treponemal test to rule out (sensitive but not specific)
 
 ### Treatment
 - [[Penicillin G]]

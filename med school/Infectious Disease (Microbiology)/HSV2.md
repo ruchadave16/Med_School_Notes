@@ -15,7 +15,7 @@ tags:
 	- Anterograde back to skin
 #### Symptoms
 - Herpes genitalis
-- Aseptic meningitis
+- [[Aseptic meningitis]]
 - Neonatal infection
 	- Meningoencephalitis
 	- Pneumonitis

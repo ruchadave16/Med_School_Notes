@@ -56,7 +56,7 @@ tags:
 - Asymptomatic (60%) -> Initially like mild flu 
 	- Lymphadenopathy
 	- Fever
-	- Aseptic meningitis
+	- [[Aseptic meningitis]]
 - NON-painful vesicles
 - Acute retroviral syndrome (rare)
 

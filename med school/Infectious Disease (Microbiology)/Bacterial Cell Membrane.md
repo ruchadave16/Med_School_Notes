@@ -7,7 +7,7 @@ source: ID
 ---
 *Phospholipid bilayer with similar properties to human [[cell membrane]]*
 
-- NO sterols in cell membrane except for [[mycoplasma]]
+- NO sterols in cell membrane except for [[Mycoplasma Pneumoniae|mycoplasma pneumoniae]]
 - Bacteria **breathe through cell membrane**
 - Enzymes for phospholipid synthesis and DNA synthesis
 - ETC and oxidative phosphorylation happen here

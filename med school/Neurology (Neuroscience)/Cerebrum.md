@@ -39,15 +39,16 @@ source: Neuro
 ![[Drawing 2026-03-18 22.47.14.excalidraw]]
 
 - [[Basal ganglia]] -- nuclei series that controls movement and behavior
+- Corona radiata -- white matter with descending axons
 ### Frontal Lobe
 - Function: Motor areas, personality, motivation, reasoning
 - Gyri: Superior, middle, inferior frontal gyri
-- Precentral gyrus has **primary motor cortex**
+- Precentral gyrus has **[[primary motor cortex]]**
 
 ![[Screenshot 2026-03-18 at 10.36.12 PM.png]]
 ### Parietal Lobe
-- Function: Somatic sensation, awareness of self and surroundings
-- Gyri: Postcentral gyrus (has **primary somatosensory cortex**), supramarginal gyrus, angular gyrus, etc
+- Function: [[Somatic sensation]], awareness of self and surroundings
+- Gyri: Postcentral gyrus (has **primary [[somatosensory cortex]]**), supramarginal gyrus, angular gyrus, etc
 
 ![[Screenshot 2026-03-18 at 10.38.30 PM.png]]
 ### Temporal Lobe

@@ -16,6 +16,8 @@ tags:
 - [[Chronic Granulomatous Disease|CGD]]
 - [[Tuberculosis|TB]]
 - Immunocompromised
+- Transplant
+- Hematological malignancy
 #### Mechanism
 - Aflatoxins produced -> carcinogenic
 - Form conidiospores with fruiting bodies
@@ -25,7 +27,8 @@ tags:
 - Aspergillomas in lung -- post [[Tuberculosis|TB]]
 	- Gravity dependent
 - Angioinvasive Aspergillosis -- immunocompromised
-	- Invades body vessels and kidneyfailure, endocarditis, brain (ring enhancing brain lesions)
+	- Invades body vessels and kidneyfailure, endocarditis
+	- Can -> brain (ring enhancing brain lesions)
 	- Necrosis around nose
 #### Diagnosis
 - Acute angle branching with septae

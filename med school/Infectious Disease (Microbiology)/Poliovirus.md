@@ -7,6 +7,7 @@ date: 3-3-26
 source: ID
 tags:
   - bug
+  - disease
 ---
 - + RNA virus
 - [[Picornavirus]]
@@ -15,14 +16,20 @@ tags:
 #### Mechanism
 - Initial replication in lymphoid in GI like [[Peyer's Patches|Peyer's patches]]
 	- 2-3 weeks
-- Spreads to **anterior horn** of spinal cord
+- Spreads to **anterior horn** of spinal cord -- LMN deficits ONLY
 
 - Cleaves TATA-binding subunit, stopping initiation complex
 #### Symptoms
 - Asymmetric paralysis in lower limbs
+- Hypotonia
+- Flaccid paralysis
+- Fasciculation
+- Hyporeflexia
+- Muscleatrophy
 - Respiratory insufficiency -- diaphragm paralysis
-- Aseptic meningitis
+- [[Aseptic meningitis]]
 #### Diagnosis
+- CSF shows ↑ WBC and ↑ protein 
 #### Treatment
 None
 #### Prevention

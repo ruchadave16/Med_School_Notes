@@ -5,6 +5,8 @@ aliases:
   - vertebral column
   - Spinal Column
   - spinal column
+  - spine
+  - Spine
 ---
 33 [[vertebra]] across 5 regions (7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 4 fused coccygeal)
 

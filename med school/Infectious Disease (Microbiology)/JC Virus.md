@@ -8,9 +8,11 @@ tags:
 ---
 #### Mechanism
 - Demyelination
+- Latent in [[kidneys]]
 #### Symptoms
-- PML -- progressive multifocal leukoencephalopathy in HIV
+- PML -- [[PML|progressive multifocal leukoencephalopathy]] in HIV pts.
 	- Progressive ataxia, incoordination, vision change, cognitive decline 
+- Asymptomatic initially
 #### Diagnosis
 - DNA in CSF through PCR
 - MRI showing non-enhancing demyelinating white matter lesions

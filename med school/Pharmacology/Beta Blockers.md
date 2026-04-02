@@ -26,7 +26,7 @@ Most are antagonists but some are partial agonists or inverse agonists
 - [[Pindolol]], [[acebutolol]], [[celiprolol]] *CAP on top*
 - Should be avoided when chronic heart failure
 
-**Local Anesthetic**
+**[[Local Anesthetics]]**
 - [[Propranolol]], [[pindolol]], [[acebutolol]]
 - Contraindication for ophthalmic application
 

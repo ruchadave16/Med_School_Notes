@@ -15,7 +15,9 @@ tags:
 - Blocks serotonin transporters 
 	- ↓ appetite, hyperthermia, hallucinations
 - Inhibits voltage gated Na channels
-	- Local anesthetic
+	- [[Local Anesthetics|Local anesthetic]]
+	
+**Only** local anesthetic that also causes vasoconstriction
 #### Dosing
 - Injected or through mucosal membranes
 #### Adverse Effects

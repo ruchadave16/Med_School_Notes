@@ -5,7 +5,7 @@ aliases:
 date: 12-14-25
 source: FoM II
 ---
-*Used alongside [[anaesthetics]] for skeletal muscle relaxation*
+*Used alongside [[anesthetics]] for skeletal muscle relaxation*
 
 >[!Note]
 >-cur- = NMJ blockers

@@ -7,7 +7,7 @@ source: FoM I
 ---
 *[[Glycoproteins|Glycoprotein]] of weight 55000*
 
-Binds [[B12]], produced by [[parietal cells]] of stomach
+Binds [[Vitamin B12]], produced by [[parietal cells]] of stomach
 - Needed for absorption of B12 in [[ileum]]
 - Absence causes [[pernicious anemia]]
 - Produced by [[Parietal Cell|parietal cells]]

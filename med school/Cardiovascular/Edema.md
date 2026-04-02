@@ -6,16 +6,15 @@ source: ID
 ---
 *Abnormal accumulation of excess fluid within tissues*
 
-- Subcutaneous edema 
+- [[Subcutaneous edema]]
 	- Dependent → influenced by gravity
 	- Pitting
-- Periorbital edema
+- [[Periorbital edema]]
 	- In eyelids, sign of renal disease
 	- In children, consider hypoalbuminemia from nephrotic syndrome
-- Pulmonary edema
+- [[Pulmonary edema]]
 	- Associated with CHF
-- Cerebral edema
-	- 
+- [[Cerebral edema]]
 
 **Inflammatory Edema**
 - [[Acute Inflammation]] → vascular permeability → fluid and intravascular proteins lost

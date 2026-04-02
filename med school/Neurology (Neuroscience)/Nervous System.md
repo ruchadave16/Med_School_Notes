@@ -23,10 +23,10 @@ aliases:
 
 - Peripheral Nervous System ([[Spinal Nerve|spinal]] and [[Cranial Nerve|cranial nerves]], ganglia, receptors)
 	- Group of cell bodies called ganglion
-	- [[Somatic]] 
-		- Sensory (conscious awareness)
-		- Motor (voluntary control)
-		- **1 neuron** pathway
+	- Somatic 
+		- [[Sensory Pathways]] (conscious awareness)
+		- [[Motor Pathways]] (voluntary control)
+
 	- [[Autonomic Nervous System]] 
 		- Sensory (unconscious awareness)
 		- Motor (involuntary control)

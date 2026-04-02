@@ -38,19 +38,19 @@ Superficial ([[Scapula]] and arm movement)
 	- Latissimus dorsi medially, external oblique laterally, and iliac crest inferiorly
 
 >[!Clinical] Site of herniation in [[posterior abdominal wall]] called [[Petit’s hernia]]
-##### Intrinsic Muscles (Paraspinals)
+#### Intrinsic Muscles (Paraspinals)
 - Pelvis to cranium
 - Innervated by dorsal rami of [[Spinal Nerve|spinal nerve]]s
 - Maintain posture and control movement of [[Vertebral Column|vertebral column]]
 
-Superficial
+**Superficial**
 - Splenius muscles: flat in cervical region
 	- Splenius capitis attaches to [[skull]]
 	- Splenius cervicus attaches to cervical vertebra
 - Action: Ipsirotation of head/neck
 - Innervation: Dorsal rami 
 
-Intermediate (Erector spinae group)
+**Intermediate (Erector spinae group)**
 - Action: extensor of [[Vertebral Column|vertebral column]]
 - Innervation: Dorsal rami
 - Origin: Posterior iliac crest, sacrum, lumbar spinous processes
@@ -59,7 +59,7 @@ Intermediate (Erector spinae group)
 	- **Longissimus** - Attach to transverse processes
 	- **Spinalis** - Attach to spinous processes
 
-Deep (Transversospinalis group)
+**Deep (Transversospinalis group)**
 - Attach from transverse process to spinous process
 - **Semispinalis** spans 4-6 vertebra, prominent in cervical region
 	- Semispinalis capitis is largest palpable region

@@ -14,8 +14,6 @@ aliases:
 - Sensory: [[taste]] from anterior 2/3 of [[tongue]] and palate
 - Somatic sensory: cutaneous to entrance of auditory canal of [[ear]]
 
-
-
 ![[Screenshot 2025-10-29 at 3.37.32 PM.png]]
 #### Other Branches
 - N. to stapedius
@@ -24,7 +22,13 @@ aliases:
 **DAMAGE BEFORE THIS: Bell’s palsy, face asymmetry, no salivation, loss of taste from anterior 2/3, sensitivity to sound**
 #### Terminal Branch: Somatic Motor Innervation
 **Location**
-- Starts at brainstem in [[pons]], exits through internal acoustic meatus → facial canal → turn and leaves through stylomastoid foramen, passes through [[parotid gland]] WITHOUT innervating
+- Starts in [[pons]] (wrapped around abducens nuc.)
+	- Creates facial colliculus
+	- *Lesion: only LMN loss*
+
+![[Screenshot 2026-03-27 at 2.44.05 PM.png]]
+- Joins with sensory fibers from lateral pons
+- Exits through cerebellopontine angle -> internal acoustic meatus → facial canal → turn and leaves through stylomastoid foramen, passes through [[parotid gland]] WITHOUT innervating
 - In facial canal, branch leaves to innervate stapedius
 
 **Branches**
@@ -48,9 +52,10 @@ aliases:
 #### Parasympathetic Motor
 **Location**
 - Preganglionic bodies in brainstem → synapse on submandibular and [[pterygopalatine ganglion]]
+	- [[Facial nucleus]]
 - Submandibular/sublingual
 	- Follow CN VII UNTIL chorda tympani branches off and runs through [[middle ear]] across tympanic membrane
-	- **DAMAGE BEFORE THIS = Bell’s Palsy, facial asymmetry, low salivation, no taste from anterior 2/3 tongue**
+	- **DAMAGE BEFORE THIS = [[Bell's Palsy|Bell’s Palsy]], facial asymmetry, low salivation, no taste from anterior 2/3 tongue**
 	- Exits skull through petrotympanic fissure
 	- Joins lingual n. [[Mandibular Nerve|CN V3]] to go to tongue
 	- Synapse in submandibular ganglion → postsynaptic to salivary gland
@@ -93,3 +98,25 @@ aliases:
 
 >[!Clinical]
 >[[Bell’s Palsy]]
+
+#### Nuclei
+Motor
+- [[Facial Nucleus|Facial motor nuc.]]
+- Superior salivatory nuc.
+	- Lacrimal, sublingual, lingual glands
+	- *Lesion*: I/L loss of lacrimation, ↓ salivation, 
+
+Sensory
+- Solitary nucleus -- taste anterior 2/3 tongue
+- [[Spinal Trigeminal Tract|Spinal trigeminal tract]] for cutaneous sensory fibers to external ear and auditory canal, tympanic membrane
+#### Lesion
+- Supranuclear = [[Central facial palsy]]
+	- Precentral gyrus (MCA), genu of internal capsule, corticobulbar tract
+	- ONLY C/L lower face paralysis -- forehead sparing
+- Facial colliculus lesion
+	- I/L hemiface paralysis
+	- LMN lesion
+- Damage after exiting brain
+	- I/L hemiface paralysis, ↓ tear production, ↓ mucus, saliva I/L
+	- Impaired taste, sensitivity to sound
+	- [[Bell's Palsy]]

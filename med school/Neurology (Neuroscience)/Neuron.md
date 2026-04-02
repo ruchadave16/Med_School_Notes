@@ -6,8 +6,6 @@ aliases:
   - neurons
   - Neurons
 ---
-![[Screenshot 2025-07-17 at 5.15.13 PM.png]]
-
 ##### Components (Polar Organization)
 - Cell body (soma)
 	- Most are in CNS 

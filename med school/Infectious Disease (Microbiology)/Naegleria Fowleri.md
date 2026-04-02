@@ -13,7 +13,7 @@ tags:
 #### Mechanism
 - Enters CNS through cribriform plate
 #### Symptoms
-- **Meningoencephalitis**
+- **[[Primary Amebic Meningoencephalitis]]**
 - Rapidly fatal
 #### Diagnosis
 - Spinal tap with amoebas

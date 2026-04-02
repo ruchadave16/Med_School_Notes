@@ -57,7 +57,7 @@ source: ID
 			- Zoonotic hookworm
 	- [[Cestodes]]
 		- Tinea (tapeworms)
-		- Cysticercosis
+		- [[Cysticercosis]]
 	- [[Trematodes]]
 		- Intestinal fluke
 		- Lung flukes

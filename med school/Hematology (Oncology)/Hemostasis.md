@@ -15,14 +15,14 @@ Main Cells
 >[!Note] Endothelium
 >Normally limits coagulation through
 >- Barrier – shield platelets from subendothelial collagen, vWF, and tissue factor
->- Platelet inhibitory factors – [[prostacyclin]] and [[NO]]
+>- Platelet inhibitory factors – [[PGI2|prostacyclin]] and [[NO]]
 >- [[Anticoagulant]]
 >	- [[Thrombomodulin]] expressed
 >	- Heparin-like molecules that activate antithrombin III → inhibits Factors II, IX, X, XI, XII
 >- Make [[tPA]]
 #### Arterial Vasodilation
 Limits blood flow to injury 
-- Neurogenic mechanism, augmented by release of [[endothelin]] and [[thromboxane A2]] ← activated by platelets
+- Neurogenic mechanism, augmented by release of [[endothelin]] and [[TXA2|thromboxane A2]] ← activated by platelets
 
 ![[Screenshot 2026-01-24 at 1.29.28 PM.png]]
 

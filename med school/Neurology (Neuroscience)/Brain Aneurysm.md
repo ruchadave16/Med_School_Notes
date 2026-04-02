@@ -14,12 +14,11 @@ source: Neuro
 - 5% at [[basilar a.]] bifurcation to [[Posterior Cerebral A.|PCA]]
 
 ![[Screenshot 2026-03-20 at 1.04.01 AM.png]]
-#### Charcot-Bouchard Microaneurysm
+#### [[Charcot-Bouchard Microaneurysm]]
 - Most common in basal ganglia from chronic HTN
 - Like lacunar stroke
 - Ruptures into hemorrhagic stroke
-#### Arteriovenous Malformation
+#### [[Arteriovenous Malformation]]
 - Large tangle resulting in multiple connections exist between arteries and veins
 - Enlargens over time
 - High flow low resistance shunt
-- 

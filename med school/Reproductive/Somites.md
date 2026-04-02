@@ -16,6 +16,12 @@ source: MGA
 4 occipital, 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 8-10 coccygeal pairs
 - 1 occipital and 5-7 coccygeal disappear
 
-During Week 4, medial [[mesenchymal]] cells are called [[sclerotomes]] 
+During Week 4
+- medial [[mesenchymal]] cells are called [[sclerotomes]]  (make vertebrae and skull)
+- Myotome -- skeletal muscle
+	- Axons from motor plate (basal plate) innervate
+- Dermatome -- dermis
+	- Neural crest extend 2 process to alar plate
+
 
 ![[Screenshot 2025-08-11 at 4.36.58 PM.png]]

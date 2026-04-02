@@ -18,7 +18,7 @@ source: FoM II
 	- Drug is reabsorbed (**enterohepatic recycling**)
 	- This prolongs presence and effects of drug
 - [[Lungs]]
-	- Volatile / gas anaesthetics
+	- Volatile / gas anesthetics
 ###### First-Order Kinetics (Most [[Drug|drugs]])
 - Constant proportion eliminated per unit time
 - Rate of elimination depends on drug concentration

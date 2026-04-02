@@ -35,4 +35,4 @@ Gram Positive [[bacteria]] have thicker peptidoglycan layer while gram negative 
 >- Stain = Ziehl Neelsen
 >
 >[[Chlamydia]] has no muramic acid
->[[Mycoplasma]] have no cell wall, no gram staining but sterols in cell membrane for stability
+>[[Mycoplasma Pneumoniae|mycoplasma pneumoniae]] have no cell wall, no gram staining but sterols in cell membrane for stability

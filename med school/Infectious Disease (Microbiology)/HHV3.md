@@ -6,6 +6,7 @@ tags:
 aliases:
   - Varicella-Zoster virus
   - varicella-zoster virus
+  - herpes zoster
 ---
 - dsDNA, enveloped
 #### Mechanism
@@ -19,6 +20,7 @@ aliases:
 #### Symptoms
 - [[Chickenpox]] in children
 - [[Shingles]] in adults above 50
+	- [[Herpes zoster opthalmicus]] -- primary care emergency
 
 ![[Screenshot 2026-02-27 at 6.33.15 PM.png]]
 #### Diagnosis
@@ -29,7 +31,7 @@ aliases:
 	- Intranuclear inclusions
 #### Treatment
 - No antivirals for normal immune system patients
-- For immunocomprised, [[Acyclovir]]
+- For immunocomprised, [[Acyclovir]], [[vancyclovir]] + steroids
 #### Prevention
 - Varicella vaccine -- live attenuated
 - Zoster -- one live (older), one recombinant (standard today)

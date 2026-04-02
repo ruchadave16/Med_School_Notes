@@ -18,13 +18,16 @@ tags:
 
 >[!Note] Coinfection with [[babesia]]
 
+1) Stage 1
 - Target rash
 ![[Screenshot 2026-02-17 at 10.44.48 PM.png]]
-- Later stages include CNS and arthritis
+1) Bilat. Bell's Palsy ([[Facial Diplegia]]) and myocarditis
+2) Later stages include CNS (cognitive issues) and migratory polyarthritis
 ### Diagnosis
 - ELISA followed by Western blot)
 ### Treatment
 - [[Doxycycline]]
+- [[Ceftriaxone]]
 
 ### Complications
 - Short-term

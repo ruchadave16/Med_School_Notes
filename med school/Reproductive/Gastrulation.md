@@ -13,8 +13,6 @@ source: MGA
 - Caudal end cells called primitive node with opening: primitive pit
 - Defines axes
 
-![[Drawing 2025-08-06 17.38.05.excalidraw]]
-
 >[!Clinical] 
 >[[Teratoma]]:  Most common neonatal tumor
 >- Overgrowth of undifferentiated epiblast cells staying at primitive streak 
@@ -22,7 +20,6 @@ source: MGA
 >- More common in females
 >[[Situs Inversus]]: Ciliary dyskinesia means organs are mirror-image of normal
 >- Can happen in 1 or all organs
-
 
 [[Endoderm]] Formation:
 - [[Epiblast]] cells move downwards through primitive streak towards [[hypoblast]] and cranially

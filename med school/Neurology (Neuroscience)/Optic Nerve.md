@@ -5,4 +5,5 @@ aliases:
   - Optic n.
 ---
 **Course**
-- 
+
+Sense of [[vision]]

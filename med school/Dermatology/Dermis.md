@@ -40,24 +40,4 @@ source: FoM I
 2) Cutaneous Autonomic Nervous System
 	- Regulates [[sweat gland]] function, skin blood flow, and body temperature homeostasis
 	- Made of [[sympathetic fibers]]
-
-##### Sensory Receptors
-1) Free Nerve Endings: 
-	- Papillary dermis + lower epidermis
-	- Respond to high and low temp, pain, itching, some tactile function
-2) Meissner’s Corpuscles
-	- Light touch and low frequency stimuli 
-	- Rapidly adapting mechanoreceptors
-3) Pacinian Corpuscles
-	- Mechanical and vibratory pressure sensors
-	- Coarse touch, substained pressure and vibrations
-	- Found in reticular dermis or hypodermis
-4) Ruffini Receptors
-	- Small, simple dermal mechanoreceptors 
-	- Common in soles
-	- Respond to stretch and torque of collagen
-5) Root Hair Plexus
-	- Hair follicle receptor
-	- Detect movement of hair
-6) Krause End Bulbs
-	- Cold thermoreceptors in special areas of body
+##### [[Sensory Receptors]]

@@ -19,7 +19,7 @@ Presentation
 - Musty odor on skin
 - Epilepsy
 - Light skin 
-- Microcephaly
+- [[Microcephaly]]
 - Organ damage
 - Mental retardation
 - Unusual posture

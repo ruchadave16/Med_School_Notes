@@ -3,7 +3,7 @@ aliases:
   - pharyngeal arches
   - Pharyngeal arches
 ---
-*Form from [[neural crest cell]] migration into mesoderm*
+*Form from [[Neural Crest Cells|Neural crest cells]] migration into mesoderm*
 #### Formation
 - Made of neural crest, paraxial mesoderm, and lateral plate mesoderm
 
@@ -17,7 +17,7 @@ aliases:
 	
 ![[Drawing 2025-10-31 20.53.25.excalidraw]]
 
-- Each arch contains artery (from aortic arch), cartilage (from neural cresty), muscle (from mesoderm) and cranial nerve (from neural crest)
+- Each arch contains artery (from aortic arch), cartilage (from neural crest), muscle (from mesoderm) and cranial nerve (from neural crest)
 
 ![[Drawing 2025-10-31 20.54.37.excalidraw]]
 #### Arches

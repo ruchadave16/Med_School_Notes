@@ -13,8 +13,13 @@ tags:
 	- [[DKA]]
 	- Neutropenia
 - Transmitted through inhalation of spores
+
+**Predisposition**
+- [[Diabetic Ketoacidosis]]
+- Hematologic malignancy
+- Transplant
 #### Mechanism
-- Proliferate in blood vessel walls in presence of ↑ glucose + ketones
+- Proliferate in blood vessel walls (angioinvasive) in presence of ↑ glucose + ketones
 - Need free iron
 - Penetrates cribriform plate -> brain
 - Frontal cortex abscesses

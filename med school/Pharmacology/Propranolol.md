@@ -13,7 +13,7 @@ Equal affinity for B1 and B2
 - [[CNS]] effects
 #### Uses
 - Low bioavailability
-- Local anesthetic
+- Local anesthetics
 #### Administration
 
 #### Dosing

@@ -13,9 +13,9 @@ tags:
 - No impact on other receptors
 #### Uses
 - [[Major Depressive Disorder|Depression]]
-- [[Pain Disorders]]
+- Pain Disorders
 	- Neuropathic pain (e.g., diabetic peripheral neuropathy)
-	- Fibromyalgia
+	- [[Fibromyalgia]]
 	- Chronic musculoskeletal pain
 - [[General Anxiety Disorder]]
 - Stress Urinary Incontinence

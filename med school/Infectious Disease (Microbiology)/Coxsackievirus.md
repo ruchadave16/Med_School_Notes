@@ -15,7 +15,7 @@ tags:
 #### Symptoms
 A
 - Hand, foot and mouth disease -- red vesicular rash
-- Meningitis in kids
+- [[Meningitis]] in kids
 B
 - Dilated cardiomyopathy
 - Devil's grip (pleurodynia) -- sharp pain in lower chest

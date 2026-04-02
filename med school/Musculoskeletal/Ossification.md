@@ -21,4 +21,4 @@ source: MGA
 	- 8th week of [[Embryonic Period|embryonic development]]
 	- Continues to grow due to **[[growth plate]]** → closes in late teens to become growth line
 
-[[Neural crest]] cells form remaining skull, facial, clavicle bones
+[[Neural crest cells]]  form remaining skull, facial, clavicle bones

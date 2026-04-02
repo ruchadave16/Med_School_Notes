@@ -8,37 +8,37 @@ source: MGA
 tags:
   - disease
 ---
-##### Definition
+#### Definition
 [[Carcinoma]] in apex of [[Lungs|lung]]
 
-##### Etiology
+#### Etiology
 - Primary causes
 - Risk factors
 
-##### Pathophysiology
+#### Pathophysiology
 - Mechanism of disease
 - Relevant pathways (e.g. immune, hormonal)
 
-##### Clinical Features
+#### Clinical Features
 - Sympathetic trunk → [[Horner’s Syndrome]]
 - C8, T1, T2 → sensorimotor deficits in forearm and hand
-- Phrenic n. – ipsilateral paralysis of [[Diaphragm|diaphragm]]
+- [[Phrenic Nerve|Phrenic n.]] – ipsilateral paralysis of [[Diaphragm|diaphragm]]
 - Recurrent laryngeal n. → hoarseness because [[vocal cord]] paralysis
 
-##### Diagnosis
+#### Diagnosis
 - Labs
 - Imaging
 - Criteria
 
-##### Treatment
+#### Treatment
 - Pharmacologic
 - Surgical
 - Lifestyle
 
-##### Complications
+#### Complications
 - Short-term
 - Long-term
 
-##### High-Yield Associations
+#### High-Yield Associations
 - Classic buzzwords
 - Boards clues

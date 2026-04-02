@@ -27,7 +27,7 @@ Sensory: Involuntary sensation from organs
 >- Bradycardia, hypertension, bowel and bladder control loss, temperature regulation
 >
 >[[Autonomic Dysreflexia]]
-#### Neuron Motor Pathways
+#### [[Motor Pathways]]
 Preganglionic cell body in CNS → axon synapses on [[ganglia]] in body cavity
 Postganglionic cell body in autonomic [[ganglia]] of PNS → axon synapse on organ
 

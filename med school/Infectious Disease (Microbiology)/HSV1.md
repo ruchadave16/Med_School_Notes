@@ -9,7 +9,7 @@ tags:
 ---
 #### Mechanism
 - Oral infected saliva
-- Initial lesions on face, travels up axon and latent in **trigeminal ganglion**
+- Initial lesions on face, travels up axon and latent in **[[trigeminal ganglion]]**
 - Recurrence on nerves along that path -- triggers = fever, sun
 - Can cause further organ impact
 #### Symptoms

@@ -5,6 +5,7 @@ aliases:
   - streptococcus agalactia
   - Streptococcus agalactia
   - S. agalactia
+  - GBS
 date: 2-17-26
 source: ID
 tags:

@@ -4,6 +4,8 @@ aliases:
   - Adrenal system
   - suprarenal system
   - Suprarenal system
+  - adrenal glands
+  - Adrenal glands
 date: 9-17-25
 source: MGA
 ---

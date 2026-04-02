@@ -24,7 +24,7 @@ tags:
 Systemic in Immunocompromised
 - Skin and lung infection
 - Bone infection
-- Meningitis
+- [[Meningitis]]
 #### Diagnosis
 - See endospores in body, larger than RBCs
 	-![[Screenshot 2026-03-04 at 10.29.10 PM.png]]

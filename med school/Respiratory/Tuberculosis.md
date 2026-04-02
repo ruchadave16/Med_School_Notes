@@ -44,16 +44,17 @@ source: ID
 - Night sweats
 - Blood in cough 
 - Pleuritic pain
+- Can present as [[tuberculosis meningitis]]
 ### Diagnosis
 - Sputum culture
 - Smear on [[Ziehl-Neelsen Stain|acid fast stain]]
 - PCR on sputum
 	- Check [[rifampin]] resistance
+- CSF has fungal / protozoal appearance
 ### Treatment
 - Pharmacologic
 - Surgical
 - Lifestyle
-
 ### Complications
 - [[Caseous Necrosis|Caseous necrosis]]
 

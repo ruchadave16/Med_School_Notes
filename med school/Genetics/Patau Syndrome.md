@@ -17,6 +17,7 @@ tags:
 - Symptoms
 	- [[CNS]] anomaly
 	- [[Polydactyly]]
+	- [[Holoprosencephaly]]
 - Signs
 	- [[Cleft Lip]] and cleft palate
 - Variants

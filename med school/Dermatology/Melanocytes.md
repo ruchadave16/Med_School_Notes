@@ -9,7 +9,7 @@ source: FoM I
 Found in basal layer
 Produces [[melanin]] 
 
-[[Neural crest]] derivative
+[[Neural Crest Cells|Neural crest]] derivative
 
 Attached to [[basement membrane]] through [[hemidesmosomes]]
 - No desmosomes 

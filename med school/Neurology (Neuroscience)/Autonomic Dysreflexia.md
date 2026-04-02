@@ -4,35 +4,36 @@ source: MGA
 tags:
   - disease
 ---
-##### Definition
-Overreaction of [[ANS]] to stimulation
+#### Definition
+Overreaction of [[Autonomic Nervous System|autonomic nervous system]] to stimulation
 
-##### Etiology
+#### Etiology
 - Damage to spinal cord at/above T5-6
+	- Onset 3-4 days after injury
 
-##### Pathophysiology
+#### Pathophysiology
 - Constellation of signs in person with spinal cord injury at/above T5-6 in response to noxious OR non-noxious stimuli below injury level
 
-
-##### Clinical Features
+#### Clinical Features
 - Increased BP, flushing, headache, dysrhythmia
-- Signs
-- Variants
+- Sympathetic hyperreaction to stimuli below lesion
+- ↑ sweating
+- 
 
-##### Diagnosis
+#### Diagnosis
 - Labs
 - Imaging
 - Criteria
 
-##### Treatment
+#### Treatment
 - Pharmacologic
 - Surgical
 - Lifestyle
 
-##### Complications
+#### Complications
 - Short-term
 - Long-term
 
-##### High-Yield Associations
+#### High-Yield Associations
 - Classic buzzwords
 - Boards clues

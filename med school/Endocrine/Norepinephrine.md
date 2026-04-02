@@ -1,6 +1,7 @@
 ---
 aliases:
   - norepinephrine
+  - NE
 date: 12-15-25
 source: FoM II
 tags:

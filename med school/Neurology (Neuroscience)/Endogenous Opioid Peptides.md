@@ -6,7 +6,10 @@ aliases:
 date: 12-16-25
 source: Neuro
 ---
-Enkephalins, [[endorphins]], dynorphins – natural [[Neurotransmitters|neurotransmitters]] in CNS and PNS
+Natural [[Neurotransmitters|neurotransmitters]] in CNS and PNS
+- Enkephalins ($\delta$) -- pain transmission in spinal cord
+- Endorphins ($\mu$)  -- analgesia and euphoria
+- Dynorphins ($\kappa$) -- pain modulation and stress response
 
 - Released in response to pain to reduce it
 #### Receptors

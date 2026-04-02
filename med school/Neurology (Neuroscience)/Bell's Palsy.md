@@ -12,6 +12,7 @@ tags:
 - Enlargement of parotid gland
 - Surgery
 - Improper inferior alveolar n. block
+- Lesion of [[facial nuc.]] 
 
 ### Pathophysiology
 - Mechanism of disease

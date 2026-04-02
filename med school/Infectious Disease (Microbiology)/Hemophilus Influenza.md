@@ -20,7 +20,7 @@ tags:
 
 ### Clinical Features
 - Capsulated strains = more virulent
-	- Meningitis
+	- [[Meningitis]]
 	- Epiglottitis
 - Noncapsulated strains (NTHi) = less
 	- Sinusitis

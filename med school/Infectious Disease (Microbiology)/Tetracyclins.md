@@ -20,7 +20,7 @@ source: ID
 - More potent against [[gram positive]]
 	- Negative resistance due to efflux pumps
 - Active against [[intracellular bacteria]]
-	- [[Rickettsia]], [[Chlamydia]], [[Mycoplasmae]]
+	- [[Rickettsia]], [[Chlamydia]], [[Mycoplasma Pneumoniae|Mycoplasma pneumoniae]]
 ### Resistance
 - Efflux Pumps
 	- Plasmid encoded have resistance to older tetracyclines, but new are NOT substrates for these

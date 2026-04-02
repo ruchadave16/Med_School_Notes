@@ -8,3 +8,5 @@ source: MGA
 ---
 - Vestibular division
 	- Signals retrograde from [[vestibule]] and [[Semicircular Ducts|semicircular ducts]] through internal auditory meatus to cranial cavity
+
+Function: Sensory for [[hearing]] and vestibular

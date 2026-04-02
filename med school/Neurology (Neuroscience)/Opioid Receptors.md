@@ -14,5 +14,5 @@ source: Neuro
 #### Mechanism
 [[G Protein Coupled Receptors|GPCR]] coupled to Gi
 - Inhibition of adenylyl cyclase → ↓ cAMP
-- Closure of volt gated Ca2+ channels → low neurotransmitter release
-- Opening of K+ channels – hyperpolarization
+- Closure of volt gated Ca2+ channels → low neurotransmitter release **Pre Synaptic**
+- Opening of K+ channels – hyperpolarization **Post Synaptic**

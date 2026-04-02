@@ -27,7 +27,7 @@ Exposure
 >- Drops – wrist and foot drop
 
 - Nervous system
-	- Polyneuropathy, encephalopathy, headache, fatigue, muscle weakness, delirium, seizures
+	- [[Polyneuropathy]], encephalopathy, headache, fatigue, muscle weakness, delirium, seizures
 	- Peripheral neuropathy → paralysis of radial n. / peroneal nerve **FOOT DROP**
 - Kidneys: nephropathy
 - Anemia

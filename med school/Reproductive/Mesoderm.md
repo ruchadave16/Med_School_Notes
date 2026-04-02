@@ -5,11 +5,13 @@ aliases:
 date: 8-11-25
 source: MGA
 ---
-##### Mesoderm Differentiation
+#### Mesoderm Differentiation
 
 ![[Screenshot 2025-08-11 at 4.22.48 PM.png]]
 
 ![[Screenshot 2025-08-12 at 1.29.52 PM.png]]
+
+Dura mater, Microglia
 
 - Cardiogenic mesoderm
 	- Cells that migrate cranially and laterally to oropharyngeal membrane 

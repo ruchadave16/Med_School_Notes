@@ -9,7 +9,7 @@ aliases:
 date: 8-11-25
 source: MGA
 ---
-*Carries unconscious sensation and triggers reflexes*
+*Carries unconscious sensation and triggers [[reflexes]]*
 
 Visceral sensation is poorly localized but somatic is very sharp
 

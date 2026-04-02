@@ -46,7 +46,7 @@ NOT IN USE
 >[!Warning] [[Aspirin]] is CONTRAINDICATED in viral illness for kids
 >[[Reyes Syndrome]]
 >- Could cause liver failure
->- Encephalitis
+>- [[Viral encephalitis]]
 #### Prevention
 - Reformulated vaccine ("flu shot")
 - Killed vaccine most commonly used

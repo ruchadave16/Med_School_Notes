@@ -17,7 +17,7 @@ Receptor activity: **Mixed $\alpha$ and $\beta$ receptors**
 	- Apply through vastus lateralis
 - [[Cardiac arrest]] to restore rhythm
 - Bronchospasm: now replaced by $\beta2$ [[Beta2 Agonists|agonists]]
-- Local vasoconstriction: ↓ absorption of anesthetics in whole system
+- Local vasoconstriction: ↓ absorption of [[local anesthetics]] in whole system
 - Topical hemostatic agent: control bleeding
 #### Administration
 - Not effective orally, give SC (slower absorption), IM, IV (for immediate), inhaled, or topical

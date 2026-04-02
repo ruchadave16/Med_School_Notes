@@ -13,24 +13,25 @@ aliases:
 	- Follows nerves laterally through IV foramina 
 	- Location of large vessels
 	- Continuous with and adherent to periosteal layer of [[Ossification]]
+	- **Anchored to post. longitudinal ligament**
 2) Arachnoid mater: transparent layer deep to dura
 	- Trabeculae made of loose [[Connective Tissue|connective tissue]]
 	- Separates subdural from subarachnial space
 3) Pia mater: innermost
 	- Adheres to surface of spinal cord
 	- Thin, transparent made of [[Collagen|collagen]], [[elastin]], and [[Fibroblasts|fibroblasts]] 
-	- Denticulate ligaments - lateral extensions between dorsal and ventral nerve roots, anchor pia laterally to dura mater
-	- Filum terminale - inferior extension of pia, anchor spinal cord to coccyx, inside cauda equina
+	- **Denticulate ligaments** - lateral extensions between dorsal and ventral nerve roots, anchor pia laterally to dura mater
+	- **Filum terminale** - inferior extension of pia, anchor spinal cord to coccyx, inside cauda equina
 
 ![[Pasted image 20250801230458.png]]
 
-##### Spaces
+#### Spaces
 - Epidural space: Between bone and [[dura mater]]
-	- Contains internal venous plexus and epidural fat
+	- Contains internal venous plexus and epidural **fat**
 	- Can inject epidural anesthetics to block spinal nerves
 - Subdural space: Space between dura and arachnoid mater
 - Subarachnoid space: Space between arachnoid and pia mater, filled with cerebrospinal fluid (CSF)
-	- Lumbar cistern: Enlarged subarachnoid space around cauda equina. Ideal for lumbar puncture.
+	- Lumbar cisterns: Enlarged subarachnoid space around cauda equina. Ideal for lumbar puncture.
 
 >[!Clinical Uses]
 >[[Spinal Tap]]: Withdrawal of CSF from subarachnoid space. Can diagnose CNS disorders.

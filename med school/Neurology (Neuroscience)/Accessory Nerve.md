@@ -7,9 +7,17 @@ aliases:
   - CN XI
 ---
 **Course**
-- Exits skull through jugular foramen lateral to vagus n.
+- Exits skull through [[jugular foramen]] lateral to vagus n.
 
 **Function**
-- Somatic motor to [[trapezius]] and [[Sternocleidomastoid|SCM]]
+- Somatic motor to [[trapezius]] (I/L elevation) and [[Sternocleidomastoid|SCM]] (C/L rotation)
+### Path
+- Postolivary sulcus of [[medulla]] -> jugular foramen -> posterior triangle of neck
 
-![[Pasted image 20251021102436.png]]
+Motor nuclei:
+- Spinal accessory nuc. in most caudal medulla and C1 instead of ventral horn
+- [[LMN Lesion]]
+	- of peripheral n. 
+	- I/L loss of shrug
+	- I/L SCM -- cannot turn to opposite side
+- ![[Screenshot 2026-03-27 at 5.24.28 PM.png]]

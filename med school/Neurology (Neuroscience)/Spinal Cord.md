@@ -30,12 +30,12 @@ source: MGA
 ![[Screenshot 2026-03-19 at 12.31.30 AM.png]]
 
 - Gray horns (info in/out of spinal cord)
-	- Ventral gray horn → somatic (motor) cell bodies
+	- [[Ventral Horn|Ventral gray horn]] → somatic (motor) cell bodies
 		- Ventral root → motor axons
 	- Lateral gray horn (Intermediolateral cell columns (IMLs)) → autonomic cell bodies
 		- Axons go through Ventral Root
 		- **Only in T1-L2**
-	- Dorsal gray horn (sensory dendrites + interneurons)
+	- [[Dorsal gray horn]] (sensory dendrites + interneurons)
 		- Dorsal root → axons for neurons in dorsal horn
 		- Dorsal root ganglia → cell bodies of sensory axons
 		
@@ -44,10 +44,9 @@ source: MGA
 > - Progressive degeneration of motor neurons in ventral horn
 
 - White columns (info to and from [[brain]])
+	- [[Spinal Cord Tracts]]
 	- Funiculus = column (3 per side)
 	- Fasciculus = tract (either sensory or motor)
-		- Corticospinal tract
-		- Spinothalamic tract
 	- Anterior white commissure -- crossing myelinated axons anterior to central canal (imp for ascending pain)
 
 >[!Note] Identifying Level

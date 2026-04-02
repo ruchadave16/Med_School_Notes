@@ -7,19 +7,21 @@ date: 8-11-25
 source: MGA
 ---
 **Function**: Fight or flight
+- Controlled by [[hypothalamus]]
 
-Preganglionic cell body: 
-- Originate in [[CNS]]
-- Intermediolateral cell columns ([[IMLs]]) of spinal cord T1-L2
+**Preganglionic cell body:** 
+- Originate in [[CNS]] hypothalamus 
+	- Travel through hypothalamospinal tract
+- Intermediolateral cell columns ([[IMLs]]) of spinal cord T1-L2 has cell body
 	- IML is in lateral gray horn 
 - T1-5/6: head, upper limb, thoracic viscera
 - T7-T11: body wall, midgut
 - T12-L2: lower limb, pelvic viscera, hindgut
 
-Preganglionic fibers:
+**Preganglionic fibers:**
 - Axons from spinal cord connect through [[white rami communicantes]] to [[sympathetic trunk]]
-
-**Ganglia**
+- 
+#### Ganglia
 - [[Sympathetic trunk]] 
 	- Paired part next to [[vertebral column]]
 	- Axons exit via [[gray rami communicantes]] → Connect to spinal nerves to go to limbs and body wall
@@ -29,7 +31,7 @@ Preganglionic fibers:
 
 ![[Screenshot 2025-08-11 at 8.56.37 PM.png]]
 
-##### Flow Options
+#### Flow Options
 1) Ascend in [[sympathetic trunk]] and synapse in trunk
 	- Postganglionic fibers to head and cervical spinal nerves
 

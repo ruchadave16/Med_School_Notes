@@ -4,6 +4,7 @@ aliases:
   - Neisseria meiningitidis
   - meningococcus
   - Meningococcus
+  - N. meningitidis
 date: 2-17-26
 source: ID
 tags:
@@ -17,7 +18,7 @@ tags:
 - Thick polysaccharide capsules
 - [[Lipooligosaccharide|LOS]] as endotoxin
 #### Symptoms
-- Bacterial meningitis
+- Bacterial [[meningitis]]
 - Waterhouse-Friedrichsen syndrome
 	- septic shock and adrenal failure
 #### Diagnosis

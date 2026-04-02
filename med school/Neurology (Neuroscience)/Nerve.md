@@ -3,6 +3,7 @@ source: MGA
 date: 7-17-25
 aliases:
   - nerve
+  - nerves Nerves
 ---
 Multiple axons wrapped in [[Connective Tissue]]
 - Vary in diameter and myelination so different speeds
@@ -19,3 +20,12 @@ Can be motor (efferent), sensory (afferent), or both
 2) [[Spinal Nerve]]s
 	- **31 pairs** 
 	- Each exit [[Spinal Cord|vertebral column]] through **intervertebral foramen**
+#### Fiber Types
+
+| Fiber     | Function                   | Myelination |
+| --------- | -------------------------- | ----------- |
+| A$\alpha$ | Motor, proprioception      | Heavy       |
+| A$\beta$  | Touch, pressure            | Heavy       |
+| A$\delta$ | Pain, temperature          | Light       |
+| B         | Preganglionic autonomic    | Light       |
+| C         | Slow pain, temp, autonomic | None        |

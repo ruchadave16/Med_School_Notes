@@ -27,7 +27,7 @@ source: FoM I
 	4) Peristaltic waves in pharynx push food down into esophagus
 3) Movement through [[esophagus]]
 	- Controlled by swallow reflex and [[enteric nervous system]]
-	- Upper [[esophageal sphincter]] opened + closed by swallowing reflex
+	- Upper [[esophageal sphincter]] opened + closed by [[swallowing reflex]]
 	- Primary Wave
 		- Swallow reflex – [[Vagus Nerve]]
 		- Sequential contractions to move food to stomach – Somatic in upper 1/3, autonomic in lower 2/3 through [[Ach]]

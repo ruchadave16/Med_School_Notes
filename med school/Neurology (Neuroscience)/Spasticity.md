@@ -4,10 +4,13 @@ aliases:
 source: Neuro
 date: 1-13-26
 ---
-*Intermittent or sustained involuntary muscle activation from [[upper motor neuron lesion]]*
+*Intermittent or sustained involuntary muscle activation from [[UMN Lesion|UMN lesion]]*
+- **Velocity** dependent increase in resistance
 #### Characteristics
 - Increased basal muscle tone and weakness
-- Hyperactive stretch reflexs
+- Hyperactive stretch reflexes
 - **weeks to months after CNS injury**
-
+#### Test
+- Move passive joint through ROM
+- Check that it is not rigidity -- not velocity dependent (extrapyramidal lesion)
 **Treatment** = centrally acting [[spasmolytics]]

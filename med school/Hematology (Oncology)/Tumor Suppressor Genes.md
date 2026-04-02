@@ -16,7 +16,7 @@ source: ID
 | SMAD4 (DPC4) |                                                                       | Pancreatic cancer, colorectal cancer              |
 | MEN1         | Menin                                                                 | Multiple endocrine neoplasia type 1               |
 | NF1          | Neurofibriomin                                                        | [[Neurofibromatosis 1\|Neurofibromatosis Type 1]] |
-| NF2          | Merlin                                                                | Neurofibromatosis Type 2                          |
+| NF2          | Merlin                                                                | [[Neurofibromatosis Type 2]]                      |
 | PTEN         |                                                                       | Prostate, breast, and endometrial cancers         |
 | RB1          |                                                                       | [[Hereditary retinoblastoma]], osteosarcoma       |
 | TP53         | p53                                                                   | Most cancers, Li-Fraumeni Syndrome,               |

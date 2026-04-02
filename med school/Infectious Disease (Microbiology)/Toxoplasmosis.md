@@ -12,10 +12,10 @@ tags:
 Transmission
 - Cysts in raw meat
 - Oocytes in animal feces (kitty liter) -- cats common
-- Transplacental
+- Transplacenta
 #### Mechanism
 #### Symptoms
-- Immunocompromised -- ring enhancing lesions on CT (brain abscesses)
+- Immunocompromised 
 	- Encephalitis
 - Healthy ppl -- flu like symptoms
 - Congenital
@@ -26,6 +26,8 @@ Transmission
 #### Diagnosis
 - Brain biopsy to separate from CNS lymphoma
 - Serology doesn't indicate active infection
+- Multiple ring enhancing lesions on CT (brain abscesses)
+![[Screenshot 2026-03-29 at 12.29.11 PM.png]]
 #### Treatment
 - [[Sulfadiazine]]
 - [[Pyrimethamine]]

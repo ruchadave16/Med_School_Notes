@@ -28,7 +28,7 @@ tags:
 - Community acquired pneumonia
 - Sinusitis
 - Otitis media
-- Meningitis
+- [[Meningitis]]
 #### Diagnosis
 #### Treatment
 - [[Penicillins]]
