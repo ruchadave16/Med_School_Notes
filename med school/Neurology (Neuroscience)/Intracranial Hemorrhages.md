@@ -30,14 +30,14 @@ source: Neuro
 	- Density could be different
 	- Sx: ICP ↑ within 3 weeks
 ![[Screenshot 2026-03-20 at 11.52.45 PM.png]]
-#### Subarachnoid Hemorrhage
+#### [[Subarachnoid Hemorrhage]]
 - Cerebral a. in subarachnoid space
 - Spontaneous or traumatic
 - 50% mortality
 - Sx: "worst headache of life" -- thunderclap
 	- lethargy
 	- fever
-	- stiff neck
+	- stiff neck -- meningeal signs
 	
 ![[Screenshot 2026-03-20 at 11.52.56 PM.png]]
 #### Intraparenchymal Hemorrhage

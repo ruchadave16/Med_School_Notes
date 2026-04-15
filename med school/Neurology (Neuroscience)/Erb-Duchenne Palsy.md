@@ -17,17 +17,17 @@ Injury to C5-6 nerve roots
 - Risk factors
 
 ### Pathophysiology
-- Mechanism of disease
-	- injury to C5-6 nerve roots or upper trunk
-- Relevant pathways (e.g. immune, hormonal)
+- Injury to C5-6 nerve roots or upper trunk
 
 ### Clinical Features
 - Symptoms
 	- Motor loss: shoulder ABD, ER, forearm flexion
-	- Dermatome loss: C5-5 (lateral [[arm]], [[forearm]], thumb, lateral [[hand]])
+	- Dermatome loss: C5-6 (lateral [[arm]], [[forearm]], thumb, lateral [[hand]])
 - Signs
 	- Waiter’s tip position: arm ADD, medially rotated, elbow extended and pronated, wrist flexed
 - Variants
+
+![[Pasted image 20260408133610.png]]
 
 ### Diagnosis
 - Labs

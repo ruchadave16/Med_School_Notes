@@ -22,7 +22,7 @@ tags:
 - Neuropathic Pain
 - **[[Clomipramine]]** for [[OCD]]
 - Nocturnal enuresis – [[imipramine]]
-- Amitriptyline for migraines
+- [[Amitriptyline]] for [[migraines]]
 #### Administration
 
 #### Dosing

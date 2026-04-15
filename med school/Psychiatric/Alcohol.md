@@ -19,7 +19,7 @@ tags:
 	- Neuro: **slurred speech**, impaired judgement, perception, **ataxia**, incoordination
 	- Behavior changes: combative and destructive
 	- Sedative: somnolence
-	- **Hypoglycemia**
+	- **[[Hypoglycemia]]**
 	- **Nystagmus**
 - Give [[Benzodiazephines]] if seizure
 	

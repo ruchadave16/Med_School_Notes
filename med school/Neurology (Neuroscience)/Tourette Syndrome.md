@@ -7,8 +7,9 @@ tags:
   - disease
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- More prevalent in males
+- Family history 
+- Comorbid with [[ADHD]] or [[OCD]]
 
 ### Pathophysiology
 - Dysfunction of cortico-striatal-thalamo-cortical circuits.

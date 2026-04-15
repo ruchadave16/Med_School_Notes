@@ -16,7 +16,7 @@ tags:
 ### Clinical Features
 - Symptoms
 	- Involuntary movements of face + limbs
-	- 
+	- Exacerbated by voluntary movements
 - Signs
 - Variants
 

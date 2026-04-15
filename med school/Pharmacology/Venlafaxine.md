@@ -18,4 +18,6 @@ tags:
 #### Adverse Effects
 - Dose dependent increase in BP
 - Rare cardiac toxicity
+- Nausea
+- Insomnia
 #### Contraindication

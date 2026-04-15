@@ -23,26 +23,30 @@ tags:
 	- Demyelinating
 		- B12 deficiency
 		- Monoclonal gammopathy
-		- Charcot Marie tooth
-		- [[Guillain-Barre Syndrome]]
+		- [[Charcot Marie tooth]]
+		- [[Guillain Barre Syndrome|Guillain-Barre syndrome]]
 ### Pathophysiology
 - Small Fiber Neuropathy
 	- Loss of pain and temp, burning sensation
-	- Unmyelinated C fibers
+	- **Unmyelinated** C fibers
 	- Autonomic symptoms, gastroparesis, erectile dysfunction, orthostatic hypotension
-- Large Fiber neuropathy
+- Large Fiber neuropathy <- demyelinating
 	- Loss of vibration and proprioception
-	- Axonal or demyelinating pathology
+	- Axonal or **demyelinating** pathology
 	- Might affect motor neurons
-	- 
-
+- Axonal affects all types
 ### Clinical Features
 - Stocking and glove distribution of sensory loss (feet first)
-
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+**Differential**
+- Systemic processes
+- Diabetes
+- Vitamin deficiency
+- Drug toxicity
+- Alcohol use
+- HIV
+- Autoimmune
+- Renal Failure
 
 ### Treatment
 - Pharmacologic

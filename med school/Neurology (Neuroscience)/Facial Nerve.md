@@ -22,7 +22,7 @@ aliases:
 **DAMAGE BEFORE THIS: Bell’s palsy, face asymmetry, no salivation, loss of taste from anterior 2/3, sensitivity to sound**
 #### Terminal Branch: Somatic Motor Innervation
 **Location**
-- Starts in [[pons]] (wrapped around abducens nuc.)
+- Starts in [[pons]] (wrapped around [[abducens nuc.]])
 	- Creates facial colliculus
 	- *Lesion: only LMN loss*
 

@@ -7,6 +7,7 @@ date: 3-22-26
 source: Neuro
 ---
 *Crest cells from edges of neural plate that migrate to lateral of neural tube*
+
 **Trunk**
 - Sympathetic and parasympathetic ganglia
 	- Prevertebral (celiac, sup. mesenteric, etc)
@@ -28,7 +29,7 @@ source: Neuro
 
 >[!Clinical] Neurocristopathy
 >Conditions from abnormal migration of neural crest cells
->- Hirschsprung syndrome
+>- [[Congenital Megacolon|Hirschsprung disease]] 
 >- [[Albinism]]
 >- [[Pheochromocytoma]]
 >- [[Neurofibromatosis 1]]

@@ -2,6 +2,10 @@
 aliases:
   - synthetic corticosteroids
   - Synthetic corticosteroids
+  - corticosteroids
+  - Corticosteroids
+  - corticosteroid
+  - Corticosteroid
 date: 12-13-25
 source: FoM II
 ---

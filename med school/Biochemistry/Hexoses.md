@@ -29,6 +29,7 @@ Large hydrophilic so need transporters
 - Specific to glucose
 - Across body
 	- Erythrocytes, liver, pancreas, skeletal muscle, lungs, brain, heart, kidneys, adipose, intestines
+- **Patients with deficiency -> ketogenic diet**
 
 **GLUT2**
 - Nonspecific

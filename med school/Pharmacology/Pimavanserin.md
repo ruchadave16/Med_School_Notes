@@ -10,4 +10,4 @@ tags:
 - No dopamine antagonist effects
 - No EPS
 
-Used for psychosis in [[Parkinsons disease]] – avoiding dopamine blockage is ESSENTIAL
+Used for psychosis in [[Parkinson's Disease|Parkinson's disease]] – avoiding dopamine blockage is ESSENTIAL

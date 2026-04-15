@@ -15,7 +15,7 @@ tags:
 
 ### Clinical Features
 - Symptoms
-	- Anterograde amnesia
+	- [[Anterograde amnesia]]
 	- Confabulation – making up stories
 - Signs
 - Variants

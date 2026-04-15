@@ -9,7 +9,7 @@ source: Neuro
 ### [[Hypothalamus]]
 - Motor nuclei
 ### Other Parts
-- Mammillary bodies: anterior surface, part of memory pathway
+- [[Mammillary bodies]]: anterior surface, part of memory pathway
 - [[Pineal gland]]: dorsal surface
 - [[Pituitary Gland]]
 

@@ -14,15 +14,37 @@ source: Neuro
 ### Locations
 #### Cortical Stroke
 - [[Anterior Cerebral A.|ACA]] stroke
-	- C/L leg weakness more than arm or face
+	- C/L leg weakness more than arm or face and sensory impairment
+	- Abulia -- ↓ motivation, stops tasks prematurely
+	- [[Urinary incontinence]]
+	- Judgement and emotion disturbance
+	- [[Transcortical Motor Aphasia]]
+	- Non-dominant limb [[ataxia]]
 - [[Middle Cerebral A.|MCA]] stroke
-	- C/L arm and lower face weakness
-	- Aphasia, neglect, visual field cuts
+	- Superior Division
+		- C/L arm and lower face weakness and sensory loss
+		- [[Dysarthria]]
+		- I/L gaze neglect
+		- [[Broca's Aphasia]], expressive
+		- C/L hemineglect (non-dominant)
+	- Inferior Divison
+		- C/L hemineglect
+		- [[Wernicke's Aphasia]]
+		- C/L homonymous superior quadrantanopia
+		- Constructional apraxia, behavior disturbance
+	- Stem of MCA
+		- Global aphasia
+		- C/L hemiplegia + hemianesthesia
+		- C/L homonymous hemianopia
+		- I/L gaze preference
+		- Non-dominant neglect
 - [[Internal Carotid Artery|ICA]] stroke -- ACA and MCA both
 	- C/L lower face, arm, and leg weakness
 - [[Posterior Cerebral A.|PCA]] stroke
 	- Spares motor cortex but early branches can affect brainstem
-	- Homonymous hemianopia
+	- C/L Homonymous hemianopia
+	- Memory loss / behavior change
+	- Visual neglect ABSENT
 - Subcortical stroke -- [[Lateral Striate A.|Lenticulostriate aa.]]
 	- Centrum Semiovale -- anterior 2/3 of posterior limb of IC
 	- Lower face, arm, leg equally affected, no cortical symptoms
@@ -49,10 +71,10 @@ source: Neuro
 
 - [[Parinaud’s syndrome]]
 	- Dorsal midbrain
-	- Upward gaze palsy
+	- Upward gaze palsy -- damage to posterior commisure
 	- Light-near dissociation
-		- damage the dorsal Edinger-Westphal nucleus (light reflex) but spare the rostroventral Edinger-Westphal nucleus 
-		- Pupils respond to light but not stimulus
+		- damage the dorsal [[Edinger-Westphal nucl.|Edinger-Westphal nucleus]] (light reflex) but spare the rostroventral [[Edinger-Westphal nucl.|Edinger-Westphal nucleus]]
+		- Pupils respond to light but not stimulus (pseudo Argyll Robertson pupil)
 	- Convergence-retraction nystagmus when looking up
 	- Lid retraction -- sclera above iris
 	- [[Pinealoma]], SCA stroke
@@ -68,7 +90,7 @@ source: Neuro
 
 - [[Medial Pontine Syndrome]] 
 	- CN VI fascicule -- I/L abduction palsy
-	- CN VI nucleus (PPRF) -- I/L [[horizontal gaze palsy]]
+	- [[CN VI nucleus]] (PPRF) -- I/L [[horizontal gaze palsy]]
 	- MLF -- I/L adduction palsy
 	- Medial leminscus -- C/L body proprioception and vibration loss
 	- Corticobulbar and corticospinal -- C/L UMN body

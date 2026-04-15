@@ -16,9 +16,9 @@ source: Neuro
 
 >[!Clinical] Tested Clinically
 >- Biceps and brachioradialis -- C5-6
->- Triceps -- C7
->- Patellar -- L2-4
->- Ankle -- S1/S2
+>- Triceps -- C7-8
+>- Patellar -- L3-4
+>- Ankle -- S1-S2
 >  
 > -  Damage on pathway of the reflex can cause ↓ reflexes [[LMN Lesion]]
 >

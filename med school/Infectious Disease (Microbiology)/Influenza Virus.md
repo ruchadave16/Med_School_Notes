@@ -34,7 +34,7 @@ tags:
 - ↑ susceptibility to [[Staph Aureus|staph aureus]], [[Streptococcus Pneumonia|Strep Pneumo]], [[Hemophilus Influenza|H. influenza]]
 
 Rare
-- [[Guillain-Barre Syndrome]]
+- [[Guillain Barre Syndrome|Guillain-Barre syndrome]]
 - [[Reyes Syndrome]]
 #### Diagnosis
 #### Treatment

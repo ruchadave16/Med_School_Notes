@@ -17,7 +17,8 @@ tags:
 	- Shifts to R form
 	- Reduced carrying capacity → tissue hypoxia
 - CO also binds to [[myoglobin]] → cardiac ischemia
-
+- Bilateral necrosis of **globus pallidus**
+![[Screenshot 2026-04-14 at 9.17.25 PM.png]]
 ### Clinical Features
 - Nonspecific
 	- **Headache**
@@ -49,9 +50,8 @@ tags:
 - 100% $O_2$ (hyperbaric oxygen) to displace CO from blood
 	- **Start IMMEDIATELY if suspicion**
 
-### Complications
-- Short-term
-- Long-term
+### Prevention
+- CO detectors
 
 ### High-Yield Associations
 - Classic buzzwords

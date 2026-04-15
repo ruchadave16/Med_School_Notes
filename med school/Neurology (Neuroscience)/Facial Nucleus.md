@@ -5,6 +5,8 @@ aliases:
   - facial nuc
   - Facial nuc.
   - facial nuc.
+  - Facial nucl.
+  - facial nucl.
 date: 3-27-26
 source: Neuro
 ---

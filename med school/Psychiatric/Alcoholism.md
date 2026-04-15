@@ -7,7 +7,7 @@ source: Neuro
 tags:
   - disease
 ---
-- AUD = problamatic pattern of [[alcohol]] use
+- AUD = problamatic pattern of [[Psychiatric/Alcohol]] use
 ### Etiology
 - Genetic, cultural, environmental, biological
 - Genetic Risk
@@ -19,9 +19,8 @@ tags:
 - Comorbidity
 	- [[Anxiety Disorders|Anxiety disorders]]
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
-
+- Vermal atrophy
+![[Screenshot 2026-04-14 at 9.21.52 PM.png]]
 ### Clinical Features
 - [[Alcohol Intoxication]]
 - Must meet ≥2 of 11 criteria over 12 months (Mild = 2-3, Moderate = 4-5, Severe = 6+)
@@ -82,7 +81,7 @@ tags:
 - Psychosocial – motivational interviewing, 12 step programs, CBT, individual or group therapy
 
 ### Complications
-- Alcohol poisoning, cardiomyopathy, gastritis, liver cirrhosis, polyneuropathy, psychoses
+- [[Alcohol poisoning]], cardiomyopathy, gastritis, liver cirrhosis, polyneuropathy, psychoses
 - Secondary
 	- Cancer, diabetes, GI disease, heart disease, liver disease, pancreatitis, pneumonia, tuberculosis
 - [[Wernickes Encephalopathy]]

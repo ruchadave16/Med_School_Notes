@@ -41,6 +41,5 @@ source: FoM I
 	- Half choline taken back into presynaptic through Na/choline cotransport to make new ACh
 	- [[Cholinesterase Inhibitors|AchE inhibitors]] block degradation of ACh, causing it to stay in synapse and EPP increases in size
 	- [[Hemicholinium]] blocks choline uptake and depletes presynaptic ends of ACh stores
+### [[Neuromuscular Disorders]]
 
->[!Clinical] [[Myasthenia Gravis]]
->Reduced ACh receptors on [[muscle end plate]] so EPP reduced

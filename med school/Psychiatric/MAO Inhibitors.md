@@ -6,7 +6,7 @@ source: Neuro
 tags:
   - drug
 ---
-selegiline (MAO-B), phenelzine, tranylcypromine
+selegiline (MAO-B irreversible), Rasagiline (MAO-B irreversible),  phenelzine, tranylcypromine
 
 >[!Warning]
 >Tyramine buildup warning 
@@ -16,6 +16,7 @@ selegiline (MAO-B), phenelzine, tranylcypromine
 - No distinction between MAO-A and MAO-B
 #### Uses
 - [[Major Depressive Disorder|Depression]] that doesn’t respond to anything else
+- [[Parkinson's Disease|Parkinsons]]
 #### Administration
 
 #### Dosing

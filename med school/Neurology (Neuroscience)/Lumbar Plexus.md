@@ -24,7 +24,7 @@ source: MGA
 - Lateral femoral cutaneous n. (L2-L3)
 	- Sensory to lateral thigh
 
->[!Clinical] [[Meralgia Paresthetica Syndrome]]
+>[!Clinical] [[Meralgia Paresthetica|Meralgia Paresthetica Syndrome]]
 >Compression of [[Inguinal Ligament|inguinal ligament]] injures lateral femoral cutaneous n., loss of sensation to lateral thigh
 
 - Obturator n. (L2-L4)

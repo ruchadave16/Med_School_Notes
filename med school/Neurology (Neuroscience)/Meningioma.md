@@ -34,7 +34,6 @@ tags:
 ### Treatment
 - Surgical excision of tumor
 - Radiation for recurrence or higher grade
-- 
 
 ### Complications
 - Short-term

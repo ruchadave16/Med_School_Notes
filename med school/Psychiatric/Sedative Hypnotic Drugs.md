@@ -11,7 +11,7 @@ source: Neuro
 
 - Depress [[CNS]] in linear dose-dependent manner
 	- Calming, sleeping, unconscious, anesthesia, coma, respiratory depression
-	- [[Barbiturates]], [[Alcohol]]
+	- [[Barbiturates]], [[Psychiatric/Alcohol]]
 - Modern drugs = nonlinear manner so higher doses are less life threatening
 	- [[Benzodiazephines]], newer hypnotics
 	- Wider therapeutic window

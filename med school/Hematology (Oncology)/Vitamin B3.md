@@ -17,15 +17,15 @@ source: ID
 #### Functions
 - Coenzyme for redox reactions
 #### Deficiency
-
 **Signs**
-- [[Pellagra]]: **Diarrhea, dermatitis (for C3/4 dermatome), dementia**
+- [[Pellagra]]: 
 - Hyperkeratotic patches
 - Glossitis
 - Loss of consciousness
 
 >[!Note]
 >Found in ppl who use corn as main diet
+>Also [[alcoholism]]
 #### Toxicity
 - **Flushing**
 - Hyperglycemia

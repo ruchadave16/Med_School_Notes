@@ -20,7 +20,7 @@ source: Neuro
 	- Controls descending analgesic pathways
 	- Controls emotional rxn to pain
 - Spinomesencephalic tract
-	- Synapse on superior colliculus and PAG (periaqueductal gray)
+	- Synapse on [[superior colliculus]] and PAG (periaqueductal gray)
 	- Function: turn eyes to pain, activates descending tracts to control pain
 - Lateral Corticospinal Tract
 - Anterior Corticospinal Tract

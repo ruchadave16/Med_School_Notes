@@ -14,7 +14,7 @@ tags:
 #### Uses
 - [[Major Depressive Disorder|Depression]]
 - Pain Disorders
-	- Neuropathic pain (e.g., diabetic peripheral neuropathy)
+	- Neuropathic pain (e.g., [[diabetic peripheral neuropathy]])
 	- [[Fibromyalgia]]
 	- Chronic musculoskeletal pain
 - [[General Anxiety Disorder]]

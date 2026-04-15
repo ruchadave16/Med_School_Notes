@@ -19,7 +19,7 @@ tags:
 - Fever
 - Abdominal pain (RLQ)
 
-- [[Guillain-Barre Syndrome]]
+- [[Guillain Barre Syndrome]]
 - [[IBS]]
 - [[Reactive arthritis]]
 - [[Hemolytic uremic syndrome]]

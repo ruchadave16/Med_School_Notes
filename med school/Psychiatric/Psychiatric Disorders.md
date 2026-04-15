@@ -40,7 +40,7 @@ Distorted body image and dysfunctional eating behaviors
 Inability to resist harmful urges
 - [[Pyromania]]: repeated fire setting
 - [[Kleptomania]]: repeated urge to steal
-- [[Substance Use Disorders]]: problamatic use of substances like [[alcohol]], drugs, or gambling
+- [[Substance Use Disorders]]: problamatic use of substances like [[Psychiatric/Alcohol]], drugs, or gambling
 #### [[Personality Disorders]]
 Enduring and inflexible patterns of thinking, behaving that cause problems socially
 - [[Antisocial Personality Disorder]]: disregard for and violation of rights of others

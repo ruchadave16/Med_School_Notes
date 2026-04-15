@@ -10,8 +10,7 @@ tags:
 *High secretion of [[Vasopressin|ADH]] from either [[posterior pituitary]] or an autonomous site*
 
 ### Etiology
-- Primary causes
-- Risk factors
+- Hyponatremia
 
 ### Pathophysiology
 - Mechanism of disease

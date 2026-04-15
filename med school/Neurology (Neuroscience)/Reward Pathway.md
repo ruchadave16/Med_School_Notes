@@ -2,7 +2,6 @@
 aliases:
   - reward pathway
   - Reward pathway
-  - Mesolimbic pathway
 date: 1-9-26
 source: Neuro
 ---

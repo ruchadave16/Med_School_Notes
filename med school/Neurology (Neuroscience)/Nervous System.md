@@ -32,8 +32,7 @@ aliases:
 		- Motor (involuntary control)
 		- Sympathetic vs. Parasympathetic
 		- **2 neuron** pathways →presynaptic to postsynaptic to effector
-		
->[!Clinical] [[Guillain-Barre Syndrome]] – T cell-mediated immune response that destroys myelin sheath (PNS) → Loss of sensation and motor function
+
 
 ##### Functional Structure
 - Motor

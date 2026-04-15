@@ -8,6 +8,6 @@ source: Neuro
 
 **Causes**
 - [[Lyme Disease]]
-- [[Guillain-Barre Syndrome]]
+- [[Guillain Barre Syndrome|Guillain-Barre syndrome]]
 - [[Sarcoidosis]]
 - [[Mobius Syndrome]]

@@ -2,6 +2,8 @@
 aliases:
   - benzodiazephines
   - BDZs
+  - Benzos
+  - benzos
 date: 1-13-26
 source: Neuro
 tags:
@@ -24,7 +26,7 @@ Alprazolam, lorazepam, clonazepam, diazepam, oxazepam
 	- ↑ Stage 2 non-REM sleep
 	- ↓ REM sleep and stage 4 slow wave
 - Muscle relaxation ([[Diazepam]])
-- Anterograde amnesia
+- [[Anterograde amnesia]]
 - Anticonvulsant ([[clonazepam]], [[Diazepam]])
 - Antiolytic – calming, reduce anxiety
 - Respiratory and CV minimal effects
@@ -35,7 +37,8 @@ Alprazolam, lorazepam, clonazepam, diazepam, oxazepam
 	- **DO NOT BIND TO GABA B**
 - Cl- influx → hyperpolarization → inhibition of neuron
 #### Uses
-Severe [[Panic Disorder]], [[General Anxiety Disorder]]
+- Severe [[Panic Disorder]], [[General Anxiety Disorder]]
+- Acute seizure control, [[Status epilepticus]]
 - Not first line, only used for acute anxiety or initial management
 #### Administration
 
@@ -54,7 +57,8 @@ Severe [[Panic Disorder]], [[General Anxiety Disorder]]
 #### Overdose
 - **CNS symptoms with normal vitals**
 #### Contraindication
-- [[Alcohol]]
+- [[Psychiatric/Alcohol]]
+	- Only use LOT (lorazepam, oxazepam, temazepam)
 - Elderly patients
 	- Lower Phase I metabolism so longer half-life
 	- Higher risk of amnesia, confusion

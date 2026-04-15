@@ -9,7 +9,7 @@ tags:
 ---
 *[[Catecholamines|Catecholamines]], works as [[Neurotransmitters|neurotransmitter]] (excitatory and inhibitory) in CNS*
 #### Synthesis
-- Noradrenergic neurons in **locus coeruleus** of brainstem
+- Noradrenergic neurons in **[[locus coeruleus]]** of brainstem
 - [[Vitamin C]] = coenzyme in conversion of [[dopamine]] → norepinephrine
 #### Effects
 Receptor activity: **$\alpha1$ > $\alpha2$ > $\beta1$ agonist**

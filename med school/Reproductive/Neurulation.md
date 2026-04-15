@@ -6,26 +6,6 @@ source: Neuro
 ---
 *Formation of [[neural tube]] from [[neural plate]]*
 
-![[Drawing 2026-03-22 18.40.25.excalidraw]]
-
-- Neural tube split into **alar plate** that makes sensory nuclei in brainstem and spinal cord and **basal plate** that makes motor nuclei in brainstem and spinal cord based on *chemical signals*
-#### Spinal Cord
-- Sulcus limitans = longitudinal layer that separates tube into ventral and dorsal
-	- Alar Plate
-		- Dorsal, becomes sensory
-		- Neural crest send process into here and out to skin -- sensory neurons
-		- Interneurons
-		- Becomes **[[dorsal gray horn]]** and sensory nuclei
-	- Basal Plate 
-		- Ventral, becomes motor
-		- Cells move out to innervate myotomes
-		- Becomes **[[Ventral Horn|ventral gray horn]]**
-	
-#### Primary Neurulation
-*Tube forms brain and up to lumbar spinal cord*
-#### Secondary Neurulation
-*Tube forms sacral and caudal spinal cord*
-
 ##### Day 18-20
 - Neural plate forms
 - Notochord induces thickening of ectoderm above [[notochord]]
@@ -48,3 +28,24 @@ source: Neuro
 ![[Screenshot 2026-03-22 at 6.26.18 PM.png]]
 
 ![[Screenshot 2025-08-06 at 2.20.08 PM.png]]
+
+
+![[Drawing 2026-03-22 18.40.25.excalidraw]]
+
+- Neural tube split into **alar plate** that makes sensory nuclei in brainstem and spinal cord and **basal plate** that makes motor nuclei in brainstem and spinal cord based on *chemical signals*
+#### Spinal Cord
+- Sulcus limitans = longitudinal layer that separates tube into ventral and dorsal
+	- Alar Plate
+		- Dorsal, becomes sensory
+		- Neural crest send process into here and out to skin -- sensory neurons
+		- Interneurons
+		- Becomes **[[dorsal gray horn]]** and sensory nuclei
+	- Basal Plate 
+		- Ventral, becomes motor
+		- Cells move out to innervate myotomes
+		- Becomes **[[Ventral Horn|ventral gray horn]]**
+	
+#### Primary Neurulation
+*Tube forms brain and up to lumbar spinal cord*
+#### Secondary Neurulation
+*Tube forms sacral and caudal spinal cord*

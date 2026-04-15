@@ -65,7 +65,7 @@ tags:
 - [[Cerebral Edema|Cerebral edema]]
 - [[Hydrocephalus]] (comm. or noncomm)
 - ↓ blood supply so infarct common
-- Hippocampal infarct
+- [[Hippocampus]] infarct
 - [[Waterhouse-Friderichsen Syndrome]]
 ### High-Yield Associations
 - Classic buzzwords

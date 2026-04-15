@@ -37,7 +37,7 @@
 >[!Example] He is alert and orientated to person, place, and time, and situation.
 
 - Intellectual Functioning: → Normal? What problems?
-	- Memory: 3 objects immediate and delayed
+	- [[Memory]]: 3 objects immediate and delayed
 	- Judgement: Pt understanding and plan to deal with illness
 	- Insight: Pt understanding of illness and situation: 
 

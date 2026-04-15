@@ -15,15 +15,16 @@ tags:
 - NF1 encodes a tumor suppressor – loss of heterozygosity in somatic tissues so no good gene
 - All patients are heterozygous
 - **100% penetrance**
-
 ### Clinical Features
 - Highly variable presentation
+
+![[Screenshot 2026-04-08 at 11.07.00 PM.png]]
 - Some patients have Cafe-au-lait spots (overproduction of pigment cells)
-- Other patients have Lish nodules (benign neurofibroma growths)
+- Other patients have Lish nodules (benign [[neurofibroma]] growths) in iris
 
-![[Screenshot 2025-12-06 at 3.38.01 PM.png]]
+![[Screenshot 2026-04-08 at 11.07.37 PM.png]]
 
-![[Pasted image 20251209173422.png]]
+- Axillary freckling
 ### Diagnosis
 - Labs
 - Imaging

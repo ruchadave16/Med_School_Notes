@@ -9,7 +9,6 @@ tags:
 ---
 ### Definition
 Injury to C8-T1 or lower trunk
-
 ### Etiology
 - Primary causes
 	- Arm abduction pulled away from body
@@ -25,12 +24,13 @@ Injury to C8-T1 or lower trunk
 
 ### Clinical Features
 - Symptoms
-	- Motor loss: IP extension, intrinsic hand muscle, [[Horner’s Syndrome]]
+	- Motor loss: IP extension, intrinsic hand muscle, [[Horner’s Syndrome]] <- I/L in severe cases
 	- Sensory loss: C8, T1 (medial [[forearm]]/[[hand]], 4th and 5th digits)
 - Signs
 	- Total Claw Hand (flexion of IP joints and extension of MCP)
 - Variants
 
+![[Pasted image 20260408133842.png]]
 ### Diagnosis
 - Labs
 - Imaging

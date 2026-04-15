@@ -31,5 +31,5 @@ source: Neuro
 Medial: [[basilar a.]] perforates, and [[Posterior Cerebral A.|posterior cerebral a.]] branches
 Lateral: [[Posterior Cerebral A.|posterior cerebral a.]] and superior cerebellar a. <- [[basilar a.]] branches
 #### Nuclei
-- Oculomotor nuc. -- bilat. eye movement
-- Trochlear nuc. -- bilat eye movement
+- [[Oculomotor nucl.]] -- bilat. eye movement
+- [[Trochlear nucl.]] -- bilat eye movement

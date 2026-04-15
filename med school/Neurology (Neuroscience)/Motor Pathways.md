@@ -26,7 +26,7 @@ source: Neuro
 		- Red nucleus in [[midbrain]] -> C/L in spinal cord 
 		- **Limited in humans**
 	- Tectospinal tract
-		- Superior colliculus of midbrain -> C/L in anterior column
+		- [[Superior colliculus]] of midbrain -> C/L in anterior column
 		- Head movement with gaze
 	- Reticulospinal tract (M/L)
 		- [[Reticular formation]] -> anterior column

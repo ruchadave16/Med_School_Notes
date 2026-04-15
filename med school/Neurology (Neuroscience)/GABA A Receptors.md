@@ -14,5 +14,5 @@ source: Neuro
 	- Do NOT activate GABA receptor but enhance GABA effects allosterically 
 
 >[!Clinical]
->[[Alcohol]] enhances GABA A causing sedation 
+>[[Psychiatric/Alcohol]] enhances GABA A causing sedation 
 >Chronic alcohol use causes downregulation of receptors → withdrawal symptoms

@@ -17,7 +17,7 @@ tags:
 
 ### Clinical Features
 - Dry mouth, mydriasis, blurry vision, tachycardia, hot and flushed skin, urinary retention, constipation
-- CNS: Agitation and delirium
+- CNS: Agitation and [[delirium]]
 - “**Hot as a hare, dry as a bone, blind as a bat, red as a beet, mad as a hatter**”
 
 ### Diagnosis

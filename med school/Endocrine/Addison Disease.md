@@ -22,7 +22,7 @@ Loss of [[mineralocorticoids]]
 - Hypotension
 
 Loss of [[glucocorticoids]]
-- Hypoglycemia
+- [[Hypoglycemia]]
 - Anorexia
 - Weight loss
 - Nausea

@@ -21,7 +21,7 @@ tags:
 - Central obesity
 - Acne, ↑ fine hair growth
 - Metabolic Change
-	- Hyperglycemia
+	- [[Hyperglycemia]]
 	- Increased proteolysis → muscle wasting
 	- Increased lipolysis → thin limbs, thin skin
 	- Loss of connective tissue → Striae

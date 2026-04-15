@@ -10,7 +10,7 @@ tags:
 Disease of elastic arteries hardening
 
 ### Etiology
-##### Predisposing Factors
+### Predisposing Factors
 - Dyslipidemia (> 3:1 LDL:HDL ratio)
 - Hyperglycemia of diabetes
 - Hypertension

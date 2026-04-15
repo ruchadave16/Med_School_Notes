@@ -16,6 +16,6 @@ source: Neuro
 	- [[Cocaine]]: block dopamine reuptake
 	- [[Amphetamine]]: increase dopamine and norepinephrine release
 	- [[MDMA]]: increase serotonin release
-[[Alcohol]]
+[[Psychiatric/Alcohol]]
 
 ![[Screenshot 2026-01-15 at 3.36.15 PM.png]]

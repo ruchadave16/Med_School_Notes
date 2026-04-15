@@ -28,7 +28,7 @@ Motor to [[posterior thigh]], splits on popliteal fossa
 >- Compression of tibial n. behind medial malleolus → pain and numbness in sole of foot 
 >- Due to repeated stress, overweight, flat feet
 
-- Common fibular n. (L4-S2) – follows biceps femoris medially to wrap around neck of [[fibula]]
+- [[Common fibular n.]] (L4-S2) – follows biceps femoris medially to wrap around neck of [[fibula]]
 	- Deep fibulary (peroneal) n. 
 		- Deep to EDL (extensor digitorum longus)
 		- Motor to anterior leg and dorsum of foot

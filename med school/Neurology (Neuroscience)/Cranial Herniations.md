@@ -11,7 +11,7 @@ Causes: hemorrhage, tumor, abscess, noncommunicating hydrocephalus
 - Causes ↑ [[ICP]]
 #### Categories
  - Cingulate (cingulate gyrus pushed under falx cerebri)
-	 - Compresses [[Anterior Cerebral A.|ACA]]: C/L LE motor and sensory loss, aphasia
+	 - Compresses [[Anterior Cerebral A.|ACA]]: C/L LE motor and sensory loss, [[aphasia]]
 - Uncal transtentorial -- Uncus and parahippocampal gyrus pushed under tentorial notch
 	- Compress [[Oculomotor Nerve|CN III]] -- dilated pupil
 	- Cerebral peduncles pressed -- Contralateral [[UMN lesion]]

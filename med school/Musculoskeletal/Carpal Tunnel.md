@@ -7,7 +7,6 @@ source: MGA
 #### Boundaries
 - Posterior: [[Carpal Bones|carpals]]
 - Anterior: flexor retinaculum
-
 #### Structures
 - Tendons of flexor digitorum superficialis (4)
 - Tendons of flexor digitorum profundus (4)
@@ -18,4 +17,3 @@ source: MGA
 >Compression of median n. as it passes deep to flexor retinaculum
 >- Pain and numbness of thumb, index finger, middle finger
 >- Weakness of thenar muscles
->- 

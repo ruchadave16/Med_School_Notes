@@ -16,7 +16,7 @@ source: Neuro
 - Block **in** ventricles
 - Causes: tumors, cyst blocking foramen of Monroe, hemorrhage, scarring post meningitis, [[Dandy-Walker Syndrome]], [[Chiari Malformation]]
 	- MOST COMMON: aqueduct stenosis
-#### Normal Pressure Hydrocephalus
+#### [[Normal Pressure Hydrocephalus]]
 - Chronically dilated ventricles
 - No change to subarachnoid space volume, compression of corona radiata
 - Enlarged lateral or 3rd ventricle

@@ -26,9 +26,8 @@ tags:
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- [[Vitamin B12|B12]] replacement
+- Treat malabsorption cause
 
 ### Complications
 - Short-term

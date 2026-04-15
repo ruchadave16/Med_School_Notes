@@ -15,7 +15,7 @@ source: Neuro
 
 ![[Screenshot 2026-03-20 at 1.04.01 AM.png]]
 #### [[Charcot-Bouchard Microaneurysm]]
-- Most common in basal ganglia from chronic HTN
+- Most common in [[basal ganglia]] from chronic HTN
 - Like lacunar stroke
 - Ruptures into hemorrhagic stroke
 #### [[Arteriovenous Malformation]]

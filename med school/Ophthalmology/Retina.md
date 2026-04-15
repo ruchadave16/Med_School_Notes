@@ -25,7 +25,7 @@ Simple cuboid
 - Retinal regeneration
 - [[Phagocytosis]]
 
-##### Neural Retina
+#### Neural Retina
 ![[Screenshot 2025-10-28 at 3.49.07 PM.png]]
 
 1) Inner limiting membrane
@@ -37,3 +37,5 @@ Simple cuboid
 7) Outer nuclear layer
 8) Outer limiting layer
 9) Rod and cone layer
+
+*Photoreceptors, bipolar, horizontal, amacrine, ganglion cells*

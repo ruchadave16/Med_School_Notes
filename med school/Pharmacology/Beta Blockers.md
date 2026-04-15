@@ -97,6 +97,9 @@ Most are antagonists but some are partial agonists or inverse agonists
 [[Hyperthyroidism]]
 - Alleviate symptoms
 
-[[Migraine Prophylaxis]]
+[[Migraines|Migraine]] proplylaxis
 - Can reduce frequency and severity 
 - [[Propranolol]], [[timolol]], [[metoprolol]]
+#### Contraindications
+- Asthma or severe COPD
+- Bradycardia or heart block

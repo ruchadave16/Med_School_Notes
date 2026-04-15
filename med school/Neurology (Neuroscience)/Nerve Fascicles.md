@@ -27,4 +27,15 @@ source: FoM I
 	- Loose [[Connective Tissue|connective tissue]], surrounds axons and [[Schwann Cells|Schwann cell]]s
 	- Contains [[Fibroblasts]] and capillaries
 	
-![[Screenshot 2025-08-10 at 11.47.17 AM.png]]
+![[Screenshot 2026-04-08 at 10.28.33 PM.png]]
+
+### Injuries
+- Axonal: changes amplitude of signal
+- Demyelinating: changes speed of signal
+
+[[Wallerian degeneration]] -- progressing degeneration (anterograde)
+- Distal to site of injury
+
+Central Chromatolysis -- swelling of cell body, displacement of nucleus and Nissl bodies
+
+![[Screenshot 2026-04-08 at 10.35.12 PM.png]]

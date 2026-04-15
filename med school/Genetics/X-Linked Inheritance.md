@@ -9,13 +9,6 @@ Because men only have 1 X chromosome, they will express all mutations
 - [[Hemophilia A]]
 - [[OTC Deficiency]]
 - [[Duchenne Muscular Dystrophy]]
-	- Mutation of DMD gene that makes [[dystrophin]]
-	- Weakness progresses, loss of muscle
-	- 20x HIGHER creatine kinase 
-	- 8-10% heterozygous females show symptoms
-		- Skewed X inactivation (DMD/WT) ← only express mutant
-		- Uniparental isodisomy (DMD/DMD) ← both copies from mother
-		- New germline mutation 
 
 **X Dominant**
 - [[Hypophosphatemic Rickets]]

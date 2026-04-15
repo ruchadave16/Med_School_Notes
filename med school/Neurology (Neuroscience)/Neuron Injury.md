@@ -38,7 +38,7 @@ source: Neuro
 - [[Lipofuscin]] due to aging
 - Lipid inclusions -- errors of metabolism
 - Tau tangles -- [[Alzheimers Disease|Alzheimers]]
-- Lewy bodies -- [[Parkinsons]]
+- Lewy bodies -- [[Parkinson's Disease|Parkinson's]]
 - Pick bodies -- [[Pick Disease]]
 - Cowdry A / B -- [[herpes]]
 - Negri bodies -- [[Rabies Virus]]

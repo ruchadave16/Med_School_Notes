@@ -20,7 +20,7 @@ tags:
 
 ### Clinical Features
 - I/L eye abducted and depressed (down and out)
-- Diplopia
+- Diplopia -- worse with C/L gaze and convergence
 - Mydriasis
 - Non-reactive to light
 - Near vision loss -- no accomodation
@@ -28,6 +28,7 @@ tags:
 
 ### Diagnosis
 >[!Warning] Acute CN III palsy WITH I/L mydriasis and headache = PComm aneurysm unless proven otherwise
+>- Need to avoid [[Subarachnoid Hemorrhage]] and death
 
 ### Treatment
 - Pharmacologic

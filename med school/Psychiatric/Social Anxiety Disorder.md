@@ -16,7 +16,7 @@ tags:
 
 ### Clinical Features
 - Persistent for 6+ months
-- Comorbidity with [[alcohol]] use disorders
+- Comorbidity with [[Psychiatric/Alcohol]] use disorders
 ### Diagnosis
 - Labs
 - Imaging

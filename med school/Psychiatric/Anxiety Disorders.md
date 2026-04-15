@@ -34,7 +34,7 @@ source: Neuro
 #### Commonly Confused Disorders
 - Cardiovascular: [[anemia]], [[angina]], [[hypertension]], [[congestive heart failure]]
 - Pulmonary: [[asthma]], [[hyperventilation]], [[pulmonary embolism]]
-- Neurological: [[epilepsy]], [[migraine]], [[multiple sclerosis]], [[Wilsons disease]], infection, tumor
+- Neurological: [[epilepsy]], [[migraines]], [[multiple sclerosis]], [[Wilson Disease|Wilsons disease]], infection, tumor
 - Endocrine: [[Addison Disease|Addisons disease]], [[carcinoid syndrome]], [[pheochromocytoma]], [[diabetes]], [[hyperthyroidism]], [[hypoglycemia]], [[hypoparathyroidism]]
 - Drug Intoxication: [[amphetamine]], [[Anticholinergic Drugs|anticholinergics]], [[hallucinogens]], [[marijuana]], [[nicotine]], [[cocaine]], [[theophylline]]
 - Drug Withdrawal: [[Alcohol Withdrawal]], [[antihypertensives]], [[Opioids]], [[sedative hypnotics]]

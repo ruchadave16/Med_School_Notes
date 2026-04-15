@@ -56,7 +56,7 @@ source: PoM I
 	*Near Visual Acuity = 20/20 both eyes, uncorrected. Visual fields are full and intact to confrontation*
 
 - Can do color vision to rule out damage to optic nerve (red-green deficit / red desaturation)
-- Pupillary Light Response (no glasses)
+- xPupillary Light Response (no glasses)
 	- Dim light, tell them to look at nose, 2x on each eye
 	- Direct response (pupil should constrict with light)
 	- Indirect response (opposite should constrict)

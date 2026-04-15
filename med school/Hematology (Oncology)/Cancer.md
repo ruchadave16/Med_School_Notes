@@ -12,7 +12,7 @@ source: ID
 - Dominant risk factors
 - Diet – obesity = moderately ↑ risk for many cancers
 - [[Smoking]] = cancers of mouth, larynx, pharynx, esophagus, pancreas, bladder, and lung
-- [[Alcohol]] = cancers of oropharynx, larynx, esophagus, liver
+- [[Psychiatric/Alcohol]] = cancers of oropharynx, larynx, esophagus, liver
 - Reproductive history = estrogen exposure increases risk of breast cancer and endometrium
 - Infectious agents
 	- [[EBV]] 

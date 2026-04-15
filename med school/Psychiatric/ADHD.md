@@ -10,7 +10,7 @@ tags:
 ### Etiology
 - Genetic: 75-90% heritability
 - Gene links = D4, DAT, MAO A
-- Environmental factors: prenatal [[alcohol]] or [[tobacco]] exposure = 9-20% symptoms
+- Environmental factors: prenatal [[Psychiatric/Alcohol]] or [[tobacco]] exposure = 9-20% symptoms
 
 ### Pathophysiology
 - Neurotransmitter dysregulation

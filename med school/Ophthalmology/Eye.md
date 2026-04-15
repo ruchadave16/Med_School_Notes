@@ -115,7 +115,7 @@ source: MGA
 >[!Clinical]
 >-  Accommodation
 >	- Parasympathetic through oculomotor makes ciliary muscle contract, stretching lens
->- Pupillary Light Reflex
+>- [[Pupillary Reflex]]
 >	- Sphincter papillae: parasympathetic constriction in light
 >	- Dilator papillae: sympathetic dilation in dark
 

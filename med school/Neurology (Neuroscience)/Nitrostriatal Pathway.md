@@ -4,7 +4,7 @@ aliases:
 date: 1-9-26
 source: Neuro
 ---
-- Links substantia nigra to neostriatum
+- Links substania nigra to neostriatum
 - Controls motor control and coordination
-- Degeneration of pathway is KEY in [[Parkinsons disease]]
+- Degeneration of pathway is KEY in [[Parkinson's Disease]]
 	- [[Levodopa]] attempts to restore dopamine here

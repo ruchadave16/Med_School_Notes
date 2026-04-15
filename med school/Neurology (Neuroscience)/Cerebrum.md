@@ -40,28 +40,28 @@ source: Neuro
 
 - [[Basal ganglia]] -- nuclei series that controls movement and behavior
 - Corona radiata -- white matter with descending axons
-### Frontal Lobe
+### [[Frontal Lobe]]
 - Function: Motor areas, personality, motivation, reasoning
 - Gyri: Superior, middle, inferior frontal gyri
 - Precentral gyrus has **[[primary motor cortex]]**
 
 ![[Screenshot 2026-03-18 at 10.36.12 PM.png]]
-### Parietal Lobe
+### [[Parietal Lobe]]
 - Function: [[Somatic sensation]], awareness of self and surroundings
 - Gyri: Postcentral gyrus (has **primary [[somatosensory cortex]]**), supramarginal gyrus, angular gyrus, etc
 
 ![[Screenshot 2026-03-18 at 10.38.30 PM.png]]
-### Temporal Lobe
+### [[Temporal Lobe]]
 - Function = language, smell, hearing
 - Gyri: Superior, middle, inferior temporal gyri, occipital temporal gyrus
 
 ![[Screenshot 2026-03-18 at 10.39.45 PM.png]]
-### Occipital Lobe
+### [[Occipital Lobe]]
 - Visual processing
 - Calcarine sulcus, lingual gyrus, cuneus
 
 ![[Screenshot 2026-03-18 at 10.40.18 PM.png]]
-### Limbic Lobe
+### [[Limbic System|Limbic Lobe]]
 - Olfaction, emotion, memory
 - Cingulate gyrus, parahippocampal gyrus, cingulate sulcus
 - Uncus -- bump that is medial part of cerebrum
@@ -69,7 +69,7 @@ source: Neuro
 ![[Screenshot 2026-03-18 at 10.41.22 PM.png]]
 ### Vasculature
 - Lateral temporal, frontal, parietal -- [[Middle Cerebral A.]]
-	- **Infarct** = C/L motor and sensory loss of **UE and face and aphasia**
+	- **Infarct** = C/L motor and sensory loss of **UE and face and [[aphasia]]**
 - Medial frontal, parietal -- [[Anterior Cerebral A.]]
 	- **Infarct** = C/L motor and sensory loss of **LE**
 - Occipital and medial temporal -- [[Posterior Cerebral A.]]

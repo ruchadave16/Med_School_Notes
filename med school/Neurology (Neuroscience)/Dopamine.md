@@ -13,11 +13,11 @@ source: Neuro
 1) [[Nitrostriatal Pathway]]
 	- Motor control
 	- Dopamine antagonism causes **[[Extrapyramidal Symptoms|extrapyramidal side effects]]**
-2) [[Mesolimbic Mesocortical Pathway]]
+2) [[Mesocortical Pathway]]
 	- Behavior + emotion
 	- Dopamine antagonism reduces + symptoms, can worsen - symptoms
 3) [[Tuberoinfundibular Pathway]]
 	- Prolactin secretion
 	- Dopamine antagonism causes [[hyperprolactinemia]]
-	
-![[Screenshot 2026-01-10 at 5.31.23 PM.png]]
+
+![[Screenshot 2026-04-13 at 9.11.04 PM.png]]

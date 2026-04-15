@@ -35,4 +35,17 @@ Postganglionic cell body in autonomic [[ganglia]] of PNS → axon synapse on org
 - Resting tone: constant stimulation of parasympathetic fibers
 
 - Preganglionic bodies release [[ACh]], which binds to [[Nicotinic Receptors|nicotinic receptors]] on postganglionic neurons
+#### Nuclei
+- Anterior and midcingulate cortex -- salient stimuli
+- Insular cortex -- interoception (body sensation)
+- Amygdala -- response to emotion
+- Hypothalamus -- homeostasis and stress response
+- PAG -- integration of stress, homeostasis, and pain modulatory 
+- Pelvic organ control area -- micturition
+- Parabrachial nucleus -- relay of info to forebrain
+- Solitary tract nucleus -- relay for CV, respiratory, and GI reflexes
+- Rostral ventrolateral medulla 
+- Ventromedial medulla
+- Caudal ventrolateral medulla
+- Medullary raphe -- respiration based on CO2 levels
 

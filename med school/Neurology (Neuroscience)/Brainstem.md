@@ -10,6 +10,8 @@ source: ID
 
 #### [[Brainstem Development]]
 
+**Midbrain keeps you awake, pons for sleep and posture, medulla keeps you alive**
+
 *Lesion*:
 - If [[Corticospinal Tract|CST]] signs (C/L UMN symptoms) and I/L CN signs (facial), brainstem lesion
 

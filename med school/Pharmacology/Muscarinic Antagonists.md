@@ -26,9 +26,9 @@ source: FoM II
 		- ↓ absorption through GI
 		- No crossing blood brain
 		- Used for peripheral effects
-	- **Non-Quaternary**: [[Trihexyphenidyl]], [[Benztropine]]
+	- **Non-Quaternary**: [[Trihexyphenidyl]], [[Benztropine]], Biperiden
 		- Cross [[blood brain barrier]]
-		- Used for [[Parkinsons disease]]
+		- Used for [[Parkinson's Disease]]
 
 4) Subtype Selective
 	- [[Pirenzepine]]: Selective to M1 receptors
@@ -43,7 +43,7 @@ source: FoM II
 		- Atropine: minimal stimulant
 		- Scopolamine: drowsiness and amnesia
 	- Toxic dose: excitement, hallucination, coma
-	- [[Parkinsons disease]]: tremor and rigidity is from excess of cholinergic activity 
+	- [[Parkinson's Disease|Parkinson's disease]]: tremor and rigidity is from excess of cholinergic activity 
 		- **[[Trihexyphenidyl]]**
 		- **[[Benztropine]]**
 	- [[Motion sickness]]: use [[Scopolamine]], [[Dimenhydrinate]]

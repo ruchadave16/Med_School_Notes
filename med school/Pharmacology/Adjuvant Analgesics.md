@@ -6,8 +6,7 @@ source: Neuro
 ---
 *Meds that can enhance analgesia and are helpful for neuropathic pain or chronic syndromes*
 
-**Gabapentin and pregabalin = 1st line for neuropathic pain**
-
+**[[Gabapentin]] and [[pregabalin]] = 1st line for neuropathic pain**
 #### [[Sodium Channel Inhibitors]]
 - [[Lamotrigine]] -- neuropathic pain, mood stabilization
 - [[Carbamazepine]] -- choice drug for trigeminal neuralgia
@@ -23,5 +22,5 @@ source: Neuro
 #### [[Anesthetics]]
 - [[Lidocaine]] 5% patch -- Postherpetic neuralgia, localized neuropathic pain
 - [[Capsaicin]] -- Neuropathic pain
-- 
+
 

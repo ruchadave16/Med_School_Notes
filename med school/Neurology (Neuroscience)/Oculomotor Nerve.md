@@ -5,17 +5,16 @@ aliases:
   - oculomotor nerve
 cssclasses:
 ---
-X**Motor** to all but superior oblique and lateral rectus
-	Located in center of the nerve
-- PSY through ciliary ganglion -- lateral in the nerve
+**Motor** to all but superior oblique and lateral rectus
+	Located in **center of the nerve**
+- PSY in Edinger-Westphal nucl. -> ciliary ganglion -- lateral in the nerve
 	- [[Pupil constriction]]
 
-*Ischemia or diabetes affects motor first (further from blood supply)*
-- Pupils still reactive
-
+>[!Note]
+>*Ischemia or diabetes affects motor first (further from blood supply)* -- Pupils still reactive
 *Aneurysm compression, tumor, uncal herniation affects parasympathetic first *
 ### Pathway
-- Nuclei in [[midbrain]] -- Oculomotor nuc. (EOM) and Edinger-Westphal nuc. (PSY)
+- Nuclei in [[midbrain]] -- [[Oculomotor Nucl.]] (EOM) and [[Edinger-Westphal nucl.]] (PSY)
 - Run ventrally and cross in front of red nucleus
 - Exit midbrain through interpeduncular fossa
 	- Compression -- [[Uncal herniation]]

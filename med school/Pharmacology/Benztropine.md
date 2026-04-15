@@ -9,7 +9,7 @@ tags:
 #### Action
 - Central CNS reduces Ach activity to improve balance of Ach and Dopamine
 #### Uses
-- [[Parkinsons disease]]
+- [[Parkinson's Disease]]
 #### Administration
 
 #### Dosing

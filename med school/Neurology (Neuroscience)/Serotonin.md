@@ -15,5 +15,5 @@ source: Neuro
 - Hunger + Satiety – appetite control
 - Vomiting – 5-HT3 mediates [[vomiting reflex]]
 #### Pathway
-- Serotonergic neurons in **raphe nuclei** of [[brainstem]], diffuse into whole CNS
+- Serotonergic neurons in **[[raphe nuclei]]** of [[brainstem]], diffuse into whole CNS
 #### [[Serotonin Receptors]]

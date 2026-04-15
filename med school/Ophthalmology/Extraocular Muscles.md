@@ -18,6 +18,8 @@ aliases:
 3) Oblique muscles (2)
 	- Inferior oblique: comes from anterior part of [[Eye|Orbit]]
 	- Superior oblique: from apex (CN IV)
+	
+![[Screenshot 2026-04-15 at 1.32.50 PM.png]]
 
 >[!Clinical] EOM palsy
 >- Paralysis of muscle, seen by limited movement of eyeball
@@ -29,4 +31,11 @@ aliases:
 >- [[Abducent Nerve Palsy]]
 >	- Pupil medial directed
 >
->![[Screenshot 2025-10-26 at 11.32.48 PM.png]]
+
+#### Control
+- Gaze Shifting
+	- Saccades: rapid conjugated movement to redirect fixation from object 1 to 2
+	- Vergence movements: both eyes adduct or abduct
+- Gaze Holding
+	- Tracking: slower movement of eye following a finger
+	- Vestibulocular reflex: reflex of eyes to move in opposite direction of head to fixate on object

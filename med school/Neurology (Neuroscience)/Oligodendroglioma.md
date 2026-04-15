@@ -6,7 +6,6 @@ source: Neuro
 tags:
   - disease
 ---
-
 - Survival > 10 year
 - Very commonly progresses to high grade tumors and almost always comes back eventually
 - Better prognosis than astrocytomas

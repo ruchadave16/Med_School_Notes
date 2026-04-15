@@ -11,7 +11,7 @@ tags:
 Compression of C8-T1 or inferior trunk AND [[Subclavian Artery|subclavian a.]] and v.
 ### Etiology
 - Primary causes
-	- Cervical rib
+	- 7th Cervical rib
 	- [[Pancoast Tumor|Pancoast tumor]]
 	- [[Hypertrophy]] of scalene muscles
 - Risk factors
@@ -27,6 +27,7 @@ Compression of C8-T1 or inferior trunk AND [[Subclavian Artery|subclavian a.]] a
 	- Swelling of arm (compression of subclavian v causes [[edema]])
 	- Pain and atropy of arm (compression of subclavian a.)
 	- Sensory: C8-T1 (medial [[forearm]] and hand numbness)
+	- [[Klumpke's Palsy]]
 - Signs
 - Variants
 

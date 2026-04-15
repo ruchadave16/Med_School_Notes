@@ -18,6 +18,7 @@ tags:
 	- Phenobarbital for generalized tonic-clonic seizures
 #### Uses
 - **Phenobarbital**: Anticonvulsant.
+	- Neonatal seizures
 - **Thiopental**: Intravenous anesthetic
 #### Administration
 

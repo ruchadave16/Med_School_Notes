@@ -18,7 +18,7 @@ Trigger
 - PAG (Periaqueductal gray ), midbrain
 	- Enkephalin producing neurons that stimulate raphe nuclei
 - [[Raphe nuclei]], medulla
-	- [[Serotonin]] neurons synapse on substantia gelatinosa
+	- [[Serotonin]] neurons synapse on substania gelatinosa
 	- Activates inhibitory neurons that release enkephalin to suppress pain
 - Locus ceruleus, pons
 	- [[Norepinephrine]] from ceruleospinal pathway reduces [[STT]] and suppresses substance P in dorsal horn

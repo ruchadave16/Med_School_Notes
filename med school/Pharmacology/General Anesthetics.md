@@ -15,7 +15,7 @@ source: Neuro
 
 **Goals**
 - Unconsciousness
-- Amnesia
+- [[Amnesia]]
 - Analgesia
 - ↓ Autonomic Reflexes
 - Skeletal Muscle Relaxation
@@ -33,7 +33,7 @@ source: Neuro
 	- ↑ K+ efflux so hyperpolarization
 #### Steps
 1) Analgesia
-2) Excitement -- delirium, agitation, hyperventilation, involuntary movements
+2) Excitement -- [[delirium]], agitation, hyperventilation, involuntary movements
 3) Surgical Anesthesia -- reach the goals above
 4) Medullary Depression -- resp. and CV depression and can cause death
 #### Modern Practice: Balanced

@@ -10,21 +10,22 @@ aliases:
 - Malnutrition, common in [[alcoholism]]
 - [[Vitamin B1|Thiamine]] (B1) deficiency
 ### Pathophysiology
-- Thiamine deficiency causes [[necrosis]] in brain regions
+- Thiamine deficiency causes [[necrosis]] in brain regions -> [[Mammillary Bodies|mammillary bodies]]
+
+![[Screenshot 2026-04-14 at 7.28.49 PM.png]]
 ### Clinical Features
-- Altered mental status (encephalopathy)
+- Altered mental status ([[encephalopathy]])
 - Ataxic gait
-- Ophthalmoplegia (w nystagmus)
+- [[Ophthalmoplegia]] (w nystagmus)
 	- Paralysis of lateral rectus
 	- Paralysis of conjugate gaze
-
 ### Diagnosis
 - Labs
 - Imaging
 - Criteria
 
 ### Treatment
-- RAPID IV [[Thiamine]] **EMERGENCY**
+- RAPID IV [[Vitamin B1|thiamine]] **EMERGENCY**
 - **GIVE THIAMINE BEFORE GLUCOSE**
 - **[[Magnesium]]** = cofactor
 

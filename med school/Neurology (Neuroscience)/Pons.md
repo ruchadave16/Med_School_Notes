@@ -25,8 +25,8 @@ source: Neuro
 	- Both come off of [[Basilar A.|basilar a.]]
 #### Nuclei
 - Motor nucleus for [[Trigeminal Nerve|CN V]] -- bilateral muscles of [[Chewing|mastication]]
-- Abducens nuc. -- bilat. eye movement
-- [[Facial Nucleus|Facial nuc.]] -- bilateral for upper face
+- [[Abducens Nucl.]] -- bilat. eye movement
+- [[Facial Nucleus|Facial nucl.]] -- bilateral for upper face
 	- C/L lower face
 	- *Lesion*: Rostral to this nuc. means C/L drooping of mouth but can raise eyebrows ([[Central facial palsy]])
 	- *Lesion*: At or past means I/L face drooping ([[Bell's Palsy]])
