@@ -2,7 +2,7 @@
 
 Parallel elements are a spring that generate passive force when muscle is stretched
 - Due to [[titin]] filaments in muscle fibers, [[Collagen|collagen]] in connective tissue, [[endomysium]], [[perimysium]], [[epimysium]], and incompressibility of muscle itself from high fluid content
-Contractile elements are [[sacromeres]] that generate active force when muscle is stimulated to contract
+Contractile elements are [[Sarcomere]] that generate active force when muscle is stimulated to contract
 - This force changes based on overlap of thick and thin filaments
 - Optimal length – initial muscle length 
 - If too short, no optimal cross-bridging because of crowding

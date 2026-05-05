@@ -20,7 +20,7 @@ source: MGA
 
 **Preganglionic fibers:**
 - Axons from spinal cord connect through [[white rami communicantes]] to [[sympathetic trunk]]
-- 
+
 #### Ganglia
 - [[Sympathetic trunk]] 
 	- Paired part next to [[vertebral column]]

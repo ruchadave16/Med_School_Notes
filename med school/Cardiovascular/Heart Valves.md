@@ -13,9 +13,8 @@ aliases:
 ---
 *Dense irregular connective tissue lined on both sides by simple squamous epithelium*
 
-![[Screenshot 2025-08-21 at 5.22.03 PM.png]]
-
-##### Tricuspid Valve
+![[Screenshot 2026-05-04 at 9.49.18 PM.png]]
+#### Tricuspid Valve
 - Between right atrium and ventricle
 - 3 cusps – anterior, posterior, septal
 - 3 sets of papillary muscle – anterior (largest), posterior, septal
@@ -23,7 +22,7 @@ aliases:
 	
 ![[Screenshot 2025-08-21 at 4.58.29 PM.png]]
 
-##### Bicuspid Valve
+#### Bicuspid Valve
 - 2 cusps (anterior, posterior) 
 - Between left atrium and ventricle
 
@@ -31,7 +30,7 @@ aliases:
 >[[Mitral Valve Prolapse]] – Valve failure to close results in bulging into left atrium → regurgitation of blood
 >
 >[[Valvular Stenosis]] – Narrowing of lumen by hardening of valve, birth defect, rheumatic fever, or radiation therapy
-##### Aortic and Pulmonary Valve
+#### Aortic and Pulmonary Valve
 - Pulmonary (3 cusps) – anterior, left, right
 - Aortic (3 cusps) – posterior, left, right
 - No chordae tendineae – backflow closes valves

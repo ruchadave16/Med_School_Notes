@@ -10,10 +10,10 @@ tags:
 ### Etiology
 - Happens in childhood (5 - 10 yrs)
 	- If < 2 yrs, worse prognosis
+- Isochrome 17q (deletion)
 
-- Isochrome 17q (deletion)	
 ### Pathophysiology
-- Type of Primitive Neuroepithelial Tumor in **[[cerebellum]]**
+- Type of Primitive Neuroepithelial Tumor in **[[cerebellum]]** (vermis)
 - Spreads through CNS by seeding along ventricular system
 
 **Micro**

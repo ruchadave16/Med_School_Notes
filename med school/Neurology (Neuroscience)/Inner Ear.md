@@ -9,8 +9,8 @@ source: FoM I
 - Contains vestibulocochlear organ
 	- [[Cochlea]] – hearing
 	- [[Vestibule]] – balance
-	
-![[Drawing 2025-10-31 19.51.04.excalidraw]]
+
+![[Screenshot 2026-04-26 at 11.46.37 AM.png]]
 #### Components
 1) Bony Labyrinth
 	- Fluid filled cavity within petrous part of temporal bone

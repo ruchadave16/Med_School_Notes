@@ -10,15 +10,15 @@ source: FoM I
 
 ![[Screenshot 2025-08-09 at 5.06.57 PM.png]]
 
-##### Components
+#### Components
 - Transverse Section
 	- Perpendicular to long axis of cell, right angle to [[Myofibril|myofibrils]]
-	- Attaches myocytes together 
+	- Attaches myocytes together -> **mechanical strength**
 	- Contains [[Fascia Adherens]] and [[Desmosomes]]
-	- Z-line for final sacromere
+	- Z-line for final sarcomere
 - Lateral Section
 	- Parallel to long axis
-	- Facilitates communication
+	- Facilitates communication -> **electrical conduction**
 	- Contains [[gap junction]] and [[desmosome]]
 	
 ![[Screenshot 2025-08-09 at 5.10.01 PM.png]]

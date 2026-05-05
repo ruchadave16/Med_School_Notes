@@ -1,35 +1,44 @@
-##### Definition
+---
+aliases:
+  - cardiac tamponade
+date: 4-28-26
+source: CV
+tags:
+  - disease
+---
+
+#### Definition
 Compression on heart in [[Pericardium|pericardial]] sac
 
-##### Etiology
+#### Etiology
 - Primary causes
 - Risk factors
 
-##### Pathophysiology
+#### Pathophysiology
 - Buildup of fluid in pericardial sac between serous membranes
 - Relevant pathways (e.g. immune, hormonal)
 
-##### Clinical Features
+#### Clinical Features
 - Drop of BP
 - Difficulty breathing
 - Lightheadedness
 - Signs
 - Variants
 
-##### Diagnosis
+#### Diagnosis
 - Labs
 - Imaging
 - Criteria
 
-##### Treatment
+#### Treatment
 - [[Pericardiocentesis]] to remove fluid
 - Surgical
 - Lifestyle
 
-##### Complications
+#### Complications
 - Short-term
 - Long-term
 
-##### High-Yield Associations
+#### High-Yield Associations
 - Classic buzzwords
 - Boards clues

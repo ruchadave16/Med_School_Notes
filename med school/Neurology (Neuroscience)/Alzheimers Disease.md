@@ -8,7 +8,7 @@ tags:
 ---
 ### Etiology
 - Early onset (<60 yrs)
-	- APP (amyloid precursor portein mutation) -- chromosome 21
+	- APP (amyloid precursor protein mutation) -- chromosome 21
 	- Presenilin mutation
 - [[Down Syndrome]] = much higher rate
 	- By age 40, will have Alzheimer's pathology
@@ -39,7 +39,7 @@ tags:
 	- [[Donepezil]], [[Galantamine]], [[Rivastigmine]] for mild - moderate dementia from AD
 		- Provides moderate improvement to memory
 		- No effect on progression or QoL
-- NMDA Antagonists ([[memantine]])
+- NMDA Antagonists ([[memantine]]) at moderate
 	- Reduce excessive stimulation by glutamate
 - Anti-amyloid monoclonal antibody -- new, removes amyloid plaques
 	- Aducanumab was **DISCONTINUED** cuz of brain hemorrhage risk

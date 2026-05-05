@@ -16,7 +16,6 @@ tags:
 ### Pathophysiology
 - Low iodine stops synthesis of [[thyroid hormones]]
 
-
 ### Clinical Features
 - Symptoms
 	- Weight gain without increase in food

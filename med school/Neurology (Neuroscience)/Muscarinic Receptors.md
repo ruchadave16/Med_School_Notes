@@ -10,7 +10,7 @@ source: FoM II
 [[G Protein Coupled Receptors|GPCR]]
 - M1: brain and stomach to ↑ gastric acid secretion
 	- Gq → IP3 and DAG → ↑ Ca2+
-- M2: (SA and AV node) heart to ↓ heart rate and reduce contraction force
+- M2: (SA and AV node) heart to ↓ heart rate (has almost little to no impact on contractility of heart)
 	- Relaxes GI smooth muscle
 	- Relaxes [[Urinary Bladder|bladder]] sphincter
 	- SA: ↓ HR

@@ -14,6 +14,7 @@ source: Neuro
 	- [[Hyperkinetic Movements]]
 	- [[Hypokinetic Movements]] 
 ### Parts
+![[Screenshot 2026-04-16 at 4.45.34 PM.png]]
 - Caudate nucleus
 	- Works with frontal lobe
 	- On lateral wall of lateral ventricles

@@ -4,12 +4,13 @@ aliases:
 date: 9-22-25
 source: FoM I
 ---
+*Non-peptide steroid hormone made and released by [[Adrenal Cortex|adrenal cortex]]*
+
 - Works mainly **independent** of [[ACTH]]
 - [[Renin-Angiotensin-Aldosterone System|RAAS system]] **main regulator** of aldosterone
-- Secreted from [[adrenal cortex]]
 #### Stimuli
 - Plasma K concentration
-	- ↑ plasma K+, then ↑ aldosterone
+	- ↑ plasma K+, then ↑ aldosterone <- [[hyperkalemia]]
 	- ↓ plasma K+, then ↓ aldosterone
 -  [[Angiotensin II]] by renin change
 	- ↑ angiotensin II = ↑ aldosterone
@@ -18,7 +19,7 @@ source: FoM I
 *Increase water retention to increase blood volume and BP*
 - Arteriolar [[Blood Flow|vasoconstriction]] – ↑ BP (generally efferent arteriole in [[nephron]] so GFR maintained)
 - Tubular effect to increase Na reabsorption (thus water reabsorption along with Na), mainly in [[Distal Tubular Transport|distal tubular transport]] and also collecting duct
-	- Increases activity of Na/K pump so K secretion, Na reabsorption
+	- Increases activity of Na/K pump so **K secretion, Na reabsorption**
 	- ↑ K permeability across luminal membrane
 	- ↑ Na permeability across luminal membrane
 	- This causes increase in H+ secretion 

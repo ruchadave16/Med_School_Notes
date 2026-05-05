@@ -4,6 +4,7 @@ aliases:
   - Digestive tract
   - digestive system
   - Digestive system
+  - GI system
 date: 9-1-25
 source: FoM I
 ---
@@ -35,7 +36,7 @@ source: FoM I
 - Mobility
 
 #### Arterial Supply
-**3 branches of aorta**
+**3 branches of aorta** ([[splanchnic circulation]])
 1) [[Celiac trunk]]
 	- Supplies [[foregut]] 
 2) [[Superior Mesenteric Artery|Superior mesenteric a.]]

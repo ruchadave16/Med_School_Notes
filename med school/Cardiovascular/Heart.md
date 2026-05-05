@@ -5,7 +5,7 @@ date: 8-21-25
 source: MGA
 ---
 *4 chamber pump that alternates between contractions (systole) and relaxations (diastole)*
-##### Boundaries
+#### Boundaries
 - Middle [[mediastinum]], inferior to sternal angle
 	- Obliquely, rotated on z-axis
 	- 2nd and 5th rib
@@ -38,7 +38,7 @@ source: MGA
 - Left border: left ventricle, some left auricle, pulmonary artery
 
 ![[Screenshot 2025-08-21 at 3.52.35 PM.png]]
-##### Contents
+#### Contents
 2 **atria** – receive blood
 2 **ventricles** – blood pumping chambers
 
@@ -68,7 +68,7 @@ source: MGA
 ![[Screenshot 2025-08-21 at 5.55.16 PM.png]]
 
 ![[Screenshot 2025-08-21 at 5.56.22 PM.png]]
-##### External Features
+#### External Features
 Heart Wall Layers
 
 1) [[Epicardium]] (visceral serous pericardium) – coronary vessels deep to epicardium
@@ -78,27 +78,27 @@ Heart Wall Layers
 	
 ![[Screenshot 2025-08-21 at 3.47.29 PM.png]]
 
-##### Blood Supply
-Follows [[Vascular Circuit|vascular circuit]], heart itself gets blood from [[Coronary Arteries|coronary aa.]]
-##### Innervation
+#### Blood Supply
+Follows [[Circulation|vascular circuit]], heart itself gets blood from [[Coronary Arteries|coronary aa.]]
+#### Innervation
 [[Cardiac Plexus]], sympathetic and parasympathetic
 
 Sympathetic
 - Preganglionic T1-T5 spinal cord – travel into [[sympathetic trunk]]
 - Postganglionic superior, middle, and inferior cervical ganglia
-- ↑ heart rate, ↑ contraction, vasodilation of coronary aa.
+- ↑ [[heart rate]], ↑ contraction, vasodilation of coronary aa.
 
 Parasympathetic
 - Preganglionic in brain by [[vagus nerve]]
 - Postganglionic near/within heart
-- ↓ heart rate
+- ↓ [[heart rate]]
 
 >[!Clinical] [[Ischemia]] stimulates pain fibers. Visceral afferents run with sympathetic (T1-T4) → Pain on those [[Dermatome|dermatomes]]
 
 ![[Screenshot 2025-08-21 at 5.41.16 PM.png]]
-##### Lymphatic Drainage
+#### Lymphatic Drainage
 
-##### Embryology
+#### Embryology
 One [[heart tube]] forms by the fusion of two [[endocardial tubes]] from the [[cardiogenic]] part of the embryo
 - Undergoes [[cardiac looping]]
 

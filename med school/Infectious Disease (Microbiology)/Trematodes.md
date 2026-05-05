@@ -15,7 +15,7 @@ tags:
 
 - Swimmer's itch 
 	- Mansoni + japonicum = portal hypertension causing cirrhosis, jaundice
-
+	
 *S. haematobium* -- large terminal spine
 - Against portal flow
 - Hematuria, bladder cancer

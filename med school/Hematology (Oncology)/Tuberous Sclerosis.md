@@ -12,8 +12,7 @@ tags:
 	- TSC1 -- Chromosome 9
 	- TSC2 -- Chromosome 16
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- 
 
 ### Clinical Features
 - Presents with seizures, intellectual disabilities

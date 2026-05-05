@@ -5,15 +5,16 @@ aliases:
 date: 8-25-25
 source: FoM I
 ---
-**End-diastolic Volume** = blood in ventricle after diastolic filling
+**End-diastolic Volume** = blood in ventricle after diastolic filling (max volume of ventricle)
+**End-systolic Volume** = blood in ventricle after systolic emptying **Not 0** (min volume of ventricle)
 
-**End-systolic Volume** = blood in ventricle after systolic emptying **Not 0**
-
-**Stroke Volume** = blood ejected after each ventricular contraction = *end diastolic - end systolic*
+**[[Stroke Volume]]** = blood ejected after each ventricular contraction = *end diastolic - end systolic*
 
 **Ejection Fraction** = part of end-diastole ejected in stroke volume, normaly 55-70% *stroke volume/end-diastolic*
 
-**Cardiac Volume** = *stroke volume * heart rate*
+**Cardiac Volume** = *stroke volume * [[heart rate]]*
+- Flow of systemic circulation = (𝑴𝑨𝑷𝒂 − 𝑪𝑽𝑷)/𝑺𝑽𝑹, where 𝑴𝑨𝑷𝒂 = mean aortic pressure, 𝑪𝑽𝑷 = [[central venous pressure]], 𝑺𝑽𝑹 = systemic vascular resistance
+- Flow of pulmonary circulation = (𝑴𝑨𝑷𝒑𝒂 − 𝑷𝑪𝑾𝑷)/𝑷𝑽𝑹, where 𝑴𝑨𝑷𝒑𝒂 = mean pulm. artery pressure, 𝑷𝑪𝑾𝑷 = pulmonary capillary wedge pressure, and 𝑷𝑽𝑹, = pulmonary vascular resistance
 
 **Preload** = end-diastolic showing how full LV is 
 - Increases if venous return increases

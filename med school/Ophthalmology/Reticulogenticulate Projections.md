@@ -23,14 +23,14 @@ source: Neuro
 		- Central part of chiasm is above ant. pituitary <- compression from tumors
 		- AComm aneurysm
 	- *Lesion: I/L [[nasal hemianopia]]*
-		- ICA lateral to optic chiasm so aneurysm  affects lateral part
+		- ICA lateral to optic chiasm so aneurysm affects lateral part
 - Optic Tract goes around cerebral peduncles -> [[lateral genticulate nucl.]] in [[thalamus]]
 	- Information from C/L FOV
 	- Blood: anterior choroidal artery off of ICA
 	- *Lesion: C/L [[homonymous hemianopia]]*
 		- Tumor of temporal
 		- Compression against cerebral peduncle
-- Lateral genticulate nucl. in thalamus
+- Lateral genticulate nucl. in [[thalamus]]
 	- Blood: [[Posterior Cerebral A.|PCA]]
 	- *Lesion: C/L homonymous hemianopia*
 	

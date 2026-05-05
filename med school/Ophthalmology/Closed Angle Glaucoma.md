@@ -8,28 +8,33 @@ tags:
   - disease
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- Age, female, family history, farsightedness
 
 ### Pathophysiology
 - Blockage of outflow from closure of angle
 - **Primary**
-	- Lens is too far anterior and rests on iris -> 
-
+	- Lens is too far anterior and rests on iris -> no flow so IOP ↑ 
+	- Iris bows out to cover the angle
+- **Secondary**
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
+- Vision loss, even blindness in few hours
+- **Ophthalmic Emergency**
+- Sudden onset of sharp pain
+- Halo around lights
+- Red eye, headache, nausea vomiting
+- ↑ IOP
+- Half-dilated pupil
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
-
+- Tonometry -- ICP ↑ 
+- Gonioscopy
+- Slit lamp
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- [[Timolol]] IMMEDIATELY
+- [[apraclonidine]] immediately
+- Topical cholinergic ([[pilocarpine]])
+- I.V. Carbonic anhydrase inhibitors (acetazolamide)
+- I.V. Hyperosmotic agents (later when ophthalmologist)
 
 ### Complications
 - Short-term

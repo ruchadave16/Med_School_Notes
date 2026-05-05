@@ -1,6 +1,8 @@
 ---
 date: 8-22-25
 source: MGA
+tags:
+  - disease
 ---
 Pulmonary artery connects to LV and aorta to RV
 - Oxygen poor blood on right side of heart to body without lungs

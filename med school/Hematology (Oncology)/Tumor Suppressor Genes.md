@@ -18,7 +18,7 @@ source: ID
 | NF1          | Neurofibriomin                                                        | [[Neurofibromatosis 1\|Neurofibromatosis Type 1]] |
 | NF2          | Merlin                                                                | [[Neurofibromatosis Type 2]]                      |
 | PTEN         |                                                                       | Prostate, breast, and endometrial cancers         |
-| RB1          |                                                                       | [[Hereditary retinoblastoma]], osteosarcoma       |
+| RB1          |                                                                       | [[Retinoblastoma]], osteosarcoma                  |
 | TP53         | p53                                                                   | Most cancers, Li-Fraumeni Syndrome,               |
 | TSC1         | Hamartin                                                              | Tuberous sclerosis complex                        |
 | TSC2         | Tuberin                                                               | Tuberous sclerosis complex                        |

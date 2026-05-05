@@ -5,7 +5,7 @@ aliases:
 date: 3-21-26
 source: Neuro
 ---
-*Network of cells and capillaries in [[Vesicular System|ventricles]]*
+*Network of cells and [[capillaries]] in [[Vesicular System|ventricles]]*
 
 - Blood vessels penetrate pia mater and surrounded by ependymal cell layer
 - Makes [[CSF]]

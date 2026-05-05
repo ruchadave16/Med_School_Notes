@@ -2,7 +2,7 @@
 date: 8-10-25
 source: FoM I
 ---
-##### Contraction Process
+#### Contraction Process
 DOES NOT need action potential
 - Mechanical impulses: passive stretching causes mechanosensitive ion channels in vascular smooth muscle to open → contraction
 - Stimulation by [[ACh]]  and [[norepinephrine]] can open voltage gated Ca channels and cause contractions
@@ -11,7 +11,7 @@ DOES NOT need action potential
 **Lack of [[troponin]]** → Increases in cytoplasmic calcium detected by [[calmodulin]] (CaM)
 
 No striations – actin bound to $\alpha$-actinin through **dense bodies** 
-- No sacromeres
+- No sarcomeres
 
 ![[Screenshot 2025-08-09 at 5.16.22 PM.png]]
 
@@ -22,7 +22,7 @@ Binding of [[myosin]] is regulated by enzymatic activity
 - Only bind to actin when phosphorylated by enzyme [[myosin light chain kinase]] (MLCK)
 Then cross-bridge cycle
 
-**Relaxation**
+#### Relaxation
 - Decrease in intracellular calcium causes relaxation
 	- MLCK activity decreases
 	- Myosin is dephosphorylated by myosin light chain phosphatase (MLCP)

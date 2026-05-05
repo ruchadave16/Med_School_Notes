@@ -4,7 +4,7 @@
 	- Palpitations
 	- SOB
 	- Swelling (edema)
-	- Fainting (syncope)
+	- Fainting ([[syncope]])
 - [[Chest Pain]]
 	- Location, exertion, types of activities, intensity, radiation, symptoms associated, nocturnal occurrence, relieving factors
 	- Baseline activity

@@ -14,7 +14,7 @@ tags:
 #### Mechanism
 - Make [[B-Lactamase|b-lactamase]] so resistant to common ampicillin
 #### Symptoms
-- Leading cause of acute otitis media
+- Leading cause of acute [[otitis media]]
 - Sinusitis and rhinosinusitis in kids
 - COPD exacerbation in adults
 #### Diagnosis

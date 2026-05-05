@@ -33,7 +33,7 @@ Auricular branch → [[external ear]] (auricle and external acoustic meatus) sen
 - L around aortic arch
 
 **Function**: 
-- Visceral Motor (presynaptic parasympathetic): ↓ heart rate, [[bronchoconstriction]], peristalsis of GI tract 
+- Visceral Motor (presynaptic parasympathetic): ↓ [[heart rate]], [[bronchoconstriction]], peristalsis of GI tract 
 - Somatic Motor: [[larynx]] muscles and superior [[esophagus]]
 - Somatic Sensory: [[pharynx]] and [[larynx]],  infratentorial dura mater
 - [[Visceral Afferent Fibers|Visceral afferent]] – unconscious sensations back to brain, neck, thorax, most of abdominal cavity

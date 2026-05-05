@@ -45,7 +45,7 @@ tags:
 
 #### Adverse Effects
 - Tachycardia
-	- $\beta1$ and $\beta2$ impact on heart
+	- $\beta 1$ and $\beta2$ impact on heart
 	- $\beta2$ mediated vasodilation
 	- ↑ risk with [[MAO inhibitors]] **NEED 2 WEEK GAP**
 - Skeletal Muscle Tremor

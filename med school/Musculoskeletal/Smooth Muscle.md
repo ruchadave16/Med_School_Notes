@@ -6,8 +6,8 @@ aliases:
 date: 8-7-25
 source: FoM I
 ---
-##### Features
-- No striations because of no sacromeres
+#### Features
+- No striations because of no sarcomeres
 - Dense packing, central nuclei
 
 Slow and **involuntary** contraction
@@ -25,7 +25,7 @@ Slow and **involuntary** contraction
 - Produce motility
 - Maintain tension
 
-##### Types 
+#### Types 
 1) Multiunit Smooth Muscle
 	- Iris, ciliary muscle of lens, vans deferens
 	- Behave as separate motor units
@@ -37,10 +37,9 @@ Slow and **involuntary** contraction
 	- High electric coupling so coordinated contraction
 3) Vascular Smooth Muscle
 	- Properties of both
+#### [[Smooth Muscle Contractions]]
 
-##### [[Smooth Muscle Contractions]]
-
-##### Embryology
+#### Embryology
 - Walls of gut + gut derivatives 
 	- Lateral plate [[mesoderm]] → visceral (splanchnic) mesoderm → smooth muscle
 - Blood vessels 

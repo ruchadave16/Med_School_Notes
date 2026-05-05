@@ -1,10 +1,16 @@
 ---
 aliases:
   - hyperemia
-date: 1-24-26
-source: ID
+date: 5-3-26
+source: ID, CV
 ---
-↑ blood volume in tissues
-
-- Active process → arterial dilation
+*↑ blood volume in tissues*
 - Tissue appears **red** (erythema) from ↑ deliver of blood
+#### Active Hyperemia
+- ↑ activity in tissue so ↑ metabolic activity -> ↑ vasodilation metabolites so 
+#### Reactive Hyperemia
+- ↑ blood flow after release of occlusion
+- Metabolic bioproduct builds up during that time so myogenic and metabolic response
+- Once obstruction released, ↑↑ flow of blood *pins and needles*
+
+![[Screenshot 2026-05-03 at 11.24.49 PM.png]]

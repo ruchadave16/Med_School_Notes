@@ -24,6 +24,7 @@ tags:
 	- Cannot stop indirect path
 - ↓ pigmentation of substantia nigra
 - **Lewy bodies**
+
 ![[Screenshot 2026-04-12 at 3.01.57 PM.png]]
 ### Clinical Features
 Starts unilat. but progresses to other side

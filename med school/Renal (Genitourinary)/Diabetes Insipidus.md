@@ -7,9 +7,6 @@ source: FoM I
 tags:
   - disease
 ---
-### Definition
-
-
 ### Etiology
 - Primary causes
 - Risk factors
@@ -27,9 +24,8 @@ Water is NOT reabsorbed
 - Urine not concentrated
 - Serum osmolarity ↑ 
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
+- High thirst
+- Excess urination
 
 ### Diagnosis
 - Labs

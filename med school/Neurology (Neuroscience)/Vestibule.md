@@ -7,8 +7,8 @@ aliases:
 *Collects information on balance, head position, equilibrium (positional)*
 
 Components
-- Utricle 
-- Saccule
+- Utricle (horizontal, sensitive to horizontal plane movements)
+- Saccule (vertical, sensitive to vertical plane movements)
 
 Each has a [[macula]] (sensory component)
 - Epithelium with [[hair cells]] with stereocilia and kinocilium

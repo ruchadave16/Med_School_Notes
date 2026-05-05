@@ -10,15 +10,16 @@ tags:
 - Autosomal recessive defect -- lysosomal enzyme arylsulfatase A
 ### Pathophysiology
 - Accumulation of sulfatides
-- Demyelination and marked [[Gliosis|gliosis]]
+- Demyelination and marked [[Gliosis|gliosis]] central and peripheral
 - [[Macrophage|Macrophages]] with vacuoles that have PAS = sulfatides -- metachromasia (turns brown when frozen)
 
-![[Screenshot 2026-03-28 at 2.13.59 PM.png]]### Clinical Features
+![[Screenshot 2026-03-28 at 2.13.59 PM.png]]
+### Clinical Features
 - Presents:
 	- Late infantile
 	- Juvenile
 	- Adult
-- 
+
 ### Diagnosis
 - Labs
 - Imaging

@@ -31,9 +31,9 @@ source: FoM I
 		- Found in adrenal medulla and peripheral cells
 #### Function
 - Stress response – fight or flight
-- ↑ BP
-- ↑ breathing rate
-- ↑ heart rate
-- ↑ metabolic rate
-- ↑ blood glucose
+	- ↑ BP
+	- ↑ breathing rate
+	- ↑ [[heart rate]]
+	- ↑ metabolic rate
+	- ↑ blood glucose
 

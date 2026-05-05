@@ -32,7 +32,7 @@ Generally
 ![[Screenshot 2025-09-15 at 9.07.25 PM.png]]
 
 Net Filtration Pressure (NFP) = sum of afferent and efferent end pressures
-- Oncotic pressure increases because ↑↑ protein-free fluid filtered out of capillaries so protein concentration ↑ towards efferent end
+- Oncotic pressure increases because ↑↑ protein-free fluid filtered out of [[capillaries]] so protein concentration ↑ towards efferent end
 - This means filtration afferent > efferent
 - *** NEVER reverse absorption, always filtered out
 

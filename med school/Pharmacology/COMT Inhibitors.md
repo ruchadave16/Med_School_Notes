@@ -10,7 +10,6 @@ source: Neuro
 #### Mechanism
 - COMT metabolizes [[Levodopa]] -> 3-OMD, which competes with levodopa for transport in brain
 - Inhibitors reduce this effect
-
 #### Uses
 - [[Parkinson's Disease|Parkinsons]] to increase levodopa duration
 #### Adverse Effects

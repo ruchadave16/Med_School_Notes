@@ -23,7 +23,6 @@ source: MGA
 	- Forearm flexor, arm flexor
 	- Deep to biceps brachii
 
-
 ![[Pasted image 20251009010251.png]]
 
 >[!Clinical] Biceps reflex

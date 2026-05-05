@@ -53,7 +53,7 @@ source: Neuro
 ![[Screenshot 2026-03-28 at 12.25.21 AM.png]]
 
 - [[Weber syndrome]]
-	- CNIII fascicle -- I/L [[CN III Palsy|oculomotor palsy]]
+	- CN III fascicle -- I/L [[CN III Palsy|oculomotor palsy]]
 	- Cerebral peduncle -- C/L hemiparesis
 	- Blood: Paramedian from top of [[Basilar A.|basilar a.]] or proximal [[Posterior Cerebral A.|PCA]]
 
@@ -70,7 +70,7 @@ source: Neuro
 	- Same manifestation as Claude syndrome 
 
 - [[Parinaud’s syndrome]]
-	- Dorsal midbrain
+	- **Dorsal midbrain**
 	- Upward gaze palsy -- damage to posterior commisure
 	- Light-near dissociation
 		- damage the dorsal [[Edinger-Westphal nucl.|Edinger-Westphal nucleus]] (light reflex) but spare the rostroventral [[Edinger-Westphal nucl.|Edinger-Westphal nucleus]]

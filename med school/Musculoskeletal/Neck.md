@@ -54,5 +54,4 @@ Structures
 - [[Vagus Nerve|Vagus n.]] is medial to phrenic 
 
 - [[Carotid Sheath]]
-
 #### Muscles

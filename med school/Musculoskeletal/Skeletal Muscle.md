@@ -12,10 +12,9 @@ source: FoM I
 
 **Voluntary** and quick [[Skeletal Muscle Contractions|contractions]]
 #### Components 
-**[[Myofibril]]** – thick and thin filaments longitudinally into [[sacromere]]s
-**[[Sacromere]]** – Z-line to Z-line
+**[[Myofibril]]** – thick and thin filaments longitudinally into [[Sarcomere]]s
+**[[Sarcomere]]** – Z-line to Z-line
 Surrounded by 3 layers of [[Skeletal Connective Tissue|connective tissue]]
-
 
 ![[Screenshot 2025-08-09 at 4.20.07 PM.png]]
 #### Energy System
@@ -40,7 +39,6 @@ Surrounded by 3 layers of [[Skeletal Connective Tissue|connective tissue]]
 Can be separated by rate of contraction (fast vs slow), pathway for ATP synthesis (oxidative phosphorylation vs glycolysis)
 
 Metabolic difference based on → capillary density, # mitochondria, glycogen and myoglobin levels
-
 #### Embryology
 Almost **all** from paraxial [[Mesoderm|mesoderm]]
 

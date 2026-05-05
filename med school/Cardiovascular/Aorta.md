@@ -4,7 +4,7 @@ aliases:
 date: 8-21-25
 source: MGA
 ---
-*Major [[artery]] out of [[heart]]*
+*Major [[Artery|artery]] out of [[heart]]*
 
 Ascending aorta – first part, R/L [[Coronary Arteries|coronary aa.]] branch from here
 Aortic arch – in superior [[mediastinum]], 3 branches

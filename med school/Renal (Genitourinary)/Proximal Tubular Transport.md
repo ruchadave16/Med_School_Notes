@@ -12,7 +12,7 @@ source: FoM I
 ![[Pasted image 20250918221123.png]]
 
 1) Fluid entry across luminal membrane into cell
-2) Fluid moving into lateral intracellular spaces and taken up by capillaries
+2) Fluid moving into lateral intracellular spaces and taken up by [[capillaries]]
 3) Fluid backleaking through [[tight junctions]] into lumen
 ##### Sodium (Proximal Tubule)
 - 67% of sodium absorbed here

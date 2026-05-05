@@ -12,4 +12,3 @@ source: MGA
 #### Organic Component
 - Mainly Type I [[collagen]]
 - Contains osteonectin
-- 

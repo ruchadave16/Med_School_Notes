@@ -12,8 +12,12 @@ source: FoM I
 ---
 *Tubes of endothelium WITHOUT continuous basal lamina*
 
-High permeability
+- Starting point of lymphatic system
+	- High permeability
+- Have 1 way valves to maintain flow in 1 direction
+- Contraction of larger [[lymphatic vessels]] upstream opens spaces between lymphatic capillary endothelial cells
+	- Allow proteins and large particles to enter the lymphatic system from the endothelial space
+- 
 
-![[Pasted image 20250824152445.png]]
 
-Converge into [[lymphatic vessels]]
+

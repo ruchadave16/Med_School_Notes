@@ -47,3 +47,15 @@ source: MGA
 ![[Screenshot 2025-08-21 at 6.26.40 PM.png]]
 
 >[!Clinical] [[Myocardial Infarction]] – Heart attack when heart deprived of blood and oxygen
+
+#### Regulation
+- Physical factors
+	- Balance of perfusion pressure and external pressure
+	- Maximum flow during diastole at LV
+- Neural control
+	- [[Adrenergic Receptors]]
+		- Sympathetic = dilation and constriction
+	- ↑ [[Heart rate]] and [[contractibility]]
+- **Local metabolic factors** <- dominates
+	- ↑ metabolic activity -> [[hypoxia]]
+	- 

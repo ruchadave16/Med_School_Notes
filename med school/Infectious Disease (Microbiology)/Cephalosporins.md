@@ -22,7 +22,7 @@ source: ID
 2) Second gen
 	- Ex: Cefuroxime
 	- Slightly more broad gram negative
-	- Use for respiratory tract infections, sinusitis, otitis media
+	- Use for respiratory tract infections, sinusitis, [[otitis media]]
 3) Third gen
 	- Ex: Ceftriaxone, ceftazidime
 	- More effective against gram negative

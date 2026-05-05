@@ -4,7 +4,14 @@ aliases:
 date: 9-22-25
 source: FoM I
 ---
-*Enzyme secreted by [[kidneys]] which starts [[Renin-Angiotensin-Aldosterone System|renin-angiotensin-aldosterone system]]*
+*Zinc containing polypeptide secreted by [[kidneys]] which starts [[Renin-Angiotensin-Aldosterone System|renin-angiotensin-aldosterone system]]*
+#### Triggers
+- ↓ renal perfusion
+- [[Hyponatremia]]
+- $\beta 1$ stimulation
+#### Inhibitors
+- ↑ BP or sodium
+- ↓ Adrenergic
 #### Renin Secretion
  [[Renin]] secretion by [[juxtaglomerular cells]] (STIMULATION)
 - ↑ renal sympathetic nerves → renin release

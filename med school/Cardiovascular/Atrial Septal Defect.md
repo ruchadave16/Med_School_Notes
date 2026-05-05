@@ -4,6 +4,8 @@ aliases:
   - ASD
 date: 8-22-25
 source: MGA
+tags:
+  - disease
 ---
 Reference: [[Fetal Circulation]]
 

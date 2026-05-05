@@ -17,7 +17,7 @@ Lateral to [[Vertebral Column|vertebral column]] from skull to sacrum
 - [[Heart]]: Postganglionic in **cervical ganglia**
 - [[Lungs]]: Postganglionic in T1-T5
 
-Function: ↑ heart rate, ↑ contractility, [[bronchodilation]]
+Function: ↑ [[heart rate]], ↑ [[contractility]], [[bronchodilation]]
 
 >[!Clinical] [[Asthma]] inhalers like sympathetic neurotransmitters in bronchi
 

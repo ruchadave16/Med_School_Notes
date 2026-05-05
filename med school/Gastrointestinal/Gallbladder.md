@@ -20,7 +20,7 @@ source: MGA
 ##### Histology
 Mucosa
 - Simple columnar epithelium of [[cholangiocytes]] w short [[microvilli]]
-- Lamina Propria – fenestered capillaries, ↑ lymphocytes + plasma cells, sometimes mucin-secreting glands
+- Lamina Propria – fenestered [[capillaries]], ↑ lymphocytes + plasma cells, sometimes mucin-secreting glands
 Mucous folds **
 NO muscularis mucosae or submucosa
 Muscularis externa

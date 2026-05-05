@@ -10,7 +10,7 @@ source: FoM I
 - Rapid depolarization and repolarization
 - All or none event
 
-##### Steps
+#### Steps
 1) Depolarization from resting potential of -70mV. Happens when stimulus causes slight depolarization and threshold is reached (about 15 mV away from resting)
 2) Opening of voltage-gated $Na^+$ channels causes entry of $Na^+$ into cell, which rapidly depolarizes to overshoot above 0 mV
 3) Permeability now decreases and and $K^+$ permeability increases, so nerve repolarizes as $K^+$ exits

@@ -8,13 +8,23 @@ source: FoM I
 ---
 *Organ for hearing and balance*
 
-![[Screenshot 2025-10-28 at 3.56.55 PM.png]]
+![[Screenshot 2026-04-27 at 9.08.24 AM.png]]
 
 1) [[Inner Ear]]
 2) [[Middle Ear]]
 	- [[Tympanic Membrane]] separates middle and external ear
 	- [[Pharyngotympanic tube]] connects middle ear to [[nasopharynx]]
 3) [[External Ear]]
+
+**Pathway**
+- external auditory meatus -> tympanic membrane -> malleus -> incus -> stapes movement
+- membrane of oval window pushed 
+- waves in perilymph of scala vestibule of cochlea
+	- vestibular membrane moved 
+	- waves in endolymph of cochlear duct
+	- basilar membrane vibrations
+	- hair cells in organ of corti deformed
+	- neurotransmitters onto spiral ganglion -> cochlear division of [[Vestibulocochlear Nerve|CN VIII]]
 
 >[!Clinical]
 >- [[Vertigo]]: False body rotation feeling

@@ -5,7 +5,8 @@ aliases:
 date: 9-22-25
 source: FoM I
 ---
-*Atrial natriuretic peptides (ANP) – secreted by [[heart]] atrium and ventricles*
+*Atrial natriuretic peptides (ANP) – secreted by atrium and ventricles*
+- Degraded by [[neprilysin]]
 
 >[!Clinical]
 >ANP levels elevated during [[heart failure]]
@@ -13,6 +14,9 @@ source: FoM I
 - ↑ stretch of atria due to change in BP
 #### Function
 - Opposite of [[Vasopressin|vasopressin]] and [[Renin-Angiotensin-Aldosterone System|renin-angiotensin-aldosterone system]]
-- They DECREASE BP by increasing secretion of water and salt and dilating blood vessels
+- They **DECREASE** BP
+	- Increasing secretion of water and salt 
+	- Dilating blood vessels in [[kidneys]]
+- Independent anti-hypertrophic effect on cardiac remodeling
 
-![[Pasted image 20250922211235.png]]
+![[Screenshot 2026-05-04 at 9.28.50 PM.png]]

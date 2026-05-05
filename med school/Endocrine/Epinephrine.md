@@ -11,6 +11,11 @@ tags:
 Receptor activity: **Mixed $\alpha$ and $\beta$ receptors**
 - Effect on heart, vascular, smooth muscle
 - beta effect at low dose, alpha at high 
+	- Vasodilation through $\beta 2$ (low dose)
+	- Vasoconstriction $\alpha 1$ (high dose)
+	- HR ↑ $\beta 1$, ventricular contractility $\beta 1$
+
+![[Screenshot 2026-05-04 at 8.36.57 PM.png]]
 #### Uses
 - **First Line** drug for [[Anaphylaxis]]
 	- IM > SC due to faster absorption

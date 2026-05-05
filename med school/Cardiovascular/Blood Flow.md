@@ -13,27 +13,18 @@ source: FoM I
 **Flow** (Q) (L/min) = $\frac{\Delta P (mmHg)}{R (mmHg/L)}$ where P = difference in pressure between inflow and outflow 
 - As $\Delta$ P ↑, flow ↑ 
 
-**Resistance** R = $\frac{8hL}{pr^4}$ where h = viscosity, L = length of vessel, r = radius
-- r has largest impact on resistance
+ **SVR = MAP - CVP / CO**
 
->[!Note]
->For whole circulation, resistance = Total Peripheral Resistance and $\Delta$ P = Mean Atrial Pressure - Right Atrial Pressure. Blood Flow = Cardiac Output
-
-**Parallel Resistance**
-Blood distribution through branching of vessels
-- Series vs Parallel summation (similar to circuits)
-
-#### Control of Blood Flow
-**Vasodilation**
-- ↑ radius and flow so ↓ resistance
-- [[Parasympathetic Nervous System|Parasympathetic]] for thoracic and abdominal organs and brain
-
-**Vasoconstriction**
-- ↓ radius, so ↑ flow but ↑ resistance
-
-1) Intrinsic Control
-	- Tissue metabolites formation, levels of $CO_2$ change
-	- Adenosine (vasodilator)
-
-2) External Control
-	- [[Sympathetic Nervous System|Sympathetic]] nervous system, humoral factors, endothelial factors
+>[!Physics]
+>- Continuity: $A_1v_1 = A_2v_2$
+>	- A of all capillaries > aorta -> velocity of aorta > capillaries
+>- Bernoullis: $P_1 + 1/2\rho v_1^2 + \rho gh_1 = P_12+ 1/2\rho v_2^2 + \rho gh_2$
+>- Poiseuille’s Law: $Q = \Delta P \frac{\pi r^4}{8 n L}$
+>	- where h = viscosity, L = length of vessel, r = radius
+>	- r determines change to flow the most
+>	- Q = 1/R (resistance)
+>- Reynolds Number: $N_R = \rho D v / n$
+>	- <2000 = laminar
+>	- \>2000 = turbulent -> bruits or murmurs
+>	
+#### [[Hemodynamic Regulation]]

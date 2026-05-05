@@ -19,4 +19,4 @@ source: FoM I
 2) [[Cochlear Duct|Scala medius]]
 3) Scala tympani
 
-![[Screenshot 2025-10-28 at 6.25.52 PM.png]]
+![[Screenshot 2026-04-27 at 9.36.50 AM.png]]

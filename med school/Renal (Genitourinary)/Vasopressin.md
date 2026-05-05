@@ -11,12 +11,18 @@ source: FoM I
 *Hormone that acts on [[kidneys]] to increase water reabsorption and concentrate urine*
 #### Secretion
 Made in [[Hypothalamus|hypothalamus]], transported to [[posterior pituitary]] for secretion
+
 - [[Osmoreceptors]] in hypothalamus regulate
-- Volume control through high pressure baroreceptors in [[aortic arch]] and carotid sinus as well as low pressure baroreceptors in [[atria]]
+- Volume control through high pressure [[Arterial Baroreceptors|arterial baroreceptors]] in [[aortic arch]] and carotid sinus as well as low pressure baroreceptors in [[atria]]
 	- ↑ Posm → ↑ ADH
 	- ↓ BV → ↑ ADH
 	- Stress response: pain, fright
 	- **DEHYDRATION**
+- Other factors:
+	- [[Angiotensin II]]
+	- exercise
+	- pain
+	- sympathetic stimulation
 
 ![[Screenshot 2025-09-22 at 4.47.20 PM.png]]
 
@@ -26,9 +32,9 @@ Made in [[Hypothalamus|hypothalamus]], transported to [[posterior pituitary]] fo
 
 ![[Pasted image 20251021152714.png]]
 #### Functions
-- ↑ Water absorption to concentrate urine in kidneys ← increasing permeability of [[Distal Convoluted Tubules|distal convoluted tubule]] and [[collecting duct]] to water (mechanism shown in [[Collecting Duct Transport|collecting duct transport]]) – aquaporins
+- ↑ Water absorption to concentrate urine in kidneys ← increasing permeability of [[Distal Convoluted Tubules|distal convoluted tubule]] and [[collecting duct]] to water (V2 receptors) (mechanism shown in [[Collecting Duct Transport|collecting duct transport]]) – aquaporins
 - FIRST line of action during [[dehydration]]
-- High concentrations → [[Blood Flow|vasoconstriction]]
+- High concentrations → [[Blood Flow|vasoconstriction]] (V1 receptors)
 - Stimulates secretion of [[ACTH]]
 
 >[!Important]
@@ -38,7 +44,6 @@ Made in [[Hypothalamus|hypothalamus]], transported to [[posterior pituitary]] fo
 - Osmotic control = most sensitive, much more than barometric pressure where 10% decrease in blood volume triggers ADH
 - Sensitivity depends on volume control – in volume contraction, MORE sensitive
 - Threshold = plasma osmolarity of 280
-
 
 ![[Screenshot 2025-09-22 at 4.47.36 PM.png]]
 

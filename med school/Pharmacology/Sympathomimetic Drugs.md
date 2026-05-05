@@ -13,7 +13,7 @@ source: FoM II
 	- Can be selective for subtypes
 		- $\alpha1$: [[Phenylephrine]]
 		- $\alpha2$: [[Clonidine]]
-		- $\beta1$: [[Dobutamine]]
+		- [[b1 agonists]]: [[Dobutamine]]
 		- [[Beta2 Agonists|b2 agonists]]
 	- Nonselective: [[epinephrine]], [[norepinephrine]], [[isoproterenol]]
 	
@@ -30,7 +30,7 @@ source: FoM II
 	- Ex: [[Ephedrine]]
 #### Effects
 - Blood Vessels
-	- Constriction = $\alpha1$ and $\alpha2$ in most vascular smooth muscle → ↑ BP → [[baroreceptor reflex]] → ↓ HR
+	- Constriction = $\alpha1$ and $\alpha2$ in most vascular smooth muscle → ↑ BP → [[baroreflex]] → ↓ HR
 	- Dilation = $\beta2$ in skeletal and D1 (renal, splanchnic, coronary, cerebral)
 - Heart
 	- ↑ chronotropic and inotropic effect ($\beta1$)

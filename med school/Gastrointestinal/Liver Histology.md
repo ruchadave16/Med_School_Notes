@@ -16,7 +16,7 @@ source: MGA
 	- Organized into plates separated by venous sinusoids
 	- Reticulin – [[Collagen]] III – runs along plates of hepatocytes
 - Vascular Sinusoids
-	- Discontinuous capillaries w holes letting plasma into perisinusoidal space (space of Disse)
+	- Discontinuous [[capillaries]] w holes letting plasma into perisinusoidal space (space of Disse)
 	- Hepatic stellate cells (Ito cells)
 		- Stores Vitamin A + fat-soluble (ADEK)
 		- ECM produced

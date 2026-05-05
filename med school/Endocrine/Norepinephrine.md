@@ -13,8 +13,11 @@ tags:
 - [[Vitamin C]] = coenzyme in conversion of [[dopamine]] → norepinephrine
 #### Effects
 Receptor activity: **$\alpha1$ > $\alpha2$ > $\beta1$ agonist**
-- Effect: vasoconstriction and ↑ BP
-	- Reflex bradycardia
+- Effect: vasoconstriction ($\alpha 1$) and contractility $\beta 1$
+	- ↑ MAP and PP due to ↑ SBP through $\beta 1$
+	- Reflex bradycardia from [[baroreflex]]
+	
+![[Screenshot 2026-05-04 at 8.36.57 PM.png]]
 #### Reputake
 1) Neuronal
 	- [[Sympathetic Nervous System|Sympathetic]] neurons

@@ -7,6 +7,7 @@ date: 8-11-25
 source: MGA
 ---
 **Function**: [[Homeostasis|homeostasis]]
+- NOTE: LITTLE TO NO IMPACT ON HEART 
 
 Preganglionic cell body in [[brainstem]] or [[Spinal Cord|spinal cord]] S2-S4
 - [[Craniosacral]] division

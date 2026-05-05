@@ -12,8 +12,7 @@ tags:
 - Risk factors
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- Pulmonary venous congestion → ↑ pulmonary hydrostatic pressure → transudative fluid out of circulation into lungs → [[pleural effusion]] 
 
 ### Clinical Features
 - Symptoms

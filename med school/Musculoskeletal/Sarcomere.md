@@ -1,14 +1,13 @@
 ---
 aliases:
-  - sacromere
-  - Sacromeres
-  - sacromeres
+  - Sarcomere
+  - Sarcomeres
+  - sarcomere
+  - sarcomeres
 date: 8-9-25
 source: FoM I
 ---
 *Repetitive contractile apparatus lined end-to-end giving striation appearance*
-
-![[Screenshot 2025-08-07 at 5.29.30 PM.png]]
 
 - A-band (anisotrophic) – Dark band containing thick filaments and overlapping thin filaments
 - I-band (isotrophic) – Light band with just thin filaments

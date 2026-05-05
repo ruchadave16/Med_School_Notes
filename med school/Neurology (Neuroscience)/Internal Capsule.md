@@ -15,7 +15,7 @@ source: Neuro
 - Genu
 	- [[Corticobulbar Tract|Corticobulbar tract]]
 	- Supplied by [[Lateral Striate A.|Lenticulostriate aa.]]
-	- *Lesion*: only CN symptoms: 
+	- *Lesion*: only CN motor symptoms: 
 		- C/L lower face paralysis
 		- Dysarthria and/or dysphagia due to tongue paralysis
 	- Supply from [[Lateral Striate A.|lateral striate a.]]

@@ -8,7 +8,7 @@ source: FoM II
 
 - Directly make cGMP when ligand binds
 - ↑ cGMP activates protein kinase G → phosphorylates target proteins
-- Nitric oxide is commonly cited for using this method
+- [[Nitric Oxide]] is commonly cited for using this method
 
 ![[Screenshot 2025-12-10 at 4.35.36 PM.png]]
 
