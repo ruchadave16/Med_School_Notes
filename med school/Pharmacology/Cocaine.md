@@ -26,7 +26,7 @@ tags:
 	- Psychosis
 - CV:
 	- HTN, tachycardia, MI, arrhythmias
-	- Aortic dissection
+	- [[Aortic dissection]]
 - Systemic
 	- Hyperthermia
 - [[Teratogenic]] effect during pregnancy

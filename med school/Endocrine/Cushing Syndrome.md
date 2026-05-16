@@ -28,7 +28,7 @@ tags:
 	-  [[Osteoporosis]]
 - Immune Suppression
 	- ↓ wound healing
-- Hypertension
+- [[Hypertension]]
 - Insomnia
 - [[Hypokalemia]]
 - Growth delay (in children)

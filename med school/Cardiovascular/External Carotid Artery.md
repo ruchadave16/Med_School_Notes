@@ -47,6 +47,6 @@ NOT in carotid sheath
 	- Transverse facial a.
 
 >[!Clinical]
->[[Giant Cell Arteritis]]: Inflammation of small arteries (temporal)
+>[[Temporal Arteritis|Giant cell arteritis]]: Inflammation of small arteries (temporal)
 
 ![[Screenshot 2025-10-24 at 4.13.20 PM.png]]

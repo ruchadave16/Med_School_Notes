@@ -28,7 +28,7 @@ source: FoM I
 
 >[!Clinical]
 >Too much secretion of aldosterone
->- [[Hypertension]] – ECF fluid (volume expansion)
+>- [[Hypertension|Hypertension]] – ECF fluid (volume expansion)
 >- [[Hypokalemia]]
 >- [[Metabolic Alkalosis]]
 >  

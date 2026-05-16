@@ -14,7 +14,7 @@ Antibodies against tissue antigens (IgG / IgM), bind to normal tissue
 - Wrong [[Blood Typing|blood type]]: RBC lysis through IgG
 	- [[Erythroblastosis fetalis]]
 - Autoimmune hemolytic anemia
-	- Methyldopa and [[penicillin]] bind to surface of RBCs
+	- [[Methyldopa]] and [[penicillin]] bind to surface of RBCs
 	- [[Mycoplasma pneumoniae]]: induces RBC antibodies
 - [[Pemphigus Vulgaris]]: antibodies against [[desmosomes]] in epidermis
 - [[Goodpasture Syndrome]]:

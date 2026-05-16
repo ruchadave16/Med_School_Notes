@@ -33,7 +33,8 @@ tags:
 - Imaging
 - Criteria
 
-### Treatment
+### Treatments
+**Medicines**
 - Centrally acting [[Cholinesterase Inhibitors|AchE inhibitors]] that penetrate [[blood brain barrier]]
 	- Tacrine: 1st agent, modest benefits but hepatotoxicity
 	- [[Donepezil]], [[Galantamine]], [[Rivastigmine]] for mild - moderate dementia from AD
@@ -44,9 +45,10 @@ tags:
 - Anti-amyloid monoclonal antibody -- new, removes amyloid plaques
 	- Aducanumab was **DISCONTINUED** cuz of brain hemorrhage risk
 	- Donanemab and lecanemab used currently
-- Surgical
-- Lifestyle
 
+**New Research**
+- https://techfixated.com/new-alzheimers-treatment-fully-restores-memory-function-12/
+- 
 ### Complications
 - Nausea, vomiting, diarrhea, other effects of [[Direct Acting Cholinomimetics|direct cholinomimetics]]
 ### High-Yield Associations

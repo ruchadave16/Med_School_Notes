@@ -63,13 +63,13 @@ Most are antagonists but some are partial agonists or inverse agonists
 	- Ca2+ entry blockage – [[Carvedilol]]
 	- Opening of K+ channel – [[Tilisolol]]
 	- Antioxidant – [[Carvedilol]] 
-- [[Carvediol]] = nonselective, for chronic heart failure
-- [[Labetolol]] = nonselective, for [[hypertensive emergency]]
+- [[Carvedilol]] = nonselective, for chronic heart failure
+- [[Labetalol]] = nonselective, for [[hypertensive emergency]]
 - [[Nebivolol]] = b1 selective + NO vasodilation 
 - [[Betaxolol]] = b1 selective, glaucoma treatment
 - [[Celipralol]] = b1 blocker, b2 agonist for vasodilation
 #### Clinical Use
-[[Hypertension]]
+[[Hypertension|Hypertension]]
 - Not first-line treatment
 - Used when cardio-protection is desired
 - Helpful for heart failure and CAD patients
@@ -88,7 +88,7 @@ Most are antagonists but some are partial agonists or inverse agonists
 [[Heart Failure]]
 - Standard care for chronic heart failure management
 - ↑ survival, ↓ hospitalizations
-- [[Metoprolol]], [[bisoprolol]], [[carvediol]], [[nebivolol]]
+- [[Metoprolol]], [[bisoprolol]], [[carvedilol]], [[nebivolol]]
 
 [[Glaucoma]]
 - ↓ intraocular pressure by ↓ aqueous humor
@@ -100,6 +100,12 @@ Most are antagonists but some are partial agonists or inverse agonists
 [[Migraines|Migraine]] proplylaxis
 - Can reduce frequency and severity 
 - [[Propranolol]], [[timolol]], [[metoprolol]]
+
+[[Thyroid Storm]]
+
+[[Stable Angina]]
 #### Contraindications
 - Asthma or severe COPD
 - Bradycardia or heart block
+- Acute decompensated heart failure
+- **Do not stop abruptly** → risk of rebound HTN, angina, MI

@@ -9,7 +9,7 @@ tags:
 ---
 ### Etiology
 - Embolism
-- Giant cell arteritis
+- [[Temporal Arteritis|Giant cell arteritis]]
 
 ### Pathophysiology
 - Blockage of central retinal a. 

@@ -4,7 +4,7 @@ aliases:
 source: CV
 date: 5-4-26
 ---
-*Adjustment of cardiac output and peripheral vascular tone to stabilize arterial BP*
+*Adjustment of [[cardiac output]] and peripheral vascular tone to stabilize arterial BP*
 
 1) Acute pressure ↑ causes depressor reflex
 	- ↑ [[Arterial Baroreceptors|arterial baroreceptors]] response to stretch -> vagus and glossopharyngeal -> brainstem
@@ -26,7 +26,7 @@ date: 5-4-26
 	- Fixes response:
 		- HR up by 15 beats / min
 		- Stroke volume stays depressed so pulse pressure ↓
-			- Cardiac output falls but tachycardia keeps it to only 20% fall
+			- [[Cardiac output]] falls but tachycardia keeps it to only 20% fall
 		- Resistance ↑ from vasoconstriction
 		- Vein constriction causes blood to go to heart
-		- 
+		

@@ -10,3 +10,7 @@ source: FoM II
 - ↓ BP
 - Less reflex tachycardia compared to nonselective
 - ↓ resistance to urine flow
+#### Dosing
+- Once daily
+- Studied in ALLHAT (↑HF risk as monotherapy)
+

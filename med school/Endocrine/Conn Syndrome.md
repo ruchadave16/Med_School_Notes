@@ -19,8 +19,8 @@ tags:
 
 ### Clinical Features
 - Symptoms
-	- Hypertension
-	- Hypokalemia
+	- [[Hypertension]]
+	- [[Hypokalemia]]
 	- [[Metabolic alkalosis]]
 - Signs
 	- ↓ [[renin]] in circulation because of increasing ECF volume

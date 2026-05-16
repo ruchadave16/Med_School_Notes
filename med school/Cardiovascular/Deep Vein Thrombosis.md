@@ -1,12 +1,13 @@
 ---
 aliases:
   - DVT
+  - phlebothrombosis
 date: 10-6-25
-source: MGA
+source: MGA, CV
 tags:
   - disease
 ---
-*Blood clot in deep veins*
+*Blood clot in deep veins **without** significant inflammation*
 ### Definition
 Brief summary of the condition.
 
@@ -40,8 +41,7 @@ Brief summary of the condition.
 - Lifestyle
 
 ### Complications
-- Short-term
-- Long-term
+- **High risk of [[Pulmonary Embolism|pulmonary embolism]]**
 
 ### High-Yield Associations
 - Classic buzzwords

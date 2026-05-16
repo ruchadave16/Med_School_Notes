@@ -32,9 +32,7 @@ Pressure HIGHEST in [[aorta]] and lowest in vena cava
 
 ![[Screenshot 2026-04-27 at 10.42.19 AM.png]]
 ### Regulation
->[!Note]
->- [[Baroreflex]]
->- 
+[[Baroreflex]]
 
 - If elastic walls, deformation of walls reduces pressure compared to non-elastic
 	- These elastic vessels = high pressure reservoir 

@@ -11,7 +11,7 @@ tags:
 #### Action
 #### Uses
 - Useful for patients with [[CNS]] side effects
-
+- HTN and angina
 #### Administration
 
 #### Dosing

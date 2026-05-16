@@ -8,12 +8,13 @@ date: 12-15-25
 *$\alpha2$ agonist*
 #### Action
 - Antihypertensive by activating $\alpha2$ in CNS cardiovascular control centers
-- **↓ sympathetic outflow from brain**
+- **↓ sympathetic outflow from brain** so ↓ [[Norepinephrine]]
 - Vasoconstrictive
+- ↓ HR, cardiac output, SVR
 #### Uses
-- Systemic hypertension
+- Systemic [[hypertension]] that is **resistant**
 - ↓ intraocular pressure
-- Management of withdrawal symptoms
+- Management of [[opioid withdrawal]] symptoms
 - [[ADHD]]
 #### Administration
 - IV Infusion
@@ -21,6 +22,7 @@ date: 12-15-25
 	- Prolonged hypotensive
 - Oral
 	- Only hypotensive
+- Patch
 #### Dosing
 
 #### Adverse Effects

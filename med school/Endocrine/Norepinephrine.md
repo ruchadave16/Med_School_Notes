@@ -13,7 +13,7 @@ tags:
 - [[Vitamin C]] = coenzyme in conversion of [[dopamine]] → norepinephrine
 #### Effects
 Receptor activity: **$\alpha1$ > $\alpha2$ > $\beta1$ agonist**
-- Effect: vasoconstriction ($\alpha 1$) and contractility $\beta 1$
+- Effect: vasoconstriction ($\alpha 1$) and [[contractility]] $\beta 1$
 	- ↑ MAP and PP due to ↑ SBP through $\beta 1$
 	- Reflex bradycardia from [[baroreflex]]
 	
@@ -30,6 +30,6 @@ Receptor activity: **$\alpha1$ > $\alpha2$ > $\beta1$ agonist**
 - Not effective orally
 - Inactive in liver by [[MAO]] and COMT
 #### Adverse Effects
-- Severe hypertension
+- Severe [[hypertension]]
 
 

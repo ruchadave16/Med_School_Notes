@@ -72,7 +72,7 @@ Deep veins parallel arteries of same name
 - Cutaneous veins around umbilicus connect to hepatic portal vein ** 
 
 >[!Clinical] [[Caput Medusae]]
->- With liver cirrhosis, hepatic portal can be blocked causing ↑ portal hypertension
+>- With liver cirrhosis, hepatic portal can be blocked causing ↑ [[Hepatic Portal Hypertension|portal hypertension]]
 >- Vessels at this connection of cutaneous with hepatic can be shunts into caval system
 >- This can cause engorgement of superficial abdominal veins
 ##### Innervation

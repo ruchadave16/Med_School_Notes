@@ -20,7 +20,7 @@ Treatment
 Treatment
 - [[Thiabendazole|Ivermectin]]
 #### Wuchereria Bancrofti
-- Elephantiasis (long standing lymphedema)
+- [[Elephantiasis]] (long standing lymphedema)
 - Cough from microfilariae in lungs
 - Source = mosquito -- larvae from skin -> lymphatics
 - Thick blood smear for diagnosis

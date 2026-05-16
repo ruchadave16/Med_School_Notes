@@ -32,10 +32,10 @@ source: Neuro
 		- Good for long term NOT for acute
 - Benzodiazepine
 #### Commonly Confused Disorders
-- Cardiovascular: [[anemia]], [[angina]], [[hypertension]], [[congestive heart failure]]
+- Cardiovascular: [[anemia]], [[angina]], [[Hypertension|hypertension]], [[congestive heart failure]]
 - Pulmonary: [[asthma]], [[hyperventilation]], [[pulmonary embolism]]
 - Neurological: [[epilepsy]], [[migraines]], [[multiple sclerosis]], [[Wilson Disease|Wilsons disease]], infection, tumor
 - Endocrine: [[Addison Disease|Addisons disease]], [[carcinoid syndrome]], [[pheochromocytoma]], [[diabetes]], [[hyperthyroidism]], [[hypoglycemia]], [[hypoparathyroidism]]
 - Drug Intoxication: [[amphetamine]], [[Anticholinergic Drugs|anticholinergics]], [[hallucinogens]], [[marijuana]], [[nicotine]], [[cocaine]], [[theophylline]]
 - Drug Withdrawal: [[Alcohol Withdrawal]], [[antihypertensives]], [[Opioids]], [[sedative hypnotics]]
-- Other: [[Anaphylaxis]], [[B12]] deficiency, [[systemic Lupus Erythematosus]], [[temporal arteritis]], [[uremia]], [[heavy metal poisoning]], electrolyte disturbances
+- Other: [[Anaphylaxis]], [[B12]] deficiency, [[systemic Lupus Erythematosus]], [[Temporal Arteritis|temporal arteritis]], [[uremia]], [[heavy metal poisoning]], electrolyte disturbances

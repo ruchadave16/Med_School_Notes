@@ -10,7 +10,7 @@ source: CV
 	- Sympathetic is slower onset than parasympathetic
 - Rapid changes to HR are based on parasympathetic
 #### Sympathetic
-*↑ HR, contractility, and relaxation rate*
+*↑ HR, [[contractility]], and relaxation rate*
 - Norepi binds to $\beta 1$ on cardiac membrane
 - Epi also activates $\beta 1$
 	- ↑ HR (chronotropic effect)

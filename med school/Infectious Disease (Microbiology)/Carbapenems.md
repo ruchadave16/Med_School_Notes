@@ -15,7 +15,7 @@ Reserved for multidrug-resistent infections
 - Anaerobes
 
 ### Examples
-- [[Imipenem]]: Most broad spectrum, but inactivated by renal dehydropeptidases so needs to be combined with cilastatin
+- [[Imipenem]]: Most broad spectrum, but inactivated by renal dehydropeptidases so needs to be combined with [[cilastatin]]
 - Meropenem and Ertapenem have no inactivation 
 	- Meropenem coformulated with vaborbactem
 - Ertapenem

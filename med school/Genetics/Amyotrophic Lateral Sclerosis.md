@@ -39,7 +39,7 @@ tags:
 - Muscle / nerve biopsy
 - Genetic testing
 
-**Differential:** lead toxicity, dysproteinemia, thyroid dysfunction, B12 deficiency, vasculitis, paraneoplastic syndromes, hexosaminidase A deficiency, multifocal neuropathy with conduction block, spine compression
+**Differential:** lead toxicity, dysproteinemia, thyroid dysfunction, B12 deficiency, [[vasculitis]], paraneoplastic syndromes, hexosaminidase A deficiency, multifocal neuropathy with conduction block, spine compression
 
 ### Treatment
 - Pharmacologic

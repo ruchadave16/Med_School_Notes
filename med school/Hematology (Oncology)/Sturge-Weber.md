@@ -19,19 +19,18 @@ tags:
 - Intellectual disabilities
 - Seizures
 - Cerebral calcifications
+- Hemiplegia
 
 **Tumors**
-- Cutaneous angiomas
+- Cutaneous angiomas 
 	- Port Wine Stain
 	- V1 distribution
-- Leptomeningeal angiomas
+- Leptomeningeal angiomas I/L
 - [[Pheochromocytoma]]
 
 ![[Screenshot 2026-03-29 at 8.23.52 PM.png]]
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- Radiologic opacities of the skull
 
 ### Treatment
 - Pharmacologic

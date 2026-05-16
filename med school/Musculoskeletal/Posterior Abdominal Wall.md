@@ -27,7 +27,7 @@ source: MGA
 
 ![[Pasted image 20250906234804.png]]
 
->[!Clinical] [[Abdominal Aortic Aneurysm]]: Local enlargenment of aorta by congenital/acquired weakness of arterial wall
+>[!Clinical] [[AAA|Abdominal aortic aneurysm]]: Local enlargenment of aorta by congenital/acquired weakness of arterial wall
 >- 90% mortality if rupture
 
 #### Veins

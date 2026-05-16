@@ -31,9 +31,9 @@ Used for [[Schizophrenia|schizophrenia]], [[Bipolar I|bipolar I]] and [[Bipolar 
 - Others interact with [[NMDA Receptors|NMDA receptors]]
 #### Adverse Effects
 - [[D2 receptors]]: [[extrapyramidal symptoms]] + [[hyperprolactinemia]], dystonias
-- [[5-HT2A Receptors|5-HT2A]]: **sedation, weight gain, hyperlipidemia, hyperglycemia**
-- [[H1 receptor]]: sedation, weight gain, hyperlipidemia, hyperglycemia
-- M1 receptor: anticholinergic (no accomodation, dry eye, mouth, difficulty urinating, blurry vision, constipation), sometimes toxic confusional state
+- [[5-HT2A Receptors|5-HT2A]]: **sedation, weight gain, [[hyperlipidemia]], hyperglycemia**
+- [[H1 receptor]]: sedation, weight gain, [[hyperlipidemia]], hyperglycemia
+- M1 receptor: [[Anticholinergic Drugs|anticholinergics]] (no accomodation, dry eye, mouth, difficulty urinating, blurry vision, constipation), sometimes toxic confusional state
 - $\alpha1$ receptor: orthostatic hypotension, failure to ejaculate
 
 >[!Warning]

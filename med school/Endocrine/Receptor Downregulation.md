@@ -10,4 +10,4 @@ Result of high hormone exposure for sustained period of time
 - Receptors are degraded or inactivated
 
 >[!Example]
->[[Insulin Receptors|Insulin receptor]] downregulation due to [[hyperinsulinemia]] in [[obseity]] → resistance
+>[[Insulin Receptors|Insulin receptor]] downregulation due to [[hyperinsulinemia]] in [[obesity]] → resistance

@@ -7,6 +7,8 @@ source: CV
 ---
 *Repeating processes that underly primary function of heart to pump blood at 1-2 Hz*
 #### Cycle
+![[Screenshot 2026-04-27 at 8.49.00 PM.png]]
+
 1) Late diastole: 
 	- Both sets of chambers relaxed, ventricles fill passively
 2) Atrial systole:
@@ -30,7 +32,6 @@ source: CV
 >- S4: atrial contraction forcing blood into a stiff ventricle.
 >- JVP: evolving pressure waves induced in the jugular vein
 
-![[Screenshot 2026-04-27 at 8.49.00 PM.png]]
 
 ![[Screenshot 2026-04-27 at 1.16.25 PM.png]]
 #### Phases on [[Clinical Skills/ECG]]

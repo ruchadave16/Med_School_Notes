@@ -18,8 +18,9 @@ tags:
 	- Learning disability
 - Signs
 	- Neck webbing, broad chest, wide nipples, gonadal dysgenesis
+	- Cavernous lymphangiomas of neck and 
 	- Puffy feet
-	- Short stature ← haploinsuﬃciency of SHOX gene
+	- Short stature ← haploinsufficiency of SHOX gene
 - Variants
 ### Diagnosis
 - Labs

@@ -13,7 +13,7 @@ source: Neuro
 	- Low risk: [[Aripiprazole]], [[lurasidone]], [[ziprasidone]]
 	- Switch if weight gain >5% of baseline
 - Metabolic
-	- Hyperlipidemia, hyperglycemia, ↑ risk of [[Diabetes Mellitus|diabetes mellitus]]
+	- [[Hyperlipidemia]], hyperglycemia, ↑ risk of [[Diabetes Mellitus|diabetes mellitus]]
 	- **Monitor fasting sugar, especially with [[olanzapine]], [[clozapine]], [[quetiapine]]**
 
 #### Antagonists

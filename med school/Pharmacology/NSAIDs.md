@@ -38,7 +38,7 @@ tags:
 - Cardiovascular effects
 - Bleeding risk from ↓ [[TXA2]]
 - ↑ Thrombosis from COX-2 inhibitors since ↓ [[PGI2]]
-- Hypertension
+- [[Hypertension]]
 #### Uses
 - Chronic inflammation
 - Acute pain and injuries

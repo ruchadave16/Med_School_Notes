@@ -7,5 +7,6 @@ date: 1-24-26
 Last activated in [[coagulation cascade]]
 - Converts [[fibrinogen]] → [[fibrin]]
 - Induction of [[platelet activation]] and [[Platelet Aggregation|platelet aggregation]]
+	- through PAR-1 receptor
 - Pro-inflammation
 - [[Anticoagulant]]

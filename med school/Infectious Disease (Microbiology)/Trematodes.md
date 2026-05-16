@@ -14,7 +14,7 @@ tags:
 - Snails = intermediate host
 
 - Swimmer's itch 
-	- Mansoni + japonicum = portal hypertension causing cirrhosis, jaundice
+	- Mansoni + japonicum = [[Hepatic Portal Hypertension|portal hypertension]] causing cirrhosis, jaundice
 	
 *S. haematobium* -- large terminal spine
 - Against portal flow

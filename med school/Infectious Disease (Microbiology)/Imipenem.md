@@ -14,7 +14,7 @@ tags:
 
 #### Dosing
 - Inactivated by renal dehydropeptidases
-	- Combine with cilastatin to prevent degradation
+	- Combine with [[cilastatin]] to prevent degradation
 #### Adverse Effects
 
 #### Contraindication

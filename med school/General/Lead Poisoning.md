@@ -34,7 +34,7 @@ Exposure
 - *Blue line on gums*
 - *SEVERE abdominal pain*
 - *Constipation*
-- Hypertension
+- [[Hypertension]]
 - Infertility
 - *Irritability*
 ### Diagnosis

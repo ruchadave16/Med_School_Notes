@@ -10,10 +10,11 @@ tags:
 #### Action
 #### Uses
 - Heart failure (cardioprotective)
+- HTN
 #### Administration
 
 #### Dosing
-
+- Long acting
 #### Adverse Effects
-
+- Low chance
 #### Contraindication

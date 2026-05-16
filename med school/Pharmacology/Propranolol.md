@@ -10,7 +10,10 @@ source: FoM II
 Equal affinity for B1 and B2
 - Lipophilic
 #### Action
-- [[CNS]] effects
+- [[CNS]] effects (crosses BBB)
+- Migraine
+- **First Line** for [[essential tremor]]
+- Thyrotoxicosis
 #### Uses
 - Low bioavailability
 - Local anesthetics
@@ -18,7 +21,7 @@ Equal affinity for B1 and B2
 
 #### Dosing
 - Half-life = 3-6 hrs
-
 #### Adverse Effects
 
 #### Contraindication
+- Asthma

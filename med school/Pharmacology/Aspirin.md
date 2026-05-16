@@ -8,32 +8,38 @@ source: ID
 tags:
   - drug
 ---
+*[[NSAIDs|NSAID]] *
 #### Action
-- Irreversible [[COX]] inhibition (COX-1 and COX-2) by acetylation, preventing [[TXA2]] production
+- Irreversible [[COX]] inhibition (COX-1 and COX-2) by acetylation, preventing [[TXA2]] production through acetylation
+- Without TXA2, platelets cannot express GPIIb/IIIa receptors
 	- No aggregation of platelets
 	- No vasoconstriction
-- [[Thrombocytes|Platelets]] have no nuclei so cannot make more TXA2
+- [[Thrombocytes|Platelets]] have no nuclei so cannot make more TXA2 or regenerate COX-1
 	- 1 dose has effects for 7-10 days
 - Endothelial cells DO have nuclei so they can remake COX-2 and restore [[PGI2]] 
 #### Uses
-- Long-lasting platelet inhibition for prevention of MI / Stroke
+- **First line** [[Antiplatelets|antiplatelets]] for long term prevention of MI / Stroke
+- [[Acute coronary syndrome]] 
+- 
 #### Resistance
 
 #### Dosing
-75-100 mg / day -- antiplatelet
-- Prevention of [[Myocardial Infarction|MI]], [[Stroke]], thrombosis
+75-100 mg / day -- antiplatelet (81 mg daily ("baby aspirin"))
+- Prevention of [[Myocardial Infarction|MI]], [[Stroke]], thrombosis, peripheral artery disease
 
-325-500 mg -- analgesic, antipyretic
+- 325 mg loading dose given during MI or stroke
 
 ↑ doses -- anti-inflammatory
 #### Adverse Effects
+- GI ulcers, gastritis
+- Bleeding
+- [[AERD]]
+- Hypersensitivity rxn
+
 **[[Reyes Syndrome]]** -- IN VIRAL ILLNESS
 - HEPATIC FAILURE AND ENCEPHALOPATHY
 - DO NOT GIVE under 18 with fever
-
-GI bleeding
-
-##### Aspirin Toxicity
+#### [[Aspirin Toxicity]]
 - Early
 	- GI upset
 	- Tinnitus **Early sign**

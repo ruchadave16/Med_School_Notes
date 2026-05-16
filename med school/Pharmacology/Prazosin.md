@@ -19,5 +19,5 @@ source: FoM II
 #### Dosing
 
 #### Adverse Effects
-
+- High risk of first dose syncope
 #### Contraindication

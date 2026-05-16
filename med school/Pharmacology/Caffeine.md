@@ -7,7 +7,7 @@ tags:
   - drug
 ---
 #### Action
-- ↑ contractility of heart by inhibiting [[phosphodiesterase]]
+- ↑ [[contractility]] of heart by inhibiting [[phosphodiesterase]]
 - cAMP ↑ and thus acts like epi/norepi
 #### Uses
 

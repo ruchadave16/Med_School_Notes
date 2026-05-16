@@ -1,3 +1,9 @@
+---
+aliases:
+  - tetralogy of fallot
+  - Tetralogy of fallot
+source:
+---
 4 heart defects, **blue/gray skin when crying or feeding**
 
 1) Narrowing of pulmonary valve ([[pulmonary valve stenosis]]) reduces flow of blood to lungs

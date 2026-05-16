@@ -19,8 +19,8 @@ tags:
 
 ### Pathophysiology
 - Alternate pathways develop between portal + systemic venous systems
-- Enlargement of veins (blood reverses direction)
-	- Esophageal varices – L gastric v. with esophageal v (off azygous)
+- Enlargement of veins (blood reverses direction) [[Varicose Veins]]
+	- [[Esophageal varices]] – L gastric v. with esophageal v (off azygous)
 	- Paraumbilical varices – [[Caput Medusae]] (paraumbilica v. with superficial epigastric v.)
 	- Rectal varices – Superior rectal v. with middle/inferior rectal v. 
 	- Retroperitoneal varices – Secondary retroperitoneal organ (dilated splenic, renal, inferior mesenteric veins)
@@ -33,7 +33,8 @@ tags:
 - Symptoms
 - Signs
 	- [[Caput Medusae]] on anterior abdominal wall because of paraumbilical varices
-	- Bleeding hemorrhoids
+	- Bleeding [[hemorrhoids]]
+	- Esophageal varices
 - Variants
 
 ### Diagnosis

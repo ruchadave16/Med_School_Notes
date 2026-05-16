@@ -9,7 +9,7 @@ tags:
   - disease
 ---
 ### Etiology
-- 
+
 ### Pathophysiology
 - Autoantibodies, especially antinuclear antibodies (ANAs) – group of antibodies that target normal proteins in nucleus like DNA, histones, non-histone proteins, and centromeres
 	- Do NOT cross membranes to attack nuclear proteins
@@ -18,13 +18,13 @@ tags:
 	- **anti-dsDNA and anti-Sm antibodies** are highly specific to lupus
 - Lesions due to [[Type III hypersensitivity]] – immune complex deposition
 - Autoantibodies against blood cells opsonize these cells and cause phagocytosis causing cytopenias – [[Type II hypersensitivity]]
-##### Pathological Findings
+#### Pathological Findings
 - Presence of anti-dsDNA or anti-Sm antibodies
 - Presence of antiphospholipid antibodies
-- Acute necrotizing vasculitis → [[fibrinoid necrosis]] of vessel walls
-- Glomerulonephritis (glomerular deposits of immune complexes)
+- Acute necrotizing [[immune complex vasculitis]] → [[fibrinoid necrosis]] of vessel walls
+- [[Glomerulonephritis]] (glomerular deposits of immune complexes)
 - Nonerosive synovitis
-- Pericarditis
+- [[Pericarditis]]
 - Libman-Sacks endocarditis
 ### Clinical Features
 **Presentation**

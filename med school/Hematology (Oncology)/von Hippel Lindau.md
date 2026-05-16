@@ -12,8 +12,8 @@ tags:
 - [[VHL]] on chromosome 3
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- 
+- ![[Screenshot 2026-05-06 at 3.29.58 PM.png]]
 
 ### Clinical Features
 Presents with
@@ -22,7 +22,7 @@ Presents with
 
 **Tumors**
 - [[Hemangioblastoma]]
-- Cavernous hemangioma
+- [[Cavernous hemangioma]]
 - Renal Cell Carcinoma
 - [[Pheochromocytoma]]
 - Endolymphatic Sac Tumors

@@ -15,8 +15,10 @@ source: ID
 - Turbulences cause endothelial injury → clot formation by mechanism above
 - Form countercurrents that cause stasis
 	- Major reason for venous clots
-
 ![[Screenshot 2026-01-24 at 6.00.25 PM.png]]	![[Screenshot 2026-01-24 at 6.02.55 PM.png]]
+#### Common Categories
+- [[Deep Vein Thrombosis|DVT]]
+- [[Thrombophlebitis]]
 #### Hypercoagulability
 - Higher chance of forming blood clot (generally venous clots)
 - [[Factor V Leiden Mutation]]: **Most common genetic cause**
@@ -28,4 +30,3 @@ source: ID
 - [[Antithrombin III Deficiency]]
 - [[Heparin Induced Thrombocytopenia]]
 - [[Antiphospholipid Antibody Syndrome]]
-	

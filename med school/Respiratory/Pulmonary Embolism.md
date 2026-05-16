@@ -2,6 +2,7 @@
 aliases:
   - pulmonary embolism
   - Pulmonary embolism
+  - PE
 ---
 [[Embolism]] that lodges in [[lungs]]
 

@@ -10,9 +10,8 @@ tags:
 #### Mechanism
 - Infection of B cells and epithelial cells
 - Reactivation of latent virus when immunocompromised
-- 
 #### Symptoms
-- Kaposi's sarcoma in AIDs patients
+- [[Kaposi sarcoma]] in [[AIDs]] patients
 	- External or internal lesions
 	
 ![[Screenshot 2026-03-03 at 11.24.13 PM.png]]

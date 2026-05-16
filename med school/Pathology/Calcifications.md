@@ -7,7 +7,7 @@ source: ID
 *Abnormal deposition of calcium salts*
 
 - Dystrophic calcification: Normal metabolism but calcium deposits in foci of injured tissue
-	- Arterial artheroschlerosis
+	- Arterial [[Atherosclerosis]]
 	- Aortic valves
 	- Blunt injury
 - Metastatic calcification: [[hypercalcemia]] – buildup of calcium in normal tissue

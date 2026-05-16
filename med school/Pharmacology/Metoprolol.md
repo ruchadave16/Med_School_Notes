@@ -11,9 +11,11 @@ tags:
 #### Action
 - Cardioselective
 #### Uses
-- Hypertension
+- [[Hypertension]]
 - Angina
+- CAD
 - Post MI therapy
+- evidence-based for HFrEF
 #### Administration
 
 #### Dosing

@@ -12,7 +12,7 @@ Circuit is made of [[heart]] and [[blood vessels]]
 - Left heart sends oxygen-rich blood to periphery to drop off oxygen
 - Blood comes back to right side
 
-- ![[Screenshot 2025-07-18 at 5.56.50 PM.png]]
+![[Screenshot 2026-05-16 at 3.22.30 PM.png]]
 #### Pulmonary Circulation
 Low-oxygen blood → SVC/IVC/Coronary sinus → [[Right Atrium]] → tricuspid valve → [[Right Ventricle]] → pulmonary valve → pulmonary trunk → pulmonary artery → lungs → $CO_2$ exchanged for $O_2$ → [[pulmonary vein]]s → High-oxygen blood to [[Left Atrium]] 
 
