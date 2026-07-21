@@ -64,7 +64,7 @@ Type II
 	- Type II:
 		- Sulfonylurea drugs – ↑ insulin secretion
 		- Biguanide drugs (metformin) – ↑ insulin receptors on tissues
-		- SGLT2 inhibitors – ↓ reabsorption of glucose in [[Proximal Convoluted Tubule|proximal convoluted tubule]] so more is excreted
+		- [[SGLT2 inhibitors]] – ↓ reabsorption of glucose in [[Proximal Convoluted Tubule|proximal convoluted tubule]] so more is excreted
 		- DPP-IV inhibitors, thiazolidinedione
 - Surgical
 - Lifestyle

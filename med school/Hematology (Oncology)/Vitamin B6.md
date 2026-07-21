@@ -16,7 +16,7 @@ source: ID
 - Cofactor for glycogen phosphorylase
 - Cystathionine synthesis
 - Glutathionine synthesis
-- Heme synthesis
+- [[Heme synthesis]]
 - Niacin synthesis from tryptophan
 - Histamine synthesis
 #### Deficiency

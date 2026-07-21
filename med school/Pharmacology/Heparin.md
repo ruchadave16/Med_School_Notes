@@ -21,13 +21,13 @@ tags:
 	- [[Prenatal Period|pregnancy]] -> no crossing of placenta
 #### Reversal
 - Antidote: [[Protamine sulfate]]
-
 #### Dosing
 - IV or cutaneous
 - Rapid onset, short duration so constant infusion
+
 **Monitoring**: aPTT (activated partial thromboplastin time)
 #### Adverse Effects
-- Bleeding
+- Bleeding -- reverse with [[protamine sulfate]]
 - [[Heparin Induced Thrombocytopenia|HIT]]
 - [[Osteoporosis]]
 - Drug interactions

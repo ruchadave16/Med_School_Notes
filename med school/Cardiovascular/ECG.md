@@ -48,7 +48,7 @@ source: CV
 - - terminus for each of these leads = Wilson's central terminus
 - 𝑉𝑊 = (𝑅𝐴 + 𝐿𝐴 + 𝐿𝐿)/3
 ![[Screenshot 2026-05-01 at 10.00.36 PM.png]]
-#### Reading an ECG
+#### [[Reading an ECG]]
 Each lead measures the dipole projected onto that leads axis
 - Y-axis = blocks of 0.1 mV and large blocks of 0.5 mV
 	- Calibration = 10 mm/mV

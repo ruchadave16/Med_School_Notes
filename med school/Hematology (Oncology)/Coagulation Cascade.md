@@ -28,8 +28,6 @@ source: ID
 	- Start with activation of Factor VII
 	- **Measurement of time = PT time**
 
-![[Screenshot 2026-01-24 at 2.23.53 PM.png]]
-
 >[!Warning]
 >Deficiency in V, VII, VIII, IX, X = moderate to severe bleeding disorder
 >Prothrombin (II) = incompatible with life
@@ -39,5 +37,5 @@ source: ID
 #### Limitations
 - Negatively charged phospholipids – only present on active platelets
 - [[Thrombin]] – interacts with normal endothelial cells as anticoagulant
-- Antithrombin II – inhibitor of coagulation factors
+- [[Antithrombin III]] – inhibitor of coagulation factors
 - [[Plasmin]] 

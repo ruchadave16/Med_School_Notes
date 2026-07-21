@@ -12,16 +12,20 @@ tags:
 #### Uses
 - Chronic HTN (oral) -- second line
 - HTN in [[Prenatal Period|pregnancy]] (IV)
-- Heart failure (along with [[nitrates]])
+- [[HFrEF]] (along with [[nitrates]]), especially black patients
+	- Nitrates to ensure no reflex sympathetic activation
 #### Resistance
 
 #### Dosing
 - Oral, IV
 - Co-administered with [[beta blockers]] to prevent reflex tachycardia
+
 #### Adverse Effects
 - Reflex tachycardia
 - Flushing, headache
 - [[Edema]]
-- Drug-induced [[Systemic Lupus Erythematosus|lupus]]
+- Drug-induced lupus
 - Angina exacerbation
 #### Contraindication
+- [[coronary artery disease]]
+- [[Rheumatic heart disease]]

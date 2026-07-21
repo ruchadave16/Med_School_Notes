@@ -34,7 +34,7 @@ source: CV
 
 
 ![[Screenshot 2026-04-27 at 1.16.25 PM.png]]
-#### Phases on [[Clinical Skills/ECG]]
+#### Phases on [[Reading an ECG]]
 Phase 1: Last part of filling ventricle due to atrial contraction ← P-wave of ECG
 - Most of atrial filling is in earlier part of diastole
 

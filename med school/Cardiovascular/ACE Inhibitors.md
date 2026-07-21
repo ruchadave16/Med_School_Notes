@@ -6,16 +6,16 @@ source: ID, CV
 tags:
   - drug
 ---
-*Lisinopril, enalapril, captopril*
+*[[Lisinopril]], enalapril, captopril*
 #### Action
 - Block conversion of [[angiotensin I]] → [[angiotensin II]] (ACE enzyme)
 	- Vasodilation, ↓ aldosterone, ↓ BV
 - Block breakdown of [[bradykinin]] -> vasodilation 
 #### Uses
 - [[Hypertension]]
-- Heart failure with reduced ejection fraction
+- Heart failure with reduced ejection fraction ([[HFrEF]])
 - Post MI
-- Chronic kidney disease
+- [[Chronic kidney disease]]
 #### Resistance
 
 #### Dosing

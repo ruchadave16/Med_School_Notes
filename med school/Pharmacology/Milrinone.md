@@ -7,14 +7,17 @@ tags:
   - drug
 ---
 #### Action
-- Blocks [[phosphodiesterase]] -> stops it from breaking down [[cAMP]]
+- Blocks [[phosphodiesterase]] (PDE3) -> stops it from breaking down [[cAMP]]
+- ↑ cAMP so ↑ inotropy and vasodilation
 #### Uses
-- Acute cardiac failure
+- [[Acute decompensated heart failure]] if beta blocker use and ↓ CO
 
 #### Resistance
 
 #### Dosing
 
 #### Adverse Effects
-
+- Arrhythmias
+- Hypotension
+- Electrolyte disturbance
 #### Contraindication

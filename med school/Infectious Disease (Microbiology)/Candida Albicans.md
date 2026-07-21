@@ -26,7 +26,7 @@ tags:
 	- Antibiotic use
 	- **NO** change to pH (only < 4 pH)
 	- Birth control pills
-- Endocarditis
+- [[Endocarditis]]
 	- Tricuspid valve
 	- IV drug users
 #### Diagnosis

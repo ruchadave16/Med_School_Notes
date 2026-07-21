@@ -1,6 +1,8 @@
 ---
 aliases:
   - tissue plasminogen activator
+  - Alteplase
+  - alteplase
 date: 1-24-26
 source: ID
 ---
@@ -11,3 +13,5 @@ source: ID
 
 >[!Clinical]
 >High D dimers signify high [[thrombosis]] and thrombolysis
+
+- Used in acute ischemic stroke

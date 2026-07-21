@@ -19,14 +19,4 @@ source: ID
 #### Common Categories
 - [[Deep Vein Thrombosis|DVT]]
 - [[Thrombophlebitis]]
-#### Hypercoagulability
-- Higher chance of forming blood clot (generally venous clots)
-- [[Factor V Leiden Mutation]]: **Most common genetic cause**
-	- Autosomal dominant
-	- 15% caucasians
-	- Factor V is resistant to cleavage by Protein C 
-- Prothrombin Gene Mutation
-	- ↑ prothrombin
-- [[Antithrombin III Deficiency]]
-- [[Heparin Induced Thrombocytopenia]]
-- [[Antiphospholipid Antibody Syndrome]]
+#### [[Hypercoagulation|Hypercoagulability]]

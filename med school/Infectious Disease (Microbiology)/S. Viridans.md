@@ -18,10 +18,12 @@ tags:
 - Common in oropharynx
 #### Mechanism
 - S. sanguinis makes [[dextran]], which can adhere [[fibrin]] and platelet clumps on heart valves
-	- Endocarditis after dental work
+	- [[Infective Endocarditis]] post dental work
+	- Attacks previously damaged
 - S. mutans and S. mitis -- dental plaque and caries
 #### Symptoms
 - Can cause sepsis in [[bone marrow transplant]] after chemotherapy
+
 #### Diagnosis
 #### Treatment
 #### Prevention

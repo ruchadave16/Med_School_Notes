@@ -9,10 +9,11 @@ source: FoM I
 *Paired bean-shaped organs in [[Posterior Abdominal Wall|posterior abdominal wall]]*
 Located in retroperitoneal space
 - R at L1-L3, L at T12-L2
-##### Functions
+#### Functions
 - Maintain volume and composition of [[body fluids]]
 - [[Renal Tubular Transport|Renal tubular transport]]
-##### Contents
+- Release [[Erythropoietin]] in response to hypoxia or anemia
+#### Contents
 
 ##### External Features
 - Covered by dense irregular [[connective tissue]] capsule
@@ -41,7 +42,7 @@ Located in retroperitoneal space
 
 ![[Pasted image 20250913163932.png]]
 
-##### Blood Supply
+#### Blood Supply
 
 ![[Pasted image 20250913164307.png]]
 
@@ -54,20 +55,20 @@ Located in retroperitoneal space
 - Glomerular capillaries – filter blood in [[Renal Corpuscle|glomerulus]]
 - Efferent arteriole – carry blood away from glomerulus
 	- From cortical glomeruli, form peritubular capillaries bringing away from proximal and distal tubules, converging into veins of peripheral cortex → interlobular veins
-	- Endothelial cells of peritubular capillaries make [[erythropoeitin]] to ↓ blood oxygen
+	- Endothelial cells of peritubular capillaries make [[erythropoietin]] to ↓ blood oxygen
 	- From juxtamedullary glomeruli, form vasa recta → medulla → interlobular veins → arcuate veins → interlobar → renal vein (anterior to aorta, inferior to SMA) → IVC
 
 ![[Pasted image 20250913165648.png]]
 ![[Pasted image 20250913165735.png]]
-##### Innervation
+#### Innervation
 Sympathetic
 - Lesser  + least splanchnic nerves (T10-T12) → Aorticorenal ganglion
 - Postsynaptic run with renal aa.
 
 Parasympathetic
 - Posterior vagal trunk (CN X)
-##### Lymphatic Drainage
+#### Lymphatic Drainage
 
-##### Embryology
+#### Embryology
 - Comes from intermediate mesoderm – reference [[urogenital development]] 
 

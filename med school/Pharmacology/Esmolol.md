@@ -8,6 +8,7 @@ tags:
 ---
 2nd gen [[Beta Blockers|beta blocker]]
 - Ultra short acting
+- Class II [[Antiarrhythmics]]
 #### Action
 #### Uses
 - Acute setting like hypertensive crisis and perioperative control of HR
@@ -18,3 +19,4 @@ tags:
 #### Adverse Effects
 
 #### Contraindication
+- [[Acute heart failure]]

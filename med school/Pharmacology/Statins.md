@@ -12,19 +12,20 @@ tags:
 - ↓ cholesterol production → ↑ LDL receptors on liver → ↑ LDL clearance from blood
 	- Result: ↓ LDL, ↓ TG, ↑ HDL
 #### Uses
-- **First Line** for reducing LDL (prevention)
-- **Reduce cardiovascular mortality**
+- **First Line** for reducing [[LDL]] (prevention)
+- **Reduce cardiovascular mortality** (Post MI)
+	- Atorvastatin or rosuvastatin for all post [[ACS]]
 - [[Familial Hypercholesterolemia]]
 - [[Diabetes Mellitus]] (age > 40, risk factors)
 #### Classes
 
-| Statin       | Potency  | Notes                                                                      |
-| ------------ | -------- | -------------------------------------------------------------------------- |
-| Atorvastatin | High     | Long half-life; used in ASCVD, diabetes                                    |
-| Rosuvastatin | High     | Most LDL lowering<br>[[Familial Hypercholesterolemia]]<br>Minimal CYP risk |
-| Simvastatin  | Moderate | Common, [[CYP3A4]] interaction<br>Risk ↑ with amiodarone, verapamil        |
-| Pravastatin  | Moderate | Fewer drug interactions<br>Use for elderly                                 |
-| Lovastatin   | Low      | More side effects                                                          |
+| Statin           | Potency  | Notes                                                                      |
+| ---------------- | -------- | -------------------------------------------------------------------------- |
+| [[Atorvastatin]] | High     | Long half-life; used in ASCVD, diabetes                                    |
+| [[Rosuvastatin]] | High     | Most LDL lowering<br>[[Familial Hypercholesterolemia]]<br>Minimal CYP risk |
+| Simvastatin      | Moderate | Common, [[CYP3A4]] interaction<br>Risk ↑ with amiodarone, verapamil        |
+| Pravastatin      | Moderate | Fewer drug interactions<br>Use for elderly                                 |
+| Lovastatin       | Low      | More side effects                                                          |
 #### Resistance
 
 #### Dosing

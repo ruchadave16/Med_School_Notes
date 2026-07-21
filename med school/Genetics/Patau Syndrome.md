@@ -43,5 +43,5 @@ tags:
 	- Holoprosencephaly
 	- Aphasia cutis
 	- Polydactyly
-	- Polycystic kidney disease
+	- [[Polycystic kidney disease]]
 - Boards clues

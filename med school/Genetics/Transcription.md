@@ -60,7 +60,7 @@ RNA Poly III – [[tRNA]]
 >[[HIV]]
 >- HAART: 2 Reverse transcriptase inhibitors + 1 HIV protease inhibitor
 >
->[[b-Thalassemia Syndrome]]
+>[[Thalassemias]]
 >- Mutations for promoter, splicing, polyA of [[beta globlin ]] gene
 >- Polyadenylation effect
 >- No production of beta globin – ↓ [[hemoglobin]]

@@ -29,15 +29,17 @@ tags:
 
 ### Treatment
 - Stabilize pt (ABCs, glucose, IV access)
-- Benzos (Lorazepam, midazolam, diazepam)
-- Anti-seizure meds
-	- Fosphenytoin IV (20 mg/kg)
-	- Valproic acid (40 mg/kg)
-	- Levetiracetam (60 mg)
+- [[Benzodiazephines|Benzos]] (Lorazepam (IV), midazolam, diazepam)
+- Anti-seizure meds (2nd line)
+	- [[Fosphenytoin]] IV (20 mg/kg)
+	- [[Valproate]] (40 mg/kg)
+	- [[Levetiracetam]] (60 mg)
+	- [[Lacosamide]]
 	- Anesthetic w EEG
 		- Propofol
 		- Midazolam
 		- Pentobarbital
+- If still continue, INTUBATE and EEG monitor
 ### Complications
 - Can cause permanent cortical injury
 

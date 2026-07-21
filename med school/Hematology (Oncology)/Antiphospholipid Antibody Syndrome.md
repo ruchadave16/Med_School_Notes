@@ -10,26 +10,32 @@ tags:
 *Antiphospholipid antibodies*
 ### Etiology
 - Common in [[Prenatal Period|pregnancy]] 
+- Primary or secondary 
+	- Associated w [[Systemic Lupus Erythematosus|lupus]]
 ### Pathophysiology
 - Arterial or venous thrombus
-- Antibodies against phospholipids
+- Antibodies against phospholipids: 
+	- Anti-cardiolipin
+	- Anti-β2-glycoprotein I
 
 ### Clinical Features
-- Presentation – multiple miscarriages
+- Presentation – multiple miscarriages, thromboses, cardiac valve vegetations
+- Thrombocytopenia
 - Primary: no history of autoimmune conditions
 - Secondary: history of autoimmune condition, commonly [[Systemic Lupus Erythematosus|lupus]]
 
 ### Diagnosis
 - Labs
-	- Prolonged PTT
+	- Prolonged PTT in vitro (false anticoagulation)
 	- False + reaction for [[syphilis]]
 - Imaging
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- [[Warfarin]] (target INR 2–3 or higher for arterial events)
+- [[LMWHs|LMWH]] during pregnancy
+- Low-dose [[aspirin]] in select patients
+- 
 
 ### Complications
 - [[Thrombosis]]

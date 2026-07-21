@@ -25,6 +25,8 @@ source: ID
 - Epithelioid tumor: Carcinoma
 	- Squamous cell carcinoma = malignant tumor like squamous epithelial cells
 	- Adenocarcinoma = malignant tumor like glandular tissue
+	- Urothelial cell carcinoma = malignant tumor of urothelial cells
+	- Neuroendocrine tumor 
 - Mixed tumor: monoclonal origin but can become both epithelial and mesenchymal 
 - Teratoma = mixed tumor that can become any cell type of body
 
@@ -42,7 +44,11 @@ Choristoma – Misplaced cells to wrong location (normal appearing)
 	- Through lymph – carcinomas
 	- Through blood vessels – sarcomas but also carcinomas
 	- [[Metalloproteases]] aid with metastasis by **breaking protein like collagen**
+- Desmoplasia = a dense connective tissue reaction in response to neoplastic cell growth; it is a common feature of carcinomas
 
+**Nuclear Features**
+- Malignant tumors have enlarged nucleus with irregular shapes (> nuclear:cytoplasmic ratio)
+![[Screenshot 2026-07-21 at 12.31.00 PM.png]]
 #### Clinical Manifestation
 - Impingement on nearby structures
 - Death of involved tissue

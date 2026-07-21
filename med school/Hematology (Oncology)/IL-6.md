@@ -6,3 +6,4 @@ source: ID
 ---
 Fever
 - Stimulates acute phase protein production in liver
+- [[Hepcidin]] production ↑ so iron sequestration ↑ 

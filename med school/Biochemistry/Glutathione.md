@@ -9,3 +9,5 @@ source: FoM II
 
 When glutathione is oxidized by ROS, its litigated by glutathione peroxidase → glutathione disulfide (GSSG)
 - Glutathione reductase brings GSSG back to GSH using [[NADPH]]
+
+![[Screenshot 2026-07-11 at 10.49.41 PM.png]]

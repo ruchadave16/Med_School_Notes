@@ -7,7 +7,7 @@ tags:
   - drug
 ---
 *[[Catecholamines|Catecholamines]]*
-
+#### Action
 Receptor activity: **Mixed $\alpha$ and $\beta$ receptors**
 - Effect on heart, vascular, smooth muscle
 - beta effect at low dose, alpha at high 
@@ -24,9 +24,11 @@ Receptor activity: **Mixed $\alpha$ and $\beta$ receptors**
 - Bronchospasm: now replaced by $\beta2$ [[Beta2 Agonists|agonists]]
 - Local vasoconstriction: ↓ absorption of [[local anesthetics]] in whole system
 - Topical hemostatic agent: control bleeding
+- AV block if not responsive to [[atropine]]
 #### Administration
 - Not effective orally, give SC (slower absorption), IM, IV (for immediate), inhaled, or topical
 - Inactivated in liver by [[MAO]] and COMT
 #### Adverse Effects
 - Mild: restlessness, headache, tremor, palpitations
 - Severe: rapid IV can cause cerebral hemorrhage or ventricular arrhythmias
+- Pulmonary edema

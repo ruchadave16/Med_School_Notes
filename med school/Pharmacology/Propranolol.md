@@ -25,3 +25,4 @@ Equal affinity for B1 and B2
 
 #### Contraindication
 - Asthma
+- Opthalmic 

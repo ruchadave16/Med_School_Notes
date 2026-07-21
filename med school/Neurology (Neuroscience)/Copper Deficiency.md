@@ -10,7 +10,7 @@ tags:
 ### Etiology
 - Gastrectomy
 - Excess zinc supplements
-- Leukopenia
+- [[Leukopenia]]
 
 ### Pathophysiology
 - Mechanism of disease

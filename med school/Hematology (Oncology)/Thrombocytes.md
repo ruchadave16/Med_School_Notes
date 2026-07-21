@@ -23,3 +23,10 @@ Contain mitochondria, ribosomes, Golgi, and a few peroxisomes
 - [[Thrombopoietin]] (secreted by liver + kidney) stimulates this
 
 ![[Screenshot 2025-08-24 at 10.49.21 PM.png]]
+
+#### Measurement
+- Platelet Counts: 
+	- Normal: range is 150 – 350 x 103 platelets/μL
+	- Thrombocytopenia = ↓ platelets (clumping can cause false result)
+		- **Petechial hemorrhages**
+	- Thrombocytosis = ↑ platelets (myeloproliferative neoplasm or inflammation)

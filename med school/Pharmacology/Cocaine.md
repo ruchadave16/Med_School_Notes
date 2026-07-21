@@ -25,7 +25,7 @@ tags:
 	- ↑ risk of intracranial hemorrhage, ischemic stroke, seizures
 	- Psychosis
 - CV:
-	- HTN, tachycardia, MI, arrhythmias
+	- HTN, tachycardia, MI, [[arrhythmias]]
 	- [[Aortic dissection]]
 - Systemic
 	- Hyperthermia

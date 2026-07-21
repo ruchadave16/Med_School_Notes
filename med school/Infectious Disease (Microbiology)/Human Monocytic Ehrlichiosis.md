@@ -13,15 +13,13 @@ tags:
 	- Endemic to southeastern, south‑central, and mid‑Atlantic United States
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
-
+![[Screenshot 2026-07-08 at 11.00.54 PM.png]]
 ### Clinical Features
 - Fever
 • Headache
 • Myalgia
-• Leukopenia
-• Thrombocytopenia
+• [[Leukopenia]]
+• [[Thrombocytopenia]]
 • Elevated liver enzymes
 
 ### Diagnosis

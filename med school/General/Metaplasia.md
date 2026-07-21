@@ -8,7 +8,6 @@ source: ID
 
 - [[Smoking]] = columnar epithelium of airways → squamous epithelium
 - Chronic [[Gastric reflux]] = stratified squamous epithelium → intestinal columnar epithelium
-
-Stimulation
+#### Stimulation
 - Cytokine or GF signaling
 - Change in ECM

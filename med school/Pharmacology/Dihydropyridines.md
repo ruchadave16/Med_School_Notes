@@ -8,22 +8,25 @@ tags:
 ---
 *Amlodipine, Nifedipine, Nicardipine*
 #### Action
-- Act on arterial smooth muscle by blocking L-type Ca2+ channels for vasodilation -> ↓ SVR
+- Act on arterial smooth muscle by blocking L-type Ca2+ channels for **vasodilation** -> ↓ SVR
 #### Uses
-- HTN
+- [[Hypertension]]
 - Stable Angina
+- Vasospastic angina
 - [[Raynaud phenomenon]]
 - [[SAH]]
 - Vasospasm
 
-**Safer for heart failure because lower HR effect**
+**Safer for heart failure because lower HR effect** <- [[amlodipine]] is safest
 #### Resistance
 
 #### Dosing
 
 #### Adverse Effects
-- Peripheral edema
+- Peripheral [[edema]]
 - Reflex tachycardia
 - Flushing, dizziness, headache
 - Gingival hyperplasia (rare)
 #### Contraindication
+- Severe hypotension
+- Caution in [[HFrEF]] (except amlodipine)

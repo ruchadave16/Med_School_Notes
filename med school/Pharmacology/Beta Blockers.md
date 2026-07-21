@@ -42,7 +42,7 @@ Most are antagonists but some are partial agonists or inverse agonists
 	- Can mask symptoms of hypoglycemia
 - [[CNS]]: Fatigue, depression, dizziness
 - Cold extremities
-- [[Discontinuation Syndrome]]
+- Discontinuation Syndrome
 	- Rebound hypertension, angina, arrhythmias
 #### Classes
 1st Gen (Nonselective)
@@ -63,7 +63,7 @@ Most are antagonists but some are partial agonists or inverse agonists
 	- Ca2+ entry blockage – [[Carvedilol]]
 	- Opening of K+ channel – [[Tilisolol]]
 	- Antioxidant – [[Carvedilol]] 
-- [[Carvedilol]] = nonselective, for chronic heart failure
+- [[Carvedilol]] = nonselective, for [[chronic heart failure]]
 - [[Labetalol]] = nonselective, for [[hypertensive emergency]]
 - [[Nebivolol]] = b1 selective + NO vasodilation 
 - [[Betaxolol]] = b1 selective, glaucoma treatment
@@ -78,12 +78,12 @@ Most are antagonists but some are partial agonists or inverse agonists
 - ↓ HR and contractility, useful for managing [[angina]]
 - [[Metoprolol]], [[timolol]], and [[atenolol]] increase lifespan for patients post [[Myocardial Infarction|MI]]
 
-[[Cardiac Arrhythmias]]
+[[Arrhythmias]]
 - Supraventricular and ventricular
 - Increases AV node refractory period
 - Slows ventricular response rate
 - [[Sotalol]] – also K+ blockage so more antiarrhythmia effect
-	- nonselective beta blocker, Class III antiarrhythmias
+	- nonselective beta blocker, [[Class III antiarrhythmics]]
 
 [[Heart Failure]]
 - Standard care for chronic heart failure management
@@ -103,9 +103,9 @@ Most are antagonists but some are partial agonists or inverse agonists
 
 [[Thyroid Storm]]
 
-[[Stable Angina]]
+[[Angina]]
 #### Contraindications
 - Asthma or severe COPD
 - Bradycardia or heart block
-- Acute decompensated heart failure
+- [[Acute decompensated heart failure]]
 - **Do not stop abruptly** → risk of rebound HTN, angina, MI

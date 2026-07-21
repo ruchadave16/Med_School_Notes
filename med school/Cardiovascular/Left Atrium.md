@@ -10,7 +10,7 @@ Smooth internal posterior wall
 
 [[Blood]] comes from 4 pulmonary vv. 
 
->[!Clinical] Good location for catheter ablation for [[atrial fibrillation]]
+>[!Clinical] Good location for catheter ablation for [[AFib|atrial fibrillation]]
 
 - Forms posterior part of heart
 - [[Esophagus]] is behind left atrium

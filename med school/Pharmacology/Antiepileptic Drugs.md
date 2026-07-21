@@ -43,7 +43,7 @@ Targets: Voltage gated Na+ channels, Ca2+ channels, and K+ channels
 	- [[vigabatrin]]
 	- [[ethosuximide]]
 #### Classes
-- [[Sodium Channel Inhibitors]]
+- [[Sodium Channel Blockers]]
 	- [[phenytoin]] / [[fosphenytoin]]
 	- [[Carbamazepine]]
 	- [[Valproate]]
@@ -55,8 +55,8 @@ Targets: Voltage gated Na+ channels, Ca2+ channels, and K+ channels
 	- [[Tiagabine]]
 	- [[Benzodiazephines]]
 	- [[Barbiturates]]
-- Calcium Channel Inhibitors
-	- [[Ethosuximide]] -
+- [[CCBs]]
+	- [[Ethosuximide]] 
 	- [[Gabapentin]]
 	- [[Valproate]]
 - Glutamate Antagonists

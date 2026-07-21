@@ -20,17 +20,17 @@ tags:
 	- NOTCH1 mutations
 
 ### Pathophysiology
-- Narrowing of [[aorta]] causes heart to pump more
+- Narrowing of [[aorta]] lumen causes heart to pump more
 	- Abnormal tissue growth from ductus arteriosus into aorta
 - ↑ SVR so ↑ [[afterload]]
 	- BP ↑ in left chamber
-- Can cause [[ventricular hypertrophy]] and heart failure
+- Can cause [[Left Ventricular Hypertrophy|LVH]] and heart failure
 ### Clinical Features
 - Infants
 	- Poor feeding
 	- Tachypnea
 	- Irritability
-	- Weak/absent femoral pulses
+	- **Weak/absent femoral pulses** <- difference between upper and lower
 	- Differential cyanosis (pink upper body, blue/gray lower body)
 	- **Cardiogenic shock** when ductus arteriosus closes
 - Intercostal arteries MAY be dilated → [[rib notching]]
@@ -39,6 +39,9 @@ tags:
 - Upper and lower BP for difference
 - ECG (**first line**)
 - CT/MR angiogram 
+
+![[Screenshot 2026-05-26 at 11.45.48 PM.png]]
+
 - Cardiac catheterization
 - Chest X-ray
 	- Figure 3 sign -- notch at coarctation
@@ -53,10 +56,11 @@ tags:
 - Balloon angioplasty + stenting
 	- **first line for recurrent / later presenting**
 - Surgical repair
+- Stent angioplasty
 
+>[!Note] Continuous reimaging to check for recurrence
 ### Complications
-- Short-term
-- Long-term
+- Secondary [[hypertension]]
 
 ### High-Yield Associations
 - Classic buzzwords

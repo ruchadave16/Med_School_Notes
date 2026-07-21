@@ -22,7 +22,7 @@ source: CV
 ### Additional Sounds
 - Systolic Sounds
 	- Ejection Clicks: sharp, high pitched early systolic during opening of aortic and pulmonary valve
-		- Associated with aortic stenosis or pulmonary stenosis
+		- Associated with [[aortic stenosis]] or pulmonary stenosis
 - Diastolic Sounds
 	- Opening Snap: Mitral or tricuspid stenosis (high pitched sound)
 	- S3 Sound: dull, low pitched sound heard from rapid ventricular filling

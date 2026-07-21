@@ -9,20 +9,22 @@ date: 1-19-26
 source: ID
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- PICA gene mutation (acquired gene defect)
+	- X-linked
 
 ### Pathophysiology
-- Deficiency in inhibitors of [[Complement System|complement system]] (DAF or CD59)
+- Deficiency in inhibitors of [[Complement System|complement system]] (DAF or CD59, MIRL or CD55, and C8-binding protein)
+	- Susceptible to **complement based [[Intravascular Hemolysis|intravascular hemolysis]]**
+	- Noctural in small cases because ↓ pH at night which causes ↑ complement
 - [[Erythrocytes|RBC]] lysis → [[anemia]], [[hemoglobinuria]] → renal failure
 - Free plasma hemoglobin → [[thrombosis]]
 	- Hemoglobin binds to [[Nitric Oxide]] → NO depletion → ↑ smooth muscle tone
 	- Erectile dysfunction, dysphagia
 
 ### Clinical Features
-- Symptoms
+- Symptoms (paroxysmal)
 	- Priapism
-	- Hemoglobinuria → renal failure
+	- Hemoglobinuria → renal failure (<50% patients)
 	- [[Thrombosis]]
 	- Dysphagia, 
 	- Abdominal pain
@@ -35,17 +37,15 @@ source: ID
 - Variants
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- Flow cytometry
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- [[Eculizumab]] -- prevents conversion of C5 -> C5a so ↓ hemolysis 
+	- Fatal [[Neisseria Meningitidis|meningococcus]] infection
 
 ### Complications
 - Leading cause of death = [[thrombosis]] from venous clots
+- 5-10% get [[AML]] or myelodysplastic syndrome
 
 ### High-Yield Associations
 - Classic buzzwords

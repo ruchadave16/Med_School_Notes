@@ -12,3 +12,5 @@ source: ID
 2) Granule release
 	- Both $\alpha$ and $\delta$
 	- $\alpha$ granules have proteins for coagulation ([[fibrinogen]], [[Factor V]], [[vWF]])
+	
+![[Screenshot 2026-07-12 at 11.08.16 PM.png]]

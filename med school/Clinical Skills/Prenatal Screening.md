@@ -29,17 +29,13 @@ Heterozygous Carrier Screening for High-Risk Populations
 - [[Tay-Sachs]], BRCA1 Mutation – Ashkenazi Jewish
 - [[Sickle Cell Anemia]] – African American
 - [[Cystic Fibrosis]] – Northern European
-- [[Thalassemia]] – Beta (Italian, Greek), Alpha (SE Asian, Chinese)
+- [[Thalassemias]] – [[Beta Thalassemia]] (Italian, Greek), [[Alpha Thalassemia]] (SE Asian, Chinese)
 
 **[[Ultrasound]]**
 
 [[Down Syndrome]]
 - Accumulation of fluid behind neck
 
-![[Screenshot 2025-12-05 at 1.35.16 PM.png]]
-
 Neural Tube Defects
 - [[Spina Bifida]], anencephaly, encephalocele
 - PREVENT by folic acid supplements
-
-![[Screenshot 2025-12-05 at 1.36.06 PM.png]]

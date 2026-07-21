@@ -31,7 +31,7 @@ source: ID
 #### Mechanisms
 - ↑ [[Hydrostatic Pressure|hydrostatic pressure]] in capillaries
 	- ↑ venous pressure
-		- [[Left heart failure]] -> pulmonary edema
+		- [[Chronic Heart Failure|Chronic left heart failure]] -> pulmonary edema
 		- [[Right heart failure]] -> peripheral edema
 		- Incompetent valves in veins
 		- Venous obstruction

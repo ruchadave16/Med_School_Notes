@@ -32,7 +32,7 @@ tags:
 	- AVOID IgA blood products
 
 ### Complications
-- Anaphylactic transfusion reactions because blood products have IgA
+- [[Anaphylactic transfusion reactions]] because blood products have IgA
 - Can progress to [[Common Variable Immunodeficiency|CVID]]
 
 ### High-Yield Associations

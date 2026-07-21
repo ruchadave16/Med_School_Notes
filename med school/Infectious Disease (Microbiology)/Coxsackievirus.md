@@ -14,10 +14,10 @@ tags:
 
 #### Symptoms
 A
-- Hand, foot and mouth disease -- red vesicular rash
+- [[Hand, foot and mouth disease]] -- red vesicular rash
 - [[Meningitis]] in kids
 B
-- Dilated cardiomyopathy
+- [[Dilated cardiomyopathy]]
 - Devil's grip (pleurodynia) -- sharp pain in lower chest
 #### Diagnosis
 #### Treatment

@@ -10,10 +10,10 @@ tags:
 #### Action
 - [[Vitamin K]] antagonist that inhibits vitamin K epoxide reductase, the enzyme that recycles vitamin K in the [[liver]]
 - No activation of : II, VII, IX, and X, protein C, protein S of [[coagulation cascade]]
-	- No $\gamma$-carboxylatino
+	- No $\gamma$-carboxylation
 #### Uses
 - Long term anticoagulation
-	- [[Atrial fibrillation]] -- stroke prevention
+	- [[AFib|Atrial fibrillation]] -- stroke prevention
 	- [[Deep Vein Thrombosis|DVT]]/ [[Pulmonary Embolism|PE]]
 	- Mechanical heart valves
 	- Post MI thromboprophylaxis
@@ -27,9 +27,12 @@ tags:
 - Use [[heparin]] bridging and then discontinue once stable for 24-48 hrs
 
 **Regular INR monitoring**: 2.0 - 3.0 target
+
+CYP450 interactions
 #### Adverse Effects
-- Bleeding
+- Bleeding -- reverse with [[Vitamin K]] (few days) and fresh frozen plasma (immediately)
 - **Extensive drug interactions**: [[CYP2C9]]
 - Teratogenic
-- Skin necrosis
+- Skin necrosis (protein C & S inhibited before procoagulant factors so hypercoagulable)
 #### Contraindication
+- **PREGNANCY**

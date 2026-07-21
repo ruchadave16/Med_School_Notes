@@ -13,11 +13,11 @@ source: ID
 
 - [[Thrombocytopenia]]
 - Platelet Dysfunction Disorders
-	- [[Immune Thrombocytopenia Purpura]]
-	- [[Thrombotic Thrombocytopenia Purpura]]
+	- [[Chronic ITP]]
+	- [[TTP|Thrombotic thrombocytopenia purpura]]
 	- [[Heparin Induced Thrombocytopenia]]
 	- [[Disseminated Intravascular Coagulation]]
-	- [[Bernard-Soulier Syndrome]]
+	- [[Bernard Soulier Syndrome]]
 	- [[Glanzmann Thrombasthenia]]
 #### Secondary [[Hemostasis]] Issues
 - Extensive bleeds in soft tissue or bone, associated with [[coagulation cascade]]

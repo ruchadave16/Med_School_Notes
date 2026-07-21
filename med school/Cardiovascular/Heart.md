@@ -64,10 +64,15 @@ source: MGA
 **Interventricular Septum**
 - Wall between 2 ventricles
 - Contains membranous IVS and muscular IVS
-###### Vessels
-![[Screenshot 2025-08-21 at 5.55.16 PM.png]]
 
-![[Screenshot 2025-08-21 at 5.56.22 PM.png]]
+**Valves**
+- AV: flap-like leaflets, fibrous chordae tendineae, and the associated papillary muscles
+	- Tricuspid = 3 (anterior, posterior, and septal)
+	- Bicuspid = 2 (anterior, posterior)
+	- Open in diastole to let blood fill ventricles
+- SL: three half-moon shaped cusps
+	- Open during systole
+	- Right above aortic valve = sinuses of Valsalva for perfusion of [[Coronary Arteries|coronary aa.]]
 #### External Features
 Heart Wall Layers
 

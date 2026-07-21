@@ -10,7 +10,6 @@ tags:
 - Spirochete
 #### Mechanism
 - Antigenic variation of surface proteins so continuous fever again and again
-- 
 #### Symptoms
 - Relapsing fever (LBRF)
 	- Human louse

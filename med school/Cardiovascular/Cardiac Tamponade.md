@@ -11,24 +11,28 @@ tags:
 Compression on heart in [[Pericardium|pericardial]] sac
 
 #### Etiology
-- Primary causes
-- Risk factors
+- Penetrating trauma
+- Post cardiac surgery
+- Cancer metastasis, uremia, pericarditis
 
 #### Pathophysiology
-- Buildup of fluid in pericardial sac between serous membranes
-- Relevant pathways (e.g. immune, hormonal)
+- Buildup of fluid in [[Pericardium]]  between serous membranes
+- Restricts filling of cardiac chambers
 
 #### Clinical Features
 - Drop of BP
 - Difficulty breathing
 - Lightheadedness
-- Signs
-- Variants
+- Pulsus paradoxus (systolic blood pressure always falls slightly on inspiration, but with tamponade, there is an exaggerated fall (>10 mmHg) of systolic blood pressure on inspiration)
+
+**Beck's triad**
+- Distal heart sounds
+- Elevated JVP
+- Hypotension
 
 #### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- FAST exam
+- Diagnostic pericardial window
 
 #### Treatment
 - [[Pericardiocentesis]] to remove fluid

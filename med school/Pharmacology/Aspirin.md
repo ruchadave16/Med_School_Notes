@@ -17,10 +17,12 @@ tags:
 - [[Thrombocytes|Platelets]] have no nuclei so cannot make more TXA2 or regenerate COX-1
 	- 1 dose has effects for 7-10 days
 - Endothelial cells DO have nuclei so they can remake COX-2 and restore [[PGI2]] 
+
+![[Screenshot 2026-07-12 at 11.42.46 PM.png]]
 #### Uses
 - **First line** [[Antiplatelets|antiplatelets]] for long term prevention of MI / Stroke
-- [[Acute coronary syndrome]] 
-- 
+- [[ACS|Acute coronary syndrome]] 
+	- 325 mg 
 #### Resistance
 
 #### Dosing
@@ -28,6 +30,7 @@ tags:
 - Prevention of [[Myocardial Infarction|MI]], [[Stroke]], thrombosis, peripheral artery disease
 
 - 325 mg loading dose given during MI or stroke
+	- Non-enteric-coated, chewed, ASAP
 
 ↑ doses -- anti-inflammatory
 #### Adverse Effects

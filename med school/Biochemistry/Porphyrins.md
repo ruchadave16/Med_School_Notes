@@ -18,5 +18,5 @@ source: FoM II
 
 >[!Clinical]
 >[[Chronic Hepatic Porphyrias]]
->[[Acute Hepatic Porphyrias]]
+>[[Acute Intermittent Porphyria]]
 >[[Jaundice]]

@@ -14,7 +14,7 @@ Brief summary of the condition.
 ### Etiology
 - Primary causes
 	- Venous stasis (obesity, long immobilization)
-	- Hypercoagulation
+	- [[Hypercoagulation]]
 - Risk factors
 
 ### Pathophysiology

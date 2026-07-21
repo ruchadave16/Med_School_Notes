@@ -8,7 +8,7 @@ date: 12-7-25
 ### Etiology
 - Genetic: 
 	- 100 CUG repeats in 3’ noncoding region of DMPK (dystrophia myotonica protein kinase) gene
-	- DM1 [[Chromosomes|Chromosome]] 19
+	- DM1 Chromosomes|Chromosome 19
 	- Normal = 5-37
 	- Mild = 38-100 (adult onset)
 	- Abnormal = >100 (juvenile onset)
@@ -22,7 +22,7 @@ date: 12-7-25
 	- Inability to relax muscle at will
 	- Onset early adulthood
 	- Muscle loss
-	- Cardiac arrhythmia
+	- Cardiac [[arrhythmias]]
 	- Cataracts
 	- Frontal baldness
 	- Insulin resistance

@@ -5,6 +5,7 @@ aliases:
   - B. henselae
   - Bartonella
   - bartonella
+  - Cat scratch disease
 date: 2-17-26
 source: ID
 tags:
@@ -13,14 +14,18 @@ tags:
 - No gram staining
 - Warthin-Starry silver staining 
 	- Carried on cats
+- Mostly <18 yrs
 #### Mechanism
+- Histology: stellate necrotizing granulomas with [[Neutrophils|neutrophil]] infiltrate
+![[Screenshot 2026-07-08 at 9.52.58 PM.png]]
 #### Symptoms
-- [[Cat scratch disease]]
-	- Self‑limited regional lymphadenopathy
+- Self‑limited regional lymphadenopathy (axilla and neck)
+- Rare complication = acute encephalitis/encephalopathy with seizures
+- If [[AIDS]], [[Bacillary Angiomatosis|bacillary angiomatosis]]
 #### Diagnosis
 - Serology
 - PCF
 - Culture is difficult
 #### Treatment
-- [[Macrolides]]
+- [[Macrolides]] -- [[azithromycin]]
 #### Prevention

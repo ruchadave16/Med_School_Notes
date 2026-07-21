@@ -20,5 +20,5 @@ Direct contact with animals -- monkey / bat = transmission
 - Fever
 
 Progression
-- Hemorrhagic fever -- hypovolemic shock
+- **Hemorrhagic fever** -- [[hypovolemic shock]]
 - Organ failure

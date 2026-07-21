@@ -10,7 +10,7 @@ tags:
 - These bind to [[fibrinogen]] and allow cross-bridging
 - Blocking these stops binding of fibrinogen
 #### Uses
-- Adjunct for PCI
+- **Adjunct** for [[PCI]] -- NOT routine
 - High-risk NSTEMI/unstable angina
 - Bridging therapy before surgery
 #### Resistance

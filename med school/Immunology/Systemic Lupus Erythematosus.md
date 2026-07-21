@@ -44,6 +44,7 @@ tags:
 - Renal involvement
 - Neuro symptoms
 - Hematologic manifestations 
+- [[Libman-Sacks Endocarditis]]
 ### Diagnosis
 - Presence of anti-dsDNA or anti-Sm antibodies
 - Presence of antiphospholipid antibodies

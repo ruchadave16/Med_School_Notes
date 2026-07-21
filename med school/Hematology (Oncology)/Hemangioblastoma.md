@@ -12,7 +12,7 @@ tags:
 
 ### Pathophysiology
 - Benign highly vascularized tumor composed of stromal cells and capillaries usually found in the cerebellum, retina, brain stem, or spinal cord
-- Can produce [[erythropoeitin]] causing [[polycythemia]]
+- Can produce [[erythropoietin]] causing [[polycythemia]]
 
 ### Clinical Features
 

@@ -35,7 +35,7 @@ Treatment: ivermectin
 #### Hookworms
 - Anylostoma and Necator
 - Infection through walking barefoot -- blood -> go to lungs, swallowed into intestine
-- Iron deficiency anemia
+- [[Iron deficiency anemia]]
 
 Diagnose -- eggs in stool
 - ↑ eosinophil count

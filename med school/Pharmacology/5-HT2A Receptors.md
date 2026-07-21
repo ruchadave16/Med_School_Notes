@@ -6,7 +6,7 @@ aliases:
 date: 1-10-26
 source: Neuro
 ---
-*[[Serotonin receptor]]*
+*[[Serotonin Receptors|Serotonin receptors]]*
 #### Blockage
 - Weight gain
 	- High risk: [[Olanzapine]], [[clozapine]], [[quetiapine]]

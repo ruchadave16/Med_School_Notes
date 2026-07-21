@@ -11,11 +11,14 @@ tags:
 - Vasodilation of arterioles and veins equally
 #### Uses
 - [[Hypertensive emergency]]
+- [[Acute decompensated heart failure]] (adjunct)
+- Acute [[aortic dissection]] -- off label
 #### Resistance
 
 #### Dosing
 - Rapid onset and effect (IV)
 #### Adverse Effects
 - [[Cyanide]] toxicity
-- **BP and metabolic monitoring in ICU setting**
+- [[Methemoglobinuria]]
+- **BP and metabolic monitoring in ICU setting** -> hypotension
 #### Contraindication

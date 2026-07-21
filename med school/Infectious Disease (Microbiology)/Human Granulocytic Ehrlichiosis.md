@@ -18,8 +18,8 @@ tags:
 - Fever
 • Headache
 • Myalgia
-• Leukopenia
-• Thrombocytopenia
+• [[Leukopenia]]
+• [[Thrombocytopenia]]
 • Elevated liver enzymes
 
 ### Diagnosis

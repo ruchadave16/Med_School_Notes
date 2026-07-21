@@ -7,7 +7,7 @@ tags:
   - disease
 ---
 ### Etiology
-- Genetic: X linked recessive
+- Genetic: **X linked recessive**
 	- Mutation of F8 (Factor VIII) gene 
 	- Commonly mutations due to recombination between repetitive DNA sequences 
 - Risk factors
@@ -17,22 +17,18 @@ tags:
 - No production of [[Factor VIII]] 
 
 ### Clinical Features
-- Symptoms
-	- Newborn with cephalohematoma
-- Signs
-- Variants
-
+- Newborn with cephalohematoma
+- Life-threatening bleeding
+- Easy bruising post trauma/operations
+- Spontaneous hemorrhages commonly occur in joints (hemarthroses)
+**NO petechiae**
 ### Diagnosis
-Prolong PTT time
-- Labs
-	- [[Southern Blotting|Southern blot]]
-- Imaging
-- Criteria
+Prolong PTT time, normal PT
+- VIII-specific assays
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- Recombinant factor VIII infusions
+- 
 
 ### Complications
 - Short-term

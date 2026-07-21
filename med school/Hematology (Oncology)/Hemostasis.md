@@ -20,11 +20,10 @@ Main Cells
 >	- [[Thrombomodulin]] expressed
 >	- Heparin-like molecules that activate antithrombin III → inhibits Factors II, IX, X, XI, XII
 >- Make [[tPA]]
-#### Arterial Vasodilation
+#### Arterial Constriction
 Limits blood flow to injury 
 - Neurogenic mechanism, augmented by release of [[endothelin]] and [[TXA2|thromboxane A2]] ← activated by platelets
-
-![[Screenshot 2026-01-24 at 1.29.28 PM.png]]
+![[Screenshot 2026-07-12 at 11.05.31 PM.png]]
 
 #### Primary Hemostasis
 - Subendothelial collagen is exposed → binds to von Willebrand factor
@@ -36,15 +35,12 @@ Limits blood flow to injury
 >[[Aspirin]] inhibits aggregation and vasoconstriction by inhibiting cyclooxygenase 
 >→ Enzyme imp for [[thromboxane A2]] synthesis
 
-![[Screenshot 2026-01-24 at 1.43.39 PM.png]]
+![[Screenshot 2026-07-12 at 11.05.50 PM.png]]
 #### Secondary Hemostasis
 - Injury exposes tissue factor at site – binds to [[factor VII]] → [[coagulation cascade]]
 - End result → [[thrombin]] production (cleaves fibrinogen → [[fibrin]])
 - Fibrin consolidates platelet plug and creates meshwork
 	- Also platelet activation
-	
-![[Screenshot 2026-01-24 at 1.48.27 PM.png]]
+	![[Screenshot 2026-07-12 at 11.06.15 PM.png]]
 #### Clot Stabilization 
 - Solid permanent plug is formed and in time reabsorbed
-
-![[Screenshot 2026-01-24 at 1.49.10 PM.png]]

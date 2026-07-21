@@ -5,7 +5,8 @@ aliases:
 date: 1-24-26
 source: ID
 ---
-Mediated by surface receptor glycoprotein Ib (GcIb) and von Willebrand factor (vWF)
+Mediated by surface receptor glycoprotein Ib (GpIb) and von Willebrand factor ([[vWF]], stored in platelets in $\alpha$ granules and in Weibel Palade bodies)
+- Binds to **subendothelial collagen**
 
 >[!Note]
 >[[von Willebrand Disease]] = genetic deficiency of vWF
@@ -14,5 +15,5 @@ Mediated by surface receptor glycoprotein Ib (GcIb) and von Willebrand factor (v
 >- Can manifest as **prolongation of PTT time**
 >- **Most common inherited genetic bleeding disease, 1%**
 >
->[[Bernard-Soulier Syndrome]] = genetic deficiency of GcIb
+>[[Bernard Soulier Syndrome]] = genetic deficiency of GcIb
 >- Platelets cannot bind to subendothelial collagen

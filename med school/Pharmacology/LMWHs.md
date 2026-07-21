@@ -27,7 +27,7 @@ tags:
 **Monitoring**
 - Anti-Xa level may be used in special cases (e.g., renal impairment, pregnancy, obesity)
 #### Adverse Effects
-- Bleeding
+- Bleeding -- partial reversal with [[Protamine sulfate]]
 - [[Heparin Induced Thrombocytopenia|HIT]] -- lower risk than [[heparin]]
 - Renal clearance
 #### Contraindication

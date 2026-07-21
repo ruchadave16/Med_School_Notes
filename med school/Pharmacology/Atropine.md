@@ -12,9 +12,8 @@ tags:
 - **Most sensitive**: salivary, bronchial, sweat glands
 #### Uses
 - [[Cholinergic Poisoning]]
-- Bradycardia
+- Symptomatic bradycardia
 - Preoperative to reduce secretions in airways
-- Diarrhea
 - Mydriasis for ophthalmoscopy
 #### Administration
 
@@ -24,3 +23,6 @@ tags:
 - [[Atropine fever]]: can cause ↑ body temperature in children 
 - [[Anticholinergic Toxicity]] – atropine overdose
 #### Contraindication
+- Glaucoma
+- Myasthemia gravis
+- Chronic lung disease

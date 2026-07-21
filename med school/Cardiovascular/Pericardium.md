@@ -23,7 +23,7 @@ source: MGA
 
 Pericardial space in between serous layers with serous fluid to ↓ friction
 
-![[Screenshot 2025-08-21 at 3.40.04 PM.png]]
+![[Screenshot 2026-05-27 at 3.50.44 PM.png]]
 
 #### Sinuses
 - Visceral + parietal serous pericardium continuous make sinuses

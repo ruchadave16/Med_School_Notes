@@ -12,6 +12,7 @@ source: ID
 ### Pathophysiology
 - Uninhibited iron reabsorption 
 
+![[Screenshot 2026-05-26 at 11.00.27 AM.png]]
 ### Clinical Features
 - Liver
 	- Abdominal pain
@@ -36,6 +37,7 @@ source: ID
 
 ### Complications
 - High risk of hepatocellular carcinoma – common cause of death
+- Can mainly cause [[Dilated Cardiomyopathy|dilated cardiomyopathy]] but sometimes [[Restrictive Cardiomyopathy|restrictive cardiomyopathy]]
 
 ### High-Yield Associations
 - Classic buzzwords

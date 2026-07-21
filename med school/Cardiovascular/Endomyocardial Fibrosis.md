@@ -1,24 +1,23 @@
 ---
 aliases:
-  - acute hepatic porphyrias
-  - Acute hepatic porphyrias
-date: 11-21-25
-source: FoM II
+  - endomyocardial fibrosis
+date: 5-26-26
+source: CV
 tags:
   - disease
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- Children and young adults in Africa and tropical areas
+- Most common cause of [[restrictive cardiomyopathy]]
+- Linked to nutritional deficiencies + [[helminth]] infections
 
 ### Pathophysiology
-- Acute attacks (GI, psych, motor) associated with photosensitivity
-- High demand for synthesis of cytochrome P450
+- Diffuse fibrosis of ventricular endocardium 
+- ↓ volume and compliance of chambers
 
 ### Clinical Features
 - Symptoms
 - Signs
-	- ALA and porphobilinogen accumulate in urine
 - Variants
 
 ### Diagnosis

@@ -13,8 +13,11 @@ tags:
 - Smooth muscle relaxation: Bronchial + GI
 - ↑ inotropic and chronotropic effect, ↓ vascular resistance through $\beta2$
 #### Uses
-- Limited
-- Rarely applied for cardiac arrest
+- **Limited**
+- Rarely applied for cardiac arrest if others not effective
 - Replaced with selective for asthma
+- [[Torsades de Pointes]] if bradycardia mediated
 #### Administration
 - Parenteral because metabolized by COMT
+#### Contraindication
+- [[MAO Inhibitors]]

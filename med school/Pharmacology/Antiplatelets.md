@@ -8,8 +8,8 @@ source: CV
 - Act on primary hemostasis
 - Generally start along with [[anticoagulants]]
 #### Classes
-- [[Aspirin]]
+- [[Aspirin]] -- first line for stable or unstable angina
 - [[P2Y12 Inhibitors]]
 - [[GPIIb_IIIa Inhibitors]]
 - [[PDE Inhibitors|Phosphodiesterase inhibitors]]
-- [[Vorapaxar]]
+- [[Vorapaxar]] -- select patients with prior MI or peripheral artery disease—not first-line for angina

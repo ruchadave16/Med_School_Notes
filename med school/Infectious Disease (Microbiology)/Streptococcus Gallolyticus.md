@@ -20,9 +20,9 @@ tags:
 - Common in gut
 #### Symptoms
 - Bacteremia
-- Endocarditis
+- [[Infective Endocarditis|infective endocarditis]]
 
-**High risk for pt with colon cancer**
+**High risk for pt with [[colon cancer]]**
 #### Diagnosis
 #### Treatment
 #### Prevention

@@ -38,22 +38,26 @@ tags:
 	- They form [[Extracellular Matrix|ECM]] normally
 ![[Screenshot 2026-05-05 at 8.34.31 PM.png]]
 - In this pathology, they oxidize LDLs in [[Blood Vessels|tunica intima]]
-	- Endothelial damage causes ↑ penetration
-	- This causes adhesion and entry of monocytes -> [[Macrophage|macrophages]] to eliminate [[LDL]]
-	- Lipid-filled macrophages (foam cells) accumulate forming fatty streaks
-	- **[[PDGF]] = growth factor for smooth muscles**
-	- When worsening, form fibro-fatty plaques (atheromas)
+	1)  Endothelial damage causes ↑ penetration
+	2) This causes adhesion and entry of monocytes -> [[Macrophage|macrophages]] to eliminate [[LDL]]
+	3) Lipid-filled macrophages (foam cells) accumulate forming fatty streaks (reversible)
+	4) **[[PDGF]] = growth factor for smooth muscles**
+	5) When worsening, form fibro-fatty plaques (atheromas)
 - Commonly see [[dystrophic calcification]]
 
 ![[Screenshot 2026-05-05 at 8.35.19 PM.png]]
 
 ![[Screenshot 2026-05-05 at 8.28.01 PM.png]]
+
+**Vulnerable Plaques**
+- Thin fibrous cap, large lipid core, inflammatory infiltration
 #### Outcomes Pathologic
 Most common in large elastic arteries or medium muscular arteries
 - Atherosclerotic stenosis
 	- **Critical** when 70-75% occlusion
 - Acute plaque change
 	- Rupture
+		- Subendothelial collagen exposed -> platelets aggregate -> thrombus -> [[ACS]]
 	- Hemorrhage
 	- Atheroembolism
 

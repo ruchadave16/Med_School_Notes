@@ -17,11 +17,7 @@ tags:
 - Relevant pathways (e.g. immune, hormonal)
 
 ### Clinical Features
-- Symptoms
-- Signs
-
-
-![[Pasted image 20251209140941.png]]
+- Lens dislocation
 
 ### Diagnosis
 - Labs

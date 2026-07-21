@@ -55,5 +55,5 @@ source: FoM I
 >[[Vitamin D Resistance]]
 >- Kidney can’t produce 1,25-dihydroxycholecalciferol
 >- Supplements don’t help
->- Can be caused by chronic kidney disease OR absence of 1$\alpha$-hydroxylase
+>- Can be caused by [[chronic kidney disease]] OR absence of 1$\alpha$-hydroxylase
 

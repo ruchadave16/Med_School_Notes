@@ -9,15 +9,16 @@ tags:
   - bug
 ---
 - Transmission through saliva
+- Incidence = teenagers
 #### Mechanism
+- dsDNA with latent infection
 - Starts in pharyngeal epithelium, transmitted to cervical lymph nodes
 - Travels in blood to spleen
 - **Latency in [[B Lymphocytes|B-Lymphocyte]]**
 	- Converts to lymphoblastoid cells -> proliferate
 - In any situation with low [[Cytotoxic T Cells|CD8]], ↑ infected B cells *** Immunocompromised
-
 #### Symptoms
-- Infectious mononucleosis
+- [[Infectious mononucleosis]]
 - PTLD (Post-transplantation lymphoproliferative disorder)
 
 **Cancers**

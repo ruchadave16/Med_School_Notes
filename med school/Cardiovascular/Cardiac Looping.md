@@ -6,7 +6,10 @@ source: MGA
 ---
 *Normal twisting and folding of [[heart]]*
 
-![[Screenshot 2025-08-22 at 11.39.55 PM.png]]
+- Initially all venous blood flows into sinus venosus -> truncus arteriosus
+
+![[Screenshot 2026-05-26 at 10.46.15 PM.png]]
+
 >[!Clinical] [[Levo Looping]] – This is when right ventricle to pulmonary trunk is on left side of heart
 >- Apex still left
 

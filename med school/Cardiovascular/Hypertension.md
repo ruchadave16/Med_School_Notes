@@ -8,6 +8,7 @@ aliases:
   - Essential hypertension
   - hypertension
   - Hypertension
+  - HTN
 date: 5-5-26
 source: CV
 tags:

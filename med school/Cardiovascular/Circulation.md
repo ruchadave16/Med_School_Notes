@@ -17,7 +17,7 @@ Circuit is made of [[heart]] and [[blood vessels]]
 Low-oxygen blood → SVC/IVC/Coronary sinus → [[Right Atrium]] → tricuspid valve → [[Right Ventricle]] → pulmonary valve → pulmonary trunk → pulmonary artery → lungs → $CO_2$ exchanged for $O_2$ → [[pulmonary vein]]s → High-oxygen blood to [[Left Atrium]] 
 
 #### Systemic Circulation
-High-oxygen blood from lungs → left atrium → bicuspid (mitral) valve → [[Left Ventricle]] → aortic valve → aorta → arteries → peripheral tissues → exchange $O_2$ for $CO_2$ in [[capillaries]] → veins → low-oxygen blood to right atrium
+High-oxygen blood from lungs → left atrium → bicuspid valve → [[Left Ventricle]] → aortic valve → aorta → arteries → peripheral tissues → exchange $O_2$ for $CO_2$ in [[capillaries]] → veins → low-oxygen blood to right atrium
 #### Portal Circulation
 *“When blood passes **2** capillary beds before getting to [[heart]]”*
 

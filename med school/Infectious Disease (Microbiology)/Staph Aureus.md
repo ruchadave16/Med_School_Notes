@@ -23,7 +23,7 @@ tags:
 - **TSS-1 -> [[toxic shock syndrome]]**
 #### Symptoms
 - Skin infections, soft tissue
-- Serious: [[septic shock]], endocarditis, osteomyelitis, septic arthritis, pneumonia, [[toxic shock syndrome]] 
+- Serious: [[septic shock]], [[Tricuspid Valve Endocarditis]], osteomyelitis, septic arthritis, pneumonia, [[toxic shock syndrome]] 
 - Food poisoning -- enterotoxin
 #### Diagnosis
 #### Treatment

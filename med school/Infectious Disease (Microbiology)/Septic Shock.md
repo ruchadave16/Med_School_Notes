@@ -8,16 +8,15 @@ tags:
   - disease
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- Mortality risk = 10%
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- Response to severe infection
+- Hypovolemia, vasodilation, and capillary leak
 
 ### Clinical Features
 - Fever
-- Leukocytosis, leukopenia
+- [[Leukocytosis]], [[leukopenia]]
 - Hypotension refractory to fluids
 - Edema
 - Thrombocytopenia
@@ -26,16 +25,18 @@ tags:
 - Peripheral hypoperfusion
 - ↓ organ perfusion
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+2+ of criteria
+- Temp > 38°C or less than 36°C
+- Pulse > 90 bpm
+- RR > 20 or PaCO2 less than 32 mm Hg
+- WBC > 12,000/mm3  or < 4000/mm3  or > 10% immature (band)
 
 ### Treatment
-- Fluids first -> antibiotics in 1 hr of recognition
+- [[IV Fluids]] first -> [[antibiotics]] in 1 hr of recognition
 - [[Norepinephrine]] if still hypotensive
 - Source control
 	- MAP goal >= 65 mmHg
-
+- Intubation for airway
 ### Complications
 - Short-term
 - Long-term

@@ -6,7 +6,7 @@ date: 5-7-26
 tags:
   - drug
 ---
-*Losartan, valsartan, candesartan*
+*Losartan, [[valsartan]], candesartan*
 #### Action
 - Stop [[angiotensin II]] from binding to AT1 receptors
 	- ↓ vasoconstriction

@@ -23,6 +23,7 @@ tags:
 	- [[dorsal root ganglion]] -- ↓ [[Deep Tendon Reflexes]]
 	
 	![[Screenshot 2026-04-12 at 4.06.21 PM.png]]
+
 - 4th ventricle enlarged
 
 ### Clinical Features
@@ -31,7 +32,7 @@ tags:
 	- Spastic paralysis
 	- ↓ vibration, proprioception
 	- ↓ deep tendon reflexes
-	- Hypertrophic Cardiomyopathy (75%)
+	- [[Hypertrophic Cardiomyopathy]] (75%)
 	- Diabetes (1/3)
 	- Pyramidal weakness in legs
 	- Nystagmus, dysarthria
@@ -40,7 +41,6 @@ tags:
 - Signs
 - Variants
 
-![[Pasted image 20251209173329.png]]
 ### Diagnosis
 - Labs
 - Imaging
@@ -52,8 +52,7 @@ tags:
 - Lifestyle
 
 ### Complications
-- Short-term
-- Long-term
+- Death from arrhythmias from [[Hypertrophic Cardiomyopathy|hypertrophic cardiomyopathy]]
 
 ### High-Yield Associations
 - Classic buzzwords

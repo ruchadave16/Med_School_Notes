@@ -122,3 +122,7 @@ source: Neuro
 	- Vestibular nucleus: nystagmus, vertigo, nausea, vomiting
 	- Spinocerebellar tract: I/L ataxia
 
+### Treatment
+- **Acute Ischemic Stroke**
+	- [[tPA|Alteplase]] if measurable neurological deficit
+	- Exclusion of hemorrhage on CT

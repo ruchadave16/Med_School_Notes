@@ -11,4 +11,5 @@ tags:
 - Arthropod born -- arbovirus
 	- Exception: deer mouse -> [[hantavirus]]
 
-- California rift valley -- 
+- California rift valley
+- **Hemorrhagic Fever**

@@ -26,9 +26,11 @@ source: MGA
 
 #### Post Birth Change
 - Umbilical connection cut so less blood enters RA, more enters LA from lung
-- Pressure in LA > RA so foramen ovale CLOSES (turns into fossa ovalis)
+- From breathing: Pressure in LA > RA so foramen ovale CLOSES (turns into fossa ovalis)
 	- Now deoxygenated blood normally goes RA → RV
-- Ductus arteriosus closes (becomes ligamentum arteriosum)
+	- *25% stay open*
+- Ductus arteriosus closes (becomes ligamentum arteriosum) due to ↑ in O2
+	- ~1 week
 	- Blood from pulmonary trunk → lungs
 - Ductus venosus not patent (becomes ligament venosum)
 - Umbilical arteries → umbilical ligaments

@@ -16,5 +16,6 @@ tags:
 #### Dosing
 - Long acting
 #### Adverse Effects
-- Low chance
+
 #### Contraindication
+- [[acute decompensated HF]]

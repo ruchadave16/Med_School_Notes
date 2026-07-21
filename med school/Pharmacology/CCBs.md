@@ -10,6 +10,6 @@ tags:
 - [[Dihydropyridines]] -- vascular smooth muscle
 - [[Non-dihydropyridines]] -- cardiac tissue
 #### Action
-- Inhibit calcium influx into cardiac and vascular smooth muscle cells
+- Inhibit calcium influx into cardiac and vascular smooth muscle cells by blocking L-type Ca2+ channels
 - ↓ [[contractility]] and HR, ↓ resistance
 - Causes ↑ vasodilation and ↓ BP

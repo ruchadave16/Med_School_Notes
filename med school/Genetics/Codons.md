@@ -27,9 +27,6 @@ source: FoM II
 >[[Huntingtons Disease]]
 >[[Fragile X Syndrome]]
 >[[Myotonic Dystrophy]]
->- Onset early adulthood
->- 100 CUG repeats in 3’ noncoding region of DMPK (dystrophia myotonica protein kinase) gene
->  
 >  [[Kennedy Disease]]
 >[[Cleidocranial Dysplasia]]
 >[[Friedreich Ataxia]]

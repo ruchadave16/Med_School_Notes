@@ -14,13 +14,17 @@ Primarily $\beta1$ [[Beta Agonist|agonist]] but interacts with both alpha and be
 #### Action
 - Inotropic more than chronotropic on heart
 - Minimal change vasculature bcz opposing effects of a1 and b2
+- ↓ **CVP and PCWP with minimal change to resistance**
 #### Uses
-- Acute [[heart failure]] → ↑ cardiac output with minimal tachycardia
+- [[Acute heart failure]] → ↑ cardiac output with minimal tachycardia
+- Stress echocardiography
 #### Administration
 
 #### Dosing
 
 #### Adverse Effects
 - Tolerance can build
-
+- Interaction with [[MAO Inhibitors]]
 #### Contraindication
+- [[AFib]]
+- [[Hypertrophic Cardiomyopathy|hypertrophic cardiomyopathy]] (obstructive)

@@ -12,7 +12,7 @@ tags:
 - Inhibit Na+/Cl- reabsorption
 	- ↑ Na+, Cl- and water excretion 
 #### Uses
-- **First line** for uncomplicated HTN
+- **First line** for uncomplicated [[Hypertension|HTN]]
 	- Effective in elderly and Black pts
 #### Resistance
 
@@ -23,4 +23,6 @@ tags:
 - [[Hypokalemia]], hyponatremia
 - [[Hyperuricemia]] -> [[gout]]
 - [[Hyperglycemia]], [[hyperlipidemia]]
+- Rare [[Stevens Johnson Syndrome]]
 #### Contraindication
+- Sulfa allergy (rare)

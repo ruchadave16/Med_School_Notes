@@ -8,6 +8,8 @@ tags:
 ---
 *Too few [[Thrombocytes|platelets]] in circulation*
 - <150,000 / microL
+
+>[!Warning] [[Heparin]] can make this worse through [[HIT]]
 #### Causes
 - ↓ marrow production – drug, [[HIV]] impact [[megakaryocytes]]
 - ↑ destruction of platelets or loss

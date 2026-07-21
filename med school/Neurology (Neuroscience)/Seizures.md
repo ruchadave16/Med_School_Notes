@@ -22,4 +22,6 @@ source: Neuro
 **Postictal Period**: minutes to hours of depressed neurological state before
 returning to baseline
 - Todds paralysis- transient focal weakness following seizure, corresponds to motor neurons involved during seizure
+#### Medications
+- 
 

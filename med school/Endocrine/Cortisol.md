@@ -12,9 +12,6 @@ source: FoM I
 
 **[[Negative Feedback]]**
 - Cortisol blocks [[CRH]] and indirectly affects hippocampal neurons
-
-![[Screenshot 2025-10-21 at 7.38.36 PM.png]]
-
 #### Function
 *Prepare body for stress*
 - Stimulation of [[gluconeogenesis]]

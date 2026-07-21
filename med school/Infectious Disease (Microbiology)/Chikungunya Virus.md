@@ -14,7 +14,7 @@ tags:
 - Maculopapular rash
 - Headache
 - Inflammatory polyarthritis -- joint swelling = specific for this virus
-- Thrombocytopenia, leukopenia less cmmon
+- [[Thrombocytopenia]], [[leukopenia]] less cmmon
 #### Diagnosis
 - RT-PCR, serology
 #### Treatment

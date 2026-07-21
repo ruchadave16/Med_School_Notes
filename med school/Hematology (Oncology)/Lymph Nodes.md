@@ -40,3 +40,7 @@ Encapsulated lymphoid tissue
 	- Enter and leave at hilus
 	- Lymphocytes exit into nodes through ‘high endothelial’ venules (cuboidal epithelial cells)
 
+#### Abnormalities
+- Lymphadenopathy = inconsistency in size and consistency of lymph node
+- [[Lymphadenitis]] = lymphadenopathy from infection or inflammatory
+- Lymphangitis = infection of lymphatic channel from distal site

@@ -24,7 +24,7 @@ Iron
 $Ca^{2+}$
 - Controlled by [[PTH|parathyroid hormone]] and [[Vitamin D]]
 
->[!Clinical] [[Vitamin D]] Deficiency
+>[!Clinical] Vitamin D Deficiency
 >- Can cause low absorption of calcium — [[rickets]] in kids or [[osteomalacia]] in adults
 
 ![[Pasted image 20250904212847.png]]

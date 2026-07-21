@@ -18,3 +18,4 @@ tags:
 #### Adverse Effects
 
 #### Contraindication
+- [[Chronic heart failure]]

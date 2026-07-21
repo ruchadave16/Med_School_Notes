@@ -30,7 +30,7 @@ tags:
 - [[TCA Overdose]]
 	- CNS: excitement, seizure, coma
 	- Respiratory depression
-	- Ventricular tachycardia, fibrillation (Na+ channel block)
+	- [[Vtach]], [[Vfib]] (Na+ channel block)
 	- Support, airway protection, activated charcoal, sodium bicarbonate for cardiac
 #### Adverse Effects
 “*3 C’s – convulsions, coma, cardiotoxicity*”

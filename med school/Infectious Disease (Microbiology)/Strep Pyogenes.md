@@ -36,7 +36,7 @@ tags:
 - Acute supperative, peritonsillar abscess
 - Autoimmune
 	- Post-strep glomerulonephritis -- Type III hyeprsensitivity 2 weeks after initial onset
-	- Rheumatic Fever -- Type II hypersensitivity
+	- [[Rheumatic Fever]] -- Type II hypersensitivity
 		- Only happens after pharyngitis
 #### Diagnosis
 - Anti-streptolysin O (ASO antibodies)

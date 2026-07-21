@@ -19,7 +19,7 @@ source: Neuro
 2) Supportive care
 	- Monitor oxygen, BP, HR
 	- Supplemental oxygen if needed
-	- IV fluids
+	- [[IV fluids]]
 3) [[Naloxone]]
 	- Competitive antagonist
 	- IV, IM, or intranasally 

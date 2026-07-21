@@ -12,7 +12,7 @@ tags:
 - Survive in [[Macrophage|macrophages]]
 #### Mechanism
 - Transmission through
-	- Unpasteurized dairy
+	- **Unpasteurized dairy**
 	- Infected tissue contact
 	- Infected fluids
 	- Aerosoles
@@ -20,6 +20,7 @@ tags:
 - Brucellosis
 	- Insidious fever, malaise, night sweats, arthalgias, 
 	- Osteoarticular disease
+	- [[Sacroiliitis]]
 - Oculoglandular disease
 #### Diagnosis
 - Blood culture

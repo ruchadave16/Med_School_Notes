@@ -43,6 +43,9 @@ tags:
 - Hyperventilation
 - [[Mannitol]]
 - Hypertonic saline
+- Clinicians must avoid lumbar puncture in the presence of midline shift or obstructive hydrocephalus
+- **Decompressive craniectomy**
+	- 
 
 ### Complications
 - Short-term

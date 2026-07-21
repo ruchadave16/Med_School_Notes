@@ -26,10 +26,17 @@ Receptor activity: **$\alpha1$ > $\alpha2$ > $\beta1$ agonist**
 	- Surrounding cells
 #### Uses
 - Hypotensive emergencies
+- Septic shock
+- Cardiogenic shock
+- Post–cardiac arrest shock
+- Hepatorenal syndrome type 1 or acute kidney injury (off-label)
 #### Administration
-- Not effective orally
+- Not effective orally (give through central line if possible)
 - Inactive in liver by [[MAO]] and COMT
+- Can give with [[Vasopressin]] if MAP goal not met
 #### Adverse Effects
-- Severe [[hypertension]]
+- Severe [[hypertension]] especially with sudden withdrawal
+- Reflex bradycardia
+- Peripheral ischemia
 
 

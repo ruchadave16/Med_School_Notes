@@ -28,7 +28,7 @@ tags:
 - Severe:
 	- Hypotension
 	- Syncope
-	- Arrhythmia
+	- [[Arrhythmias]]
 
 ### Diagnosis
 - ECG shows ischemia (ST depression)

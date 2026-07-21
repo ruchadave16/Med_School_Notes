@@ -3,6 +3,8 @@ aliases:
   - hyperkalemia
 date: 4-29-26
 source: CV
+tags:
+  - disease
 ---
 - Normally, K+ concentration maintained by renal excretion and cellular uptake through Na+/K+ pump
 
@@ -26,9 +28,10 @@ source: CV
 
 ![[Screenshot 2026-04-29 at 3.03.56 PM.png]]
 #### Symptoms
-- Arrhythmias 
+- [[Arrhythmias]] 
 #### ECG
-- Widened QRS (slow electrical propagation)
-- tall T wave -- enhanced repolarization K+ current
+- The classic progression starts with tall, peaked T waves (↑ repolarization K+ current), which can evolve to a widened QRS and a "sine wave" pattern (slow propagation)
 
 - ![[Screenshot 2026-04-29 at 3.19.31 PM.png]]
+#### Treatment
+- Check K+ levels and administer IV calcium gluconate to stabilize the cardiac membrane.

@@ -20,8 +20,8 @@ Short acting Depolarizing [[Neuromuscular Junction Blocking Drugs|neuromuscular 
 - Rapid hydrolysis by [[BuChE]]
 #### Adverse Effects
 - [[Malignant Hyperthermia]]
-- Arrhythmias
-- Hyperkalemia
+- [[Arrhythmias]]
+- [[Hyperkalemia]]
 - ↑ intraocular pressure
 - Postoperative muscle pain
 #### Contraindication

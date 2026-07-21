@@ -2,6 +2,7 @@
 aliases:
   - yersinia pestis
   - Yersinia pestis
+  - plague
 date: 2-17-26
 source: ID
 tags:
@@ -16,6 +17,8 @@ tags:
 #### Mechanism
 #### Symptoms
 - Lymph node enlargenment -- bubonic plague
+- Septicemia plague
+- Pneumonic plague
 #### Diagnosis
 #### Treatment
 - [[Aminoglycosides]]

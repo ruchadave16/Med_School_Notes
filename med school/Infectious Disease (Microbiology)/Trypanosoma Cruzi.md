@@ -15,8 +15,8 @@ tags:
 #### Symptoms
 - 10-20 years later, might cause [[Chagas disease]]
 	- Megacolon
-	- Dilated cardiomyopathy
-	- Mega-esophagus
+	- [[Dilated cardiomyopathy]]
+	- Megaesophagus
 #### Diagnosis
 - Blood smear in active infection
 	- Might be seen in cardiac cells in heart biopsy

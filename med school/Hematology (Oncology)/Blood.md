@@ -4,15 +4,18 @@ aliases:
 date: 8-24-25
 source: FoM I
 ---
+55% [[plasma]]
+45% [[Erythrocytes|RBCs]]
+<1% WBC and platelets
 #### Functions
 - Transport oxygen, nutrients, waste
 - Regulate temp, signal transmission, [[Acid-Base Balance|acid-base balance]], immune response
 #### Source
 Through [[Hematopoiesis|hematopoiesis]]
-[[Bone marrow]] → source of [[RBC]] production in adult
-[[Spleen]] and [[liver]] → source of [[RBC]] production before birth
+	[[Bone marrow]] → source of [[Erythrocytes|RBC]] production in adult
+	[[Spleen]] and [[liver]] → source of [[Erythrocytes|RBC]] production before birth
 
-[[Hematopoetic cells]] can differentiate into blood cells
+[[Stem Cells|Hematopoietic stem cell]] can differentiate into blood cells
 - Lymphoid precursor
 	- [[Lymphocytes]]
 	- [[Natural Killer Cells]]
@@ -22,13 +25,12 @@ Through [[Hematopoiesis|hematopoiesis]]
 	- [[Monocytes]]
 	- [[Macrophage|Macrophages]]
 	- [[Megakaryocytes]]
-
-![[Pasted image 20250824182821.png]]
-
+	
+![[Screenshot 2026-07-08 at 8.40.08 AM.png]]
 #### Composition
 1) Formed elements – cells
-	- [[Erythrocytes]] (RBCs)
+	- [[Erythrocytes]] (RBCs): O2 transport, life = 120 days
 	- [[Leukocytes]] (WBCs)
-	- [[Platelets]]
+	- [[Thrombocytes|platelets]] ([[hemostasis]])
 
 2) [[Plasma]]

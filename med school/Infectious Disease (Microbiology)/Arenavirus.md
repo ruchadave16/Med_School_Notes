@@ -15,7 +15,7 @@ tags:
 #### Symptoms
 - LCV (Lymphocytic choriomeningitis virus) 
 	- Meningoencephalitis
-	- Fever
+	- Hemorrhagic Fever
 #### Diagnosis
 - Sandy (granular) look upon electron microscopy
 #### Treatment

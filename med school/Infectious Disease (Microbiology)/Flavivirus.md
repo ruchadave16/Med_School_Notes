@@ -22,3 +22,4 @@ source: ID
 	- Transmission through mosquitos
 	- Meningitis and flaccid paralysis
 	- Seizures and coma
+- **Hemorrhagic Fever**
