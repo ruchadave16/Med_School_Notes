@@ -2,6 +2,7 @@
 aliases:
   - congenital diaphragmatic hernia
   - Congenital diaphragmatic hernia
+  - CDH
 date: 9-3-25
 source: MGA
 tags:
@@ -11,32 +12,28 @@ tags:
 *Herniation of contents into thoracic cavity*
 
 ### Etiology
-- Primary causes
-- Risk factors
+- M>F, 5% genetic
+- 
 
 ### Pathophysiology
 - Pleuroperitoneal membrane doesn’t form
+	- Incomplete fusion
 - Forms hypoplastic lung on same side
 	- More likely on left since liver is on right side
-- Relevant pathways (e.g. immune, hormonal)
+	- [[Pulmonary hypoplasia]]
 
+![[Screenshot 2026-08-16 at 8.51.16 PM.png]]
 ### Clinical Features
-- Symptoms
-	- Bowel sounds heard in thoracic cavity
-	- Respiratory distress
-	- No rounded belly at birth
-- Signs
-- Variants
+- Bowel sounds heard in thoracic cavity
+- Respiratory distress
+- No rounded belly at birth
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- Prenatal ultrasound
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- Immediate intubation + ventilation to reduce lung damage chances
+- Surgical repair within 1-2 weeks
 
 ### Complications
 - Short-term

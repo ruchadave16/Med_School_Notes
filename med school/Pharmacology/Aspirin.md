@@ -58,3 +58,4 @@ tags:
 - Hemodialysis
 #### Contraindication
 - Kids under 18 with a fever
+- Asthma - [[AERD]]

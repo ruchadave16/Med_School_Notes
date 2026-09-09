@@ -16,7 +16,7 @@ source: ID
 	- Gram (-) of GI tract
 	- [[Bacteroides fragilis]] -- resistant to antibiotics
 	- Treatment: [[Metronidazole]] and gram (-) agent
-- Aspiration pneumonia
+- [[Aspiration pneumonia]]
 	- Mouth anaerobes in lungs
 	- [[Peptostreptococcus]], [[Fusobacterium]], [[Prevotella]]
 	- Treatment: [[Clindamycin]]

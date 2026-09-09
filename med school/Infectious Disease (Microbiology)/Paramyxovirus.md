@@ -8,7 +8,7 @@ tags:
 - (-) [[RNA Viruses|RNA virus]]
 	- Replication in cytoplasm
 - Enveloped
-- Can cause respiratory tract infections
+- Can cause [[respiratory tract infections]]
 - Surface F protein -> respiratory epithelial cells fuse and make multinucleated cells
 - HA and NA
 
@@ -17,4 +17,4 @@ tags:
 - [[Mumps Virus]]
 - [[Measles virus]]
 - [[RSV]]
-- Human metapneumovirus
+- [[Human metapneumovirus]]

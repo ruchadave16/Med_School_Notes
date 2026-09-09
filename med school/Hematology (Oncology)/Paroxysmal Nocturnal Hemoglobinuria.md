@@ -45,7 +45,7 @@ source: ID
 
 ### Complications
 - Leading cause of death = [[thrombosis]] from venous clots
-- 5-10% get [[AML]] or myelodysplastic syndrome
+- 5-10% get [[Acute Myeloid Leukemia|AML]] or myelodysplastic syndrome
 
 ### High-Yield Associations
 - Classic buzzwords

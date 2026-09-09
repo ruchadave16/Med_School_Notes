@@ -54,7 +54,7 @@ tags:
 - Impaired growth
 - ↓ bone density
 - Amenorrhea
-- Hyponatremia
+- [[Hyponatremia]]
 - Bone marrow suppression
 - [[Refeeding Syndrome]]
 	- ↑ insulin – ↓ phosphate, magnesium – arrythmia, seizure risk

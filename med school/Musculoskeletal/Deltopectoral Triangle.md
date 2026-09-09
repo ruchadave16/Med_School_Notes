@@ -4,7 +4,7 @@ source: MGA
 aliases:
   - deltopectoral triangle
 ---
-![[Screenshot 2025-07-31 at 1.01.15 PM.png]]
+![[Screenshot 2026-09-08 at 11.51.39 PM.png]]
 
 Border: 
 - Medial deltoid muscle 

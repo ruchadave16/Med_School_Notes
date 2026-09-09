@@ -10,4 +10,4 @@ date: 9-22-25
 
 - Threshold is higher so [[Vasopressin|ADH]] goes to maximum and completely concentrates urine before thirst starts
 
-![[Pasted image 20250922204018.png]]
+![[Screenshot 2026-08-30 at 2.15.52 PM.png]]

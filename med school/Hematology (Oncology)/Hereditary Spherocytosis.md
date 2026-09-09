@@ -28,7 +28,7 @@ tags:
 ### Clinical Features
 **Can be asymptomatic**
 - Anemia
-- Splenomegaly
+- [[Splenomegaly]]
 - Jaundice
 
 ### Diagnosis

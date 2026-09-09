@@ -22,10 +22,10 @@ tags:
 - PTLD (Post-transplantation lymphoproliferative disorder)
 
 **Cancers**
-- Burkitt's lymphoma -- East African children
-- Nasopharyngeal carcinoma -- Chinese adults
-- B cell lymphoma
-- Hodgkin's lymphoma
+- [[Burkitt's lymphoma]] -- East African children
+- [[Nasopharyngeal carcinoma]] -- Chinese adults
+- [[Diffuse Large B-Cell Lymphoma]]
+- [[Hodgkin Lymphoma]]
 #### Diagnosis
 - Positive PCR in CSF for HIV/AIDS patients
 - Lymphocytosis in peripheral blood smear

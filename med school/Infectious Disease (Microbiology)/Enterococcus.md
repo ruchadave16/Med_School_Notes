@@ -16,7 +16,7 @@ tags:
 - E. faecalis
 - E. faecium (more penicillin resistant)
 #### Symptoms
-- UTI
+- [[UTIs]] (healthcare associated)
 - Bacteremia
 - Intraabdominal sepsis
 - Hospital acquired infection

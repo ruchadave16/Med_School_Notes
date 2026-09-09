@@ -1,6 +1,8 @@
 ---
 aliases:
   - Granulocyte Colony-Stimulating Factor
+  - Filgrastim
+  - filgrastim
 date: 7-15-26
 source: Heme/Onc
 tags:
@@ -23,6 +25,6 @@ tags:
 
 #### Adverse Effects
 - Bone pain (moderate to severe)
-- Splenomegaly
+- [[Splenomegaly]]
 #### Contraindication
 - [[Sickle Cell Anemia]] (can cause severe vaso-occlusions)

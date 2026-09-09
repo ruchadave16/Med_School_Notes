@@ -42,7 +42,6 @@ Substance must meet criteria – [[inulin]]
 **Commonly use [[creatine]] in practice**
 - Overestimates a bit since it is secreted in small amounts by tubules
 - Pcr = estimate of renal function – shouldn’t be increased unless significant change to GFR (50% or more)
-
 #### Osmolar Clearance and Free Water Clearance
 >[!Info]
 >V = $C_{osm} + C_{H2O}$

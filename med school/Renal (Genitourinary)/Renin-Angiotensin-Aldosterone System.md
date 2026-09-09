@@ -19,7 +19,9 @@ function, volume, blood pressure, and remodeling*
 
 ![[Screenshot 2026-05-04 at 8.40.00 PM.png]]
 
-Activation: changes in blood volume or BP – detected by [[stretch receptors]] in aortic arc and carotid sinus and by [[blood volume receptors]] in atria
+**Activation**: Changes in blood volume or BP 
+- [[stretch receptors]] in aortic arc and carotid sinus  
+- [[blood volume receptors]] in atria
 
 
 

@@ -13,6 +13,7 @@ tags:
 - [[Urease Test]] positive
 - Highly motile
 - Non-lactose fermenting
+- "**SWARMING motility**" on blood agar
 #### Mechanism
 - Urease forms ammonia -> alkalizes urine
 - Formation of struvite stones

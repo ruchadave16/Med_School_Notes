@@ -4,14 +4,20 @@ aliases:
   - Colon cancer
 date: 2-3-26
 source: ID
+tags:
+  - disease
 ---
-Colonic adenomas = precursor lesions to most colorectal adenocarcinomas
-- Size decides malignancy risk
+### Etiology
+- Primary causes
+- Risk factors
+
+### Pathophysiology
+- Colonic adenomas = precursor lesions to most colorectal adenocarcinomas
+	- Size decides malignancy risk
 
 1) Sporadic (non-inherited) colon cancer
 	- Seen in older patients, associated with low fiber diets
 	- Screening from 45 onwards
-
 2) [[Familial Adenomatous Polypsis]] (FAP)
 3) [[Hereditary Non-Polypsis Colorectal Cancer]] (HNPCC)
 #### Pathways
@@ -22,3 +28,31 @@ Colonic adenomas = precursor lesions to most colorectal adenocarcinomas
 - MSI pathway
 	- **Microsatellite instability**
 	- Defects in DNA [[mismatch repair]] → accumulation of microsatellite repeat regions
+
+**Grading of Tumors**
+- Grade 1 = well differentiated 
+- Grade 2 = moderately differentiated
+- Grade 3 = poorly differentiated
+- Grade 4 = undifferentiated
+### Clinical Features
+- Symptoms
+- Signs
+- Variants
+
+### Diagnosis
+- Labs
+- Imaging
+- Criteria
+
+### Treatment
+- Pharmacologic
+- Surgical
+- Lifestyle
+
+### Complications
+- Short-term
+- Long-term
+
+### High-Yield Associations
+- Classic buzzwords
+- Boards clues

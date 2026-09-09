@@ -25,7 +25,7 @@ Antibody-antigen (IgG) complexes form and activate [[Complement System|complemen
 *Causes*
 - [[Rabies]] or [[Clostridium Tetani|tetanus]] anti-toxin
 - Rarely for penicillin
-- Monoclonal antibodies (rituximab, infliximab)
+- [[Monoclonal antibodies]] ([[rituximab]], [[infliximab]])
 - Post-strep glomerulonephritis
 - [[Systemic Lupus Erythematosus|SLE]]
 - Polyarteritis nodosa

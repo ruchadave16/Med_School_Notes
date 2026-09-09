@@ -19,8 +19,7 @@ Sensory: Involuntary sensation from organs
 
 2) [[Parasympathetic Nervous System]]
 	- *Rest and digest* – ↓ HR, ↑ digestion
-
-![[Screenshot 2025-12-14 at 12.43.59 PM.png]]
+![[Screenshot 2026-09-09 at 12.05.13 AM.png]]
 
 >[!Clinical] Spinal Cord Injuries
 >Can cause loss of sympathetic or parasympathetic control below injury

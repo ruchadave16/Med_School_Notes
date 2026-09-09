@@ -16,5 +16,5 @@ source: Heme/Onc
 	- Myelodysplastic syndromes
 - Increased destruction or sequestration of neutrophils within the circulation
 	- Immune-mediated neutrophil injury
-	- Splenomegaly (sequestration and destruction of neutrophils)
+	- [[Splenomegaly]] (sequestration and destruction of neutrophils)
 	- Increased peripheral utilization

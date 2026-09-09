@@ -15,6 +15,6 @@ Depends on [[Vasopressin|ADH]]
 - Increases luminal water permeability → cAMP mediated mechanism which adds [[aquaporins]] into luminal membrane
 - Maximal osmolarity in this case = medullary interstitial osmolarity (1200 mOsm)
 
-![[Pasted image 20250922203338.png]]
+![[Screenshot 2026-08-30 at 2.14.22 PM.png]]
 #### Low ADH
 - Not water or urea permeable

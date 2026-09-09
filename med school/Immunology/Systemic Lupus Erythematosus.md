@@ -26,6 +26,7 @@ tags:
 - Nonerosive synovitis
 - [[Pericarditis]]
 - Libman-Sacks endocarditis
+- Pleural fibrosis
 ### Clinical Features
 **Presentation**
 - Chronic, remitting, and relapsing febril illness

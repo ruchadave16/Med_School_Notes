@@ -54,11 +54,12 @@ Bind to and activate [[Muscarinic Receptors|muscarinic receptors]] or [[Nicotini
 
 #### Toxicity of Nicotinic
 **Acute**
-- CNS Stimulation: Tremors, convulsions *Treatment = anticonvulsants*
+- CNS Stimulation: Tremors, convulsions 
+	- *Treatment = anticonvulsants*
 - Skeletal muscle: Muscle twitching and paralysis 
 - Cardiovascular: Hypertension and arrhythmias
-- *Treatment* for respiratory = mechanical ventilation
-- *Treatment* for cholinergic = atropine
+- *Treatment* for respiratory = [[mechanical ventilation]]
+- *Treatment* for cholinergic = [[atropine]]
 
 **Chronic**
 - Highly addictive

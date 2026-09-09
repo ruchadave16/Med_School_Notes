@@ -61,9 +61,9 @@ tags:
 **Differential: Rule out [[ACS]]**
 - [[BNP]] (if this is normal, AHF HIGHLY unlikely; high means most likely)
 - [[Troponins]]
-- BMP
+- CMP
 	- Elevated creatine
-	- Hyponatremia
+	- [[Hyponatremia]]
 	- Monitor potassium
 	- Calcium and magnesium monitoring
 - LFTs
@@ -80,7 +80,7 @@ tags:
 	- Kerley B Lines: Short, horizontal lines seen in the lung periphery 
 	- Cardiomegaly
 	- Cephalization of Pulmonary Vessels:
-	- Pleural effusions
+	- [[Pleural effusions]]
 - ECG
 - Lung Ultrasound
 	-  more sensitive to identify cardiogenic pulmonary edema

@@ -12,10 +12,10 @@ source: ID
 
 **Common Signs**
 - [[Hypercalcemia]] 
-	- Squamous cell carcinoma (lung) 
+	- [[Squamous Cell Carcinoma]]
 	- Production of PTH-related protein
 - [[Cushing Syndrome]]
-	- Small cell carcinoma (lung)
+	- [[Small cell carcinoma]] (lung)
 	- ACTH production
 - [[SIADH]]
 	- Small cell carcinoma (lung)

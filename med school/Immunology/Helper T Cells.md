@@ -44,7 +44,7 @@ source: ID
 - [[Th17 Cells|Th17 cells]]
 - Tfh cells – in [[germinal centers]] of lymphoid follicles
 	- Helps B cells
-	- Stimulated by IL-6, release [[IL-21]]
+	- Stimulated by [[IL-6]], release [[IL-21]]
 - [[Treg]] cells 
 
 ![[Screenshot 2026-01-24 at 11.48.28 PM.png]]

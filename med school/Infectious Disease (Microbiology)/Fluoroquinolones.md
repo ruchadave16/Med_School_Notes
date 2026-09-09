@@ -37,7 +37,7 @@ Chromosomal mutations and plasmid mediation
 	- Generally complete resistance to others
 	- Exception: Delafloxacin has activity against some resistant gram (+)
 ### Adverse Effects
-- GI disturbance (3-17%) -- nausea, vomiting
+- GI disturbance (3-17%) -- nausea, vomiting -- [[C. Diff]] risk
 - Neuro (1-11%)  -- headache, dizziness, insomnia, anxiety
 	- Rare = peripheral neuropathy
 - QT prolongation

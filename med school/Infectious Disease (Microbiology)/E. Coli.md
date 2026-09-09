@@ -12,13 +12,13 @@ tags:
 - Lactose fermenting pink on [[MacConkey's Agar]]
 #### Mechanism
 - Fecal/oral transmission
-- UPEC = common cause of [[UTIs]]
-	- Type 1 Pili binds to uroepithelium
+- [[UPEC]] = common cause of [[UTIs]]
 - O serotypes bind to Gal-Gal of uroepithelium through P. fimbriae or PAP
 
 - [[ETEC]]
 - [[EHEC]]
 - [[EAEC]]
+
 #### Symptoms
 - 
 #### Diagnosis

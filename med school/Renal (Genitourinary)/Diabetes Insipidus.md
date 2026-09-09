@@ -2,19 +2,19 @@
 aliases:
   - diabetes insipidus
   - Diabetes insipidus
+  - DI
 date: 10-21-25
 source: FoM I
 tags:
   - disease
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- [[Central diabetes insipidus]]
+- [[Gestational diabetes insipidus]]
+- [[Nephrogenic diabetes insipidus]]
 
 ### Pathophysiology
 **Central**
-- Failure of [[posterior pituitary]] to secrete [[Vasopressin|ADH]]
-	- ADH low
 
 **Nephrogenic**
 - Cells in collecting duct don’t respond to ADH
@@ -28,9 +28,10 @@ Water is NOT reabsorbed
 - Excess urination
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- Water deprivation test to determine central vs nephrogenic DI
+	- Water deprive then give DDAVP at time 0 
+	- Check osmolarity over 8 hrs
+	- If Uosm increases, then [[Central Diabetes Insipidus]]
 
 ### Treatment
 Central

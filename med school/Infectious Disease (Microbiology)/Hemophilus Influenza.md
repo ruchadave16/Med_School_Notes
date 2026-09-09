@@ -21,11 +21,11 @@ tags:
 ### Clinical Features
 - Capsulated strains = more virulent
 	- [[Meningitis]]
-	- Epiglottitis
+	- [[Epiglottitis]]
 - Noncapsulated strains (NTHi) = less
-	- Sinusitis
-	- Otitis media
-	- Chronic bronchitis
+	- [[Sinusitis]]
+	- [[Otitis media]]
+	- [[Chronic bronchitis]]
 ### Diagnosis
 - Hib vaccine to prevent
 ### Treatment

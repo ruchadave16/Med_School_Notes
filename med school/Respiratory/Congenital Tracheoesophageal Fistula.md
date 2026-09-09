@@ -7,40 +7,38 @@ aliases:
   - TEF
   - congenital tracheoesophageal fistula
 ---
-##### Definition
+#### Definition
 Fistula: abnormal passage from 1 organ to another
 Atresia: absense of normal passageway
-##### Etiology
+#### Etiology
 - 1/3000 live births – common defect
 
-##### Pathophysiology
+#### Pathophysiology
 - Embryological: 
 	- Incomplete fusion of tracheoesophageal ridges during [[Lung Maturation|formation]] 
 	- Aberrant apoptosis inside tracheoesophageal septum
-
-##### Clinical Features
+	
+![[Pasted image 20250823165841.png]]
+#### Clinical Features
+- Excess drooling, coughing, 
 - Polyhydramnios – excessive amniotic fluid
 - During first feeding, milk overflows esophagus (choking) or non-bilious vomiting
 - Air in stomach causes gastric content to go into lungs
 - Cannot pass nasogastric tube to stomach
+#### Diagnosis
+- Chest x-ray shows air in GI tract
 
-##### Diagnosis
-- Labs
-- Imaging
-- Criteria
-
-##### Treatment
+#### Treatment
 - Surgical repair to avoid long-term complications 
 - Lifestyle
 
-##### Complications
-- Short-term
+#### Complications
+- Incompatible with survival
 - Long-term
 	- Malnutrition
-	- Aspiration pneumonia
+	- [[Aspiration pneumonia]]
 
-##### High-Yield Associations
+#### High-Yield Associations
 - Classic buzzwords
 - Boards clues
 
-![[Pasted image 20250823165841.png]]

@@ -7,23 +7,23 @@ aliases:
 date: 7-31-25
 source: MGA
 ---
-##### Boundaries
+#### Boundaries
 - Superfiscial fascia of anterior [[Thorax|thorax]] between skin and pectoral deep fascia
 - Extends from lateral border of [[sternum]] to midaxillary line
 - Between [[Ribs|ribs]] 2-6
-##### Content
-Includes [[mammary gland]]s
+#### Content
+Includes [[Mammary Glands|mammary glands]]
+#### External Features
 
-##### External Features
-
-![[Screenshot 2025-07-31 at 4.57.09 PM.png]]
+![[Screenshot 2026-09-08 at 11.52.07 PM.png]]
 
 - Nipple: opening of [[lactiferous duct]]s. Position differs for men, 4th intercostal space for women
 - Areola: circular pigmented region around nipple
 - Axillary Process (Tail of Spence): extension of breast tissue superolateral towards [[axilla]]
 
-##### Internal Features
-![[Screenshot 2025-07-31 at 5.04.15 PM.png]]
+#### Internal Features
+![[Screenshot 2026-09-08 at 11.52.25 PM.png]]
+
 - Size: Depends on [[Adipose|adipose]] tissue amount
 - Bed of breast = deep portion: Site where superficial fascia interfaces with anterior portion of deep pectoral fascia
 - Retromammary space: Loose subcutaneous tissue plane / space between breast and pectoral fascia
@@ -45,10 +45,10 @@ Includes [[mammary gland]]s
 	- Lactiferous sinus: dilated portion of duct deep to areola
 
 			Milk flow: Lobule -> Lactiferous duct -> Lactiferous sinus -> nipple
+#### Blood Supply
 
-##### Blood Supply
+![[Screenshot 2026-09-08 at 11.52.44 PM.png]]
 
-![[Screenshot 2025-07-31 at 5.16.16 PM.png]]
 - **Internal thoracic** a. is branch of [[Subclavian Artery|subclavian a.]] and medial mammary arteries branch off of that
 	- Deep to costal cartilage
 	- Main supply to medial aspect
@@ -57,16 +57,17 @@ Includes [[mammary gland]]s
 - Drain to **axillary vein**
 	- Some to internal thoracic vein.
 
-##### Innervation
+#### Innervation
 [[intercostal nerves|Intercostal nerves]] (T4 - T6) → anterior and lateral cutaneous branches
 [[Dermatome]] (T3 - T6) → **nipple is T4**
 
 *Sympathetic fibers to blood vessels in breasts, smooth muscle in overlaying skin and nipple also found in these nerves*
 
-##### Lymphatic Drainage
+#### Lymphatic Drainage
 Quadrants defined by clock numbers
 
-![[Screenshot 2025-07-31 at 5.21.37 PM.png]]
+![[Screenshot 2026-09-08 at 11.53.09 PM.png]]
+
 
 Lymphatic vessels drain glands into **subareolar [[plexus]]** → deep to nipple
 

@@ -17,7 +17,7 @@ source: MGA
 3) Floating (vertebral, free) Ribs: don’t connect to sternum
 	- Ribs 11-12
 
-![[Screenshot 2025-08-04 at 11.55.37 PM.png]]
+![[Screenshot 2026-09-08 at 11.58.20 PM.png]]
 ##### Features
 - **Head**: articulation with vertebral bodies
 - **Tubercule**: articulation with transverse process
@@ -37,8 +37,7 @@ source: MGA
 > 2nd rib: tuberosity for serratus anterior → rough area on upper surface
 > 11 and 12 rib: short tubercule / costal cartilage
 
-
-##### Embryology
+#### Embryology
 [[Ribs|Rib]]: [[Sclerotomes|Sclerotome]] [[mesenchymal|mesenchyme]] from paraxial [[mesoderm]] pulled anteriorly when body wall formed
 
 >[!Clinical]

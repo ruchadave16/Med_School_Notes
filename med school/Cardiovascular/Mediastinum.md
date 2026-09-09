@@ -5,19 +5,18 @@ date: 8-18-25
 source: MGA
 ---
 *Central compartment of [[thoracic cavity]] between 2 [[pleural cavities]]*
-##### Boundaries
-- Superior: Superior thoracic apeture
+#### Boundaries
+- Superior: Superior thoracic aperture
 - Lateral: Parietal [[pleura]]
 - Inferior: [[Diaphragm]]
 - Anterior: [[Sternum]] + costal cartilage
 - Posterior: Thoracic [[vertebrae]]
-##### Contents
+#### Contents
 
-##### External Features
+#### External Features
 - Divisions: Superior and Inferior by transverse thoracic plane (Plane of Ludwig) – Sternal angle → T4
-
-![[Pasted image 20250818232914.png]]
-##### Internal Features
+![[Screenshot 2026-08-16 at 12.26.45 AM.png]]
+#### Internal Features
 
 1) Superior mediastinum
 	- Thymus
@@ -63,21 +62,20 @@ source: MGA
 - [[Trachea]] in superior mediastinum
 - [[Esophagus]] in superior mediastinum posterior to trachea and in posterior mediastinum posterior to right atrium
 
-##### Blood Supply
+#### Blood Supply
 [[Aorta]]
 [[Pulmonary Vein]], [[Inferior Vena Cava|IVC]], [[SVC]], [[Azygos Vein]]
 
-##### Innervation
+#### Innervation
 [[Phrenic Nerve]]
 [[Vagus Nerve]]
 [[Recurrent Laryngeal Nerve]]
 [[Sympathetic Nervous System|Sympathetic]]
-##### Lymphatic Drainage
+#### Lymphatic Drainage
 [[Thoracic duct]]
 [[Lymph Nodes]]
 - Posterior mediastinal LN – posterior to [[pericardium]], drains esophagus, pericardium, posterior thoracic wall
 - Parasternal LN – next to internal thoracic a., drains medial breast, anterior abdominal wall above umbilicus, deep anterior thoracic wall
 - Inferior and superior tracheobronchial LN – around bifurcation (carina) to drain lungs
 - Paratracheal LN – lateral to trachea, drain lungs
-
-##### Embryology
+#### Embryology

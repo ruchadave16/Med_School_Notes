@@ -68,7 +68,6 @@ Heart attack because of lack of [[blood]] and oxygen to heart
 - Labs
 - Imaging
 - Criteria
-
 #### Treatment
 - [[Percutaneous Coronary Intervention]] (Angioplasty and stent)
 	- Catheter with balloon ([[angioplasty]]) and stent position in narrowed artery

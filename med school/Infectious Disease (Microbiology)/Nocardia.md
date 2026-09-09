@@ -14,11 +14,16 @@ tags:
 
 ![[Screenshot 2026-02-17 at 7.15.11 PM.png]]
 #### Mechanism
+- 
 #### Symptoms
 - Chronic pulmonary infections -- like pneumonia
-- Brain abscess
+	- Fever, cough, breathlessness, hemoptysis, and weight loss
+	- Can look like TB
+- Silent brain abscess
 #### Diagnosis
 - If suspected, do brain MRI to exclude cerebral abscess formation
+- CT scan of chest
+- Bronchoalveolar lavage (BAL) & biopsy of the lesion
 #### Treatment
-- [[Trimethoprim]]-Sulfamethoxazole
+- [[Trimethoprim]]-[[Sulfamethoxazole]]
 #### Prevention

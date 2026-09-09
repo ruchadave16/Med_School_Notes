@@ -14,8 +14,8 @@ tags:
 #### Secretion
 Made in [[Hypothalamus|hypothalamus]], transported to [[posterior pituitary]] for secretion
 
-- [[Osmoreceptors]] in hypothalamus regulate
-- Volume control through high pressure [[Arterial Baroreceptors|arterial baroreceptors]] in [[aortic arch]] and carotid sinus as well as low pressure baroreceptors in [[atria]]
+- [[Osmoreceptors]] in [[hypothalamus]] regulate
+- Volume control through high pressure [[Arterial Baroreceptors|arterial baroreceptors]] in [[aortic arch]] and [[carotid sinus]] as well as low pressure baroreceptors in [[atria]] (10% decrease needed so less sensitive)
 	- ↑ Posm → ↑ ADH
 	- ↓ BV → ↑ ADH
 	- Stress response: pain, fright
@@ -28,8 +28,10 @@ Made in [[Hypothalamus|hypothalamus]], transported to [[posterior pituitary]] fo
 - Released from neurons in supraoptic and paraventricular nuclei of [[hypothalamus]]
 - Made as preprophormones → granules → processed into active
 - Transported down axons (neurophysins), accumulate in terminals in [[posterior pituitary]]
+
+![[Screenshot 2026-08-30 at 2.08.24 PM.png]]
 #### Functions
-- ↑ Water absorption to concentrate urine in kidneys ← increasing permeability of [[Distal Convoluted Tubules|distal convoluted tubule]] and [[collecting duct]] to water (V2 receptors) (mechanism shown in [[Collecting Duct Transport|collecting duct transport]]) – aquaporins
+- ↑ Water absorption to concentrate urine in kidneys ← increasing permeability of [[Distal Convoluted Tubules|distal convoluted tubule]] and [[collecting duct]] to water (V2 receptors) (mechanism shown in [[Collecting Duct Transport|collecting duct transport]]) – [[aquaporins]]
 - FIRST line of action during [[dehydration]]
 - High concentrations → [[Blood Flow|vasoconstriction]] (V1 receptors)
 - Stimulates secretion of [[ACTH]] (V3 receptors)

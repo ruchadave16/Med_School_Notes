@@ -20,7 +20,8 @@ tags:
 #### Symptoms
 - Asymptomatic, can appear like fever, pneumonia, arthalgias in normal ppl
 	- Erythema nodosum on shins
-
+	- Flu-like symptoms, fever, cough, chest pain and weight loss
+	
 Systemic in Immunocompromised
 - Skin and lung infection
 - Bone infection
@@ -30,6 +31,7 @@ Systemic in Immunocompromised
 	-![[Screenshot 2026-03-04 at 10.29.10 PM.png]]
 - May seem cavities or nodules in Xray
 - KOH stain
+- IgG and IgM detection
 #### Treatment
 Itraconazole for local
 

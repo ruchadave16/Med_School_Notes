@@ -6,7 +6,7 @@ source: ID
 ---
 - Contains [[T Lymphocytes|T cells]] activated by [[Langerhans Cells|dendritic cells]] and [[antigen]]
 - Has high endothelial venules
-	- Allow B and T cells to enter node
+	- Allow B and T cells to enter blood stream
 
 >[!Note]
 >These are underdeveloped in [[DiGeorge Syndrome]]

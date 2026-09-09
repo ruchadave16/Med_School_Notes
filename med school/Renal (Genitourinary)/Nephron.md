@@ -13,4 +13,5 @@ source: FoM I
 - [[Distal Convoluted Tubules|Distal convoluted tubule]]
 - [[Collecting duct]]
 
-![[Pasted image 20250913164955.png]]
+![[Screenshot 2026-08-23 at 11.02.29 PM.png]]
+![[Screenshot 2026-08-23 at 11.02.59 PM.png]]

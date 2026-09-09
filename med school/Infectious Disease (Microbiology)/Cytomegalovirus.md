@@ -22,19 +22,26 @@ tags:
 	 - Hearing loss in infants
 - Mononucleosis like syndrome -- transfusion recipients
 - Pneumonia and hepatitis in immune compromised
+	- Organ transplant patients 
+	- Bone marrow transplant patients
 - Retinitis and enteritis in AIDS patients
 #### Diagnosis
 - PCR assay
+- Bronchoalveolar lavage (BAL) PCR — highly sensitive
 - Viral culture
 	- CPE in cell culture
 	- Large round basophilic inclusions intranuclear ("Owl's eye") 
 	
-	![[Screenshot 2026-03-03 at 11.06.50 PM.png]]
+	![[Screenshot 2026-08-18 at 10.46.08 PM.png]]![[Screenshot 2026-03-03 at 11.06.50 PM.png]]
 
 - Periventricular calcification in utero
+- Chest X-ray
+	- Diffuse interstitial infiltrates.
+	- Ground-glass opacities.
 #### Treatment
 N/A right now
 - [[Ganciclovir]] (being studied)
 	- CMV doesn't encode thymidine kinase so acyclovir NOT effective
+- [[Foscarnet]] if resistant
 #### Prevention
 - No vaccine - under development

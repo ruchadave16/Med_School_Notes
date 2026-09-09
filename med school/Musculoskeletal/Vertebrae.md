@@ -6,14 +6,13 @@ aliases:
 date: 8-1-25
 source: MGA
 ---
-![[Pasted image 20250801182700.png]]
+![[Screenshot 2026-09-08 at 11.54.32 PM.png]]
 
 - Pars interarticularis: area between superior and inferior articular processes
 
-
 >[!Clinical] 
 >[[Spondylolysis]] → Break in pars interarticularis, “Scotty dog sign”. Almost like a broken neck on oblique X-Ray
->![[Screenshot 2025-08-01 at 6.54.18 PM.png]]
+
 
 >[!Clinical]
 >[[Spondylolysthesis]]: Anterior slippage of vertebrae over another
@@ -27,13 +26,14 @@ source: MGA
 
 - Nuchal ligament (supraspinous)
 - Tectorial membrane (Highest part of posterior longitudinal ligament)
+
+![[Screenshot 2026-09-08 at 11.55.12 PM.png]]
 ##### Thoracic Vertebrae (T1-T12)
 - Posterior inferior long spinous process
 - Demifacets superior and inferior on body → meet with ribs
 - Transverse facet also has flat portion that meets tubercle of ribs 
 
-![[Screenshot 2025-08-05 at 12.10.23 AM.png]]
-
+![[Screenshot 2026-09-08 at 11.54.59 PM.png]]
 ##### Lumbar Vertebrae (L1-L5)
 - Short round spinous process
 - Heavy vertebral body

@@ -21,9 +21,7 @@ Encapsulated lymphoid tissue
 - Generate [[Adaptive Immunity|adaptive immunity]] response
 #### Structure
 
-![[Pasted image 20250817172304.png]]
-
-![[Drawing 2026-01-19 01.27.00.excalidraw]]
+![[Screenshot 2026-07-23 at 4.46.53 PM.png]]
 
 - Capsule: fibrous connective tissue with trabeculae
 - Stroma: [[Reticular Fibers|reticular fiber]] – Type III [[Collagen|collagen]]

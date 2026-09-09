@@ -12,6 +12,7 @@ source: FoM II
 - [[Huntingtons Disease]]
 - [[Tuberous Sclerosis]]
 - [[von Hippel Lindau]]
+- [[Little Syndrome]]
 
 **Autosomal Recessive**
 - [[Tay-Sachs]]

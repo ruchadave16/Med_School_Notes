@@ -13,6 +13,18 @@ tags:
 - **50-70% happens in supralateral quadrant**
 - Sometimes metastases to opposite side
 - Can occur in both men and women
+
+**Nottingham histologic grade** (each category = 1-3 score)
+- Tubule formation
+- Nuclear pleomorphism
+- Mitotic activity
+
+>[!Note]
+>Grade 1 = score of 3-5
+>Grade 2= score of 6-7
+>Grade 3 = score of 8-9
+
+![[Screenshot 2026-07-22 at 4.55.41 PM.png]]
 #### Categories
 - [[Invasive Ductal Carcinoma]]
 - [[Invasive Lobular Carcinoma]]
@@ -29,4 +41,3 @@ tags:
 - BRCA1 also carries risk for [[ovarian cancer]]
 #### Diagnosis
 [[Mammogram]] → radiographic study of [[Breast|breast]] tissue
-

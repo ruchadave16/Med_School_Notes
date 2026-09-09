@@ -11,21 +11,25 @@ date: 9-13-25
 source: FoM I
 ---
 *[[Blood]]-filtering unit of [[nephron]]*
+
+![[Screenshot 2026-08-25 at 11.54.33 PM.png]]
 #### Contents
-- Glomerulus 
+- [[Renal Corpuscle|Glomerulus]] 
+	- Mesangial cells = structure to capillaries
 - Visceral layer of [[Bowman's Capsule|Bowman’s Capsule]]
 - Parietal layer of [[Bowman's Capsule|Bowman’s Capsule]]
 - Vascular pole – arterioles enter and leave
 	- [[Juxtaglomerular Apparatus]] located here
 - Urinary pole – filtrate leaves to enter [[proximal convoluted tubule]]
 	- [[Mesangial Cells]] among glomerular capillaries
-
-![[Pasted image 20250913170127.png]]
+	
+![[Screenshot 2026-08-25 at 11.40.48 PM.png]]
 
 #### Filtration Apparatus
 - Separates capillary lumen from urinary space
 - Glomerular endothelium – capillary fenestrations
 - Glomerular [[basement membrane]] – fused basal lamina of endothelial + [[Podocyte|podocytes]]
+	- Structural barrier
 - Visceral layer of [[Bowman's Capsule|Bowman’s Capsule]] – filtration slits between pedicels
 
 [[Glomerular Filtration]] – method by which [[plasma]] is filtered in glomerular capillaries
@@ -33,5 +37,4 @@ source: FoM I
 Arterial pressure pushes fluid from blood through filtration barrier into urinary space
 SIZE LIMIT - 70 kDa
 
-![[Pasted image 20250913170413.png]]
 

@@ -6,7 +6,7 @@ source: FoM I
 ---
 *High urine flow because of [[osmosis]]*
 
-Reasons
+**Reasons**
 1) ↑ amount of normally reabsorbed solute in renal tubule (glucose)
 2) Existence of non-reabsorbed solute (mannitol)
 3) Inhibition of tubular reabsorption mechanism (diuretic drugs)

@@ -16,12 +16,12 @@ source: ID
 - Reproductive history = estrogen exposure increases risk of breast cancer and endometrium
 - Infectious agents
 	- [[EBV]] 
-	- [[Hepatitis B Virus|HBV]], HCV – hepatocellular carcinoma
-	- [[HHV8]] – kaposi sarcoma
+	- [[Hepatitis B Virus|HBV]], [[Hepatitis C Virus|HCV]] – hepatocellular carcinoma
+	- [[HHV8]] – [[kaposi sarcoma]]
 	- [[HPV]] (Type 16 and 18) – cervical carcinoma, head and neck cancer,
-	- [[H. Pylori]]– gastric adenocarcinoma and MALT lymphoma
-	- HTLV-1 – adult t-cell leukemia/lymphoma
-	- Liver fluke (Clonorchis sinensis) – Cholangiocarcinoma
+	- [[H. Pylori]]– gastric adenocarcinoma and [[MALT lymphoma]]
+	- HTLV-1 – [[ATLL]]
+	- Liver fluke (Clonorchis sinensis) – [[Cholangiocarcinoma]]
 	- Schistosoma haematobium – Squamous cell bladder cancer
 - Carcinogens
 	- [[Asbestos]] – lung, esophageal, gastric, colon, mesothelioma
@@ -38,7 +38,7 @@ As age increases, so does chance of cancer
 **Acquired Predispositions**
 - [[Chronic Inflammation|Chronic inflammation]]
 	- Pancreatitis – pancreatic carcinoma
-	- Hashimoto thyroiditis – MALT lymphoma
+	- Hashimoto thyroiditis – [[MALT lymphoma]]
 	- Reflux esophagitis – esophageal cancer
 	- IBD – colorectal cancer
 - Immunodeficiency – viral cancers
@@ -58,5 +58,5 @@ As age increases, so does chance of cancer
 - Angiogenesis 
 - Invasion + metastasis
 - Evasion of immune surveilence
-
 #### [[Tumor Markers]]
+#### [[Cancer Treatments]]

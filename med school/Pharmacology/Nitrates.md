@@ -27,7 +27,7 @@ tags:
 #### Adverse Effects
 
 #### Contraindication
-- [[PDE Inhibitors]] (PDE-5) like sildenafil
+- [[PDE5 Inhibitors]] (PDE-5) like [[sildenafil]]
 - Severe anemia
 - ↑ ICP
 - [[Hypertrophic cardiomyopathy]] with outflow obstruction

@@ -16,11 +16,12 @@ Intraperitoneal – LUQ
 #### Contents
 - Stroma: [[Reticular Connective Tissue]]. Trabeculae have **[[Smooth Muscle|smooth muscle]]**
 - Parenchyma: white & red pulp
-	- [[White Pulp]]: 
+	- [[White Pulp]] (immune surveillance)
 	- [[Red Pulp]] (filters blood):
 
  >[!Info] Splenic artery → trabecullar arteries → central arteries (white pulp) → penicillar arteries (red pulp) → capillaries & sinusoids → venous drainage → trabecular veins → splenic vein
 
+![[Screenshot 2026-07-23 at 6.12.56 PM.png]]
 #### Blood Flow
 - Splenic a. ← celiac trunk
 #### [[Spleen Embryology]]

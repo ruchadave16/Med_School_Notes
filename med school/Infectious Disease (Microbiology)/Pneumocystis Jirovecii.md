@@ -1,6 +1,7 @@
 ---
 aliases:
   - pneumocystis jirovecii
+  - PJP
 date: 3-4-26
 source: ID
 tags:
@@ -11,7 +12,7 @@ tags:
 #### Mechanism
 #### Symptoms
 - Asymptomatic in healthy
-- [[Pneumocystis pneumonia]] (AIDS) < CD4 200
+- [[PJP pneumonia]] (AIDS) < CD4 200
 	- Not productive cough
 	- No consolidations on x-ray
 	- Ground glass appearance if anything on x-ray

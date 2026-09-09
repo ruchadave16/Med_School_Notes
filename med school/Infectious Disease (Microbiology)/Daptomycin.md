@@ -18,6 +18,6 @@ tags:
 
 #### Adverse Effects
 - Myopathy and rhabdomyolysis (MONITOR CPK LEVELS)
-- Inactivated by lung surfactant 
+- Inactivated by [[Pulmonary Surfactant]] 
 #### Contraindication
 - Do NOT use for pneumonia

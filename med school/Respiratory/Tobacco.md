@@ -19,7 +19,7 @@ source: ID
 	- [[stroke]]
 - [[COPD]]
 	- [[Emphysema]]
-	- Chronic bronchitis
+	- [[Chronic bronchitis]]
 	- [[Asthma]]
 #### Developmental
 - Maternal smoking increases risk for:

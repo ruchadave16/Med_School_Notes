@@ -12,6 +12,8 @@ Sequence of events controlling cell growth and division
 	- G1: 1st checkpoint (prep for [[DNA replication]], [[DNA repair]], 2 centrioles from centrosome)
 	- S: [[DNA synthesis]], centrosome replication, **Cdk2 activity** to initiate
 	- G2: 2nd checkpoint (microtubules accumulated)
+	- G0: resting phase (quiescent)
+2) [[Mitosis]] -- M
 ##### Cell Death
 2 major types: [[necrosis]] (accidental death due to injury) and [[Apoptosis|apoptosis]] (programmed cell death)
 

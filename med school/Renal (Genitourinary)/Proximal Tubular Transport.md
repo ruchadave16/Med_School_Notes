@@ -9,33 +9,34 @@ source: FoM I
 - Can be transported either paracellular (between cells through intercellular space) or transcellular (through cells)
 - Others have [[Carrier-Mediated Reabsorption and Secretion]] 
 
-![[Pasted image 20250918221123.png]]
+![[Screenshot 2026-08-23 at 11.10.56 PM.png]]
 
 1) Fluid entry across luminal membrane into cell
 2) Fluid moving into lateral intracellular spaces and taken up by [[capillaries]]
 3) Fluid backleaking through [[tight junctions]] into lumen
-##### Sodium (Proximal Tubule)
+
+![[Screenshot 2026-08-23 at 11.13.10 PM.png]]
+#### Sodium (Proximal Tubule)
 - 67% of sodium absorbed here
 - Most of solute in [[ECF]], 90% of ECF osmolarity
 - Accounts for most of H2O reabsorption
-- Enters cell through co-transport with glucose ([[SGLT]]) and counter-transport with amino acids
+- Enters cell through active transport -- co-transport with glucose ([[SGLT]]) and counter-transport with amino acids
 
-![[Pasted image 20250918230807.png]]
+![[Screenshot 2026-08-23 at 11.33.10 PM.png]]
 
 - [[Active Transport|Active transport]] process (Na/K ATPase enzyme), 90% of oxygen usage of kidneys
-	- Pumps sodium out of cells
-
-![[Pasted image 20250918230558.png]]
-
-Majority of reabsorption in [[Proximal Tubular Transport|proximal tubular transport]] (67%)
+	- Pumps sodium out of cells (through sides)
+- Majority of reabsorption in [[Proximal Tubular Transport|proximal tubular transport]] (67%)
+#### Chloride Reabsorption
+- Active transport through anion exchanger (HBase combines, comes in, and dissociates so that the base can be exchanged for Cl-)
 #### Potassium Reabsorption
 - Passive mechanism
-- Follows Na and water through tight junctions
+- Follows Na and water through tight junctions (paracellular)
 - Lumen balance changes from - to be positive because of all this absorption
 #### [[Urea]] Reabsorption
-- Passive diffusion and solvent drag
+- Passive diffusion and solvent drag (50%)
 - NaCl and solutes reabsorbed, water osmotically reabsorbed with this
-- ↓ water content means urea concentration ↑ so concentration gradient (diffuses into cell)
+	- ↓ water content means urea concentration ↑ so concentration gradient (diffuses into cell)
 #### Glucose Reabsorption
 - TF/P = 0, completely reabsorbed as co-transport with Na, in exchange for H+
 #### [[Amino Acids|Amino Acid]] Reabsorption

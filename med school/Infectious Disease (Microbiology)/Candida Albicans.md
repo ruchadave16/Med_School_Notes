@@ -29,6 +29,7 @@ tags:
 - [[Endocarditis]]
 	- Tricuspid valve
 	- IV drug users
+- May cause UTIs
 #### Diagnosis
 #### Treatment
 - Fluconazole / topical azole

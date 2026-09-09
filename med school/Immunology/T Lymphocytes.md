@@ -28,7 +28,7 @@ Round nucleus, Scant cytoplasm (Whole cell looks like nucleus)
 	- [[Thymus]] medulla
 #### Types of Cells
 
-![[Screenshot 2025-08-17 at 4.45.25 PM.png]]
+![[Screenshot 2026-07-24 at 4.35.39 PM.png]]
 
 1) [[Helper T Cells]] (CD4+) 
 	- Subset: [[Th17 Cells]]
@@ -61,3 +61,16 @@ Round nucleus, Scant cytoplasm (Whole cell looks like nucleus)
 >- Activate skin macrophages
 >- Local swelling if previous TB exposure
 #### [[T Cell Anergy]]
+#### T Cell Neoplasms
+Precursor T cell neoplasms
+- T-cell acute lymphoblastic leukemia/lymphoma ([[T-ALL]])
+
+Mature “peripheral” T cell neoplasms
+- CD4+
+	- [[ATLL]]
+	- [[Mycosis fungoides]]/Sezary syndrome
+	- [[Peripheral T-cell Lymphoma]], NOS
+- CD8+
+	- [[Anaplastic large cell lymphoma]]
+	- [[Large Granular Lymphocytic Leukemia]]
+	- [[Extranodal NK_T cell lymphoma]]

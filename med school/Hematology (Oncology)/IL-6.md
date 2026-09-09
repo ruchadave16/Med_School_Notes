@@ -4,6 +4,7 @@ aliases:
 date: 1-17-26
 source: ID
 ---
-Fever
+[[Fever]]
+
 - Stimulates acute phase protein production in liver
 - [[Hepcidin]] production ↑ so iron sequestration ↑ 

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - pneumonia
-date: 2-19-26
-source: ID
+  - pneumothorax
+date: 8-16-26
+source: Resp
 tags:
   - disease
 ---
@@ -11,9 +11,14 @@ tags:
 - Risk factors
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
-
+- Gas in pleural space
+	- Spontaneous
+		- Primary = rupture of blebs
+		- Secondary from lung disease
+	- Traumatic
+	- [[Tension Pneumothorax]]
+		- Results in pressure in the pleural space remaining positive throughout the respiratory cycle
+![[Screenshot 2026-08-16 at 12.11.35 AM.png]]
 ### Clinical Features
 - Symptoms
 - Signs

@@ -6,8 +6,15 @@ date: 8-16-25
 source: FoM I
 ---
 Made and secreted by [[Type II Pneumocytes|Type II pneumocytes]] starting from last few weeks of fetal development
+- Mainly made of DPPC (dipalmitoyl phosphatidylcholine)
+- Ratio lecithin (DPPC):sphingomyelin ratio > 2:1 = mature
+
 Removed by Type I and Type II pneumocytes and [[Macrophage|Macrophages]]
 
 **Functions**
-- Breathing easier by reducing alveolar surface tension so they can expand when inhalation and remain open during exhalation
+- Breathing easier by reducing alveolar [[surface tension]] so they can expand when inhalation and remain open during exhalation
 - Bactericidal properties to clean surface of [[alveoli]]
+	- Can help with [[Opsonization]]
+
+>[!Warning] [[Infant Respiratory Distress Syndrome|Neonatal Respiratory Distress Syndrome]]
+>Occurs when premature infants have ↓ surfactant

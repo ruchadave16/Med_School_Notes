@@ -23,7 +23,7 @@ source: ID
 >[!Clinical] Encapsulated Bacteria
 >- [[Streptococcus Pneumonia|Pneumococcus]] – pneumonia, meningitis, 
 >- [[Meningococcus]] – [[meningitis]]
->- [[Hemophilus Influenza]] Type B – meningitis, epiglottitis
+>- [[Hemophilus Influenza]] Type B – meningitis, [[epiglottitis]]
 >- [[Klebsiella pneumoniae]] – pneumonia in alcoholics, elderly, diabetes
 >- [[Bacillus anthracis]] – [[Bacillus Anthracis|anthrax]] is **exception** since it has protein in capsule that allows for unlimited growth
 

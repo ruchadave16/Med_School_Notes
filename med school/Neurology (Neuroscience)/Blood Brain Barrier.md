@@ -17,7 +17,7 @@ source: Neuro
 - Must be **highly lipophilic** or use transporters, cannot be substrate of [[P glycoprotein]]
 
 >[!Example]
->- First Generation Antihistamines
+>- First Generation [[Antihistamines]]
 >	- Lipophilic: pass and cause drowsiness
 >	- 2nd gen are less and cause minimal effects
 >- Glucose and essential AA

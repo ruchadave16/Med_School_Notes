@@ -23,8 +23,8 @@ source: FoM I
 	- ↑ K permeability across luminal membrane
 	- ↑ Na permeability across luminal membrane
 	- This causes increase in H+ secretion 
-
-![[Pasted image 20250922210433.png]]
+	
+![[Screenshot 2026-08-30 at 2.18.24 PM.png]]
 
 >[!Clinical]
 >Too much secretion of aldosterone

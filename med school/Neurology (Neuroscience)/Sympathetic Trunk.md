@@ -29,4 +29,4 @@ Function: ↑ [[heart rate]], ↑ [[contractility]], [[bronchodilation]]
 
 [[Visceral Afferent Fibers|Visceral afferent]] for pain in sympathetic *retrogradely*
 
-![[Pasted image 20250821231214.png]]
+![[Screenshot 2026-09-09 at 12.06.12 AM.png]]

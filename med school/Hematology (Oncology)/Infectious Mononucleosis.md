@@ -34,7 +34,7 @@ tags:
 - Lifestyle
 
 ### Complications
-- Spleen rupture from massive splenomegaly
+- Spleen rupture from massive [[splenomegaly]]
 
 ### High-Yield Associations
 - Classic buzzwords

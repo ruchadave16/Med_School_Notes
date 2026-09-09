@@ -25,4 +25,6 @@ tags:
 - Make sure to get urine culture in early pregnancy and vaginal swab in [[3rd trimester]]
 #### Treatment
 - [[Penicillins|Penicillin]] or [[ampicillin]]
+- Intrapartum antibioitic prophylaxis if detected during pregnancy
+	- Antepartum treatment if asymptomatic when the colony count is ≥10⁵ CFU/mL 
 #### Prevention

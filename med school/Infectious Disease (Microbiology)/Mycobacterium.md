@@ -9,3 +9,4 @@ tags:
 - High mycolic acid content
 
 - [[Mycobacterium tuberculosis]]
+- [[Mycobacterium avium complex]]

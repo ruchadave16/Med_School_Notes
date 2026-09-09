@@ -14,15 +14,19 @@ tags:
 - Replication through broad based budding
 #### Symptoms
 - Inflammatory lung disease
+	- Severe cases are present like bacterial pneumonia with acute onset, high fever, lobar infiltrate, and cough. 
+- Prostate hyperplasia, prostatitis, urinary symptoms
+- 
 
 Systemic in Immunocompromised
 - Osteomyelitis
-- Skin lesions similar to squamous cell cancer
+- Skin lesions similar to cauliflower like lesions resembling squamous cell cancer
 #### Diagnosis
 - Same size as RBCs
 - Patchy alveolar infiltrate in lungs, can cause lesions / cavities
 - Urine antigen test for detection
 #### Treatment
-- Local = Itraconazole
+- Ambisome IV
+- Switch to Local = Itraconazole
 - Systemic =[[Amphotericin B]]
 #### Prevention

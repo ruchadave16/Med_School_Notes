@@ -33,7 +33,7 @@ Pre-formed IgE antibodies from 1st exposure
 - [[Heparin]]: anticoagulant
 #### Symptoms
 - Skin: hives (urticaria)
-- Respiratory tract: rhinitis and wheezing
+- Respiratory tract: [[rhinitis]] and wheezing
 - Eyes: conjunctivitis
 - GI: Diarrhea
 

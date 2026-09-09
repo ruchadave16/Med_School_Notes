@@ -30,7 +30,7 @@ source: ID
 		- Acute and chronic Q fever
 		- Obligate intracellular, unique cell wall, 
 	- [[Lyme disease]], Rickettsial infections, Syphilis
-	- [[ASO titer]]: recent [[strep pyogenes pharyngitis]]
+	- [[ASO titer]]: recent strep pyogenes [[pharyngitis]]
 		- Risk of rheumatic fever, scarlet fever, post-strep glomerulonephritis
 	- Serotyping: [[Salmonella]], pneumococcus, meningococcus, E. coli, vibrio cholera
 - Molecular Methods

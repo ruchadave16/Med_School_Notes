@@ -76,6 +76,9 @@ Type I
 
 Type II
 - Persistent hyperglycemia → over glycosylation and breakdown of proteins
+
+- Peripheral neuropathy 
+- 1/3 have diabetic gastroparesis
 ### High-Yield Associations
 - Classic buzzwords
 - Boards clues

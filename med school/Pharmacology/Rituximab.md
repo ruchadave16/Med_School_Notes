@@ -7,15 +7,15 @@ tags:
   - drug
 ---
 #### Action
-- [[CD20]] blocker
+- [[CD20]] blocker (B cells)
+- Binds to normal and malignant B cells -> complement based lysis
 #### Uses
 - [[EBV]] infection in immunocompromised patients
-	- NOT for infectious mono
-
+- CD20+ lymphomas ([[follicular lymphoma]], [[CLL]]), [[rheumatoid arthritis]]
 #### Administration
 
 #### Dosing
 
 #### Adverse Effects
-
+- Infusion reactions
 #### Contraindication

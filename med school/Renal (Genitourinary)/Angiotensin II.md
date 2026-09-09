@@ -13,9 +13,11 @@ tags:
 #### Functions
 - Stimulate [[adrenal cortex]] to make [[aldosterone]]
 - Kidney to reduce fluid and sodium diuresis
+	- Directly increases Na+ reabsorption
 - ↑ [[thirst]] in hypothalamus
 - [[Vasopressin|ADH]] release from post. pituitary
 - ↑ sympathetic activation
+	- Arteriolar **vasoconstriction**
 - ↑ cardiac hypertrophy
 
 ![[Screenshot 2026-05-04 at 8.57.30 PM.png]]

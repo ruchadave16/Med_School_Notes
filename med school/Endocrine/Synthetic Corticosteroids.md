@@ -40,6 +40,9 @@ source: FoM II
 - Pharmacological Dose (Supraphysiologic Therapy)
 	- Anti-Inflammatory 
 		- Autoimmune, **bronchial asthma**, eczema, IBD
+			- ↑ transcription of anti-inflammatory genes
+			- ↓ pro-inflammatory
+			- ↑ B2 receptors
 	- Anticancer
 		- Hematologic malignancies so ↓ lymphocyte
 	- <2 weeks is well tolerated
@@ -68,3 +71,9 @@ source: FoM II
 >- Local therapies (inhaled / topical)
 >- Intermediate as 1 morning dose to mimic normal cortisol
 >- Gradually taper to prevent withdrawal
+
+#### Negative Effects
+- [[Oropharyngeal Candidiasis]]
+- Hoarseness
+- Growth suppression
+- Cataracts

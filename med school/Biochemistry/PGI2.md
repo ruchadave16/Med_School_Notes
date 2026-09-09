@@ -7,8 +7,10 @@ source: Neuro
 ---
 Made by
 - Vascular endothelial cells
-- Receptor = IP
+- Receptor = IP on smooth muscles
+	- Activates cAMP
 
-Function:
+**Function:**
 - Vasodilation
+- ↓ smooth muscle proliferation
 - Inhibits platelet aggregation

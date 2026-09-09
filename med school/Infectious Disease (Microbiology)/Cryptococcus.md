@@ -20,7 +20,7 @@ Transmission through inhalation, found in pigeon droppings
 #### Mechanism
 - Relapse over weeks to months
 #### Symptoms
-- Cough, dyspnea -- pneumonia
+- Cough, dyspnea -- [[pneumonia]]
 - [[Meningitis]] by spreading to CSF 
 - Fever
 - Umbilicated lesions on face and trunk
@@ -34,5 +34,6 @@ Transmission through inhalation, found in pigeon droppings
 - "Soap bubble lesions" on brain
 	 ![[Screenshot 2026-03-28 at 4.44.35 PM.png]]
 #### Treatment
-- [[Amphotericin B]] + flucytosine followed by fluconazole
+- [[Amphotericin B]] + flucytosine (induction) followed by fluconazole
+- 
 #### Prevention

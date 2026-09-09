@@ -20,7 +20,7 @@ source: FoM I
 - 2nd action on osteoclasts through RANKL
 
 **[[Kidneys]]**
-- Increase Ca reabsorption in [[Distal Convoluted Tubules|distal convoluted tubule]] (generally only 1-2% excreted but PTH can reduce this even more)
+- Increase **Ca reabsorption** in [[Distal Convoluted Tubules|distal convoluted tubule]] (generally only 1-2% excreted but PTH can reduce this even more)
 - Decrease phosphate reabsorption in [[Proximal Tubular Transport|proximal tubular transport]] – more free ionized Ca
 - Increases 1,25-dihydroxycholecalciferol production (to activate [[Vitamin D]])
 

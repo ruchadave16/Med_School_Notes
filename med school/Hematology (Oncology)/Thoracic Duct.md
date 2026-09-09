@@ -12,3 +12,5 @@ source: MGA
 - Azygos on right
 
 At T4, moves from right to left to drain into left venous angle
+
+![[Screenshot 2026-09-09 at 12.06.55 AM.png]]

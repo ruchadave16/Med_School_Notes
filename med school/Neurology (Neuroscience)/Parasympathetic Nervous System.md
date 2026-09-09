@@ -23,3 +23,5 @@ Ganglion:
 
 Postganglionic fibers
 - Release [[Ach]], which binds to [[muscarinic receptors]] on target organs
+-
+![[Screenshot 2026-09-09 at 12.05.39 AM.png]]

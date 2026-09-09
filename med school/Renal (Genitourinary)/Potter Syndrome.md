@@ -31,7 +31,7 @@ Bilateral renal agenesis
 - Lifestyle
 
 ### Complications
-- Pulmonary hypoplasia
+- [[Pulmonary hypoplasia]]
 - Facial features (flattened)
 - Limb abnormalities
 - Incompatible with life

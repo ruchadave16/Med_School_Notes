@@ -27,7 +27,7 @@
 		- Dry or productive? 
 		- Mucoid – translucent, white, gray (viral + cystic fibrosis)
 		- Purulent – yellow/green (bacterial pneumonia)
-		- Foul-smelling – anaerobic lung abscess
+		- Foul-smelling – anaerobic [[lung abscess]]
 		- Thick, tenacious – [[cystic fibrosis]]
 		- Large amounts of purulent – bronchiectasis
 		

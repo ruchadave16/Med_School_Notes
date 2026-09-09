@@ -8,9 +8,15 @@ tags:
 ---
 ### Definition
 *High secretion of [[Vasopressin|ADH]] from either [[posterior pituitary]] or an autonomous site*
-
 ### Etiology
-- Hyponatremia
+- Postoperative / recent surgery or procedure
+- [[Selective Serotonin Reuptake Inhibitors|SSRIs]]
+- [[Carbamazepine]], [[Oxcarbazepine|oxcarbazepine]], [[valproate]]
+- [[Antipsychotics]]
+- [[cyclophosphamide]], [[Ifosfamide]], [[vincristine]]
+- [[Opioids|opioid]], [[NSAIDS]]
+- [[Thiazide Diuretics]]
+- [[Ecstasy]], [[oxytocin]], [[nicotine]], [[chlorpropamide]]
 
 ### Pathophysiology
 - Mechanism of disease
@@ -31,6 +37,8 @@ tags:
 ### Treatment
 - Pharmacologic
 	- ADH antagonist like [[demeclocycline]]
+	- Stop drug causing it 
+	- IV fluids
 - Surgical
 - Lifestyle
 	- Water restriction

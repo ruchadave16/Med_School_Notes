@@ -27,6 +27,7 @@ tags:
 - Burn wound infections **
 - Malignant otitis externa 
 - Ecthyma gangrenosum
+- Can cause UTIs
 #### Diagnosis
 #### Treatment
 - [[Ciprofloxacin]] (oral or IV) -- 3rd gen 

@@ -7,7 +7,12 @@ source: FoM I
 Compliance = change in volume / pressure 
 → Difference between expiration and inspiration = **Hysteresis**
 
-![[Pasted image 20250818180544.png]]
+![[Screenshot 2026-07-31 at 11.30.50 PM.png]]
+
+**Equilibrium: ** (FRC) = functional residual capacity
+- Expanding force on chest = collapsing force
+
+![[Screenshot 2026-07-31 at 11.32.04 PM.png]]
 
 - Low compliance = stiff lung
 - High compliance = pliable lung

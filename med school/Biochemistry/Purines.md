@@ -33,7 +33,7 @@ Breakdown product
 	- Inhibition: AMP, GMP
 	
 2) Nucleobase synthesis on PRPP
-	- Formyltransferases inhibited by methotrexate and other folates
+	- Formyltransferases inhibited by [[methotrexate]] and other folates
 	- These can reduce purine synthesis and slow replication
 
 3) Intermediate = IMP (can make AMP and GMP)

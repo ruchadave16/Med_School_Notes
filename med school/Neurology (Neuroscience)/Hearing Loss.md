@@ -9,7 +9,7 @@ source: Neuro
 #### Tinnitus
 - Sound perceived in the absence of stimulus
 - Causes can include:
-	- Ontological conditions (e.g., cerumen impaction, otosclerosis, otitis media),
+	- Ontological conditions (e.g., cerumen impaction, otosclerosis, [[otitis media]]),
 	- Sensorineural conditions (e.g., presbycusis, Meniere's disease),
 	- Medications (e.g., NSAIDs, tetracyclines, quinine),
 	- Metabolic disorders (e.g., hyperthyroidism, zinc deficiency),

@@ -16,15 +16,22 @@ T cells express [[T Cell Receptors|T cell receptors]] here
 	- [[Thymus]] medulla
 	- Excessive binding = apoptosis
 
-![[Screenshot 2026-01-25 at 12.34.13 AM.png]]
 #### Composition
 - Stroma: [[Reticular cells]] of epithelial origin **
 - Parenchyma: [[mesenchyme]] connective tissue origin
 	- Capsule + septae
 	- Cortex next to capsule where [[T Lymphocytes|T cell]] + selection
 	- Medulla with [[Hassall’s Corpuscles]] deep to cortex where [[T Lymphocytes|T cell]] - selection
+		- Release cytokines
 - Blood-thymic barrier in cortex
 - NO afferent lymphatics
 - NO filtration of blood or lymph
 
-![[Drawing 2025-11-08 14.02.19.excalidraw]]
+![[Screenshot 2026-07-23 at 6.19.47 PM.png]]
+
+#### Non-Neoplastic Conditions
+- [[DiGeorge Syndrome]] (aplasia)
+- Hyperplasia: [[Myasthenia Gravis]], other autoimmune conditions
+- Cysts: 
+#### Neoplastic Conditions
+- Carcinoma or lymphoma

@@ -25,7 +25,7 @@ tags:
 - Common papilloma -- warts (1-4)
 	- Non-painful
 - Condyloma acuminata (6, 11)
-- Cervix carcinoma -- squamous cell carcinoma
+- Cervix carcinoma -- squamous cell cervical carcinoma
 	- Can cause oropharyngeal lesions
 #### Diagnosis
 - Koilocyte detection -- squamous epithelial cells (keratinocytes)

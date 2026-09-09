@@ -13,7 +13,7 @@ tags:
 #### Mechanism
 #### Symptoms
 - UTIs
-- Pneumonia in immunocompronized
+- [[Pneumonia]] in immunocompronized
 - Intraabdominal infections
 #### Diagnosis
 #### Treatment

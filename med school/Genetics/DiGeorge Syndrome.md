@@ -20,12 +20,13 @@ tags:
 *CATCH 22*
 - Symptoms
 	- Neonatal hypocalcemia
+	- Facial abnormalities
 	- Congenital heart septal defects
-	- Defective thymus development
+	- Defective [[thymus]] development
+	- ↓ parathyroid development
 - Signs
 - Variants
 
-![[Pasted image 20251209212400.png]]
 
 ### Diagnosis
 - Labs

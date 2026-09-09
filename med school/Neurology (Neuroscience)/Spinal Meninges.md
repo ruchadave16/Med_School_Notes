@@ -23,7 +23,7 @@ aliases:
 	- **Denticulate ligaments** - lateral extensions between dorsal and ventral nerve roots, anchor pia laterally to dura mater
 	- **Filum terminale** - inferior extension of pia, anchor spinal cord to coccyx, inside cauda equina
 
-![[Pasted image 20250801230458.png]]
+![[Screenshot 2026-09-09 at 12.12.50 AM.png]]
 
 #### Spaces
 - Epidural space: Between bone and [[dura mater]]

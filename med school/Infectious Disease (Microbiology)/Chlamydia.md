@@ -20,11 +20,19 @@ tags:
 		- Pelvic inflammatory disease, ectopic pregnancy, neonatal conjunctivitis
 	- L1-3
 		- Lymphogranuloma venereum
-- Chlamydophila pneumoniae -- atypical pneumonia
+- Chlamydophila pneumoniae -- [[atypical pneumonia]]
+	- [[Laryngitis]], [[pharyngitis]], [[bronchitis]]
+	- Worsening asthma, encephalitis, or myocarditis
 - Chlamydophila psittaci -- psittacosis
+	- From birds
+	- Abrupt fever, headache, dry cough
+	- Hepatitis, renal failure, endocarditis
+	- Multilobar involvement
+	- [[Doxycycline]]
 #### Symptoms
 
 #### Diagnosis
+- PCR for pneumoniae
 #### Treatment
-- Doxycycline or azithromycin
+- [[Doxycycline]] or [[azithromycin]]
 #### Prevention

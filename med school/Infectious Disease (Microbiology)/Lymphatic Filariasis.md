@@ -1,6 +1,7 @@
 ---
 aliases:
   - lymphatic filariasis
+  - Elephantiasis
 date: 7-8-26
 source: Heme/Onc
 tags:

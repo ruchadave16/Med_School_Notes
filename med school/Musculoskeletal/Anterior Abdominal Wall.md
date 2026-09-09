@@ -31,7 +31,7 @@ source: MGA
 ##### Internal Features
 
 >[!Info] Skin → Camper’s Fascia → Scarpa’s Fascia → Investing fascia → External oblique m. → Investing Fascia → Internal oblique m. → Investing fascia → Transversus abdominis m. → Transversalis fascia (encases abdominal cavity) → Extraperitoneal fat → Parietal [[peritoneum]]
-![[Pasted image 20250904222357.png]]
+
 
 1) [[Lateral abdominal muscles]]
 2) Anterior abdominal muscles

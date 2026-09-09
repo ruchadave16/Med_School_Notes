@@ -49,7 +49,7 @@ tags:
 ### Treatment
 - 100% $O_2$ (hyperbaric oxygen) to displace CO from blood
 	- **Start IMMEDIATELY if suspicion**
-
+	
 ### Prevention
 - CO detectors
 

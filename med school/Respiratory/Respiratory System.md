@@ -30,7 +30,6 @@ source: FoM I
 
 ##### Embryology
 
-![[Screenshot 2025-08-23 at 4.44.52 PM.png]]
 
 >[!Warning] Respiratory failure is leading cause of perinatal mortality
 

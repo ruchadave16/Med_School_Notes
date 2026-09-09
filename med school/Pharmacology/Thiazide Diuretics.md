@@ -20,7 +20,7 @@ tags:
 - Chlorthalidone preferred because longer half life
 
 #### Adverse Effects
-- [[Hypokalemia]], hyponatremia
+- [[Hypokalemia]], [[hyponatremia]]
 - [[Hyperuricemia]] -> [[gout]]
 - [[Hyperglycemia]], [[hyperlipidemia]]
 - Rare [[Stevens Johnson Syndrome]]

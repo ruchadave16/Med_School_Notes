@@ -6,8 +6,8 @@ source: CV
 ---
 *Circulating [[Antibodies|antibodies]].that react with [[Neutrophils|neutrophil]] cytoplasmic antigens (ANCAs)*
 ### ANCAS
-- Anti-proteinase 3 (PR3-ANCA) -- granulomatosis with polyangiitis
-- Antimyeloperoxidase (MPO-ANCA) -- microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis
+- Anti-proteinase 3 (PR3-ANCA) -- [[granulomatosis with polyangiitis]]
+- Antimyeloperoxidase (MPO-ANCA) -- [[microscopic polyangiitis]] and [[eosinophilic granulomatosis with polyangiitis]]
 
 **Mechanism**
 - Directly activates [[neutrophils]] to release [[ROS]] -> endothelial cell injury

@@ -50,7 +50,6 @@ source: MGA
 	- Right has 10 segments, left has 8
 
 INFERIOR LIMIT: MCL – rib 6, MAL – rib 8, scapular line – rib 10
-
 #### Blood Supply
 Pulmonary Vessels (oxygen exchange)
 Bronchial Vessels (support lung tissue) – left from thoracic aorta, right from aorta + intercostal arteries

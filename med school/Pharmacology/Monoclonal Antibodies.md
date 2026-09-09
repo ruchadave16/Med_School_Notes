@@ -10,7 +10,7 @@ source: FoM II
 **Structure**
 - Fab fragments – antibody-binding region
 - Full length antibodies – intact immunoglobulins
-- Modified antibodies
+- Modified antibodies that only recognize one antigen
 
 **Mechanism**
 - Block signaling pathways
@@ -22,7 +22,6 @@ Hybridoma Based
 - B cells fused with myaloma cells to make hybridoma
 	- Grown in test tube
 	- Non-fused cells destroyed using antitumor drugs
-
 #### Types
 - Murine (-omab)
 	- Mouse sequence derived
@@ -35,6 +34,5 @@ Hybridoma Based
 	- Transgenic mice / phage display
 	- Long half life
 	- Must be given parentally (degrade in GI)
-	- 
 
 ![[Screenshot 2025-12-13 at 11.37.07 PM.png]]

@@ -26,6 +26,7 @@ Rest due to proteins
 
 #### Interstitial vs Plasma
 - Because capillaries let crystalloids pass, effective pressure = oncotic pressure between plasma and interstitial fluid
+	- **Plasma osmotic force based on [[albumin]]**
 - Generally ↑ movement from ISF → PV (countered by hydrostatic pressure in [[Transcapillary Fluid Exchange|vessels]])
 
 #### Extracellular vs Intercellular

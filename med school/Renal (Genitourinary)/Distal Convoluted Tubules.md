@@ -17,3 +17,9 @@ Low cuboid cells with NO brush border
 - Sense ↓ salt and osmolarity and cause juxtaglomerular cells to release [[renin]] etc.
 
 ![[Pasted image 20250913170111.png]]
+
+#### Transport
+- Impermeable to water; NaCl transported by Na+ - Cl- co-transporter
+	- Blocked by [[Thiazide Diuretics|thiazide diuretics]]
+
+![[Screenshot 2026-08-23 at 11.45.14 PM.png]]

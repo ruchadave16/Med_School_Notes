@@ -17,7 +17,7 @@ Measles (rubeola)
 	- Confluent so spots blend together
 	- Itchy
 
-**Pneumonia** = #1 cause of death related to measles
+**[[Pneumonia]]** = #1 cause of death related to measles
 
 Rare Consequences
 - [[SSPE]]

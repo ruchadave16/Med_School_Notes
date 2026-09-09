@@ -32,5 +32,5 @@ Linear dose response curve, high dose causes quick death
 #### Contraindication
 
 >[!Warning] Barbiturate Intoxication
->- Supportive care – ensure ventilation
+>- Supportive care – ensure [[mechanical ventilation]]
 >- No specific antidote

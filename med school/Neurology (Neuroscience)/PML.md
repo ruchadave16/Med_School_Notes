@@ -12,8 +12,8 @@ tags:
 - Onset after immunosuppression
 	- [[Leukemia]] or [[lymphoma]]
 	- [[HIV]]
-	- Natalizumab
-	- Rituximab
+	- [[Natalizumab]]
+	- [[Rituximab]]
 	- All others.
 
 ### Pathophysiology

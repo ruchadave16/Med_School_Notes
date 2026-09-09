@@ -11,7 +11,7 @@ tags:
 - Secondary
 	- [[Myocardial Infarction|MI]] -> [[Dressler's Syndrome]]
 	- Radiation to mediastinum
-	- [[Acute Bacterial Pneumonia|pneumonia]] or [[pleuritis]]
+	- [[Pneumonia]] or [[pleuritis]]
 	- Metastasis
 	- [[Uremia]]
 

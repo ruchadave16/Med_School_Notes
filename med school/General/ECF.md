@@ -7,11 +7,12 @@ aliases:
 20% body weight
 Measured using [[inulin]] or radiolabeled sulfate
 
-1) [[Interstitial Fluid]]
+1) [[Interstitial Fluid]] (ISF)
 2) [[Plasma Volume]]
 
 #### ECF Volume
 Highly linked to $Na^+$
+- Controlled by changing amount of water, not Na+
 
 Na gain → ↑ Posm (pressure for water to leave cells) *Hypertonic Expansion*
 - H2O from ICF to ECF

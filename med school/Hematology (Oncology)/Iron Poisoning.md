@@ -8,7 +8,7 @@ tags:
 ---
 ### Etiology
 - Accidental ingestion of a parent’s iron tablets by small children
-- high mortality rate
+- High mortality rate
 
 ### Pathophysiology
 - Mechanism of disease

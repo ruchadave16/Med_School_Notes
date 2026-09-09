@@ -31,6 +31,6 @@ source: Neuro
 - [[Alprostadil]] -- PGE1 analog
 	- [[Patent ductus arteriosus]] (PDA) in neonates with congenital heart defects
 - [[Epoprostenol]] -- [[PGI2]]
-	- [[Pulmonary arterial hypertension]]
+	- [[Pulmonary Arterial Hypertension]]
 - [[Latanoprost]] -- [[PGF2a]]
 	- First line for [[open angle glaucoma]]

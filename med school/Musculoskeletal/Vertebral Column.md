@@ -8,12 +8,12 @@ aliases:
   - spine
   - Spine
 ---
-33 [[vertebra]] across 5 regions (7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 4 fused coccygeal)
+33 [[Vertebrae|vertebra]] across 5 regions (7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 4 fused coccygeal)
 
 Information on [[Vertebral Joints]] 
 Information on [[Vertebral Ligaments]]
 
-![[Screenshot 2025-08-01 at 6.08.06 PM.png]]
+![[Screenshot 2026-09-08 at 11.53.57 PM.png]]
 
 **Primary curvature**: present at birth → thoracic and sacral
 **Secondary curvature**: postnatally → cervical and lumbar

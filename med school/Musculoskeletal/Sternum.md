@@ -31,4 +31,4 @@ source: MGA
 >Guide for CPR hand positioning
 >To access [[pericardial]] space, needle passed just inferior to xiphoid
 
-![[Screenshot 2025-08-05 at 12.09.40 AM.png]]
+![[Screenshot 2026-09-08 at 11.58.02 PM.png]]

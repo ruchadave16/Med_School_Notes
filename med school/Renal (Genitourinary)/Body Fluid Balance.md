@@ -19,7 +19,7 @@ Total Body Water (TBW) = 60% body weight
 
 Blood Volume = PV + ICF (blood cells) = 8% body weight
 
-![[Pasted image 20250915005007.png]]
+![[Screenshot 2026-08-30 at 1.15.52 PM.png]]
 
 - Plasma (High Na, Cl, HCO3) (Low K) (moderate protein)
 - ISF – 1/8 protein, same as plasma otherwise
@@ -31,7 +31,7 @@ Blood Volume = PV + ICF (blood cells) = 8% body weight
 	- Freely permeable by cells
 	- 2 hrs mixing time
 - [[ECF]] – No ideal substance (either overestimate by entering cells or don’t distribute and underestimate)
-	- Best = inulin, radiolabeled sulfate
+	- Best = [[inulin]], radiolabeled sulfate
 	- 30 min mixing time
 - ICF – (TBW - ECF = ICF)
 - PV – Labeled [[albumin]] or Evans Blue dye (binds to plasma proteins)
@@ -46,7 +46,7 @@ Intake
 
 Output
 - 2600 mL/day
-- Insensible water loss (skin + lungs) – solute-free leakage through skin or exhaled with air
-- Sweat – glandular secretion
-- Feces – Small amount of water loss
+- Insensible water loss (skin + lungs) – solute-free leakage through skin or exhaled with air (900 mL / day)
+- Sweat – glandular secretion (100 mL but can go up to 5 L)
+- Feces – Small amount of water loss (100 mL but can go up to 5 L)
 - Urine – abt 1500 mL/day with water and solute adjustment

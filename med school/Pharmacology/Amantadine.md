@@ -13,7 +13,7 @@ tags:
 	- Stops H+ influx which inhibits transport of HA and uncoating
 - ↑ [[dopamine]] release and ↓ reuptake
 #### Uses
-- [[Influenza Virus|Influenza]] A
+- [[Influenza Virus|Influenza]] A (RARELY)
 - Parkinsonism
 #### Administration
 - Must take within 48 hours of infection

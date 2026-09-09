@@ -34,7 +34,7 @@ tags:
 - Growth delay (in children)
 
 ### Diagnosis
-- Dexamethasone suppression test to differentiate between Cushing Syndrome and Cushing Disease
+- [[Dexamethasone]] suppression test to differentiate between Cushing Syndrome and Cushing Disease
 - Imaging
 - Criteria
 

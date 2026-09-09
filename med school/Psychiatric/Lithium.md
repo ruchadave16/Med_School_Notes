@@ -51,6 +51,7 @@ tags:
 	- Seizures 
 	- Coma
 	- Renal toxicity
+		- TREAT: [[amiloride]] to block entry into Na channel
 
 **WHAT can make it worse**
 - Dehydration

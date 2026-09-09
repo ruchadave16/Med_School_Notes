@@ -8,15 +8,20 @@ tags:
 ---
 #### Mechanism
 - Non-enveloped virus, respiratory droplet transmission
+- Icosahedral, linear dsDNA
 	- Iatrogenic for conjunctivitis
+- Proteins
+	- Hexon = antibody target
+	- Penton base = for internalization of virion
+	- Fiber protein Knob binds to receptor for tissue tropism
 - Tropism to cornea
 - Enteric through fecal-oral
 - Persistent production of virus without symptoms
 #### Symptoms
-- Febrile pharyngitis
-- Conjunctivitis
+- Febrile [[pharyngitis]]
+- [[Conjunctivitis]]
 - Gastroenteritis
-- Pneumonia
+- [[Pneumonia]]
 
 Common presentation = pink eye, pharyngoconjunctival fever
 - Keratoconjunctivitis
@@ -24,3 +29,4 @@ Common presentation = pink eye, pharyngoconjunctival fever
 - PCR for viral DNA
 #### Treatment
 #### Prevention
+- Live vaccine against types 3, 4, and 7 is used in the military to prevent pneumonia

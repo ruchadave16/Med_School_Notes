@@ -35,5 +35,5 @@ source: MGA
 >[!Clinical] [[Pulmonary Hypoplasia]] – small, underdeveloped [[lungs]]
 >Comes after:
 >- Compression by abnormal positions of abdominal viscera
->- [[Pleural Effusions]]
+>- [[Pleural effusions]]
 >- Severe oligohydramnios

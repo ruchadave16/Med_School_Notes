@@ -6,7 +6,7 @@ aliases:
   - Thoracic Wall
 ---
 #### Boundaries
-##### Superior Thoracic Apeture
+##### Superior Thoracic Aperture
 *Called **Thoracic Outlet***
 T1 vertebra posteriorly
 Medial border of 1st rib and costal cartilage
@@ -22,17 +22,16 @@ Superior border of manubrium anteriorly
 >Neurovasculation compression, specifically C8 and T1 spinal nerves, [[Subclavian Artery|subclavian a.]] and v. 
 >→ Causes: cervical rib, Pancoast tumor, hypertropy of scalene muscles
 >→ Symptoms: medial forearm and hand numbness (compression of nerves), swelling of arm (compression of subclavian vessels), [[Horner’s syndrome]] (compression of sympathetic trunk)
->
 
-##### Inferior Thoracic Apeture
+
+![[Screenshot 2026-09-08 at 11.58.57 PM.png]]
+##### Inferior Thoracic Aperture
 Closed by [[diaphragm]]
 T12 vertebra and 11th and 12th pair of rib posteriorly
 Costal margin anterolaterally
 Xiphoid process anteriorly
 #### External Features
-
-
-![[Screenshot 2025-07-30 at 6.02.04 PM.png]]
+![[Screenshot 2026-09-08 at 11.59.16 PM.png]]
 
 Superficial fascia
 - [[Adipose]] tissue
@@ -55,6 +54,8 @@ Deep fascia
 - Subcostal, Serratus posterior superior and inferior, levator costarum found on posterior thoracic wall
 
 *Endothoracic Fascia = internal lining of thoracic wall*
+
+![[Screenshot 2026-09-09 at 12.12.00 AM.png]]
 ##### Joints of Thoracic Cage
 - Costovertebral Joint: Head of [[Ribs|rib]] and vertebral body
 	- Ribs 2-10 articulate with body of same level or one above (Rib 7 with T7 and T6)
@@ -64,7 +65,8 @@ Deep fascia
 	- Rib 1 → manubrium
 	- Rib 2 → sternal angle
 	- Rib 2-7 → sternal body
-
+	
+![[Screenshot 2026-09-08 at 11.57.29 PM.png]]
 #### Innervation
 Neurovascular bundle run in intercostal space inferior to [[Ribs|rib]] and within costal groove
 → Intercostal n.

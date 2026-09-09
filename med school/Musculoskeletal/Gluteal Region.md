@@ -25,9 +25,7 @@ source: MGA
 	- , DA = greater trochanter
 - Tensor fascia latae (TFL) – Ilium posterior to ASIS through IT band to Gerdy’s tubercle
 
-![[Drawing 2025-10-05 23.59.37.excalidraw]]
-
-
+![[Pasted image 20260908235000.png]]
 
 **Deep**
 - Piriformis 
@@ -39,7 +37,7 @@ source: MGA
 - Obturator externus 
 - Quadratus femoris
 
-![[Screenshot 2025-10-02 at 9.10.55 PM.png]]
+![[Pasted image 20260908235024.png]]
 
 ![[Drawing 2025-10-06 00.01.20.excalidraw]]
 #### Additional Structures

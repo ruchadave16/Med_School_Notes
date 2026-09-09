@@ -8,7 +8,7 @@ tags:
 ---
 ### Etiology
 - Follows infection
-	- Atypical pneumonia due to [[Mycoplasma Pneumoniae|mycoplasma pneumoniae]]
+	- [[Atypical pneumonia]] due to [[Mycoplasma Pneumoniae|mycoplasma pneumoniae]]
 
 ### Pathophysiology
 - Larger hemorrhages

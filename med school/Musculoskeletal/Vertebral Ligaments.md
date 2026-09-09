@@ -4,7 +4,8 @@ source: MGA
 aliases:
   - vertebral ligaments
 ---
-![[Screenshot 2025-08-01 at 10.40.10 PM.png]]
+
+![[Screenshot 2026-09-08 at 11.55.59 PM.png]]
 
 1) Anterior Longitudinal Ligament
 	- Limits extension of [[vertebral column]]

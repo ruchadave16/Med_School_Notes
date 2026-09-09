@@ -16,8 +16,8 @@ Genetic condition
 
 ### Clinical Features
 - Symptoms
-	- hyperphosphatemia
-	- hypocalcemia
+	- [[hyperphosphatemia]]
+	- [[hypocalcemia]]
 - Signs
 	- Short stature
 	- Short neck

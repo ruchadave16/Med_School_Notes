@@ -21,6 +21,9 @@ tags:
 #### Mechanism
 - Aflatoxins produced -> carcinogenic
 - Form conidiospores with fruiting bodies
+	- Cleared by alveolar macrophages
+	- If immune failure, these germinate and invade lung tissue
+- Thrombosis and tissue necrosis
 #### Symptoms
 - High risk of hepatocellular carcinoma
 - Allergic bronchopulmonary aspergillosis (ABPA) -- [[Type I Hypersensitivity]]
@@ -34,8 +37,11 @@ tags:
 - Acute angle branching with septae
 
 ![[Screenshot 2026-03-04 at 9.52.28 PM.png]]
+
+- Chest CT: cavitary lesions with halo signs
+- Elevated galactomannan in sputum
 #### Treatment
-- Voriconazole
+- [[Voriconazole]]
 - 2nd line = echinocandins
 - [[Amphotericin B]] for angioinvasive
 #### Prevention

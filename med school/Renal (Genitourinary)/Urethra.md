@@ -6,6 +6,11 @@ source: FoM I
 ---
 Proximal epithelium – [[urothelium]]
 - Changes to pseudostratified columnar → stratified squamous at external orifice
+- Apical membrane plaque: [[uroplakins]] (transcellular permeability barrier)
+
+![[Screenshot 2026-09-01 at 9.53.49 PM.png]]
+
+![[Screenshot 2026-09-01 at 9.54.03 PM.png]]
 #### Male Urethra
 **Histology**
 - Longer

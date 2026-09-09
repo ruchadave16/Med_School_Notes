@@ -22,8 +22,7 @@ Failure of [[Vertebrae|vertebra]] arch fusion to spinous process due to failure 
 	- Skin normal, 
 	- 10% of population
 	- Neurological symptoms *absent*
-	
-![[Screenshot 2025-08-11 at 4.47.18 PM.png]]
+	![[Screenshot 2026-09-09 at 12.04.23 AM.png]]
 
 - Spina Bifida Cystica
 	- Protrusion of [[Spinal Meninges|spinal meninges]] and/or [[Spinal Cord|spinal cord]] through vertebra defect
@@ -36,9 +35,9 @@ Failure of [[Vertebrae|vertebra]] arch fusion to spinous process due to failure 
 		- Muscles are not innervated
 	- 1/1000 live births
 	
-![[Screenshot 2025-08-11 at 4.50.10 PM.png]]
+	![[Screenshot 2026-09-09 at 12.04.05 AM.png]]
 
-##### Diagnosis
+#### Diagnosis
 - Labs
 - Imaging
 
@@ -46,13 +45,13 @@ Failure of [[Vertebrae|vertebra]] arch fusion to spinous process due to failure 
 
 - Criteria
 
-##### Treatment
+#### Treatment
 - World’s first stem cell treatment during fetal surgery → https://www.youtube.com/playlist?list=PLM7qvIv8N9RujcadnvnHfCsweKQNFQuEM
 
-##### Complications
+#### Complications
 - Short-term
 - Long-term
 
-##### High-Yield Associations
+#### High-Yield Associations
 - Classic buzzwords
 - Boards clues

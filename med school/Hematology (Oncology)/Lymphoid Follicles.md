@@ -13,9 +13,10 @@ Found in cortex of [[lymph nodes]]
 	- Very important reserve in [[HIV]]
 #### Primary Follicles
 - Inactive
+- Mature but naive B cells
 - Have follicular dendritic cells and [[B Lymphocytes|B cells]]
-
 #### Secondary Follicles
 - “Germinal center”
 - B cell growth and differentiation
+	- Already encountered antigen (plasma cells)
 - Helper T cells nearby can bind and grow

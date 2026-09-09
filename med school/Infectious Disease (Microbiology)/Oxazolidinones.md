@@ -8,7 +8,7 @@ tags:
 ---
 *Linezolid and Tedizolid*
 #### Action
-- Binds to 23S rRNA of 50S
+- Binds to 23S rRNA of **50S**
 - Inhibition of initiation of bacterial protein synthesis
 #### Uses
 - [[Gram positive]] 

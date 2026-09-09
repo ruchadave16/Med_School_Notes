@@ -10,6 +10,8 @@ source: Heme/Onc
 #### Chronic Nonspecific Lymphadenitis
 - Chronic immunologic stimuli
 - Follicular hyperplasia = autoimmune with uneven size and shape and [[Macrophage|macrophages]] in center
+	- ↑ # follicles, generally of different sizes
+	- **BCL-2 negative**
 - Paracortical hyperplasia = cell-mediated with T cell response (viral)
 - Sinus histiocytosis = ↑ # and size of endothelial cells lining sinusoids from cancer
 

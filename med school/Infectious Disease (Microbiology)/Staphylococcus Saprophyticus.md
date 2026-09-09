@@ -15,9 +15,11 @@ tags:
 - Coagulase negative
 - [[Urease Test]] positive
 - Grows on [[blood agar]] with NO hemolysis
+- UafA -- adhesin with hemagglutinating activity that adheres to bladder urothelial cells
 #### Mechanism
 #### Symptoms
-- "Honeymoon cystitis" in young sexually active women (UTI)
+- "Honeymoon cystitis" in young sexually active women ([[UTIs]])
+	- 2nd most common cause of acute uncomplicated cystitis in young females
 #### Diagnosis
 #### Treatment
 - [[Bacitrim]], [[nitrofurantoin]], [[levofloxacin]]

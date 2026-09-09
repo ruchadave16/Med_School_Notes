@@ -49,6 +49,11 @@ Choristoma – Misplaced cells to wrong location (normal appearing)
 **Nuclear Features**
 - Malignant tumors have enlarged nucleus with irregular shapes (> nuclear:cytoplasmic ratio)
 ![[Screenshot 2026-07-21 at 12.31.00 PM.png]]
+
+**Mitosis** -- higher grade and malignant lesions tend to have abundant mitotic figures
+
+**Necrosis** -- outpace their nutrient intake and blood supply, and thus large regions of the tumor may begin to infarct
+
 #### Clinical Manifestation
 - Impingement on nearby structures
 - Death of involved tissue

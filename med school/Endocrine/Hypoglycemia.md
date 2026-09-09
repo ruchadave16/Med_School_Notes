@@ -26,6 +26,7 @@ tags:
 
 ### Treatment
 - Glucose replacement therapy
+	- THIAMINE first
 
 ### Complications
 - Short-term

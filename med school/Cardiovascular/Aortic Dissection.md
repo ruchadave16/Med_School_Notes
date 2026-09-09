@@ -53,7 +53,7 @@ tags:
 	- Key finding: intimal flap with true and false lumens
 - X-ray:
 	- widened mediastinum
-	- pleural effusion
+	- [[pleural effusion]]
 - TEE
 - MRA
 	- Contraindicated in unstable and can take time

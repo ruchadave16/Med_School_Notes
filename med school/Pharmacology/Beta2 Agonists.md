@@ -6,16 +6,16 @@ source: FoM II
 tags:
   - drug
 ---
-**Short Acting**
-- Fast onset, only 3-4 hr impact
-- “Rescue therapy”
+**Short Acting** (SABAS)
+- Fast onset, only 3-4 hr impact -> bronchodilation
+- “Rescue therapy” (per need)
 - For asthma / COPD
-- [[Albuterol]] (salbutamol)
+- [[Albuterol]]
 - [[Levalbuterol]]
 - [[Metaproterenol]]
 - [[Terbutaline]]
 
-**Long Acting**
+**Long Acting** (LABAS)
 - > 12 hour duration, more liposoluble
 - Used for daily maintenance therapy
 - [[Salmeterol]]: 15-20 min onset, >12 hr duration

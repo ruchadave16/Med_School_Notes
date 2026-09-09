@@ -16,7 +16,12 @@ source: FoM I
 - Opposite of [[Vasopressin|vasopressin]] and [[Renin-Angiotensin-Aldosterone System|renin-angiotensin-aldosterone system]]
 - They **DECREASE** BP
 	- Increasing secretion of water and salt 
+		- ↓ renin
+		- ↓ aldosterone
+		- ↓ ADH
+		- ↑ Na+ resabsorption
 	- Dilating blood vessels in [[kidneys]]
-- Independent anti-hypertrophic effect on cardiac remodeling
+		- ↑ GFR
+- Independent anti-hypertrophic effect on cardiac remodeling (vasodilation)
 
 ![[Screenshot 2026-05-04 at 9.28.50 PM.png]]

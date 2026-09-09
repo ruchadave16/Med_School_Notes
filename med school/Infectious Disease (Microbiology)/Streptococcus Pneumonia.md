@@ -26,8 +26,8 @@ tags:
 - IgA protease
 #### Symptoms
 - Community acquired pneumonia
-- Sinusitis
-- Otitis media
+- [[Sinusitis]]
+- [[Otitis media]]
 - [[Meningitis]]
 #### Diagnosis
 #### Treatment

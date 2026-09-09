@@ -23,11 +23,11 @@ Superficial ([[Scapula]] and arm movement)
 - [[Rhomboid]] major and minor
 - Latissimus dorsi
 
+![[Screenshot 2026-09-09 at 12.00.24 AM.png]]
+ 
  Intermediate (Respiration)
  - Serratus superior posterior
  - Serratus inferior posterior
-
-![[Screenshot 2025-08-05 at 10.32.48 PM.png]]
 
 - Triangle of Auscultation
 	- Upper boarder of latissimus dorsi, lateral border of [[trapezius]], medial border of [[scapula]]
@@ -36,7 +36,8 @@ Superficial ([[Scapula]] and arm movement)
 
 - Inferior Lumbar Triangle
 	- Latissimus dorsi medially, external oblique laterally, and iliac crest inferiorly
-
+	
+![[Screenshot 2026-09-09 at 12.00.02 AM.png]]
 >[!Clinical] Site of herniation in [[posterior abdominal wall]] called [[Petit’s hernia]]
 #### Intrinsic Muscles (Paraspinals)
 - Pelvis to cranium
@@ -69,7 +70,7 @@ Superficial ([[Scapula]] and arm movement)
 - **Rotatores** 1-2 vertebra
 - Action: Rotation and some extension of [[Vertebral Column|vertebral column]]
 
-![[Screenshot 2025-08-05 at 10.38.56 PM.png]]
+![[Screenshot 2026-09-09 at 12.01.02 AM.png]]
 
 >[!Info]
 >[[Back Pain]] Diagnosis and Treatment guideline [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC4926733/) from 2016

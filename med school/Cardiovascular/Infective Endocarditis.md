@@ -39,7 +39,7 @@ tags:
 ### Clinical Features
 - Fever
 - Petechiae
-- Splenomegaly in subacute
+- [[Splenomegaly]] in subacute
 - Murmur in 90% (new **regurg**)
 
 **Embolism**

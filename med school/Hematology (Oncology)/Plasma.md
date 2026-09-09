@@ -8,6 +8,7 @@ source: FoM I
 NOTE: [[serum]] = fluid after coagulation has occurred
 #### Components
 - 90% water
+- high Na+, Cl –, HCO – - low K+ – moderate protein
 - [[Albumin]]: made by [[liver]], regulates [[Osmosis|osmotic pressure]]
 - [[Globulins]]: $\gamma$-globulin = antibodies, $\alpha$ and $\beta$ carriers
 - [[Fibrinogen]]: involved with clotting

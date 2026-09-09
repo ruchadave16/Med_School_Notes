@@ -11,6 +11,9 @@ tags:
 - Mucoid, lactose fermenting pink colonies on [[MacConkey's Agar]]
 - Oxidase negative
 - Indole negative
+- Urease positive
+	- Type 1 fimbriae attach to urinary tract epithelium
+	- Type 3 fimbriae bind to ECM and form biofilm 
 - String test positive
 - **Opportunistic pathogen**
 

@@ -8,6 +8,7 @@ aliases:
   - Group A Streptococcus
   - group A streptococcus
   - group A strep
+  - GAS
 date: 2-17-26
 source: ID
 tags:
@@ -27,10 +28,10 @@ tags:
 - DNase
 #### Symptoms
 - Common
-	- Impetigo
-	- Erysipelas
-	- Cellulitis
-	- Acute pharyngitis
+	- [[Impetigo]]
+	- [[Erysipelas]]
+	- [[Cellulitis]]
+	- Acute [[pharyngitis]]
 - [[Scarlet Fever]]
 #### Complications
 - Acute supperative, peritonsillar abscess

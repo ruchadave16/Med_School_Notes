@@ -11,21 +11,24 @@ tags:
 - Missisippi and Ohio River Valleys
 - Transmission through inhalation
 #### Mechanism
-- Dimorphic ("mold in cold, yeast in heat")
-- Inhaled, convert to yeast in alveoli, phagocytosed into macrophages
+- **Dimorphic ("mold in cold, yeast in heat")**
+- Inhaled, convert to yeast in alveoli, phagocytosed into [[Macrophage|macrophages]]
 - Macrophages are activated making granulomas
 - Yeasts are latent in granulomas
+- Disseminate to reticuloendothelial system
 
 *Reactivation*
 - Immunosuppression
 - Loss of T cells
 #### Symptoms
 - Histoplasmosis
+	- Flu like illness, cough, fever, chest pain, headache, hilar lymphadenopathy, and patchy infiltration in lungs
 - Asymptomatic
 	- [[Granuloma]] formation, can cause pneumonia
 - Chronic condition
 	- Calcifications
 	- Resembles [[Tuberculosis|TB]]
+	- Commonly if comorbid [[COPD]]
 - Erythema nodosum 
 
 Immunocompromised
@@ -35,6 +38,8 @@ Immunocompromised
 - [[Macrophage|Macrophages]] filled with Histoplasma
 - Urine / serum antigen test
 #### Treatment
+Most cases do not need
+
 - Local: -conazole
 - Systemic: [[amphotericin B]]
 #### Prevention

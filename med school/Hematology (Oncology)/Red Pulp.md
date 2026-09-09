@@ -14,4 +14,4 @@ Lined by vascular “sinusoids”
 - Splenic sinuses with [[RBCs]]
 - Splenic cords – separate sinuses with [[Reticular Fibers|reticular fiber]] (Type III [[collagen]])
 - Red pulp [[Macrophage|macrophages]]
-
+	- Remove red blood cell inclusions

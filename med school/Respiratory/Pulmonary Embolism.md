@@ -15,8 +15,11 @@ tags:
 [[Embolism]] that lodges in [[lungs]]
 
 - Majority originate from [[Deep Vein Thrombosis|DVT]] that travels to lungs
+	- Virchow's triad: abnormal flow of blood, endothelial injury, hypercoagulability
 - Rapid death due to ↓ oxygenation of blood
 - Most are clinically silent, generally do **not** cause pulmonary infarction because of dual blood supply
+	- 10% = tissue infarct
+- Lines of Zahn
 #### Saddle Embolus
 - Lodges at bifurcation of main pulmonary artery → right and l
 - Causes [[acute right heart failure]]
@@ -24,13 +27,18 @@ tags:
 - Travels an interatrial or interventricular defect, bypassing lungs to circulation
 - Commonly lodges in cerebral circulation
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
-
+- Dyspnea
+- Chest pain / cough
+- Resp. distress
+- Pulmonary hypertension
+- Right heart failure
 ### Diagnosis
 - [[ECG]]
 	- The most common finding is [[sinus tachycardia]]. The "classic" but rare S1Q3T3 pattern is a large S wave in I, a deep Q in III, and an inverted T in III.
+- CT Angiogram "intraluminal filling defect"
+	- ![[Screenshot 2026-08-03 at 9.40.28 PM.png]]
+- D dimers = sensitive but not specific
+
 ### Treatment
 - Massive PE
 	- [[Thrombolytics]]
