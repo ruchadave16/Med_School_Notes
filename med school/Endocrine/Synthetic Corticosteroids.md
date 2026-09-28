@@ -6,6 +6,8 @@ aliases:
   - Corticosteroids
   - corticosteroid
   - Corticosteroid
+  - steroids
+  - Steroids
 date: 12-13-25
 source: FoM II
 ---

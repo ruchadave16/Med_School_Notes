@@ -8,8 +8,8 @@ tags:
   - disease
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- Affects 1 in 7 US adults
+- Most commonly from [[diabetes]] or [[Hypertension|HTN]]
 
 ### Pathophysiology
 - Impaired [[erythropoietin]] production from underling [[diabetes mellitus]] -> hypoproliferative [[anemia]]
@@ -23,13 +23,13 @@ tags:
 - Labs
 - Imaging
 - Criteria
+- Kidneyfailurerisk.com -> 2 and 5 yr risk of dialysis
 
 ### Treatment
 - Recombinant EPO (Epoetin alfa, darbepoetin alfa)
 
 ### Complications
-- Short-term
-- Long-term
+- Progression to [[ESRD]]
 
 ### High-Yield Associations
 - Classic buzzwords

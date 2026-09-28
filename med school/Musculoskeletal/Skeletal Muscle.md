@@ -20,7 +20,7 @@ Surrounded by 3 layers of [[Skeletal Connective Tissue|connective tissue]]
 #### Energy System
 [[Excitation-Contraction Coupling]] converts potential to tension
 
-[[ATP]] reserves are only 5-6 seconds through [[phosphocreatine system]]
+[[ATP]] reserves are only 5-6 seconds through [[phosphocreatinine system]]
 #### Appearance 
 **Longitudinal**
 - Multi-nucleate cells, nuclei (N) at periphery

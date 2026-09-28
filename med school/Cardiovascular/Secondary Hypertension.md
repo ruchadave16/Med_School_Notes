@@ -7,7 +7,7 @@ source: CV
 #### Renal
 - [[Glomerulonephritis]]
 - [[Chronic kidney disease]]
-- [[Polycystic kidney disease]]
+- [[Autosomal Dominant Polycystic Kidney Disease|polycystic kidney disease]]
 - [[Renal artery stenosis]]
 	- Kidney sees this as sign of ↓ blood pressure and releases [[renin]], activating [[Renin-Angiotensin-Aldosterone System|RAAS system]]
 - [[Renal vasculitis]]

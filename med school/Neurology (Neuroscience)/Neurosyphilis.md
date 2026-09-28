@@ -14,7 +14,7 @@ source: Neuro
 	- Intellectual decline
 	- Seizures
 	- Loss of motor control
-	- Incontinence
+	- [[Urinary Incontinence|incontinence]]
 	- Eventual Death
 
 **Treatment: IV [[Penicillins|Penicillin]] for 10-14 days**

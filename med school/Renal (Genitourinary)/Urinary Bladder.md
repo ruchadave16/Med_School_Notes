@@ -7,18 +7,22 @@ date: 9-13-25
 source: FoM I
 ---
 Muscular sac lined with [[urothelium]]
-##### Boundaries
+
+#### Function
+- Storage: Ability to inhibit spontaneous contractions, sense fullness, sphincter competence
+- Expulsion: Sustained bladder contractions, relax sphincters, void to completion, competent UV junction
+#### Boundaries
 - Lesser pelvis, enters greater as it fills
-##### Contents
+#### Contents
 - Apex (towards pubic symphysis)
 - Body
 - Fundus (posterior wall)
 - Neck (inferior)
-##### External Features
+#### External Features
 - Median umbilical ligament – connects bladder to anterior abdominal wall
 	- Comes from fetal [[urachus]]
 - Ureter comes from posterior side into bladder – high pressure compresses these so urine doesn’t go back up to kidneys
-##### Internal Features
+#### Internal Features
 - THICK [[smooth muscle]] ([[Detrusor muscle]]) ← [[Autonomic Nervous System|autonomic]]
 	- Not organized in layers
 - Urinary trigone: smooth part between 2 ureter + urethra
@@ -28,11 +32,11 @@ Muscular sac lined with [[urothelium]]
 	- Contains [[Bulbourethral glands]]
 
 ![[Pasted image 20251108141335.png]]
-##### Blood Supply
+#### Blood Supply
 - Superior vesical aa. – anterosuperior bladder
 - Inferior vesical aa – inferoposterior in men
 - Vaginal aa – inferoposterior in women
-##### Innervation
+#### Innervation
 - Sympathetic
 	- [[Hypogastric plexus]] (L1-L3) – contraction of internal urethral sphincter, detrusor relax
 - Parasympathetic
@@ -44,6 +48,6 @@ Afferent:
 - Pelvic (bladder → sacral cord) – signals distention (desire to pee)
 - Hypogastric (bladder → lumbar cord) – signals extreme distention / pain
 - Pudendal (pudic) (external sphincter / urethra) – signals fluid flow
-##### Lymphatic Drainage
+#### Lymphatic Drainage
 
-##### Embryology
+#### Embryology

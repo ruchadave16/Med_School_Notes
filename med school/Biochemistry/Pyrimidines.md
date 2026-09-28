@@ -21,9 +21,8 @@ source: FoM II
 >- Blocks synthesis of thymidine triphosphate, no DNA can be made
 #### Synthesis
 
-![](http://127.0.0.1:50856/40e22e7b7cbc56af51ef580ad9d87df2.jpg)
-
-
+![[Screenshot 2026-09-09 at 10.27.59 PM.png]]
+ 
 **Substrates**
 - CO2
 - [[Amino Acids]]: asparate and glutamine

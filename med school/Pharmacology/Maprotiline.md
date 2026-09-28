@@ -16,5 +16,5 @@ tags:
 #### Dosing
 
 #### Adverse Effects
-- Anticholinergic (dry mouth, blurred vision, constipation, urinary retention)
+- Anticholinergic (dry mouth, blurred vision, constipation, [[urinary retention]])
 #### Contraindication

@@ -20,7 +20,7 @@ Bind to and activate [[Muscarinic Receptors|muscarinic receptors]] or [[Nicotini
 		- Methacholine and bethanechol can NOT act on nicotinic 
 	- Clinical Use: GI and Urinary disorders
 		- Postoperative Ileus: to restore bowel movement
-		- Postoperative Bladder Retention: help bladder empty
+		- Postoperative [[Urinary Retention]]: help bladder empty
 			- [[Bethanechol]] directly, but can also indirectly through [[Neostigmine]]
 		- Dry Mouth (**Xerostomia**)
 - Alkaloids

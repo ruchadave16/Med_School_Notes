@@ -9,7 +9,7 @@ tags:
 ---
 ### Etiology
 - Smoking
-- Acquired mutations  -- TP53 mutations leading to p53 over expression, CDKN2A, FGFR1
+- Acquired mutations  -- TP53 mutations leading to [[p53]] over expression, CDKN2A, FGFR1
 - 20% of all lung cancers
 
 ### Pathophysiology

@@ -23,7 +23,7 @@ Presents with
 **Tumors**
 - [[Hemangioblastoma]]
 - [[Cavernous hemangioma]]
-- Renal Cell Carcinoma
+- [[Renal Cell Carcinoma]]
 - [[Pheochromocytoma]]
 - Endolymphatic Sac Tumors
 

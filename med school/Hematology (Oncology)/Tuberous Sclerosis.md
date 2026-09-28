@@ -18,10 +18,10 @@ tags:
 - Presents with seizures, intellectual disabilities
 
 **Tumors**
-- Tubers: Non-cancerous growths in brain
+- Tubers: Non-cancerous growths in brain that cause [[epilepsy]]
 - [[Subependymal Giant Cell Astrocytoma]] -- benign growths
-- Cardiac Rhabdomyomas -- benign heart growths
-- Renal Angiomyolipomas
+- Cardiac [[Rhabdomyoma]] -- benign heart growths
+- Renal [[Angiomyolipoma]] -- 20-25% 
 - Adenoma sebaceum -- benign skin tumors
 - Subungual fibroma
 

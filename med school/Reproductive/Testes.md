@@ -6,13 +6,13 @@ aliases:
 date: 9-18-25
 source: MGA
 ---
-##### Boundaries
+#### Boundaries
 
 ![[Pasted image 20250922000421.png]]
 
-##### Function
+#### Function
 - Continuous production of sperm cells ← Normally at low temp due to countercurrent heat exchange between pampiniform plexus + testicular a. 
-##### Contents
+#### Contents
 - [[Seminiferous tubules]] (exocrine)
 - [[Leydig cells]] (endocrine) - Form [[testosterone]] after week 8
 
@@ -25,26 +25,26 @@ Intra-testicular ducts
 	- Cuboidal cells absorb fluid secreted by [[Seminiferous Tubules|seminiferous tubule]]
 	- Cilia move [[spermatozoa]] → [[epididymis]]
 	- Smooth muscle in walls
-##### External Features
+#### External Features
 - Parietal tunica vaginalis
 - Visceral tunica vaginalis – some fluid in cavity between two
 	- Mesothelial sac
 - Tunica albuginea
 	- Dense fibrous [[Connective Tissue|connective tissue]]
-##### Internal Features
+#### Internal Features
 - Septa (extensions of tucina albuginea separating testis into lobules)
 - Lobule (1-4 [[seminiferous tubules]]) with [[Leydig cells]]
-##### Blood Supply
+#### Blood Supply
 - Testicular a. 
 - Venous: [[Pampiniform venous plexus]]
 	- Forms testicular v. → R (IVC), L (L renal)
 
->[!Clinical] [[Variocele]] = enlargenment of [[pampiniform venous plexus]]
-##### Innervation
+>[!Clinical] [[Varicocele]] = enlargenment of [[pampiniform venous plexus]]
+#### Innervation
 
-##### Lymphatic Drainage
+#### Lymphatic Drainage
 - Lumbar LN
-##### Embryology
+#### Embryology
 - Medulla forms testes, cortex of [[Gonads|gonad]] regresses
 
 

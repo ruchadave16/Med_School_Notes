@@ -12,5 +12,7 @@ source: ID
 - **Bak** and **bax** increase mitochondrial membrane permeability
 - This allows leakage of [[cytochrome C]] into cytoplasm → triggers [[apoptosis]] by activating [[caspase-9]] → activates [[caspase-3]]
 
+![[Screenshot 2026-09-14 at 3.24.05 PM.png]]
+
 >[!Clinical]
 >Implicated in [[neoplasia]]

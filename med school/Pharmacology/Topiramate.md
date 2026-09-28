@@ -17,10 +17,10 @@ tags:
 
 #### Adverse Effects
 - Cognitive impairment
-- Kidney stones
+- [[Kidney stones]]
 - Weight loss
 - Paresthesias
-- Metabolic acidosis
+- [[Metabolic acidosis]]
 - **Avoid alcohol in 6 hrs**
 
 #### Contraindication

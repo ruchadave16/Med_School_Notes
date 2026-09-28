@@ -10,6 +10,7 @@ source: Renal
 > - Fluid deficit
 > - Ongoing losses?
 
+**1 kg acute weight loss ≈ 1 L fluid deficit**
 #### 1. Hydration and Circulation Status
 - History: 
 	- Initial weight before illness
@@ -40,6 +41,8 @@ source: Renal
 	- In severe blood loss, might need to give RBCs
 	- At ≥20 mL/kg of bolus fluid, consider other causes of shock; at ≥40 mL/kg, consider inotropes
 	- Treat [[hypoglycemia]] separately from resuscitation boluses using concentrated glucose (D10–D25)
+- [[Hyponatremia]]:
+	- Avoid lowering Na faster than ~0.5 mEq/L/hr (about 10–12 mEq/L/day)
 
 #### 3 Maintenance Fluids
 - 0.9% sodium chloride (NS) most common

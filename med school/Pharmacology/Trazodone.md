@@ -19,5 +19,5 @@ tags:
 #### Adverse Effects
 - Sedation – H1 block
 - Orthostatic hypotension – $\alpha1$ block
-- Priapism (persistant, painful erection) – rare
+- [[Priapism]] (persistant, painful erection) – rare
 #### Contraindication

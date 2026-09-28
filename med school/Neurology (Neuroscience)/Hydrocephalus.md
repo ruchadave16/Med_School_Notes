@@ -22,7 +22,7 @@ source: Neuro
 - Enlarged lateral or 3rd ventricle
 - Cause: trauma, infection, surgery, idiopathic
 - **Symptoms**:
-	- Urinary incontinence
+	- [[Urinary incontinence]]
 	- Progressive cognitive decline
 	- Gait ataxia
 

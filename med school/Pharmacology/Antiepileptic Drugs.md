@@ -69,7 +69,7 @@ Targets: Voltage gated Na+ channels, Ca2+ channels, and K+ channels
 - Topiramate
 	- Cognitive slowing
 	• Weight loss
-	• Kidney stones
+	• [[Kidney stones]]
 - Lamotrigine
 	- Stevens Johnson
 

@@ -26,9 +26,7 @@ tags:
 - [[Pulmonary capillaritis]] common
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- Biopsy
 
 ### Treatment
 - Pharmacologic

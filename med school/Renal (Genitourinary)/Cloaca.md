@@ -16,6 +16,6 @@ Urogenital Sinus:
 - Allantois → [[urachus]] → turns into median umbilical ligament
 - Upper part → [[Urinary Bladder|bladder]]
 - Pelvic part → [[Urethra|urethra]], parts of [[vagina]]
-- Phallic part → [[penis]]
+- Phallic part → [[Reproductive/Penis]]
 
 ![[Drawing 2025-09-17 18.26.54.excalidraw]]

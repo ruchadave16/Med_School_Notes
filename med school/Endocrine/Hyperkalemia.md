@@ -9,6 +9,7 @@ tags:
 - Normally, K+ concentration maintained by renal excretion and cellular uptake through Na+/K+ pump
 
 >[!Warning] $>$ 6–7 mM = medical emergency 
+>- Will need [[Dialysis]]eventually
 #### Causes
 - Escape of intracellular K+
 	- [[Metabolic acidosis]] (inorganic acid),
@@ -44,14 +45,13 @@ tags:
 - Check digoxin level
 - Check pH
 - The classic progression starts with tall, peaked T waves (↑ repolarization K+ current), which can evolve to a widened QRS and a "sine wave" pattern (slow propagation)
-
-- ![[Screenshot 2026-04-29 at 3.19.31 PM.png]]
+![[Screenshot 2026-09-16 at 11.05.53 PM.png]]
 #### Treatment
 - EKG changes
-	- IV calcium gluconate or calcium chloride to stabilize the cardiac membrane.
+	- **IV calcium gluconate FIRST 1g** or calcium chloride to stabilize the cardiac membrane.
 - Unstable or K > 6.5 mEq/L (TEMPORARY)
-	- [[Insulin]] and D50 to shift K in
-	- [[Beta Agonist]]
+	- [[Insulin]] and D50 to shift K in, give [[dextrose]] with this
+	- [[Beta Agonist]] (albuterol)
 	- If acidosis, [[sodium bicarbonate]]
 - ↓ K+ in body
 	- [[Loop Diuretics]] (only in pts with proper renal function)

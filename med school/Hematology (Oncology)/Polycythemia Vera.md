@@ -3,6 +3,8 @@ aliases:
   - polycythemia vera
   - Polycythemia vera
   - PCV
+  - polycythemia
+  - Polycythemia
 date: 7-24-26
 source: Heme/Onc
 tags:

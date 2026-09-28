@@ -25,9 +25,9 @@ Breakdown product
 - N10-Formyl-tetrahydrofolate from [[folate cycle]]
 
 **Steps**
-![](http://127.0.0.1:50856/984466e6d6a7a7eae6c67d21e4b36fb2.jpg)
 
-![[Screenshot 2025-11-23 at 11.50.24 PM.png]]
+![[Screenshot 2026-09-09 at 10.27.59 PM.png]]
+
 1) Dephosphorylation of 5-phosphoribosyl-1-pyrophosphate (PRPP) → 5-phosphoribosylamine (5PRA) (**Enzyme = GPAT**)
 	- Activation: cytosolic phosphate
 	- Inhibition: AMP, GMP
@@ -41,13 +41,7 @@ Breakdown product
 		- AMP inhibits adenylosuccinate synthetase
 		- GMP inhibits IMP dehydrogenase
 	-  IMP dehydrogenase + GMP synthetase → GMP
-![](http://127.0.0.1:50856/336f0c0d4306d4adbfa06814f15c51e4.jpg)
-
-![[Screenshot 2025-11-23 at 11.52.29 PM.png]]
-
 #### Purine Salvage Pathway
-
-![[Screenshot 2025-11-24 at 12.09.55 AM.png]]
 
 - Interchange of AMP and GMP through IMP
 - HGPRT converts guanine to GMP or IMP and [[hypoxanthine]] to IMP or GMP

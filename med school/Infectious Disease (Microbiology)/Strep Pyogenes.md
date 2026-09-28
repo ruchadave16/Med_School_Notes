@@ -36,7 +36,7 @@ tags:
 #### Complications
 - Acute supperative, peritonsillar abscess
 - Autoimmune
-	- Post-strep glomerulonephritis -- Type III hyeprsensitivity 2 weeks after initial onset
+	- [[Infectious Glomerulonephritis|post-strep glomerulonephritis]] -- Type III hyeprsensitivity 2 weeks after initial onset
 	- [[Rheumatic Fever]] -- Type II hypersensitivity
 		- Only happens after pharyngitis
 #### Diagnosis

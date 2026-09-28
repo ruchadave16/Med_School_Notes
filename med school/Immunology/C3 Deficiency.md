@@ -13,7 +13,7 @@ tags:
 - No C3 so lack [[complement system]] → recurrent infections from encapsulated bacteria
 - [[Immune complex]] (IC) deposition
 	- Normally cleared when they bind to complement
-	- In deficiency, [[glomerulonephritis]] from IC deposition
+	- In deficiency, [[Immune complex glomerulonephritis]]
 - [[Type III hypersensitivity]]
 
 ### Clinical Features

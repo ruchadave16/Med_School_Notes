@@ -16,12 +16,15 @@ source: MGA
 
 #### [[Male External Genitalia]]
 Forms because of androgens from [[gonads]]
-1) [[Penis]] – from elongated tubercle
+1) [[Reproductive/Penis]] – from elongated tubercle
 2) [[Scrotum]] – from genital swellings
 3) [[Spermatic Cord]]
 4) [[Testes]]
 
+![[Screenshot 2026-09-11 at 8.36.57 PM.png]]
 #### [[Female External Genitalia]]
+
+![[Screenshot 2026-09-11 at 8.37.10 PM.png]]
 Forms in absence of androgens
 1) [[Clitoris]] – from elongated tubercle
 2) [[Labia minora]] – from urethral folds (DON’T FUSE)

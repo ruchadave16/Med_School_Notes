@@ -23,7 +23,7 @@ source: ID
 
 ### Clinical Features
 - Symptoms (paroxysmal)
-	- Priapism
+	- [[Priapism]]
 	- Hemoglobinuria → renal failure (<50% patients)
 	- [[Thrombosis]]
 	- Dysphagia, 

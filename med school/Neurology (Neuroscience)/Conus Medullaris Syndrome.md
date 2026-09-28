@@ -16,7 +16,7 @@ tags:
 
 ### Clinical Features
 - Perianal anaesthesia
-- Bowel and bladder incontinence
+- Bowel and bladder [[Urinary Incontinence|incontinence]]
 - Impotence
 - UMN and LMN weakness
 

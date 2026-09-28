@@ -25,7 +25,7 @@ Components of a CBC include:
 - [[Anemia]]
 	- low [[Erythrocytes|RBCs]]
 	- low hemoglobin / hematocrit
-- [[Polycythemia]]
+- [[Polycythemia Vera|Polycythemia]]
 	- ↑ [[Erythrocytes|RBCs]]
 	- ↑ hemoglobin / hematocrit
 - [[Leukopenia]]

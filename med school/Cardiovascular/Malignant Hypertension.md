@@ -11,11 +11,13 @@ tags:
 - Can be de-novo
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
-
+- Hyperplastic arteriosclerosis -- proliferation in vascular smooth muscle cells (onion skin)
+-  [[Fibrinoid Necrosis|Fibrinoid necrosis]]
 ### Clinical Features
-- [[Fibrinoid Necrosis|Fibrinoid necrosis]]
+- Petechial hemorrhages sometimes seen on surface of kidneys from ruptured arterioles
+- Headache, blurred vision, nausea, vomiting, rapid renal failure
+- Hematuria and ↑ proteinuria
+- ↑↑ creatinine
 
 ### Diagnosis
 - Labs
@@ -23,9 +25,7 @@ tags:
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- IMMEDIATE blood pressure reduction 
 
 ### Complications
 - 

@@ -36,3 +36,5 @@ source: ID
 #### Mechanism
 - ↑ [[PGE2]]
 - Hypothalamus raises set-point
+#### Treatment
+Fever: roughly +10% maintenance per +1°C, with clinical reassessment

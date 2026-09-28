@@ -62,7 +62,7 @@ tags:
 - [[BNP]] (if this is normal, AHF HIGHLY unlikely; high means most likely)
 - [[Troponins]]
 - CMP
-	- Elevated creatine
+	- Elevated creatinine
 	- [[Hyponatremia]]
 	- Monitor potassium
 	- Calcium and magnesium monitoring

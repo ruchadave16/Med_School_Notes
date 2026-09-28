@@ -20,7 +20,7 @@ source: FoM I
 >Inulin – 125 (No transport, all filtered load excreted so equals GFR)
 >Glucose – 0 (Complete reabsorption)
 >Urea – 70 (Reabsorbed in [[Proximal Convoluted Tubule|proximal convoluted tubule]], secreted in [[Loop of Henle]], reabsorbed at end of [[collecting duct]] so NET reabsorption)
->Creatine – 150 (No reabsorption, some secretion)
+>Creatinine – 150 (No reabsorption, some secretion), used clinically
 >PAH – 700 (No reabsorption, HIGH secretion so matches [[Renal Plasma Flow|RPF]])
 #### Measurement of GFR
 Substance must meet criteria – [[inulin]]
@@ -39,7 +39,7 @@ Substance must meet criteria – [[inulin]]
 >GFR $*$ Pin = Uin $*$ V
 >GFR = Uin * V / Pin = Cin
 
-**Commonly use [[creatine]] in practice**
+**Commonly use [[Creatinine]] in practice**
 - Overestimates a bit since it is secreted in small amounts by tubules
 - Pcr = estimate of renal function – shouldn’t be increased unless significant change to GFR (50% or more)
 #### Osmolar Clearance and Free Water Clearance

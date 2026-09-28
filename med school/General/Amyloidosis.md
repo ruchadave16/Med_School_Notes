@@ -7,16 +7,15 @@ tags:
   - disease
 ---
 ### Etiology
-- Primary causes
-- Risk factors
+- [[Multiple Myeloma]]
+- [[Rheumatoid arthritis]], [[Systemic Lupus Erythematosus|SLE]]
 
 ### Pathophysiology
 ![[Screenshot 2026-05-26 at 10.53.22 AM.png]]
-
+- Deposits common in kidneys (Congo red staining)
+- 
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
+- Proteinuria
 
 ### Diagnosis
 - Labs

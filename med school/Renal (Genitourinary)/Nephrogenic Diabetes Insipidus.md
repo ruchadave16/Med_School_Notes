@@ -22,7 +22,7 @@ tags:
 	- [[Sarcoidosis]]
 	- [[Amyloidosis]]
 	- [[Sjogren’s Syndrome]]
-	- Autosomal dominant [[Polycystic kidney disease]]
+	- [[Autosomal dominant polycystic kidney disease]]
 ### Pathophysiology
 - Impaired urinary concentration; ADH is being released, but is not taking effect
 

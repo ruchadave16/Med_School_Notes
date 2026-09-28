@@ -31,7 +31,7 @@ source: ID
 		- Obligate intracellular, unique cell wall, 
 	- [[Lyme disease]], Rickettsial infections, Syphilis
 	- [[ASO titer]]: recent strep pyogenes [[pharyngitis]]
-		- Risk of rheumatic fever, scarlet fever, post-strep glomerulonephritis
+		- Risk of rheumatic fever, scarlet fever, [[Infectious Glomerulonephritis]] 
 	- Serotyping: [[Salmonella]], pneumococcus, meningococcus, E. coli, vibrio cholera
 - Molecular Methods
 	- 16S rRNA, PCR, qPCR, DNA sequencing

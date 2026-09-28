@@ -19,7 +19,7 @@ If substance completely extracted from plasma so RV = 0, $RPF = \frac{U_xV}{A_x}
 **[[Paraaminohippurate]] (PAH)** and **[[Diodrast]]**
 - Freely filtered, not reabsorbed, highly secreted
 
-![[Screenshot 2025-09-15 at 10.50.24 PM.png]]
+![[Screenshot 2026-09-17 at 12.16.05 AM.png]]
 
 Can find [[renal blood flow]] by correcting for % absorption and hematocrit
 $RBF = \frac{RPF}{1-Hct}$

@@ -18,6 +18,7 @@ tags:
 - Fever, rigors
 
 ### Diagnosis
+COMMONLY OVER-DIAGNOSED
 - **rectal exam could cause bacteremia**
 - Urinalysis and culture 
 - Ultrasound and MRI IF prostatic abscess
@@ -26,6 +27,7 @@ tags:
 - **EMERGENCY**
 - β-lactam and an aminoglycoside
 - Oral therapy 2-4 weeks
+	- Surgery if abscess
 
 ### Complications
 - Short-term

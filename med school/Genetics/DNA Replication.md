@@ -25,15 +25,19 @@ Semi-conservative – 1 original strand, 1 new strand
 #### Steps
 - During S phase of [[Cell Cycle|cell cycle]]
 
-![[Screenshot 2025-12-03 at 10.38.38 PM.png]]
+![[Screenshot 2026-09-09 at 10.42.26 PM.png]]
 
-Helicase unwinds
-SSB proteins stabilize
-Primase add RNA primer and Poly A extends primer
+- [[DNA gyrase]] (Topoisomerase II) in prokaryote
+Helicase unwinds at replication fork
+SSB proteins stabilize (stop reannealing)
+Primase add RNA primer to 3' end and Poly A 
+- DNA Polymerase III makes new DNA, extends (from 5' to 3')
 Proofreading + extension + topoisomerase to stop supercoiling
+- DNA Polymerase III can go backwards for this proofreading (3' to 5')
+- For lagging strand, DNA Polymerase I replaces primer (5' to 3')
 Primer removal 
 Gap filling – Poly D
-Ligase to form phosphodiester bonds
+Ligase to form phosphodiester bonds to connect Okazaki
 
 1) DNA Poly $\alpha$ extends RNA primer 
 2) Poly $\delta$ – lagging strand, fills gaps after removal of primer

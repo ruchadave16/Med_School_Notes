@@ -8,6 +8,7 @@ tags:
 ---
 ### Etiology
 - Most common in women 20-30 yrs
+	- [[E. Coli]] = 75-95% cases
 - Complicates 1-2% pregnancies
 
 ### Pathophysiology
@@ -32,6 +33,8 @@ Additional problems
 - +- UTI symptoms
 
 ### Diagnosis
+- Urinalysis
+	- Pyuria (WBCs in urine), WBC casts, bacteriuria
 - Urine culture before antibiotic treatment
 - Peripheral leukocyte count
 - CRP to monitor therapy response

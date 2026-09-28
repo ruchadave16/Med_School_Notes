@@ -21,5 +21,6 @@ tags:
 Ambisome = liposomal version, commonly used
 - Higher CNS penetration
 #### Adverse Effects
-- Electrolyte imbalance and nephrotoxicity
+- Electrolyte imbalance and **nephrotoxicity**
+	- "as an ID doctor said, may need to sacrifice the kidneys"
 #### Contraindication

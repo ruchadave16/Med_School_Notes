@@ -10,8 +10,12 @@ source: FoM I
  1) Solvent (water) – 50-70% weight
  2) Solute (ions + non-electrolytes) – sums with solvent = lean body mass
  3) Particulate matter (fat) – about 10% water by weight
+ 
+ >[!Note] Pediatric Electrolytes
+ >![[Screenshot 2026-09-09 at 9.24.20 PM.png]]
 
 Total Body Water (TBW) = 60% body weight
+	- 75% in newborns
 - Intracellular Fluid (ICF) = 40% body weight
 - Extracellular Fluid ([[ECF]]) = 20% body weight
 	- Interstitial Fluid (ISF) = 15% body weight

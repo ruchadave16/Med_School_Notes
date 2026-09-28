@@ -38,7 +38,7 @@ tags:
 - Parasympathetic activation -- miosis
 - ↓ GI motility by activating $\mu$ in [[enteric system]]
 	- ↑ smooth muscle tone in biliary tract
-	- Urinary retention
+	- [[Urinary retention]]
 #### Signs
 - Analgesia
 	- Both sensory and emotional aspects of pain

@@ -22,7 +22,7 @@ tags:
 - Presence of anti-dsDNA or anti-Sm antibodies
 - Presence of antiphospholipid antibodies
 - Acute necrotizing [[immune complex vasculitis]] → [[fibrinoid necrosis]] of vessel walls
-- [[Glomerulonephritis]] (glomerular deposits of immune complexes)
+- Glomerulonephritis (glomerular deposits of immune complexes)
 - Nonerosive synovitis
 - [[Pericarditis]]
 - Libman-Sacks endocarditis
@@ -42,7 +42,6 @@ tags:
 - Oral or nasal ulcers
 - Joint disease
 - Serositis
-- Renal involvement
 - Neuro symptoms
 - Hematologic manifestations 
 - [[Libman-Sacks Endocarditis]]
@@ -59,6 +58,7 @@ tags:
 
 ### Complications
 - Common cause of death = renal failure
+	- 50% = [[Lupus Nephritis]]
 -
 >[!Warning]
 > [[Hydralazine]] can cause SLE-type response

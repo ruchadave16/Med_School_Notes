@@ -11,4 +11,4 @@ Fat Embolism – long bone fracture or rib fracture
 Air Embolism – air into circulation
 Amniotic fluid Embolism – Common cause of maternal death 
 Foreign body embolism 
-Tumor embolism – Renal cell carcinoma = common
+Tumor embolism – [[Renal cell carcinoma]] = common

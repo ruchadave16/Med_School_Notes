@@ -18,7 +18,7 @@ tags:
 	- [[Fibromyalgia]]
 	- Chronic musculoskeletal pain
 - [[General Anxiety Disorder]]
-- Stress Urinary Incontinence
+- Stress [[Urinary Incontinence]]
 - Menopause
 
 #### Administration

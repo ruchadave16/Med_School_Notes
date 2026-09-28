@@ -20,7 +20,7 @@ tags:
 - Bilat. loss of pain and temperature below lesion
 - LMN loss at level of lesion
 - UMN loss below level of lesion
-- Incontinence
+- [[Urinary Incontinence]]
 ### Diagnosis
 - **Post. column** preserved -- vibration proprioception intact
 

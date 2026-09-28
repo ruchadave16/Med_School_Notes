@@ -23,7 +23,7 @@ source: FoM I
 - Familial hypocalciuric hypercalcemia
 #### Symptoms
 *Stones, bones, groans, psych overtones*
-- Kidney stones
+- [[Kidney stones]]
 - Bone pain, fractures, or osteopenia/ osteoporosis (↑ reabsorption)
 - Abdominal pain (constipation, Polyuria and polydipsia, nausea, vomiting, gout, peptic ulcer)
 - Neuro / psych (Hyporeflexia, lethargy, memory loss, depression)

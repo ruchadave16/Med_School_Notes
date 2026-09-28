@@ -34,7 +34,7 @@ Most work by modulating monoamine transmission ([[serotonin]], [[norepinephrine]
 - [[OCD]]
 - [[Pain Disorders]]
 - [[PMDD]]
-- Stress Urinary Incontinence
+- Stress [[Urinary Incontinence]]
 
 >[!Note]
 >No class outperforms the other
