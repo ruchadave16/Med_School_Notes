@@ -22,7 +22,7 @@ tags:
 	- High latitude
 	- ↓ [[Vitamin D]]
 	- Tobacco smoke
-	- Obesity
+	- [[Obesity]]
 	- [[EBV]]
 
 ### Pathophysiology

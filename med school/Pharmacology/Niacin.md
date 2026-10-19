@@ -11,6 +11,9 @@ tags:
 	- ↓ [[lipolysis]] so ↓ free fatty acid release
 - ↓ FFA to liver -> ↓ [[triglyceride synthesis]] so ↓ VLDL so ↓ LDL
 - ↓ HLD clearance in liver
+
+**CAN BE MADE from tryptophan**
+- Needs [[Vitamin B2]] and [[Vitamin B6|pyridoxine]]
 #### Uses
 - Mixed dyslipidemia (low HDL and high TG)
 - Resistant cases
@@ -19,10 +22,12 @@ tags:
 	- Flushing typically decreases with continued use or slow dose titration
 
 #### Adverse Effects
-- Flushing and pruritus
-- GI upset
-- Hepatotoxicity -- monitor LFTs
-- [[Hyperuricemia]] -- [[gout]]
+Nicotinic acid: 
+- Flushing and pruritus (prostaglandin based)
+- Hyperuricemia]] -- [[gout]]
 - [[Hyperglycemia]]
+- Hepatotoxicity -- monitor LFTs
+
+**Deficiency = [[pellagra]]**
 #### Contraindication
 - Caution for pt with [[gout]], [[liver disease]], [[Diabetes Mellitus|diabetes mellitus]]

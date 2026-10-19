@@ -13,6 +13,10 @@ tags:
 - Negative sense
 	- Only replicates in cells already infected by Hepatitis B
 #### Symptoms
+- Coinnfection occurs following joint exposure to HBV and HDV
+- Superinfection occurs when a chronic carrier of HBV is exposed to a new inoculum of HDV
 #### Diagnosis
+- detection of anti-HDV antibodies (IgM and IgG);
 #### Treatment
 #### Prevention
+- HBV vaccine

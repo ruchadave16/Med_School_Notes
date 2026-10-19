@@ -17,6 +17,6 @@ Tail of [[epididymis]], runs inside [[spermatic cord]], crosses in front of [[ur
 #### Histology
 Epithelium: pseudostratified columnar with fewer [[stereocilia]], mucosa buckles in lumen folds
 Muscle: 3 layers of smooth muscle (longitudinal, circular, longitudinal)
-- Allows for peristalsis
+- Allows for [[peristalsis]]
 
 ![[Pasted image 20250923112143.png]]

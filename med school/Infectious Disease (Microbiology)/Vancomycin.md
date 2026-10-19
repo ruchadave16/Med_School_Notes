@@ -1,6 +1,8 @@
 ---
 aliases:
   - vancomycin
+  - Vancocin
+  - vancocin
 date: 2-15-26
 source: ID
 tags:

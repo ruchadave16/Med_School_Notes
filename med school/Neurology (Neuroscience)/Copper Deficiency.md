@@ -9,17 +9,18 @@ tags:
 ---
 ### Etiology
 - Gastrectomy
-- Excess zinc supplements
+- Excess [[zinc]] supplements
 - [[Leukopenia]]
+- [[Menkes Disease]]
 
 ### Pathophysiology
 - Mechanism of disease
 - Relevant pathways (e.g. immune, hormonal)
 
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
+- ↑ muscle weakness
+- Fatigue
+- Neuropathy, cognitive, and behavioral signs
 
 ### Diagnosis
 - Labs

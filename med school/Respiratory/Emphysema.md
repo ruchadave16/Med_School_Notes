@@ -23,7 +23,7 @@ tags:
 	- Associated w cigarettes
 	- Presents alongside chronic bronchitis -> [[COPD]]
 - Panacinar
-	- $\alpha1$-anti-trypsin deficiency -- this is an inhibitor of neutrophil proteases
+	- [[Alpha-1-Antitrypsin Deficiency|AAT deficiency]] -- this is an inhibitor of neutrophil proteases
 	- ↑ tissue destruction by neutrophil proteases
 - Distal acinar
 	- Adjacent to regions of pulmonary fibrosis, scarring, or atelectasis

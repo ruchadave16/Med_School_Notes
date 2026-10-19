@@ -12,6 +12,7 @@ source: ID
 #### Source
 - Green leafy vegetables
 - Dried legumes
+- Made by bacteria in gut, absorbed in [[jejunum]]
 #### Function
 - Coenzyme for 1-C transfer methylation
 - Synthesis of N-containing bases for DNA and RNA

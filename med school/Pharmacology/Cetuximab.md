@@ -12,7 +12,7 @@ tags:
 - [[EGFR]] blocked so ↓ proliferation
 #### Uses
 - [[Colon cancer]]
-- [[Squamous Cell Carcinoma]]
+- [[Lung SCC]]
 #### Resistance
 
 #### Dosing

@@ -14,7 +14,7 @@ source: MGA
 - Parasympathetic
 	- Anterior vagal trunk – lesser curvature stomach, pylorus, biliary apparatus, gallbladder, liver, proximal duodenum
 	- Posterior vagal trunk – posterior stomach
-	- **Secretion ↑ and peristalsis**
+	- **Secretion ↑ and [[peristalsis]]**
 
 - Sympathetic
 	- Greater splanchnic (T5-T9) – through diaphragm to synapse at celiac ganglia (at roots of celiac trunk)

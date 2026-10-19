@@ -12,6 +12,7 @@ source: ID
 #### Sources
 - Liver, kidney
 - Butter, egg yolk, leafy vegetables
+- **DESTROYED by heating**
 #### Function
 - Vision (retinal pigments)
 - Antioxidant
@@ -20,10 +21,11 @@ source: ID
 
 >[!Note] Can help with [[Measles Virus]]
 #### Deficiency
-- **Night blindness**
+- **Night blindness** (Nyctalopia)
 - Xerosis cutis
-- Squamous cell [[metaplasia]]
-- Keratomalacia
+- Squamous cell [[metaplasia]] 
+- Xerophthalmia -> Bitot spots are foamy, keratinized lesions on conjunctiva
+- Keratomalacia 
 - Immunosuppression
 #### Toxicity
 - Acute: nausea, vomiting, blurry vision, dizziness

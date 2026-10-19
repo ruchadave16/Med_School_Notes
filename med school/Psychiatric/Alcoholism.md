@@ -83,7 +83,8 @@ tags:
 ### Complications
 - [[Alcohol poisoning]], cardiomyopathy, gastritis, liver cirrhosis, polyneuropathy, psychoses
 - Secondary
-	- Cancer, diabetes, GI disease, heart disease, liver disease, pancreatitis, pneumonia, tuberculosis
+	- Cancer, diabetes, GI disease, heart disease, [[alcohol-based liver disease]], [[pancreatitis]], pneumonia, tuberculosis
+	- [[Steatohepatitis]] -- 10-35%
 - [[Wernickes Encephalopathy]]
 - [[Korsakoff Amnesia]]
 ### High-Yield Associations

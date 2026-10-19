@@ -26,7 +26,7 @@ Loss of [[glucocorticoids]]
 - Anorexia
 - Weight loss
 - Nausea
-- Vomiting
+- [[Vomiting]]
 - Weakness
 
 Loss of adrenal androgens (in women)

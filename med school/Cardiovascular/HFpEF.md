@@ -44,7 +44,7 @@ tags:
 - [[Diuretics]] -- symptomatic
 - [[SGLT2 inhibitors]]
 - [[Finerenone]] (FINEARTS-HF trial (2024)) showed that composite of total worsening HF events and CV death by 16% (rate ratio 0.84) in patients with HF and EF ≥40%
-- If obesity, [[GLP-1 agonists]]
+- If [[obesity]], [[GLP-1 agonists]]
 - Exercise training **
 
 >[!Note] No real benefit of [[beta blockers]]

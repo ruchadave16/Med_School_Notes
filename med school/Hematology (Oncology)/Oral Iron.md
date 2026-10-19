@@ -14,7 +14,7 @@ tags:
 
 #### Dosing
 - 1 hr before meals -> food decreases absorbance but also decrease GI effects
-- ↓ antacids, calcium supplements, some medications can have negative effect (separate by 2 hours)
+- ↓ [[antacids]], calcium supplements, some medications can have negative effect (separate by 2 hours)
 - Parental if cannot tolerate oral iron or have malabsorption
 #### Adverse Effects
 

@@ -19,4 +19,5 @@ tags:
 
 #### Adverse Effects
 - Interaction with [[CYP3A4]] (inhibition)
+- Diarrhea
 #### Contraindication

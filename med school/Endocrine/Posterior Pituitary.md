@@ -26,6 +26,7 @@ source: FoM I
 - [[Vasopressin]] (ADH)
 
 These are produced in nuclei of [[hypothalamus]] but released by axon terminals (Herring bodies) in pars nervosa
+
 - Released into fenestrated capillaries
 #### Embryology
 - Comes from [[neuroectoderm]] from floor of diencephalon

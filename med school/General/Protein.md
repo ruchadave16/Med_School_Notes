@@ -6,6 +6,8 @@ aliases:
 date: 11-15-25
 source: FoM II
 ---
+- High quality protein intake: has all essential amino acids
+- Low quality: missing some essential
 #### Structure
 1) Primary: Sequence of [[Amino Acids]]
 2) Secondary: [[Hydrogen Bonds|Hydrogen bonds]] between carboxyl and amide 

@@ -24,6 +24,7 @@ tags:
 - Renal [[Angiomyolipoma]] -- 20-25% 
 - Adenoma sebaceum -- benign skin tumors
 - Subungual fibroma
+- Hamartomatous polyps
 
 **Other Signs**
 - Ash leaf signs 

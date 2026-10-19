@@ -6,11 +6,9 @@ source: MGA
 tags:
   - disease
 ---
-### Definition
-Splitting of belly due to failure of somatopleure closure
+*Splitting of belly due to failure of somatopleure closure*
 
 ### Etiology
-- Primary causes
 - Risk factors
 	- Maternal smoking
 	- Illicit drugs

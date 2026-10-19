@@ -21,6 +21,7 @@ tags:
 - Febrile [[pharyngitis]]
 - [[Conjunctivitis]]
 - Gastroenteritis
+	- 2nd most common cause of pediatric diarrhea (self limiting to 10 days)
 - [[Pneumonia]]
 
 Common presentation = pink eye, pharyngoconjunctival fever

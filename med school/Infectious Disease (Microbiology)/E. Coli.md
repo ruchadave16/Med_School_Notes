@@ -20,7 +20,7 @@ tags:
 - [[EAEC]]
 
 #### Symptoms
-- 
 #### Diagnosis
 #### Treatment
+- Non-invasive -> [[Rifaximin]] as second line
 #### Prevention

@@ -17,13 +17,9 @@ Central umbilic defect due to failure of somatopleure fusion
 - During [[embryo folding]], gut tube herniates through body wall into umbilical cord
 - Covered with peritoneum, amniotic membrane, Wharton’s jelly
 - Occurs when [[midgut]] doesn’t return
-- Relevant pathways (e.g. immune, hormonal)
 
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
-	- Could have other defects
+- 
 
 ### Diagnosis
 - Labs

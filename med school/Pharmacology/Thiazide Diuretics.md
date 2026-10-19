@@ -18,11 +18,13 @@ tags:
 
 #### Dosing
 - Chlorthalidone preferred because longer half life
-
 #### Adverse Effects
 - [[Hypokalemia]], [[hyponatremia]]
 - [[Hyperuricemia]] -> [[gout]]
 - [[Hyperglycemia]], [[hyperlipidemia]]
 - Rare [[Stevens Johnson Syndrome]]
+- [[Pancreatitis]]
+	- Severe epigastric pain radiating to back, nausea, vomiting, ↑ lipase levels 
+	- Discontinue medication
 #### Contraindication
 - Sulfa allergy (rare)

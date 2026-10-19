@@ -1,6 +1,7 @@
 ---
 aliases:
   - nitric oxide
+  - NO
 date: 5-3-26
 source: CV
 ---

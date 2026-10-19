@@ -1,7 +1,7 @@
 ---
 aliases:
-  - hypertrophic plyoric stenosis
-  - Hypertrophic plyoric stenosis
+  - pyloric stenosis
+  - Pyloric stenosis
 date: 9-3-25
 source: MGA
 tags:
@@ -36,7 +36,7 @@ Opening between [[stomach]] and [[small intestine]] stenosis
 - Criteria
 
 ### Treatment
-- Surgery
+- Surgery: myotomy
 
 ### Complications
 - Short-term

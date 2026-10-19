@@ -6,16 +6,18 @@ source: FoM I
 tags:
   - disease
 ---
-### Definition
-Lower esophageal sphincter doesn’t relax
+*Lower esophageal sphincter doesn’t relax*
 
 ### Etiology
-- Primary causes
-- Risk factors
+- Idiopathic
+- [[Chagas Disease]]
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- ↑ resting LES tone
+- ↓ relaxation during swallowing
+	- Myenteric plexus is deficient and so NO and VIP is not released
+- Primary: idiopathic degradation of inhibitory neurons
+- Secondary: nerve damage
 
 ### Clinical Features
 - Dysphagia to solids and liquids
@@ -30,14 +32,12 @@ Lower esophageal sphincter doesn’t relax
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- Pneumatic dilation of sphincter
+- Myotomy
+- Injection of [[Clostridium Botulinum|botulinum]] toxin to inhibit Ach release
 
 ### Complications
-- Short-term
-- Long-term
-
+- ↑ risk of esophageal cancer
 ### High-Yield Associations
 - **Bird-beak** lower sphincter on barium swallow esophagram   
 - Boards clues

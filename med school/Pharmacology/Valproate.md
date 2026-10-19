@@ -23,7 +23,9 @@ tags:
 
 #### Adverse Effects
 - Hepatotoxicity
-- Pancreatitis
+- [[Pancreatitis]]
+	- Severe epigastric pain radiating to back, nausea, vomiting, ↑ lipase levels 
+	- Discontinue medication
 - Weight gain, hirsutism
 - ↑↑ teratogenic - 1-2% have neural tube defects
 #### Contraindication

@@ -11,6 +11,8 @@ Type 1 [[Von Gierke Disease]]
 - ↑ glycogen in liver
 - Elevated lactase
 - Hepatomegaly
+
+Type II [[Pompe Disease]]
  
 Type III [[Cori Disease]]
 - Deficiency of debrancher enzyme
@@ -20,3 +22,5 @@ Type III [[Cori Disease]]
 - Absence of debrancher enzyme
 - Fatal in 5 yrs because of cirrhosis
 - Poorly structured glycogen and hepatic accumulation
+
+Type V [[McArdle Disease]]

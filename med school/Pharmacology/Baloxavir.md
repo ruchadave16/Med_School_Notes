@@ -18,4 +18,4 @@ tags:
 - Diarrhea
 - Vomiting
 #### Contraindication
-- Do not give with polyvalent cations (e.g., antacids, iron)
+- Do not give with polyvalent cations (e.g., [[antacids]], iron)

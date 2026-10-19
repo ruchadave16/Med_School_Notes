@@ -18,7 +18,7 @@ tags:
 - Chronic excess of [[glucocorticoids]] (cortisol)
 ### Clinical Features
 - Round face and central fat redistribution (Supraclavicular fat, buffalo hump)
-- Central obesity
+- Central [[obesity]]
 - Acne, ↑ fine hair growth
 - Metabolic Change
 	- [[Hyperglycemia]]

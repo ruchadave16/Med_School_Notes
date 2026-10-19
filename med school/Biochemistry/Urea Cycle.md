@@ -27,7 +27,7 @@ To remove NH3, body uses [[urea]]
 3) Head group of arginine removed to make urea and ornithine
 4) Ornithine → mitochondria (recycled)
 
-![[Screenshot 2025-11-21 at 9.38.22 PM.png]]
+![[Screenshot 2026-10-09 at 6.30.06 PM.png]]
 
 #### Products
 - Carbamoyl phosphate – either conjugated to ornithine OR spontaneously becomes orotate (starting material for [[pyrimidine]])

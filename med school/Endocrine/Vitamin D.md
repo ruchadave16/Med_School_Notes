@@ -38,17 +38,18 @@ source: FoM I
 - Stupor
 - Loss of appetite
 
->[!Clinical]
->Deficiency
->- [[Rickets]] in children
->	- epiphyseal widening and metaphyseal cupping/fraying on Xray
->	- pathological bow legs
->	- beadlike costochondral junctions
->	- craniotabes
->- [[Osteomalacia]] in adults
->	- osteopenia and pseudofractures in xray
->	- bendy and soft bones
->- Hypocalcemic tetany
+#### Deficiency
+ [[Rickets]] in children
+- epiphyseal widening and metaphyseal cupping/fraying on Xray
+- pathological bow legs
+- beadlike costochondral junctions
+- craniotabes
+
+[[Osteomalacia]] in adults
+- osteopenia and pseudofractures in xray
+- bendy and soft bones
+
+Hypocalcemic tetany
 
 
 >[!Clinical]

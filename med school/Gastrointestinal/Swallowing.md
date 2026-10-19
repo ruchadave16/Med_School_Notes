@@ -30,14 +30,16 @@ source: FoM I
 	- Upper [[esophageal sphincter]] opened + closed by [[swallowing reflex]]
 	- Primary Wave
 		- Swallow reflex – [[Vagus Nerve]]
-		- Sequential contractions to move food to stomach – Somatic in upper 1/3, autonomic in lower 2/3 through [[Ach]]
+		- Sequential contractions to move food to stomach – Somatic in upper 1/3, autonomic in lower 2/3 xthrough [[Ach]]
 		- Assisted by gravity
 	- Secondary Wave
 		- [[Enteric nervous system]]
 		- Initiated by esophagus distention if food remains after first wave
 4) Relaxation of [[stomach]]
 	- Lower esophageal sphincter opens when food enters distal end of esophagus
-	- [[Vagus Nerve|Vagus]] releases [[VIP]] (vasoactive intestinal peptide) to open sphincter 
+	- [[Vagus Nerve|Vagus]] releases [[VIP]] (vasoactive intestinal peptide) and [[Nitric Oxide|NO]] to open sphincter 
+		- Tonically active, relaxes when swallowing
+	- Contracts if Ach released
 	- Stomach relaxes 
 
 >[!Clinical]

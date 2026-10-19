@@ -16,5 +16,5 @@ tags:
 - Rapid absorption
 - Long half-life so 1x daily dosage
 #### Adverse Effects
-
+- Diarrhea
 #### Contraindication

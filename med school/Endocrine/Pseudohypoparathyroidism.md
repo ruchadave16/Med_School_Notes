@@ -21,7 +21,7 @@ Genetic condition
 - Signs
 	- Short stature
 	- Short neck
-	- Obesity
+	- [[Obesity]]
 	- Subcutaneous calcification
 	- Short 4th metatarsals and carpals
 - Variants

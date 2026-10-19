@@ -35,7 +35,7 @@ tags:
 - Correction of cause
 - Iron supplementation
 ### Complications
-- [[Plummer-Vinson Syndrome]]
+- [[Hematology (Oncology)/Plummer-Vinson Syndrome]]
 
 ### High-Yield Associations
 - Classic buzzwords

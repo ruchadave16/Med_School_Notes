@@ -10,5 +10,9 @@ source: FoM I
 
 #### Actions
 - Reduces gastric churning (mobility)
-- Increases [[insulin]] release
+- Increases [[insulin]] release at physiological values
 - Inhibits gastric acid secretion
+
+#### Stimuli
+- ↑ by glucose and fat in [[duodenum]]
+- 

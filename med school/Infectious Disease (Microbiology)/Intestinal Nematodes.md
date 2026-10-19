@@ -13,10 +13,12 @@ source: ID
 
 Diagnosis
 - Eggs in stool and eosinophil count ↑ 
-#### Enterobius -- pinworm
+#### [[Enterobius]] -- pinworm
 - Female lays eggs at anus
 - Fecal oral transmission
 - Scotch tape test
+- No invasion
+
 Treatment: pyrantel pamoate
 #### Strongyloides
 - Penetrate through skin of soles

@@ -14,7 +14,7 @@ tags:
 - Pass to colon and multiply there, pass in feces
 - Invade colonic epithelium -- flask shaped ulcers
 #### Symptoms
-- Liver abscess in right lobe -- RUQ pain
+- Liver abscess in right lobe -- RUQ pain in 40% patients
 	- Pus like anchovy paste
 	![[Screenshot 2026-03-05 at 1.27.45 PM.png]]
 - Intestinal amebiasis -- ulcerations that look like flasks

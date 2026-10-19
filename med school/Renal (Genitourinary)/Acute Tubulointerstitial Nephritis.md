@@ -9,7 +9,7 @@ tags:
 ---
 ### Etiology
 - Non-infectious cause = Drug induced hypersensitivity (70-75% cases)
-	- [[Antibiotics]], [[NSAIDs]], [[proton pump inhibitors]], [[Antiepileptic Drugs|antiepileptic]], [[chemotherapy]], 
+	- [[Antibiotics]], [[NSAIDs]], [[PPIs|proton pump inhibitors]], [[Antiepileptic Drugs|antiepileptic]], [[chemotherapy]], 
 - Infections: [[Pyelonephritis|pyelonephritis]], systemic w virus or fungi
 - Systemic conditions: [[Sarcoidosis]], [[Sjogren’s Syndrome]], [[Systemic Lupus Erythematosus|lupus]]
 

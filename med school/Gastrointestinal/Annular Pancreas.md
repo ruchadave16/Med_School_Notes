@@ -2,8 +2,8 @@
 aliases:
   - annular pancreas
   - Annular pancreas
-date: 9-3-25
-source: MGA
+date: 10-13-26
+source: MGA, GI
 tags:
   - disease
 ---
@@ -11,9 +11,7 @@ tags:
 Ring of [[pancreas]]
 
 ### Etiology
-- Primary causes
-- Risk factors
-
+- [[Down Syndrome]]
 ### Pathophysiology
 - Poor migration of ventral bud during [[Pancreas Embryology|pancreas development]]
 - Forms ring around duodenum causing [[duodenum stenosis]]

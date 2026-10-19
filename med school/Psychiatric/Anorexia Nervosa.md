@@ -49,7 +49,7 @@ tags:
 - Outpatient programs
 - Hospitalizations
 ### Complications
-- Severe malnutrition
+- Severe [[Malnutrition]]
 	- Organ failure
 - Impaired growth
 - ↓ bone density

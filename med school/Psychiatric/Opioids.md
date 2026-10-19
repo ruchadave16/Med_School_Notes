@@ -70,7 +70,7 @@ Pain Management
 [[Diarrhea]] Treatment
 - [[Loperamide]]
 	- Does NOT cross BBB so ↓↓ CNS effects
-- Diphenoxylate + atropine
+- [[Diphenoxylate]] + atropine
 	- Can cross BBB
 	- Atropine to reduce abuse
 

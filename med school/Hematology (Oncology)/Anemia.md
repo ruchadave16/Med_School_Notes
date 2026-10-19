@@ -61,7 +61,7 @@ Hemoglobin degradation products accumulation
 	- Iron sequestration
 		- Chronic disease
 	- Defective HgB synthesis
-		- Heme: [[iron deficiency anemia]], [[sideroblastic anemia]]
+		- [[Heme]]: [[iron deficiency anemia]], [[sideroblastic anemia]]
 		- Globin: [[thalassemias]]
 - Marrow diseases
 	- Marrow replacement: hematopoietic neoplasms, myelodysplastic syndromes

@@ -27,7 +27,7 @@ tags:
 - Transmission: blood, birth, sexual
 #### Symptoms
 - [[Hepatitis B]]
-- Hepatocellular carcinoma
+- [[Hepatocellular carcinoma]]
 #### Diagnosis
 - Serology: surface antigen (HBsAg), surface antibody (HBsAb), core antibody (HBcAb)
 - If HBsAg for > 6 months, chronic carrier

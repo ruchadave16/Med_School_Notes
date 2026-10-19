@@ -32,6 +32,7 @@ tags:
 	- ↓ mucus secretion
 	- ↓ bicarbonate secretion
 	- ↓ gastric mucosal blood flow
+	- Potential GI bleeding
 - Nephrotoxicity because PGE2 and PGI2 maintain renal blood flow
 	- ↓ prostaglandins → afferent arteriole vasoconstriction → ↓ renal blood flow → ↓ GFR
 	- Can cause acute kidney injury
@@ -39,6 +40,8 @@ tags:
 - Bleeding risk from ↓ [[TXA2]]
 - ↑ Thrombosis from COX-2 inhibitors since ↓ [[PGI2]]
 - [[Hypertension]]
+- Esophagitis
+	- Take with water sitting up
 #### Uses
 - Chronic inflammation
 - Acute pain and injuries
@@ -48,7 +51,7 @@ tags:
 #### Limitations
 - Do NOT change disease progression
 - GI toxicity from impact to COX-1
-	- **PPIs reduce risk, [[Misoprostol]] is PGE1 analog, and COX-2 selective don't have this risk**
+	- **[[PPIs]] reduce risk, [[Misoprostol]] is PGE1 analog, and COX-2 selective don't have this risk**
 - Renal effects
 - CV risk for COX-2 specific
 	- Avoid in pts with ↑ risk for CV

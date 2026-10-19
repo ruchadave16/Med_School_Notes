@@ -46,7 +46,7 @@ source: ID
 - ↓ [[Oncotic Pressure|oncotic pressure]] in capillaries (Inadequate [[albumin]] synthesis or loss of it)
 	- [[liver disease]] or [[alcoholism]] 
 	- [[nephrotic syndrome]] (protein loss in urine)
-	- [[malnutrition]] protein
+	- [[Malnutrition]] protein
 - ↑ capillary permeabiliity
 	- Vascular damage
 - ↑ oncotic pressure in interstitial -> Impaired reabsorption of interstitial fluid = [[lymphedema]]

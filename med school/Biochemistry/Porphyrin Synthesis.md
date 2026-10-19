@@ -13,7 +13,7 @@ source: FoM II
 	- d-aminolevulinic acid dehydratase
 	- Inhibited by lead
 - Converted to protoporphyrin IX
-- In mitochondria, ferrochelatase adds Fe2+ to make heme
+- In mitochondria, ferrochelatase adds Fe2+ to make [[heme]]
 	- Inhibited by lead
 
 ![[Screenshot 2025-11-21 at 8.52.49 PM.png]]

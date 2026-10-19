@@ -15,19 +15,24 @@ tags:
 - Needs alkaline pH to grow
 #### Mechanism
 - Binds to GM1 ganglioside
-- Permanently activates Gs -> ↑ cAMP in intestinal cells
+- Toxin A processed by ER -> interaction with ADP ribosylation factors 
+	- Permanently activates Gs -> ↑ cAMP in intestinal cells
+	- [[Cystic Fibrosis Transmembrane Regulator|CFTR]] opens, release of Cl- into lumen
+	- Bicarb and sodium also released in response
 	- ↑ loss of electrolytes and water
 - Toxin found in [[Bacteriophages|bacteriophage]]
 #### Symptoms
-- Rice water diarrhea
-- Vomiting
+- Rice water [[diarrhea]]
+- [[Vomiting]]
 - [[Cholera]]
 
 **Death**
 - Dehydration
 - Electrolyte loss
 - Shock
+- 50% death rate without treatment
 #### Diagnosis
+- Normal histology
 #### Treatment
 - Aggressive volume replacement
 - [[doxycycline]] or [[azithromycin]]

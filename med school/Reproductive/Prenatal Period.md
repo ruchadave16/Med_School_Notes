@@ -10,7 +10,6 @@ aliases:
 - [[Pre-Embryonic Period]]: First 2 weeks, [[Fertilization|fertilization]] to [[implantation]]
 - [[Embryonic Period]]: Weeks 3-8, most active development, most chance of major birth defects
 - Fetal period: 3rd month-term, major structure growth
-
 #### Hormones
 - Increasing levels of [[estrogen]] and [[progesterone]] to maintain endometrium for fetus
 - ↓ follicular function (↓ [[FSH]] and [[LH]])
@@ -24,10 +23,14 @@ aliases:
 - [[Estriol]]
 	- Made by [[placenta]], weak [[estrogen]]
 	- Sign of fetal health
-
 #### [[Breast|Breast]] Development
 - [[Estrogen]] and [[Progesterone|progesterone]] → development of breasts
 - [[Growth Hormone|GH]], [[prolactin]], [[cortisol]], [[insulin]] → ductal system development
 - [[Progesterone]] → Final growth of alveoli + milk secretion
 - [[Prolactin]] >>> during pregnancy because [[estrogen]] stimulates release from [[anterior pituitary]]
 - [[Lactation]] NOT during pregnancy because estrogen and progesterone block action on [[breast]]
+#### Calorie Intake
+- First trimester: 0 kcal
+- 2nd trimester: +340 kcal
+- 3rd trimester: +452 kcal
+- Lactating: +500 kcal

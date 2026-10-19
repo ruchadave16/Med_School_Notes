@@ -12,12 +12,13 @@ tags:
 
 ### Pathophysiology
 - Ulcers / abscesses without bleeding
+	- Limited to mucosal layer
+- Diffuse from rectum upwards
 - No granulomas on biopsy → [[Th2]] mediated
 
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
+- 2-8% have sclerosis cholangitis
+- Diarrhea, pain, 
 
 ### Diagnosis
 - Labs
@@ -25,13 +26,15 @@ tags:
 - Criteria
 
 ### Treatment
-- Pharmacologic
+- [[5 ASAs]], 6-MP, [[infliximab]] 
 - Surgical
+	- Reduce risk of cancer development
 - Lifestyle
 
 ### Complications
-- Short-term
-- Long-term
+- ↑ risk of [[colonic adenocarcinoma]]
+	- Low in first 8-10 yrs
+	- ↑ by 1% per year after that 
 
 ### High-Yield Associations
 - Classic buzzwords

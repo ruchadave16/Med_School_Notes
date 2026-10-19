@@ -18,7 +18,9 @@ tags:
 - Can be asymptomatic
 - Acute: jaundice, anicteric hepatitis in kids
 	- Aversion to smoking
+- Febrile
 #### Diagnosis
+- Anti-HAV antibodies
 #### Treatment
 - 1 month duration of illness
 - Self-limiting

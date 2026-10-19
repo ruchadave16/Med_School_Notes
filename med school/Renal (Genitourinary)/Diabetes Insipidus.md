@@ -12,9 +12,9 @@ tags:
 - [[Central diabetes insipidus]]
 - [[Gestational diabetes insipidus]]
 - [[Nephrogenic diabetes insipidus]]
-
 ### Pathophysiology
 **Central**
+- ADH deficiency 
 
 **Nephrogenic**
 - Cells in collecting duct don’t respond to ADH
@@ -23,9 +23,12 @@ tags:
 Water is NOT reabsorbed
 - Urine not concentrated
 - Serum osmolarity ↑ 
+
+- Urine has ↓ specific gravity
+- Serum ↑ Na+
 ### Clinical Features
 - High thirst
-- Excess urination
+- Excess urination (polyuria)
 
 ### Diagnosis
 - Water deprivation test to determine central vs nephrogenic DI
@@ -41,8 +44,7 @@ Central
 Nephrogenic
 - Thiazide Diuretic
 ### Complications
-- Short-term
-- Long-term
+- Life-threatening dehydration
 
 ### High-Yield Associations
 - Classic buzzwords

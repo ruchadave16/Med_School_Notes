@@ -41,7 +41,7 @@ source: FoM II
 - Physiologic Dose (Replacement Therapy)
 - Pharmacological Dose (Supraphysiologic Therapy)
 	- Anti-Inflammatory 
-		- Autoimmune, **bronchial asthma**, eczema, IBD
+		- Autoimmune, **bronchial asthma**, eczema, [[IBD]] flares
 			- ↑ transcription of anti-inflammatory genes
 			- ↓ pro-inflammatory
 			- ↑ B2 receptors
@@ -55,7 +55,7 @@ source: FoM II
 - Diet ↑ protein and K+, ↓ Na+ and simple carbs
 
 >[!Warning] For patients with
->- [[Peptic ulcers]] – ↑ GI bleeding risk, concurrent PPI use recommended
+>- [[Peptic Ulcer Disease]] – ↑ GI bleeding risk, concurrent PPI use recommended
 >- Heart disease / failure – Na and water retention could increase fluid overload
 >- Infectious disease – Immune suppression can make worse
 >- Psychoses – High dose can cause mood swing, mania
@@ -79,3 +79,8 @@ source: FoM II
 - Hoarseness
 - Growth suppression
 - Cataracts
+- Osteoporosis
+- Diabetes
+- [[Avascular necrosis]]
+#### Contraindication
+- [[Fungi|fungal]] infection

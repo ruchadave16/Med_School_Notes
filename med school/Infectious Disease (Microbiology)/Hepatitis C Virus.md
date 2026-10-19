@@ -15,15 +15,18 @@ tags:
 	- No proofreading from no 3'->5' exonuclease
 - Proteins:
 	- NS5A -- RNA replication
-	- 
 #### Symptoms
+85% asymptomatic 
+
 - Liver inflammation -- jaundice, RUQ pain, hepatomegaly, liver enzymes increase
 - 60-80% become chronic
-	- Cirrhosis
-	- Hepatocellular carcinoma
+	- [[Cirrhosis]] -- 20% over 20-30 years
+	- [[Hepatocellular carcinoma]]
 #### Diagnosis
 Acute -- ALT rise and fall in 6 months
 - Cryoglobulins (serum proteins that precipitate in cold temp)
+
+HCV RNA testing for chronic diagnosis
 #### Treatment
 Acute cases untreated
 

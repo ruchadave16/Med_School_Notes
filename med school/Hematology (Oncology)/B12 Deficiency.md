@@ -34,14 +34,12 @@ tags:
 - Dementia-like symptoms in elderly patients
 
 ### Diagnosis
-- Elevated methylmalonic acid levels in serum
+- Elevated methylmalonic acid levels in serum + homocysteine
 - Low reticulocyte count
 - Megaloblasts in the bone marrow
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- **Folate supplementation can improve the anemia of B12 deficiency while allowing neurologic injury to progress.** 
 
 ### Complications
 - Short-term

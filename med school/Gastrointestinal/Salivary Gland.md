@@ -56,6 +56,7 @@ Neuron Based
 - Dual [[Sympathetic Nervous System|sympathetic]] and [[Parasympathetic Nervous System|parasympathetic]]
 	- **Parasympathetic dominates**
 	- [[Ach]] increases secretion of [[saliva]] 
+- [[Nausea]] triggers saliva release
 	
 >[!Success] Side Effects
 >[[Atropine]] is parasympathetic [[antagonist]] that blocks [[muscarinic receptors]] Ach 

@@ -16,6 +16,7 @@ tags:
 *[[Gram negative]] enteric pathogen NOT part of normal flora*
 - Not lactose fermenting
 - Oxidase negative
+- Facultative anaerobe
 - Non-mobile
 - No H2S
 #### Mechanism
@@ -23,11 +24,14 @@ tags:
 	- Removes adenine residue from rRNA
 	- Also stimulates [[Cytokines|cytokine]] release
 	- Cytotoxic to Vero cell (monkey line)
-- **Invasion** of GI mucosal cells
+- **Invasion** of GI mucosal cells (M cells), goes into lamina propria, injested by macrophages which go through apoptosis
 	- Different from [[EHEC]], which does NOT have invasion
 - Disease not from toxin
+- **Resistant** to acidity
 #### Symptoms
-- Infectious diarrhea
+- Fever
+- Abdominal pain
+- Infectious diarrhea for ~6 days
 - Dysentery
 - Can cause [[hemolytic uremic syndrome]]
 #### Diagnosis

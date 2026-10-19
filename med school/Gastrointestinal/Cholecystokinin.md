@@ -10,9 +10,13 @@ Released by I cells in [[small intestine]] mucosa (duodenum + jejunum)
 In response to 
 1) Monoglycerides + [[fatty acids]]
 2) Small peptides + amino acids
-
 #### Actions
 - Stimulate enzyme **MAIN** + aquatic concentration release from [[pancreas]]
+	- Augments [[secretin]] release
 - Contraction of [[gallbladder]] to release bile salts in spurts
 	- Relaxes sphincter of oddi
 - Inhibits gastric emptying
+
+#### Stimuli
+- ↑ by contact of mucosa with digestion products
+- ↑ by fatty acids in [[duodenum]]

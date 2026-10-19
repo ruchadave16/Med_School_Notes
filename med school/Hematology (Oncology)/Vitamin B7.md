@@ -10,4 +10,11 @@ source: ID
 - Eggs, meat, fish
 - Seeds, nuts
 #### Function
-- Cofactor for carboxylases, transcarboxylases, decarboxylases
+- Cofactor for acetyl-CoA carboxylase, pyruvate carboxylase, propionyl-CoA carboxylase
+#### Deficiency
+- Prolonged broad spectrum antibiotic use
+- ↑↑ consumption of egg whites
+
+- Dermatitis
+- Alopecia
+- Neuro dysfunction

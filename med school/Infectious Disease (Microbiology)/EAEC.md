@@ -10,7 +10,7 @@ tags:
 #### Mechanism
 - Adhere to intestinal epithelium in stacked brick pattern
 #### Symptoms
-- Chronic diarrhea in kids
+- Chronic diarrhea in kids, NON-BLOODY
 #### Diagnosis
 #### Treatment
 #### Prevention

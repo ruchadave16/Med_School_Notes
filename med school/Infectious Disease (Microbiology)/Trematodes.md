@@ -25,8 +25,8 @@ Treatment:
 #### Chinese Liver Flu (Clonorchis sinensis)
 - Snails = intermediate host
 - Uncooked fish -> resides in biliary system
-	- Biliary fibrosis
-	- Cholangiocarcinoma
+	- [[Biliary fibrosis]]
+	- [[Cholangiocarcinoma]]
 	- Pigmented gallstones
 - Eggs: look operculated
 

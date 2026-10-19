@@ -49,9 +49,9 @@ tags:
 - Normalize eating routines
 
 ### Complications
-- Parotid gland [[hypertrophy]]
-- Mallory-Weiss syndrome
-- Metabolic alkalosis
+- Parotid gland hypertrophy
+- [[Mallory-Weiss syndrome]]
+- [[Metabolic alkalosis]]
 - Dehydration
 - Cardiac complications
 - Endocrine complications

@@ -7,9 +7,9 @@ source: FoM I
 ---
 Gastric Juice: 
 - HCl to convert [[pepsinogen]] to [[pepsin]] ← [[Parietal Cell|parietal cell]]
-- [[Pepsinogen]] ← [[chief cells]]
+- [[Pepsinogen]] + gastric lipase ← [[chief cells]]
 - [[Intrinsic Factor]] ← [[Parietal Cell|parietal cells]]
-- Mucus
+- Mucus + bicarb secreted <- mucus cells
 
 ![[Pasted image 20250901004846.png]]
 
@@ -37,26 +37,30 @@ Gastric Juice:
 
 **Inhibition of HCl Secretion**
 - [[Somatostatin]] secreted by [[D cells]] in stomach directly and indirectly
+	- Inhibits G and ECL cells as well as parietal cells
 - [[Prostaglandin]] inhibits $H^+$ secretion
 
 **Substances that alter**
 - [[Histamine]] – Produced by [[ECL cells]] (Enterochromaffin-like cells)
+	- Release triggered by [[gastrin]]
 	- Binding receptor of parietal cell H2 receptors
 	- [[Cimetidine]] – H2 receptor antagonist that blocks H2, blocking action of histamine
 
 - [[Ach]] – Produced by [[Vagus Nerve|Vagus n.]]
-	- Binding receptor of parietal cell [[muscarinic receptors]]
+	- Binding receptor of parietal cell [[muscarinic receptors]] and chief cells
 	- [[Atropine]] blocks muscarinic, blocking action of Ach
 
-- [[Gastrin]] – Produced by [[G cells]]
-	- Binding receptor of parietal cell = CCK-B
+- [[Gastrin]] – Produced by [[G cells]] in antrum
+	- Secreted in response to GRP (gastrin-releasing peptide) and presence of oligopeptides
+	- Binding receptor of parietal cell = CCK-B to activate
+	- Binding receptor on enterochromaffin-like cells (ECL cells) to release [[histamine]]
 	- [[Atropine]] – [[somatostatin]] blocks action of gastrin
 - Potentiation
 	- A + B + C > individual sum
 
 
 >[!Clinical] 
->[[Peptic ulcers]] – Erosion of mucous membranes of stomach or duodenum by action of HCl
+>[[Peptic Ulcer Disease]] – Erosion of mucous membranes of stomach or duodenum by action of HCl
 >
 >[[Zollinger-Ellison Syndrome]] – Ulcers of duodenum due to ↑ gastric acid secretions
 >

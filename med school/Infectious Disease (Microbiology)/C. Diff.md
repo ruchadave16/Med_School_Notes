@@ -20,7 +20,7 @@ tags:
 
 Common after [[Fluoroquinolones|fluoroquinolones]] and [[Clindamycin|clindamycin]]
 #### Symptoms
-- C difficile colitis (Pseudomembranous colitis)
+- C difficile colitis ([[Pseudomembranous colitis]])
 - Inflammation
 - [[Toxic megacolon]] <- **fatal**
 - Colonic perforation
@@ -31,4 +31,7 @@ Common after [[Fluoroquinolones|fluoroquinolones]] and [[Clindamycin|clindamycin
 - Oral [[vancomycin]], [[fidaxomicin]] <- this is actually first line but exam will ask vancomycin
 	- Fecal microbiota transplantation
 	- Monoclonal antibody for Toxin B to prevent recurrence
+- [[Metronidazole]]
+- [[Rifaximin]]
+- [[Tetracyclins|Tetracyclin]]
 #### Prevention

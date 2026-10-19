@@ -5,7 +5,6 @@ date: 8-30-25
 source: FoM I
 ---
 *Lubricates food with mucus to help movement, initial digestion, buffering of foods*
-
 #### Formation
 Secreted by [[acinar cells]] (isotonic to [[plasma]])
 [[Ductal cells]] modify it
@@ -14,6 +13,7 @@ Secreted by [[acinar cells]] (isotonic to [[plasma]])
 - Absorption of solutes
 
 >[!Note] Higher flow means ductal cells CANNOT modify saliva (closer to plasma)
+>- Tonicity rises but still always hypotonic
 
 **Final Saliva**
 - [[Tonicity|Hypotonic]]
@@ -43,3 +43,4 @@ Secreted by [[acinar cells]] (isotonic to [[plasma]])
 	- Chelates iron, stops growth of organisms that need it
 - IgA binding protein
 	- Forms [[IgA]] which is active against viruses and bacteria
+- Mucins -- lubricate food

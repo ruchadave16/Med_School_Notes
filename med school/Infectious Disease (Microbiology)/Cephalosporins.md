@@ -45,7 +45,7 @@ source: ID
 	- [[Anaphylaxis]], rash, edema, nephritis, hemolytic anemia
 	- Cross reaction with penicillin (~2%)
 - Secondary Reaction
-	- [[C. Diff|C. difficile]] associated colitis
+	- [[Pseudomembranous Colitis|C diff colitis]] 
 - GI Irritation
 	- **Minimize this by taking with food**
 - Local Site Reaction

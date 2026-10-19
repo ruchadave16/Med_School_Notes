@@ -9,7 +9,7 @@ tags:
 ### Etiology
 - Median sternotomy post incidence is 0.4–5.0%
 - Risk
-	- Nasal colonization of Staph aureus, Diabetes, Obesity, Smoking 
+	- Nasal colonization of Staph aureus, Diabetes, [[Obesity]], Smoking 
 	- Urgent surgery
 	- Prolonged ventilation
 - Commonly [[Staph Aureus]]

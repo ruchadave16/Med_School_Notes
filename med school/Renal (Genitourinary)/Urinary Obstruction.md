@@ -9,7 +9,7 @@ source: Renal
 - [[BPH]]
 - [[Urethral Stricture]]
 - Pelvic floor dysfunction
-- Constipation
+- [[Constipation]]
 #### Symptoms
 - Urgency
 - Frequency

@@ -13,6 +13,6 @@ source: ID
 #### Function
 - Cofactor for methylmalonyl-CoA and methionine synthase
 - Needed to make [[myelin]]
-- Binds to [[Intrinsic Factor|intrinsic factor]] to be absorbed in terminal ileum
+- Binds to [[Intrinsic Factor|intrinsic factor]] to be absorbed in terminal [[ileum]]
 - Needed for [[DNA synthesis]], particularly **dTMP**
 #### [[B12 Deficiency]]

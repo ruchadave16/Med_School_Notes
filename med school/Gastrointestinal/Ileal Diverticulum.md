@@ -4,40 +4,36 @@ aliases:
   - Ileal diverticulum
   - Meckel diverticulum
   - meckel diverticulum
-date: 9-3-25
-source: MGA
+date: 9-30-26
+source: MGA, GI
 tags:
   - disease
 ---
-### Definition
-Vitelline duct remnant remains
+*Vitelline duct remnant remains*
 
 ### Etiology
-- Primary causes
-- Risk factors
+- 2% population
 
 ### Pathophysiology
 - Normally when [[midgut]] returns to abdomen, [[vitelline duct]] that extends from yolk sac to ileum disappears but sometimes remains
-- True diverticulum has all layers of small bowel
+	- True diverticulum has all layers of small bowel
 - On anti-mesenteric surface, near middle-distal ileum
 - Contains various mucosa
-- Relevant pathways (e.g. immune, hormonal)
 
+![[Screenshot 2026-09-30 at 8.04.27 PM.png]]
 ### Clinical Features
 - Symptoms
 	- RLQ pain
-	- Volvulus
+	- [[Volvulus]]
 	- Bowel obstruction
 	- Intussusception
-- Signs
+	- Hematochezia
 - Variants
 	- Can be tethered to umbilicus – if twisting, can cause [[necrosis]]
 	- Can also remain open
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- 99mTc-pertechnetate scan
 
 ### Treatment
 - Pharmacologic

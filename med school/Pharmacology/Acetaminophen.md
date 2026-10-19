@@ -27,9 +27,9 @@ tags:
 	- Liver injury signs = RUQ pain, ↑ liver enzymes, jaundice
 
 **Treatment of Toxicity**
-- NAC (N-acetylcysteine) to restore glutathione stores
+- **NAC (N-acetylcysteine)** to restore glutathione stores
 	- GIVE within 8-10 hours
 #### Contraindication
 - Chronic alcohol use
-- Malnutrition
+- [[Malnutrition]]
 - Liver conditions

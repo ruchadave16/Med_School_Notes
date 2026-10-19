@@ -11,7 +11,7 @@ source: FoM II
 #### [[Porphyrin Synthesis]]
 - Made from glycine and succinyl CoA
 #### Degradation
-- Heme is scavaged by [[Macrophage|macrophages]]
+- [[Heme]] is scavaged by [[Macrophage|macrophages]]
 - Broken down by [[heme oxygenase]] and bilirubin reductase to make [[Bilirubin|bilirubin]]
 - Bilirubin brought → [[liver]] on [[albumin]]
 - Covalently modified to [[glucuronic acid]] to get rid of 

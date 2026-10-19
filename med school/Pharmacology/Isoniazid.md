@@ -19,6 +19,8 @@ tags:
 - Give with [[Vitamin B6]] to prevent neuropathy
 #### Adverse Effects
 - Hepatotoxicity
+	- Production of metabolites that are dangerous
+	- Toxicity varies based on genetic acetylation
 - Peripheral neuropathy  -- solve by supplementing with B6
 - Drug-induced lupus-like syndrome
 #### Contraindication

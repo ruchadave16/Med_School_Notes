@@ -1,7 +1,6 @@
 ---
 aliases:
-  - scc
-  - squamous cell carcinoma
+  - lung SCC
 date: 8-16-26
 source: Resp
 tags:

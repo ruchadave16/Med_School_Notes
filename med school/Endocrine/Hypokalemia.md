@@ -46,7 +46,7 @@ source: Neuro
 #### Treatment
 - Oral repletion
 	- IF patient is stable with potassium serum levels greater than ~2.5 mEq/L without EKG changes
-	- Potassium chloride -- 20-40mEq at a time
+	- [[Potassium chloride]] -- 20-40mEq at a time
 		- 10mEq of potassium replaces 0.1 mEq/L
 		- Repeat in 4 hrs
 - IV

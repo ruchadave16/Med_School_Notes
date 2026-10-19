@@ -3,7 +3,7 @@ aliases:
   - citric acid cycle
   - krebs cycle
 ---
-![[Screenshot 2025-11-20 at 12.38.33 AM.png]]
+![[Pasted image 20261003160942.png]]
 
 #### Regulation
 Irreversible enzymes

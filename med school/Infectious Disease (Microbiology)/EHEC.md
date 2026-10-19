@@ -7,7 +7,7 @@ source: ID
 tags:
   - bug
 ---
-Source:
+**Source:**
 - Beef, unpasteurized dairy
 #### Mechanism
 - Same as [[Shigella|shiga]] by binding 60S
@@ -20,7 +20,7 @@ Source:
 #### Symptoms
 - Bloody diarrhea
 - Hemorrhagic colitis
-- HUS risk
 #### Diagnosis
 #### Treatment
+- DO NOT give ANTIBIOTICS -> [[Hemolytic Uremic Syndrome|hemolytic uremic syndrome]] can start
 #### Prevention

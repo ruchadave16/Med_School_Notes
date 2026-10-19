@@ -25,6 +25,8 @@ tags:
 	- Organ transplant patients 
 	- Bone marrow transplant patients
 - Retinitis and enteritis in AIDS patients
+- Esophagitis
+	- Shallow, linear ulcers
 #### Diagnosis
 - PCR assay
 - Bronchoalveolar lavage (BAL) PCR — highly sensitive

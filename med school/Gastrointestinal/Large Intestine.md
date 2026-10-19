@@ -25,6 +25,7 @@ source: FoM I
 #### Motility
 - Movement of [[feces]] towards anus for excretion
 - Ileocecal Sphincter – one-way valve contracts after feces enter [[cecum]] so no reflux
+	- Opens when 
 
 >[!Clinical] If ileocecal valve removed, digestion can be altered and potentially move faster
 
@@ -34,17 +35,9 @@ source: FoM I
 	- Move over long distances (1-3 times a day)
 	- Water absorption in distal colon
 - [[Defecation]]
-	- Feces stored in [[rectum]] until time for defecation
-	- [[Rectosphincteric reflex]] kicks to relax internal anal sphincter
-	- External anal sphincter is voluntary – relaxed
-	- [[Gastrocolic Reflex]]
-		- Distention of stomach increases motility of colon + frequency of mass movements
-		- Afferent limb in stomach mediated by parasympathetic
-		- Efferent mediated by [[Cholecystokinin|CCK]] and [[gastrin]]
 
 #### Secretions
 - Mainly mucus to move feces
 - No enzymes, some hormones
-
 #### Absorptions
 - $K^+$ secretion passive and active

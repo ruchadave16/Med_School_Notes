@@ -12,6 +12,14 @@ source: Heme/Onc
 
 **Absorption** in [[duodenum]] regulated by [[hepcidin]] from liver
 - Inflammation causes hepcidin ↑ so ↓ absorption of iron
+
+1) Reduction from Fe3+ to Fe2+ 
+	- Ascorbate and Duodenal Cytochrome B (DCYTB) 
+2) Uptake of Fe2+ by divalent metal transporter 1 (DMT1)
+3) Export of Fe2+ by ferroportin 1 (FPN1)
+	- Basolateral side of enterocytes
+4) Oxidation of Fe2+ to Fe3+ for release into the bloodstream by hephaestin
+	- Transferrin transports Fe3+ in blood
 ### Iron Sequestration
 *Shunting of iron away into liver*
 - [[IL-6]] stimulates production of [[hepcidin]] so ↓ absorption of iron
@@ -25,5 +33,7 @@ source: Heme/Onc
 - [[Ferritin]]: protein that stores iron
 
 >[!Note] **[[Iron deficiency anemia]] = low serum ferritin & low serum iron, with high TIBC**
+
+- Phytic acid, high in phosphate, or contain oxalate all can reduce intake of iron
 ### [[Iron Poisoning]]
 ### [[Iron Overload]]

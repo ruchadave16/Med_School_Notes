@@ -1,13 +1,15 @@
 ---
 aliases:
   - metronidazole
+  - Flagyl
+  - flagyl
 date: 3-5-26
 source: ID
 tags:
   - drug
 ---
 #### Action
-- Enters cell through passive diffusion
+- Enters cell through **passive diffusion**
 - Selective to anaerobic
 - Ferrodoxin / flavodoxin reduces nitro group to radicals -> toxic metabolites that damage DNA
 #### Uses

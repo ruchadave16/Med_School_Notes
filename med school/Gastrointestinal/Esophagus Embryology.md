@@ -9,7 +9,7 @@ source: MGA
 Tracheoesophageal septum separates airway from esophagus
 
 >[!Clinical] 
->[[Congenital Tracheoesophageal Fistula]], atresia
+>[[Congenital Tracheoesophageal Fistula]], [[esophageal atresia]]
 >[[Sliding hiatal hernia]] – Gastroesophageal junction displaced upwards and cardiac stomach/esophagus in thoracic cavity
 >- Happens when infant laid down
 >- “Hourglass stomach”

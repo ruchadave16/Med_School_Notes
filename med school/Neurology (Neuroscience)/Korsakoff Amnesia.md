@@ -7,11 +7,10 @@ tags:
   - disease
 ---
 ### Etiology
-- Malnutrition, seen in [[alcoholism]]
+- [[Malnutrition]], seen in [[alcoholism]]
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- 
 
 ### Clinical Features
 - Symptoms
@@ -21,9 +20,7 @@ tags:
 - Variants
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- Biochemical test demonstrates increased erythrocyte transketolase activity after thiamine administration
 
 ### Treatment
 - RAPID IV [[Thiamine]] **EMERGENCY**

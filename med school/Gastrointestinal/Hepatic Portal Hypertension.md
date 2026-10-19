@@ -34,7 +34,7 @@ tags:
 - Signs
 	- [[Caput Medusae]] on anterior abdominal wall because of paraumbilical varices
 	- Bleeding [[hemorrhoids]]
-	- Esophageal varices
+	- [[Esophageal varices]]
 - Variants
 
 ### Diagnosis

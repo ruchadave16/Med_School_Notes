@@ -2,13 +2,13 @@
 aliases:
   - pancreatic divisum
   - Pancreatic divisum
-date: 9-5-25
-source: MGA
+date: 10-13-26
+source: GI
 tags:
   - disease
 ---
 ### Definition
-In 10% of embryos, ventral and dorsal (ducts) DON’T fuse
+In 3-10% of embryos, ventral and dorsal (ducts) DON’T fuse at 7 weeks
 
 ### Etiology
 - Primary causes
@@ -20,11 +20,9 @@ In 10% of embryos, ventral and dorsal (ducts) DON’T fuse
 - If division remains, adults follow embryo pattern and drain through dorsal
 
 ### Clinical Features
-- Symptoms
+- Mostly asymptomatic
 	- Some may have abdominal pain, vomiting, nausea
 	- Acute + chronic pancreatitis
-- Signs
-- Variants
 
 ### Diagnosis
 - Labs

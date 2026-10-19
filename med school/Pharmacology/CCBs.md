@@ -13,3 +13,6 @@ tags:
 - Inhibit calcium influx into cardiac and vascular smooth muscle cells by blocking L-type Ca2+ channels
 - ↓ [[contractility]] and HR, ↓ resistance
 - Causes ↑ vasodilation and ↓ BP
+
+#### Adverse Effects
+- Constipation

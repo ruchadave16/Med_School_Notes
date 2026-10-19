@@ -19,13 +19,19 @@ source: ID
 - [[Heme synthesis]]
 - Niacin synthesis from tryptophan
 - Histamine synthesis
+- Neurotransmitter synthesis
 #### Deficiency
 - Convulsion
 - Irritability
-- Sideroblastic anemia
+- [[Sideroblastic anemia]]
 - Peripheral neuropathy
+
+**Causes**
+- [[Isoniazid]]
+- Oral contraceptive use
+- Malnutrition
 #### Toxicity
 - Dizziness
 - Nausea
 - Dermatosis
-- 
+- Peripheral neuropathy

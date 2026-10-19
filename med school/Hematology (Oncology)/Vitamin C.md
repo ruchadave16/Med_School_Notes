@@ -13,7 +13,7 @@ source: ID
 - Hydrophilic antioxidant
 - Conversion of dopamine → [[norepinephrine]]: cofactor
 - [[Collagen]] synthesis coenzyme
-- Iron absorption
+- Iron absorption (reduces Fe3+ -> Fe2+)
 #### Deficiency
 - **Fatigue, weakness**
 - Xray shows subperiosteal elevation

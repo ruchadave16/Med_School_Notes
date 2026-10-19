@@ -33,15 +33,18 @@ source: FoM I
 #### Hormones
 **Acidophils**
 - Somatotrophs – [[Growth Hormone|GH]] (Growth hormone)
+- Mammosomatotrophs -- [[Growth Hormone|GH]] and [[prolactin]]
 - Lactotrophs – [[Prolactin]]
 
-![[Screenshot 2025-10-19 at 11.09.22 PM.png]]
 **Basophils**
-- Corticotrophs – [[ACTH]] (Adrenocorticotrophs)
+- Corticotrophs – [[ACTH]] (Adrenocorticotrophs), [[POMC]] (pro-opiomelanocortin), and [[MSH]] (melanocyte stimulating hormone)
 - Thyrotrophs – [[TSH]] (Thyroid stimulating hormone)
 - Gonadotrophs – [[FSH]] and [[LH]] (Follicle stimulating hormone and Luteinizing hormone)
-![[Screenshot 2025-10-19 at 11.10.11 PM.png]]
+
+![[Screenshot 2026-10-19 at 1.21.13 PM.png]]
+ 
 #### Embryology
+
 - Oral [[ectoderm]] from roof of primitive mouth
 - Migrates to brain forming Rathke’s Pouch
 
@@ -49,3 +52,5 @@ source: FoM I
 >Normally Rathke’s Pouch disappears but sometimes it can leave tissue behind as colloid-filled cysts
 
 #### [[Anterior Pituitary Feedback]]
+
+#### [[Anterior Pituitary Tumors]]

@@ -66,7 +66,7 @@ tags:
 ### Treatment
 - [[Dialysis]]
 	- A: acidemia (pH < 7.1)
-	- E: [[HYPERKALEMIA]], [[Hypercalcemia]], [[hypermagnesiumia]], [[Hyperphosphatemia]]
+	- E: [[HYPERKALEMIA]], [[Hypercalcemia]], [[Hypermagnesemia]], [[Hyperphosphatemia]]
 	- I: Intoxications
 	- O: fluid overload ([[Pulmonary Edema]] causing resp. failure and diuretics not helping)
 	- U: uremia symptoms

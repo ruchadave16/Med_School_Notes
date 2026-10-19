@@ -24,9 +24,12 @@ source: FoM I
 **Contraction Methods** (coordinated by [[enteric nervous system]] with input of [[Autonomic Nervous System|autonomic]] – parasympathetic increases contraction, sympathetic reduces contractions)
 1) Segmentation
 	- Contracts on bolus to mix chyme
+	- ↑ when Ca2+ influx
 2) [[Peristalsis]]
 	- Contraction of circular muscle behind bolus and relaxation of circular muscle in front of bolus
 	- Pushes towards colon
+3) Tonic Contraction
+	- Prolonged contractions that isolate segments of intestine
 
 ![[Screenshot 2025-09-04 at 9.11.02 PM.png]]
 

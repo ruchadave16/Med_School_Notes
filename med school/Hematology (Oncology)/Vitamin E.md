@@ -18,6 +18,7 @@ source: ID
 #### Deficiency
 - Muscle weakness
 - Demyelination of posterior columns + spinocerebellar tract
+	- Neurologic presentation may appear similar to vitamin B12 deficiency, but without megaloblastic anemia
 #### Toxicity
 - ↑ necrotizing enterocolitis in kids
 - ↑ Anticoagulatory effect of warfarin

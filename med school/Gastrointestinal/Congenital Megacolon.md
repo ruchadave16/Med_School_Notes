@@ -6,32 +6,29 @@ aliases:
   - Hirschsprung Disease
   - colonic aganglionosis.
   - Colonic aganglionosis
+  - aganglionic megacolon
 date: 9-3-25
 source: MGA
 tags:
   - disease
 ---
-### Definition
-Impaired [[peristalsis]] and loss of muscle tone
+*Impaired [[peristalsis]] and loss of muscle tone*
 
 ### Etiology
-- Primary causes
-- Risk factors
+- Genetic, could be mutation of endothelin-B
 
 ### Pathophysiology
 - Normally: [[neural crest cells]]. form automatic ganglia in wall of gut ([[myenteric plexus]]) that vagus synapses on
 - If neural crest don’t migrate to distal [[hindgut]], impaired peristalsis and loss of smooth muscle tone
-	- Causes colon obstruction
-- Relevant pathways (e.g. immune, hormonal)
-
+	- Causes colon obstruction (chronically contracted)
+- 
 ### Clinical Features
-- Symptoms
-	- Constipation
-	- Proximal region to blockage overexpands (abdominal distention)
-	- Bilious vomit
-	- Failure to pass meconium
-- Signs
-- Variants
+- Constipation
+	- Can defecate as infrequently as 3 weeks
+- Anorexia
+- Proximal region to blockage overexpands (abdominal distention)
+- Bilious vomit
+- Failure to pass meconium
 
 ### Diagnosis
 - Labs
@@ -39,14 +36,12 @@ Impaired [[peristalsis]] and loss of muscle tone
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- Remove aganglionic section of colon
+- Might need colectomy otherwise
 
 ### Complications
 - Short-term
 - Long-term
 
 ### High-Yield Associations
-- Classic buzzwords
-- Boards clues
+- Up to 1 in 5000 births

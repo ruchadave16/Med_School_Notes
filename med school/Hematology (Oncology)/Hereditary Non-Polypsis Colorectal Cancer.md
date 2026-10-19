@@ -3,7 +3,7 @@ aliases:
   - HNPCC
   - Lynch syndrome
   - Lynch Syndrome
-date: 2-3-26
+date: 9-30-26
 source: ID
 tags:
   - disease
@@ -13,11 +13,18 @@ tags:
 - Results in microsatellite instability
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- 1 defective copy inherited, 2nd = mutation
 
 ### Clinical Features
 - Cancer develops generally on R side of colon
+	- Endometrium
+	- Stomach
+	- Ovary
+	- Ureters
+	- Brain
+	- Hepatobiliary tract
+	- Pancreas
+	- Skin
 
 ### Diagnosis
 - Labs

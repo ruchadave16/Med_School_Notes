@@ -10,6 +10,7 @@ tags:
 #### Mechanism
 - Ingestion of cysts that form trophozoites in duodenum
 - Attach to wall but NO invasion
+- IgA and mucosal IL-6 for clearance so immunocompromised individuals have a hard time recovering
 #### Symptoms
 - Foul smelling diarrhea (fatty diarrhea)
 	- Significant weight loss

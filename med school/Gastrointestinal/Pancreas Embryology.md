@@ -12,6 +12,8 @@ Forms from 2 buds off of foregut [[endoderm]]
 	- Forms main [[pancreatic duct]], [[uncinate process]], and part of pancreatic head
 - Dorsal pancreatic bud
 	- Forms accessory pancreatic duct, head, body, and tail of pancreas
+	
+![[Screenshot 2026-10-13 at 9.05.29 PM.png]]
 
 Week 7-8, ventral bud merges with dorsal
 Week 10 – [[insulin production]] starts

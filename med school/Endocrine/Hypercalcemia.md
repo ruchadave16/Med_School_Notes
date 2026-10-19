@@ -12,9 +12,9 @@ source: FoM I
 	- [[Addison Disease]]
 	- [[Tertiary Hyperparathyroidism]]
 - Malignancy
-	- ↑ PTHrP ([[Squamous cell carcinoma]] of the lung, squamous cell cancer of the head and neck)
+	- ↑ PTHrP ([[Lung SCC]] of the lung, squamous cell cancer of the head and neck)
 	- ↑ PTH (lung and ovarian tumors)
-	- ↑ Vit D ([[lymphoma]])
+	- ↑ [[Vitamin D]] ([[lymphoma]])
 - Bony invasion from malignancy
 	- Bone cancer, multiple myeloma, or metastases from other malignancies
 - [[Paget disease of bone]]

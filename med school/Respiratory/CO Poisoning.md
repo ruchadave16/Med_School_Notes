@@ -12,7 +12,7 @@ tags:
 - Multiple ppl in one family in winter
 - Could be intentional as form of suicide
 ### Pathophysiology
-- CO binds to heme as seen in [[Oxygen Transport|oxygen transport]] forming [[carboxyhemoglobin]]
+- CO binds to [[heme]] as seen in [[Oxygen Transport|oxygen transport]] forming [[carboxyhemoglobin]]
 	- CO has MUCH higher affinity to hemoglobin
 	- Shifts to R form
 	- Reduced carrying capacity → tissue hypoxia

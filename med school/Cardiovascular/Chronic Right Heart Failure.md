@@ -19,6 +19,7 @@ tags:
 - [[JVD]]
 - peripheral edema
 - Congestive Hepatomegaly & Ascites
+	- “Nutmeg” liver, centrilobar
 - Nausea / anorexia
 
 ### Diagnosis

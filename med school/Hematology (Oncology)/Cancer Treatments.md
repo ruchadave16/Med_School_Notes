@@ -39,7 +39,7 @@ Targeted therapies
 - [[Bortezomib]] -- proteasome inhibitor
 - [[Tyrosine Kinase inhibitors]] ([[Imatinib]])
 #### Therapeutic Resistance + Combination Chemo
-- Reduced risk of the tumor cells acquiring drug resistance[[]]
+- Reduced risk of the tumor cells acquiring drug resistance
 #### Supportive
 - [[G-CSF|Filgrastim]] -- G-CSF agents that stimulate neutrophil production
 - [[Ondansetron]] -- 5-HT3 antagonist used for chemotherapy-induced nausea/vomiting

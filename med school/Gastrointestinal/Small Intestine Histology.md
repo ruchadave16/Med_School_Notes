@@ -18,7 +18,7 @@ source: FoM I
 ![[Screenshot 2025-09-07 at 2.47.42 PM.png]]
 
 ![[Screenshot 2025-09-07 at 2.47.31 PM.png]]
-![[Pasted image 20251108140920.png]]
+
 
 2) Submucosa
 	- [[Brunner Glands]]

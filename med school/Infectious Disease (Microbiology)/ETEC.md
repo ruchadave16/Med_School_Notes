@@ -9,6 +9,7 @@ tags:
 ---
 #### Mechanism
 - Heat labile toxin (LT) (found in [[plasmid]])
+	- Cholera like 
 	- Activates adenylate cyclase (↑ cAMP)
 	- [[Cystic Fibrosis Transmembrane Regulator|CFTR]] releases more Cl- so ↑ water in gut -> diarrhea
 - Heat stable toxin (ST)

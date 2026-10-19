@@ -11,6 +11,9 @@ source: MGA
 
 >[!Clinical] Position of appendix determines symptoms of [[appendicitis]]
 
-
 #### Histology
 ↑ of GALT, NO teniae coli
+
+#### Tumors
+- Carcinoid -- most common
+- [[Mucinous Adenocarcinoma]]

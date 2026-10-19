@@ -11,9 +11,11 @@ K2: menaquinone
 - Made by intestine flora
 #### Effect
 - [[Coagulation Cascade|Coagulation]] – cofactor for $\gamma$-carboxylation of clotting factors **II, VII, IX, X** and protein C and S in [[liver]]
+- [[Warfarin]] inhibits K based synthesis of those proteins
 #### Deficiency
 - Coagulopathy
 - VKDB
+- Neonatal hemorrhage
 
 **Signs**
 - Bruises, [[purpura]]

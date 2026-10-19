@@ -40,7 +40,7 @@ tags:
 - Lifestyle
 
 ### Complications
-- Obesity, diabetes, cardiac failure
+- [[Obesity]], diabetes, cardiac failure
 - Max lifespan = 25-30 years
 
 ### High-Yield Associations

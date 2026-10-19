@@ -4,11 +4,11 @@ aliases:
 date: 9-5-25
 source: MGA
 ---
-##### Boundaries
+#### Boundaries
 - Enters abdominal cavity through esophageal hiatus of diaphragm
 - Left of T10 vertebra
 - Enters stomach by gastroesophageal junction
-##### Contents
+#### Contents
 - Lower esophageal sphincter – ring of muscle at bottom
 
 >[!Clinical] [[GERD]] – relaxation or ↓ tone of this sphincter
@@ -32,17 +32,17 @@ source: MGA
 
 - Gastroesophageal junction – epithelium from stratified squamous to simple columnar 
 - Lower esophageal sphincter – muscularis externa thickens
-##### Blood Supply
+#### Blood Supply
 - L gastric a. – from [[celiac trunk]]
 - L inferior phrenic a. – abdominal aorta
 
 Venous
 - L gastric v. – drains to hepatic portal v. 
 - Azygous v. – drains to SVC
-- **Location of venous anastamose**
-##### Innervation
+- **Location of venous anastamoses**
+#### Innervation
 
-##### Lymphatic Drainage
+#### Lymphatic Drainage
 - L gastric lymph nodes
 - Celiac lymph nodes
-##### [[Esophagus Embryology]]
+#### [[Esophagus Embryology]]

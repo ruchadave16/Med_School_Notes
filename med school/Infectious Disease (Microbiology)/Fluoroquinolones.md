@@ -50,6 +50,7 @@ Chromosomal mutations and plasmid mediation
 		- >60
 		- Corticosteroid use
 		- Renal insufficiency
+- [[C. Diff]] infection risk ↑ 
 ### Drug Interactions
 - Chelation with Divalent and Trivalent Cations
 	- Separation usage of Ca, Mg, Fn, Al supplements

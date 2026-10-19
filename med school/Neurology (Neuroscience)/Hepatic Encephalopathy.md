@@ -11,6 +11,11 @@ tags:
 - [[Hepatitis]]
 - Liver shunt
 
+Triggers
+- Infections
+- Electrolyte Imbalances like [[Hypokalemia]] and [[Metabolic Alkalosis]]
+- GI bleeding
+
 ### Pathophysiology
 - Impaired [[liver]] function causes ↑ [[ammonia]] levels
 - Alzheimer II cells: 
@@ -32,9 +37,8 @@ tags:
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- [[Lactulose]] = FIRST LINE
+- [[Rifaximin]] for recurrent
 
 ### Complications
 - Short-term

@@ -10,9 +10,11 @@ tags:
 #### Action
 - Competitively inhibits dihydrofolate reductase (DHFR) -> no regeneration of tetrahydrofolate
 	- Stops [[purine synthesis]] and dTMP
+- Folate antagonist
 #### Uses
 - Leukemias, lymphomas, sarcomas
 - [[Ectopic pregnancy]], autoimmune
+- [[IBD]] maintanence
 #### Resistance
 - ↓ transport into cells
 - ↑ efflux transporters

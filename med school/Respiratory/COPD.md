@@ -38,8 +38,6 @@ tags:
 
 **Exacerbation Management**
 - Acute symptom = [[albuterol]], [[Ipratropium]]
-
-
 ### Complications
 - Short-term
 - Long-term

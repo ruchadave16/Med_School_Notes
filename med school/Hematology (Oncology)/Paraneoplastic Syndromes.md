@@ -12,7 +12,7 @@ source: ID
 
 **Common Signs**
 - [[Hypercalcemia]] 
-	- [[Squamous Cell Carcinoma]]
+	- [[Lung SCC]]
 	- Production of PTH-related protein
 - [[Cushing Syndrome]]
 	- [[Small cell carcinoma]] (lung)

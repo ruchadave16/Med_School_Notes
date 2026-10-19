@@ -48,4 +48,4 @@ source: MGA
 	- Innermost oblique, Inner circular, outer longitudinal
 	- Inner circular makes pyloric sphincter
 
-![[Drawing 2025-11-08 14.10.44.excalidraw]]
+![[Screenshot 2026-09-27 at 8.19.40 PM.png]]

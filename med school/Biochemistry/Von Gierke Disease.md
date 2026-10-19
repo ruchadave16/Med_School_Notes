@@ -24,7 +24,7 @@ tags:
 ### Clinical Features
 - VERY low fasting blood sugar
 - [[Lactic acidosis]] – ↑ [[lactate]] in blood
-- [[Hyperuricemia]] – ↑ [[uric acid]] in blood
+- [[Hyperuricemia]] – ↑ [[uric acid]] in blood 
 - [[Hypertriglyeremia]] – ↑ [[triglycerides]] in blood
 - Hepatomegaly
 ### Diagnosis
@@ -33,9 +33,7 @@ tags:
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- Use cornstarch to prevent sudden spikes
 
 ### Complications
 - Short-term

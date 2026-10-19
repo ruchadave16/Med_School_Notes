@@ -14,7 +14,7 @@ aliases:
 - 2 glycerol, 2 ATP = 1 glucose
 All inputs must be phosphorylated by ATP: Alanine, lactate, or glycerol
 
-![[Screenshot 2025-11-20 at 2.21.27 PM.png]]
+![[Screenshot 2026-10-08 at 10.45.12 PM.png]]
 
 #### Regulation
 - [[Pyruvate Kinase|Pyruvate kinase]] (converts PEP to pyruvate)

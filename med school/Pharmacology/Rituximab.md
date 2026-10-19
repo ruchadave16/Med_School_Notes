@@ -12,6 +12,7 @@ tags:
 #### Uses
 - [[EBV]] infection in immunocompromised patients
 - CD20+ lymphomas ([[follicular lymphoma]], [[CLL]]), [[rheumatoid arthritis]]
+- Offbrand for refractory [[IBD]]
 #### Administration
 
 #### Dosing

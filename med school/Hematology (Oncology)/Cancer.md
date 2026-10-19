@@ -10,7 +10,7 @@ source: ID
 #### Epidemiology
 **Environmental Factors**
 - Dominant risk factors
-- Diet – obesity = moderately ↑ risk for many cancers
+- Diet – [[obesity]] = moderately ↑ risk for many cancers
 - [[Smoking]] = cancers of mouth, larynx, pharynx, esophagus, pancreas, bladder, and lung
 - [[Psychiatric/Alcohol]] = cancers of oropharynx, larynx, esophagus, liver
 - Reproductive history = estrogen exposure increases risk of breast cancer and endometrium
@@ -19,10 +19,10 @@ source: ID
 	- [[Hepatitis B Virus|HBV]], [[Hepatitis C Virus|HCV]] – hepatocellular carcinoma
 	- [[HHV8]] – [[kaposi sarcoma]]
 	- [[HPV]] (Type 16 and 18) – cervical carcinoma, head and neck cancer,
-	- [[H. Pylori]]– gastric adenocarcinoma and [[MALT lymphoma]]
+	- [[H. Pylori]]– [[gastric adenocarcinoma]] and [[MALT lymphoma]]
 	- HTLV-1 – [[ATLL]]
 	- Liver fluke (Clonorchis sinensis) – [[Cholangiocarcinoma]]
-	- Schistosoma haematobium – Squamous cell bladder cancer
+	- Schistosoma haematobium – Bladder SCC
 - Carcinogens
 	- [[Asbestos]] – lung, esophageal, gastric, colon, mesothelioma
 	- Benzene – [[acute myeloid leukemia]]
@@ -37,10 +37,10 @@ As age increases, so does chance of cancer
 
 **Acquired Predispositions**
 - [[Chronic Inflammation|Chronic inflammation]]
-	- Pancreatitis – pancreatic carcinoma
-	- Hashimoto thyroiditis – [[MALT lymphoma]]
-	- Reflux esophagitis – esophageal cancer
-	- IBD – colorectal cancer
+	- [[Pancreatitis]] – pancreatic carcinoma
+	- [[Hashimoto's disease]] – [[MALT lymphoma]]
+	- [[Reflux esophagitis]] – esophageal cancer
+	- [[IBD]] – colorectal cancer
 - Immunodeficiency – viral cancers
 - Precursor lesions 
 

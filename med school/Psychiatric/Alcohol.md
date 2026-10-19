@@ -6,6 +6,7 @@ source: Neuro
 tags:
   - drug
 ---
+- ↑↑ calories / gram
 #### Mechanism
 - ↑ [[GABA]] activity at [[GABA A Receptors|GABA A receptor]] – sedation, amnesia, motor impairment
 - ↓ [[glutamate]] at [[NMDA Receptors|NMDA receptors]] – depressant
@@ -44,3 +45,11 @@ tags:
 	- Nausea ↑ to deter drinking
 	- AVOID in intoxicated people
 		- 12 hr abstinence minimum
+
+#### Alcohol Metabolism
+
+![[Screenshot 2026-10-14 at 8.08.23 PM.png]]
+
+- Inhibition of [[Gluconeogenesis]]
+- Inhibition of [[Beta Oxidation|fatty acid oxidation]]
+- Inhibition of [[Glycolysis]]

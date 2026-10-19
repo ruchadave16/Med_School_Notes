@@ -22,6 +22,6 @@ Same process as normal up till [[Collecting Duct Transport|collecting duct trans
 	- Continues to provide gradient for NaCl to diffuse out of [[Loop of Henle Transport|thin ascending limb]]
 
 >[!Clinical]
->In severe [[malnutrition]], plasma urea levels low
+>In severe [[Malnutrition]], plasma urea levels low
 >- Urea can’t create osmotic graident
 >- Urine WON’T concentrate 

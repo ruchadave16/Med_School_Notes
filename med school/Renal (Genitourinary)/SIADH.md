@@ -1,8 +1,8 @@
 ---
 aliases:
   - Syndrome of Inappropriate ADH
-date: 10-21-25
-source: FoM I
+date: 10-19-26
+source: FoM I, Endo
 tags:
   - disease
 ---
@@ -10,6 +10,7 @@ tags:
 *High secretion of [[Vasopressin|ADH]] from either [[posterior pituitary]] or an autonomous site*
 ### Etiology
 - Postoperative / recent surgery or procedure
+- Paraneoplastic -- [[Lung SCC]]
 - [[Selective Serotonin Reuptake Inhibitors|SSRIs]]
 - [[Carbamazepine]], [[Oxcarbazepine|oxcarbazepine]], [[valproate]]
 - [[Antipsychotics]]
@@ -19,15 +20,14 @@ tags:
 - [[Ecstasy]], [[oxytocin]], [[nicotine]], [[chlorpropamide]]
 
 ### Pathophysiology
-- Mechanism of disease
-	- High ADH secretion → excess water reabsorption by [[collecting ducts]] → dilute body fluid
-	- High concentrated urine
-- Relevant pathways (e.g. immune, hormonal)
+- High ADH secretion → excess water reabsorption by [[collecting ducts]] → dilute body fluid
+- High concentrated urine
 
 ### Clinical Features
-- Symptoms
-- Signs
-- Variants
+- [[Hyponatremia]]
+- [[Cerebral edema]]
+	- Neuro dysfunction
+- NO edema (blood volume normal)
 
 ### Diagnosis
 - Labs

@@ -29,7 +29,7 @@ source: FoM II
 - Similar to [[Direct Acting Cholinomimetics|direct cholinomimetics]]
 	- Miosis + aqueous humor ↑ 
 	- Bronchoconstriction + ↑ secretions in bronchi
-	- ↑ Peristalsis + secretions
+	- ↑ [[Peristalsis]] + secretions
 	- ↑ bladder contraction + sphincter relaxation
 - Heart: similar to vagal
 	- ↓ Chronotropic – ↓ HR

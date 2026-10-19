@@ -14,21 +14,24 @@ tags:
 	- [[Phenytoin]]
 	- Oral contraceptives
 - ↑ Requirement
+	- [[Prenatal Period|pregnancy]]
+- [[Alcoholism]]
 - Folic acid antagonists ([[methotrexate]])
+- [[Phenytoin]]
+- [[Sulfonamides]]
 ### Pathophysiology
-- Macrocytic, megaloblastic **anemia**
+- Macrocytic, [[megaloblastic anemia]] 
 - Hypersegmented polymorphonuclear cells
 
 ### Clinical Features
--  Fetal [[neural tube]] defects
-- No neuro symptoms
+-  Fetal [[neural tube defects]] 
+- **No neuro symptoms**
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- ↑ homocysteine with normal methylmalonic acid
 
 ### Treatment
 - Folate replacement
+	- **Folate supplementation can improve the anemia of B12 deficiency while allowing neurologic injury to progress.** 
 
 ### Complications
 - Short-term

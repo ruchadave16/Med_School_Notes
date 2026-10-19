@@ -15,7 +15,7 @@ Type I
 - Autoimmune disorder
 
 Type II
-- Obesity
+- [[Obesity]]
 ### Pathophysiology
 Type I
 - Destruction of beta cells of [[pancreatic islets]] → low insulin secretion

@@ -18,4 +18,6 @@ source: ID
 - Coenzyme for redox reactions
 #### Deficiency
 - Conjunctivitis with corneal vascularization
-- Cheilosis
+- [[Cheilosis]]
+- Glossitis -> magenta tongue
+![[Screenshot 2026-10-14 at 11.58.36 PM.png]]

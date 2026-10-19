@@ -19,9 +19,7 @@ tags:
 - Hypogonadism
 
 ### Diagnosis
-- Labs
-- Imaging
-- Criteria
+- Bronze color, pancreatic damage, liver cirrhosis
 
 ### Treatment
 - Phlebotomy

@@ -5,6 +5,8 @@ aliases:
   - plasma calcium
 ---
 Calcium 1-2% in blood in 3 forms
+- Absorbed by duodenum and jejunum by brush border
+- Transporters are expressed based on [[Vitamin D]] levels
 
 1) Free iodized calcium (50%)
 2) Protein-bound calcium (40-45%)

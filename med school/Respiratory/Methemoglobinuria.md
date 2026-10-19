@@ -11,7 +11,7 @@ tags:
 - [[Dapsone]]
 - [[Lidocaine]] or [[benzocaine]] -- topical anesthetics
 ### Pathophysiology
-- Fe3+ binds to heme instead of Fe2+ so it can't bind oxygen
+- Fe3+ binds to [[heme]] instead of Fe2+ so it can't bind oxygen
 
 
 ### Clinical Features

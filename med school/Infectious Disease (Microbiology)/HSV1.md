@@ -18,6 +18,7 @@ tags:
  ![[Screenshot 2026-02-26 at 10.57.28 PM.png]]
 - Encephalitis -- temporal lobe lesion
 - Primary herpes simplex infection in pediatric patients
+- Esophagitis -- punched out lesions
 #### Diagnosis
 - PCR
 	- CSF PCR for encephalitis

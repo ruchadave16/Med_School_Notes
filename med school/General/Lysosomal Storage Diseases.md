@@ -5,7 +5,7 @@ source: FoM II
 ---
 [[Glycosphingolipid]] storage disorders because of [[mutations]] in [[glycohydrolases]] that breakdown these glycosphingolipids in [[Lysosome|lysosomes]]
 
-![[Screenshot 2026-01-10 at 5.32.53 PM.png]]
+![[Screenshot 2026-10-09 at 6.33.41 PM.png]]
 
 1) [[I Cell Disease]] – most severe
 	- Defective GlcNAc phosphotransferase → catalyzes N-linked [[glycosylation]] of asparagine with M6P (mannose 6 phosphate) → secretion lysosome proteins
@@ -33,3 +33,5 @@ source: FoM II
 	- Hepatosplenomegaly, osteoporosis of long bones
 	- Enzyme replacement therapy
 	- Survival till 2 up to adulthood
+	
+	

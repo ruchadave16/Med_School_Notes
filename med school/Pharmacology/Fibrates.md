@@ -29,4 +29,4 @@ tags:
 - Rash 
 - Liver enzyme ↑ -- **monitor LFTs**
 #### Contraindication
-- Don't combine with [[Bile Acid Resins|bile acid resins]] -- ↑ risk of gallstones
+- Don't combine with [[Bile Acid Resins|bile acid resins]] -- ↑ risk of [[gallstones]]

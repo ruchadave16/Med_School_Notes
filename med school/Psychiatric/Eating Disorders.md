@@ -22,7 +22,7 @@ source: Neuro
 	- Media obsession w thinness
 #### Risk Factors
 - Physical
-	- Obesity
+	- [[Obesity]]
 	- Chronic illnesses
 - Psychological
 	- Career pressure to stay thin

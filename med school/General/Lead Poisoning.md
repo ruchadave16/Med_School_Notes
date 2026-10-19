@@ -33,7 +33,7 @@ Exposure
 - Anemia
 - *Blue line on gums*
 - *SEVERE abdominal pain*
-- *Constipation*
+- *[[Constipation]]*
 - [[Hypertension]]
 - Infertility
 - *Irritability*

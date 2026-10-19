@@ -7,9 +7,6 @@ source: FoM II
 1) 7$\alpha$-hydroxylase catalyzes 1st step **RATE limiting** – negative feedback if bile acid ↑ 
 	- About 50% ionized, present as salt
 
-
-![[Screenshot 2025-11-20 at 10.05.41 PM.png]]
-
 2) Conjugation with glycine or taurine (highly ionized)
 	- Forms stored in [[gallbladder]]
 

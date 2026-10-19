@@ -14,7 +14,11 @@ tags:
 - Urease positive
 #### Mechanism
 - Urease converts urea -> ammonia -> cloud that allows it to penetrate mucosal layer
+	- ↑ pH around bacteria to protect from acid 
+	- Adhesins that allow adhesion 
+	- [[Flagella]] allow movement through mucus layer
 - High risk from [[macrolides]]
+- Infection starts in antrum
 #### Symptoms
 - Gastritis
 	- Risk of [[MALT lymphoma]] and [[gastric adenocarcinoma]]
@@ -27,4 +31,5 @@ tags:
 
 > Follow up testing in 4 weeks
 #### Treatment
-- [[Clarithromycin]] + [[Amoxicillin]] + [[proton pump inhibitor]]
+- [[Clarithromycin]] + [[Amoxicillin]] + [[PPIs|proton pump inhibitors]]
+- Quadruple therapy if high resistance: [[PPIs]] + [[bismuth]] + [[Metronidazole]] + [[Tetracyclins|Tetracyclin]]

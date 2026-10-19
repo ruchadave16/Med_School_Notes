@@ -11,7 +11,7 @@ tags:
 ### Etiology
 - Primary causes
 - Risk factors
-	- Obesity
+	- [[Obesity]]
 	- Dieting history
 	- Mood and anxiety disorders
 	- Genetic predisposition

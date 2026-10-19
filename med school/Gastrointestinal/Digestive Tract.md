@@ -74,3 +74,4 @@ source: FoM I
 	- Continous w [[Mesentery Formation|mesenteries]]
 	- *** Exception – replaced w adventitia where GI not in cavity but directly to adjacent structure
 ![[Screenshot 2025-09-07 at 1.40.27 PM.png]]![[Screenshot 2025-09-07 at 1.46.10 PM.png]]
+

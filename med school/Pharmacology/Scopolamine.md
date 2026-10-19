@@ -14,7 +14,7 @@ tags:
 #### Uses
 - Motion sickness
 #### Administration
-
+- Transdermal patch
 #### Dosing
 
 #### Adverse Effects

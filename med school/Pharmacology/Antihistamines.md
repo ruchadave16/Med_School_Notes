@@ -23,7 +23,7 @@ tags:
 
 **Properties**
 - Non-sedatives
-- H1 antagonists only
+- [[H1 antagonists]] only
 
 #### Uses
 - [[Allergic reactions]]

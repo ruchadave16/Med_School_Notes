@@ -13,7 +13,7 @@ tags:
 - 60s to 80s, M 2x rate of F
 - Risk
 	- Smoking
-	- Obesity
+	- [[Obesity]]
 	- HTN
 	- Occupational exposure 
 

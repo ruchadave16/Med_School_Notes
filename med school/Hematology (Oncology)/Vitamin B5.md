@@ -14,9 +14,10 @@ source: ID
 - Milk
 #### Functions
 - Important part of [[CoA]]
-- Cofactor for acyl transfer reaction and [[Fatty Acid Synthesis|fatty acid synthesis]]
+- Cofactor for acyl transfer reaction and [[Fatty Acid Synthesis|fatty acid synthesis]] -- fatty acid synthase
 #### Deficiency
 - Dermatitis
 - Adrenal insufficiency
 - Alopecia
 - Enteritis
+- Burning feet sensation

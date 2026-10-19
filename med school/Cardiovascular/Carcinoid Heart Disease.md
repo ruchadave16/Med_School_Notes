@@ -8,7 +8,7 @@ tags:
   - disease
 ---
 ### Etiology
-- Metastases of primary neuroendocrine tumor
+- Metastases of primary [[neuroendocrine tumor]]
 
 ### Pathophysiology
 - ↑ [[Serotonin]] and other vasoactive substances secreted into hepatic veins of liver

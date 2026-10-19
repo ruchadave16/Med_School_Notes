@@ -71,7 +71,7 @@ tags:
 
 >[!Note] **[[Sacubitril]]** stops breakdown of BNP so in patients on this med, BNP will be artificially high. Measure NT-proBNP instead
 
->[!Note] Obesity
+>[!Note] [[Obesity]]
 >Can suppress production of NP 
 > Standard NT-proBNP rule-out threshold of <125 ng/L had only 67% sensitivity in patients with BMI >35 kg/m².
 

@@ -32,7 +32,7 @@ tags:
 
 ### Complications
 - Can become ulcerative and cause hemoptysis
-- Can progress to [[Squamous Cell Carcinoma|squamous cell carcinoma]]
+- Can progress to [[Lung SCC|squamous cell carcinoma]]
 
 ### High-Yield Associations
 - Classic buzzwords

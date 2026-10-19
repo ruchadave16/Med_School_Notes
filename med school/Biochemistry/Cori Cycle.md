@@ -4,7 +4,7 @@ source: FoM II
 aliases:
   - Cori cycle
 ---
-![[Screenshot 2025-11-20 at 2.34.08 PM.png]]
+![[Screenshot 2026-10-09 at 6.28.00 PM.png]]
 
 - Muscles use glucose during anaerobic respiration and make lactate
 - Liver takes lactate through Cori cycle to do [[gluconeogenesis]]

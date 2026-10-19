@@ -13,4 +13,4 @@ Week 4-6 of development
 	- Dorsal mesogastrium pulled to left as a result
 	- Creates omental bursa (lesser sac) posterior to stomach
 
->[!Clinical] [[Hypertrophic Plyoric Stenosis]] – stenosis of stomach to small intestine opening
+>[!Clinical] [[Pyloric Stenosis]] – stenosis of stomach to small intestine opening

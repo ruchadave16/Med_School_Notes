@@ -18,8 +18,8 @@ Location, exertion, types of activities, intensity, radiation, symptoms associat
 - [[Pulmonary Embolism]] Pleuritic pain + dyspnea + tachycardia; risk factors for DVT; S1Q3T3 on ECG 
 - [[Pneumothorax]] Sudden sharp unilateral pain; decreased breath sounds; tracheal deviation
 - [[Pleuritis]]/Pneumonia Pleuritic, fever, productive cough; friction rub
-- [[GERD]]/Esophageal spasm Burning, often postprandial, relieved by antacids; can mimic angina
-- [[Peptic ulcer]] / [[gastritis]] Epigastric tenderness; history of NSAID use
+- [[GERD]]/Esophageal spasm Burning, often postprandial, relieved by [[antacids]]; can mimic angina
+- [[Peptic Ulcer Disease|peptic ulcers]] / [[gastritis]] Epigastric tenderness; history of NSAID use
 - [[Costochondritis]] Reproducible with palpation at costochondral junctions (Tietze syndrome)
 - [[Panic attack]] / anxiety Chest tightness + palpitations + shortness of breath; exclude cardiac first
 - [[HHV3|Herpes zoster]] (shingles) -- Dermatome burning

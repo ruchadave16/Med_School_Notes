@@ -11,7 +11,7 @@ source: FoM II
 
 ![[Screenshot 2026-07-08 at 9.15.11 AM.png]]
 
-Heme molecule in center that binds to $O_2$
+[[Heme]] molecule in center that binds to $O_2$
 - When deoxygenated, molecules are NOT planar (**Tense State**)
 - When oxygenated, planar (**Relaxed State**)
 - Cannot bind to Fe3+ 
@@ -35,6 +35,6 @@ HbF has a higher affinity for O2 than adult hemoglobin
 #### Degradation
 Removed by [[Macrophage|macrophages]] of [[reticuloendothelial system]], broken into [[heme]] and globins
 - Globin -> [[amino acids]]
-- Heme oxidized -> [[biliverdin]] -> [[bilirubin]]
+- [[Heme]] oxidized -> [[biliverdin]] -> [[bilirubin]]
 
 ![[Screenshot 2026-07-08 at 9.24.08 AM.png]]

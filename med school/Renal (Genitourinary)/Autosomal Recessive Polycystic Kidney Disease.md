@@ -47,7 +47,7 @@ tags:
 	- 20% have ESRD in first decade
 - Systemic [[Hypertension|HTN]]
 - Liver disease
-- Esophageal varices
+- [[Esophageal varices]]
 
 ### High-Yield Associations
 - Classic buzzwords

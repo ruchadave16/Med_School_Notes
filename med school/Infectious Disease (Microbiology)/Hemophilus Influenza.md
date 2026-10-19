@@ -13,7 +13,7 @@ tags:
 *[[Gram negative]]pleomorphic coccobacillus*
 - Oxidase positive
 - Chocolate agar growth
-- Need X factor (heme) and V factor (NAD)
+- Need X factor ([[heme]]) and V factor (NAD)
 ### Pathophysiology
 - Capsule (Polyribitol phosphate)
 	- Type B = most virulent

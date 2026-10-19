@@ -35,7 +35,7 @@ Atresia: absense of normal passageway
 #### Complications
 - Incompatible with survival
 - Long-term
-	- Malnutrition
+	- [[Malnutrition]]
 	- [[Aspiration pneumonia]]
 
 #### High-Yield Associations

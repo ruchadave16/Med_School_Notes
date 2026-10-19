@@ -50,8 +50,7 @@ tags:
 - Lifestyle
 
 ### Complications
-- Short-term
-- Long-term
+- Screening from 40-45 yrs with colonoscopy
 
 ### High-Yield Associations
 - Classic buzzwords

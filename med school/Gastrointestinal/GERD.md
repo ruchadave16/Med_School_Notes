@@ -7,21 +7,21 @@ source: FoM I
 tags:
   - disease
 ---
-### Definition
-Stomach contents go to [[esophagus]], which can’t handle low pH and is damaged
-
+*Stomach contents go to [[esophagus]], which can’t handle low pH and is damaged*
 ### Etiology
 - Anything that increases intraabdominal pressure
 	- Pregnancy
-	- Obesity
+	- [[Obesity]]
 - Can be secondary to functional defects of lower esophageal sphincter
 - Can be secondary to anatomical defects from hiatal or para-esophageal hernia
 - Secondary to parasympathetic/sympathetic stimulation, medications, foods, caffeine, stress.
-- Risk factors
+- Alcohol
+- Tobacco
+
+- Most common > 40 yrs
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- 
 
 ### Clinical Features
 - Symptoms
@@ -39,15 +39,17 @@ Stomach contents go to [[esophagus]], which can’t handle low pH and is damaged
 - Criteria
 
 ### Treatment
-- Pharmacologic
-- Surgical
-- Lifestyle
+- Weight loss if overweight
+- Head of bed elevation
+- Avoid trigger foods
 
+- [[PPIs|proton pump inhibitors]]
+- [[H2 blockers]]
+- Fundoplication
 ### Complications
-- Short-term
-- Long-term
-	- Heartburn – erosion of esophageal mucosa
-	- [[Metaplasia]] of stratified squamous to intestinal epithelium [[Barret esophagus]] w goblet cells
+- [[Metaplasia]] of stratified squamous to intestinal epithelium ->  [[Barrett esophagus]] w goblet cells
+- Esophageal ulcerations
+- [[Esophageal Stricture]]
 
 ### High-Yield Associations
 - Classic buzzwords

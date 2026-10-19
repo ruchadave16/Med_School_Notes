@@ -17,7 +17,7 @@ Direct
 
 Indirect
 - [[Sepsis]] -- MOST COMMON cause of ARDS
-- Acute pancreatitis, lupus, near-drowning, toxic shock syndrome
+- [[Pancreatitis|acute pancreatitis]], lupus, near-drowning, toxic shock syndrome
 - Trauma -> fat embolism
 - Massive transfulsion
 - Burns, [[DIC]], uremia

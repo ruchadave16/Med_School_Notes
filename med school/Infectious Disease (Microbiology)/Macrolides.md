@@ -19,6 +19,6 @@ source: ID
 - [[Erythromycin]]
 - [[Clarithromycin]]
 - [[Azithromycin]] -- no CYP3A4 inhibition***
-- Fidaxomicin -- non-systematically absorbed
-	- Use for [[C. diff colitis]]
+- [[Fidaxomicin]] -- non-systematically absorbed
+	- Use for [[Pseudomembranous Colitis|C diff colitis]]
 	- Inhibits RNA polymerase (highly selective for [[C. Diff]])

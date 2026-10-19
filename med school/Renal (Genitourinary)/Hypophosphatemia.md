@@ -10,7 +10,7 @@ source: Renal
 	- Alcohol abuse
 	- Vitamin D deficiency
 	- Malabsorption of phosphate
-	- Excessive use of phosphate-binding antacid
+	- Excessive use of phosphate-binding [[antacids]]
 	- Hyperalimentation (during total parenteral nutrition use)
 	- Starvation
 - ↑ renal excretion

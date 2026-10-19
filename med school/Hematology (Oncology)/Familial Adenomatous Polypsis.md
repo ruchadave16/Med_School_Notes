@@ -9,11 +9,13 @@ tags:
 ### Etiology
 - Autosomal dominant
 - Mutation in APC gene – [[Tumor Suppressor Genes|tumor suppressor gene]]
-- 100% untreated patients develop
+- 100% untreated patients develop by 30 yrs
 
 ### Pathophysiology
-- Mechanism of disease
-- Relevant pathways (e.g. immune, hormonal)
+- Classic 
+- Attenuated presents at 40-50
+- Gardner syndrome: osteomas, skin cysts
+- Turcot syndrome: CNS tumors, medulloblastoma
 
 ### Clinical Features
 - Symptoms

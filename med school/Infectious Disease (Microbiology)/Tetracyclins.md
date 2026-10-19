@@ -53,6 +53,7 @@ source: ID
 	- Nausea, vomiting
 	- Direct irritation to gastric mucosa
 	- Disruption of gut flora -- diarrhea
+	- Esophagitis -> TAKE with water sitting up
 - Bone and Teeth
 	- Binds to Ca2+ causing deposition in teeth -- discoloration
 	- CONTRAINDICATION: pregnancy, children < 8

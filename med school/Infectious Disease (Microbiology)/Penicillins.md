@@ -48,7 +48,7 @@ source: ID
 		- Monobactams (None)
 2) Secondary Infection
 	- Vaginal yeast infections
-	- Clostridioides difficile colitis
+	- [[Pseudomembranous Colitis|C diff colitis]]
 3) CNS Toxicity at high IV dose
 	- Seizures
 	- Platelet dysfunction
